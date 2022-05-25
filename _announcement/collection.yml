@@ -2,4 +2,5 @@ collections:
   announcement:
     output: true
     order:
+      - P1 (2022) Orientation Briefing Slides.md
       - School Video.md

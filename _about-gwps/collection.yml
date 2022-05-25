@@ -2,7 +2,7 @@ collections:
   about-gwps:
     output: true
     order:
-      - School Crest.md
       - Principal's Message.md
       - School Vision, Mission and Culture.md
       - School Core Values.md
+      - School Crest.md

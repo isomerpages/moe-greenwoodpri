@@ -2,4 +2,5 @@ collections:
   about-gwps:
     output: true
     order:
+      - School Vision, Mission and Culture.md
       - Principal's Message.md

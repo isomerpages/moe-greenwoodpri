@@ -1,4 +1,5 @@
 collections:
   about-gwps:
     output: true
-    order: []
+    order:
+      - Principal's Message/.keep

@@ -1,6 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About GWPS
+    collection: about-gwps
+  - title: About GWPS
     url: /about-gwps/
   - title: GWPS Family
     url: /gwps-family/

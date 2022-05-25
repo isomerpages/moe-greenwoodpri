@@ -2,4 +2,5 @@ collections:
   about-gwps:
     output: true
     order:
+      - Principal's Message/Principal's Message.md
       - Principal's Message/.keep

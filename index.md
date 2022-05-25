@@ -10,7 +10,7 @@ sections:
       background: /images/greenwoodpri.gif
       key_highlights:
         - title: Announcement
-          description: Let us bring you on a tour of our school!
+          description: Click here for the lastest announcements!
           url: ""
         - title: Events
           description: ""

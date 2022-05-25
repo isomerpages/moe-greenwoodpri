@@ -2,6 +2,6 @@ collections:
   announcement:
     output: true
     order:
-      - Greenwood Alumni Registration.md
       - School Video.md
       - P1 (2022) Orientation Briefing Slides.md
+      - Greenwood Alumni Registration.md

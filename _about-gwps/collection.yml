@@ -2,9 +2,9 @@ collections:
   about-gwps:
     output: true
     order:
-      - ALP BLISS.md
       - Principal's Message.md
       - School Vision, Mission and Culture.md
       - School Core Values.md
       - School Crest.md
       - School Mascot.md
+      - ALP BLISS.md

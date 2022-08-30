@@ -1,9 +1,8 @@
 ---
 title: School Vision, Mission and Culture
-permalink: /about-gwps/school-vision-mission-and-culture
+permalink: /about-gwps/school-vision-mission-and-culture/
 description: ""
 ---
-# School Vision, Mission and Culture
 
 ![Mission Banner](/images/Mission%20banner.png)
 
@@ -15,19 +14,22 @@ To nurture individuals to become lifelong learners and responsible citizens thro
 
 **Motivated Learners**
 
-![Motivated Learners](/images/motivated%20learners%20v2.png)
+<img src="/images/motivated%20learners%20v2.png" 
+     style="width:70%">
 
 *The school community is passionate about learning for life.  We are self-directed learners and collaborators who seek to give our best.*
 
 **Critical Thinkers**
 
-![Critical Thinkers](/images/critical%20thinkers%20v2.png)
+<img src="/images/critical%20thinkers%20v2.png" 
+     style="width:70%">
 
 *The school community considers and articulates multiple perspectives to solve problems innovatively. We are inquisitive and reflective in examining our own beliefs and assumptions.*
 
 **Leaders of Character**
 
-![Leaders of Character](/images/leaders%20of%20character%20v2.png)
+<img src="/images/leaders%20of%20character%20v2.png" 
+     style="width:70%">
 
 *The school community positively influences and impacts their peers, family and the community. They are good role models who make positive contributions to society.*
 
@@ -35,7 +37,8 @@ To nurture individuals to become lifelong learners and responsible citizens thro
 
 Care, Trust & Support
 
-![Care, Trust and Support](/images/care%20trust%20and%20support.jpg)
+<img src="/images/care%20trust%20and%20support.jpg" 
+     style="width:70%">
 
 **Guiding Principles:**
 

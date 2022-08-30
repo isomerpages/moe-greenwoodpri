@@ -77,3 +77,8 @@ This is a community project in collaboration with ACM and Greenwood parents to e
      style="width:33%;float:left"><img src="/images/IMG-20190722-WA0181.jpeg" 
      style="width:33%">
 		 
+**Values in Action (VIA) in collaboration with Khoo Teck Puat Hospital (KTPH)**  
+
+This is a community project in collaboration with KTPH as part of service to the community and at the same time enriches the career education of our pupils. Each year of the collaboration would be based on a theme – related to Science and Health Education learning such as digestive system, circulatory system, muscular and skeletal systems. Once a term, the pupils in the performing arts CCA would perform for an hour during the visit to KTPH. After the performance, the hospital would conduct health talks on the healthy lifestyle and habits that would affect that particular body system as well as the careers in the health industry pertaining to the care of that body system.
+
+As part of the Education and Career Guidance (ECG) programme, our pupils lead as health ambassadors of the school. They will give talks and share tips of good health habits to the school community, family members and the community around us pertaining to the body system in the theme of the year. We aspire that our pupils would be able to empathise with or inspired to be future workers in the health industry and serve our aging nation.

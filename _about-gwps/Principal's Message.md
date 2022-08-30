@@ -1,10 +1,11 @@
 ---
 title: Principal's Message
-permalink: /about-gwps/principals-message
+permalink: /about-gwps/principals-message/
 description: ""
 ---
 Warmest greetings from the Greenwood family! 
-![Portrait of the principal of Greenwood Primary School.](/images/principal%20message.png)
+<img src="/images/principal%20message.png" 
+     style="width:70%">
 
 Greenwood Primary School enjoys a rich history and we are celebrating our 21st anniversary this year. Over the two decades, we have witnessed the growth of the school and celebrated many of its milestones and achievements. It has been my honour and privilege to continue the good work of my predecessor, Ms Cheryl Foo. I would also like to acknowledge the pioneering work of our first two principals, Mr A Sivam Reddy and Mdm Foo Mui Chuw who have laid firm foundations. The successes of the school could only be possible because of the dedicated leaders and mission-centred staff in Greenwood Primary as well as the strong support of our School Advisory Committee, parents, partners and the community.
 
@@ -20,4 +21,4 @@ Partnering you in education,
 
 Mrs Tricilia Chua
 
-Principal 
+Principal

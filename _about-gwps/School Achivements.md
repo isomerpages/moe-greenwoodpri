@@ -8,5 +8,6 @@ description: ""
 
 | Month | Event  / Competition  | Achievement | Level (Cluster, Zonal, National, International)
 | -------- | -------- | -------- | ---|
-|Jan  | Woodlands Chinese New Year Orange Distribution 2022<br><br>Rakan Bahasa     | Participation <br><br>Participation     | Zonal <br><br>National
-
+|Jan  | Woodlands Chinese New Year Orange Distribution 2022<br><br>Rakan Bahasa     | Participation <br><br><br>Participation     | Zonal <br><br><br>National
+|Mar|Student Learning Space Avatar Competition	|2nd Place<br>3rd Place	|National
+|Apr|National Primary Schools Rugby Competition	<br>National School Games Basketball	<br>SOTA Primary 6 Art Competition	<br>Cepat Tepat 2022	| Participation	Participation	Participation	Participation|National National National National

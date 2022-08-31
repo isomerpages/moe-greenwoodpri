@@ -18,7 +18,7 @@ description: ""
 
 <img src="/images/IMG_6544.jpeg" 
      style="width:33%;float:left"><img src="/images/ECG%20selected.jpeg" 
-     style="width:33%;float:left;height:200px"><img src="/images/clay%20making%20or%20cover%20art%20room.jpeg" 
+     style="width:33%;float:left;height:190px"><img src="/images/clay%20making%20or%20cover%20art%20room.jpeg" 
      style="width:33%">
 		 
 | Aspiration Staircase | ECG Corner | Art Room |

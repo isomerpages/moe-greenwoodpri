@@ -28,14 +28,14 @@ description: ""
 <img src="/images/RAIN.jpeg" 
      style="width:33%;float:left"><img src="/images/IMG_5115.jpeg" 
      style="width:33%;float:left"><img src="/images/20200708_114503.jpeg" 
-     style="width:33%">
+     style="width:33%;height:190px">
 		 
 | Rain Harvest | Green Wall | Computer Lab |
 | -------- | -------- | -------- |
 |||
 
 <img src="/images/20200708_111101.jpeg" 
-     style="width:33%;float:left"><img src="/images/Band%20Rm.jpeg" 
+     style="width:33%;float:left;height:190px"><img src="/images/Band%20Rm.jpeg" 
      style="width:33%;float:left"><img src="/images/Music%20room%20selected.jpeg" 
      style="width:33%">
 		 

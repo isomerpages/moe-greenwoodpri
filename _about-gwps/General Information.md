@@ -8,4 +8,8 @@ description: ""
 | Reporting Time     | 7.30 am     | 
 |Dismissal Time<br>Primary 1|<b>Monday</b><br>2.30 pm<br><b>Tuesday to Friday</b><br>1.00 pm
 |Dismissal Time<br>Primary 2 to Primary 6|<b>Monday</b><br> 2.45 pm<br><b>Tuesday to Friday</b><br>1.15 pm
-|
+
+| Recess Time   | | 
+| -------- | -------- |
+|Primary 1| <b>Monday </b><br> 9.15 am – 9.45 am <br><b>Tuesday to Friday </b><br>9.05 am to 9.35 am
+|Primary 2|<b>Monday</b><br>9.45 am – 10.15 am<br><b>Tuesday to Friday</b><br> 9.35 am to 10.05 am

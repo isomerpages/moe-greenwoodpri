@@ -32,3 +32,8 @@ description: ""
 |Gate 1|Opened during school hours
 |Gate 3|<b>Monday to Friday</b><br>7.00 am – 7.30 am
 |Gate 5 |<b>Monday</b><br>7.00 am – 7.30 am<br> 2.30 pm – 3.15 pm<br><b>Tuesday to Friday</b><br>7.00 am – 7.30 am<br> 1.00 pm – 1.45 pm
+
+|   | | 
+| -------- | -------- |
+|The School Library|<b>Monday to Friday</b><br>7.30 am - 4.30 pm
+|School Uniform - Chop Kong Chong|Sales through School Bookshop<br><br>Students are to purchase uniform from the bookshop as parents will not be allowed to enter school premises to buy due to SMM.<br><br>Parents may purchase uniforms from the vendor directly at the address below:<br><br>604 Sembawang Rd, #02-13, Sembawang Shopping Centre,<br>Singapore 758459<br>Tel: 67531489

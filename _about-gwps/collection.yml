@@ -2,6 +2,7 @@ collections:
   about-gwps:
     output: true
     order:
+      - Learning Spaces.md
       - General Information.md
       - LLP WHIZZ.md
       - Principal's Message.md

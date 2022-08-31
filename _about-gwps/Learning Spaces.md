@@ -42,3 +42,21 @@ description: ""
 | Dance Studio | Band Room | Zubir Said Room |
 | -------- | -------- | -------- |
 |||
+
+<img src="/images/" 
+     style="width:33%;float:left"><img src="/images/IMG_6530.jpeg" 
+     style="width:33%;float:left"><img src="/images/IMG_6536.jpeg" 
+     style="width:33%">
+		 
+| School Field |Indoor Sports Hall | Sheltered Basketball Court |
+| -------- | -------- | -------- |
+|||
+
+<img src="/images/IMG_5094.jpeg" 
+     style="width:33%;float:left"><img src="/images/280a76bb6_u8140.jpeg" 
+     style="width:33%;float:left"><img src="/images/b9b8041fa_u4743.jpeg" 
+     style="width:33%">
+		 
+| Media Resource Library |Marie Curie Lab | Einstein Activity Zone |
+| -------- | -------- | -------- |
+|||

@@ -14,3 +14,4 @@ description: ""
 |Primary 1| <b>Monday </b><br> 9.15 am – 9.45 am <br><b>Tuesday to Friday </b><br>9.05 am to 9.35 am
 |Primary 2|<b>Monday</b><br>9.45 am – 10.15 am<br><b>Tuesday to Friday</b><br> 9.35 am to 10.05 am
 |Primary 3|<b>Monday</b><br> 8.15 am – 8.45 am<br><b>Tuesday to Friday</b><br>8.05 am to 8.35 am
+|Primary 4|<b>Monday </b><br>8.45 am – 9.15 am<br><b>Tuesday to Friday</b><br> 8.35 am to 9.05 am

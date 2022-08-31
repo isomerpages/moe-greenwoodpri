@@ -31,3 +31,4 @@ description: ""
 | -------- | -------- |
 |Gate 1|Opened during school hours
 |Gate 3|<b>Monday to Friday</b><br>7.00 am – 7.30 am
+|Gate 5 |<b>Monday</b><br>7.00 am – 7.30 am<br> 2.30 pm – 3.15 pm<br><b>Tuesday to Friday</b><br>7.00 am – 7.30 am<br> 1.00 pm – 1.45 pm

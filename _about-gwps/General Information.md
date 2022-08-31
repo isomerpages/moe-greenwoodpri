@@ -17,3 +17,12 @@ description: ""
 |Primary 4|<b>Monday </b><br>8.45 am – 9.15 am<br><b>Tuesday to Friday</b><br> 8.35 am to 9.05 am
 |Primary 5 | <b>Monday</b><br> 10.15 am – 10.45 am<br><b> Tuesday to Friday</b><br>10.05 am to 10.35 am
 |Primary 6|<b> Monday</b><br>10.45 am – 11.15 am<br><b> Tuesday to Friday</b><br> 10.35 am to 11.05 am
+
+|Lunch (Monday Only)   | | 
+| -------- | -------- |
+|Primary 1| 12.15 pm – 12.45 pm
+|Primary 2|12.45 pm – 1.15 pm
+|Primary 3|11.15 am – 11.45 am
+|Primary 4|11.45 am – 12.15 pm
+|Primary 5 | 1.15 pm – 1.45 pm
+|Primary 6|1.45 pm – 2.15 pm

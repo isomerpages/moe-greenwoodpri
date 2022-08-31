@@ -26,3 +26,8 @@ description: ""
 |Primary 4|11.45 am – 12.15 pm
 |Primary 5 | 1.15 pm – 1.45 pm
 |Primary 6|1.45 pm – 2.15 pm
+
+|Gate Opening Times   | | 
+| -------- | -------- |
+|Gate 1|Opened during school hours
+|Gate 3|<b>Monday to Friday</b><br>7.00 am – 7.30 am

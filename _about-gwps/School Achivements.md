@@ -19,3 +19,4 @@ description: ""
 | -------- | -------- | -------- | ---|
 |Mar|The Youth Station Project 2021 Original Songs 	|Participation|National
 |April|Muthamizh Vizha 2021 (Story Telling Contest)	<br>Muthamizh Vizha 2021 (Oratory Contest)	|Participation<br>Participation|	National	<br>National
+|May|Chinese New Year Colouring Contest<br>Wits & Words: Inter-school Debate Championship	<br>National School Games Wushu  Quanshu 5-Duan Nanquan (Southern Fist)<br>National School Games Wushu<br>|3rd place	<br>Participation	<br>	Gold<br>	Gold|National<br>National<br>National<br>National

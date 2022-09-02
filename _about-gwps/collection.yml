@@ -2,7 +2,7 @@ collections:
   about-gwps:
     output: true
     order:
-      - School Achivements.md
+      - School Achievements.md
       - Learning Spaces.md
       - General Information.md
       - LLP WHIZZ.md

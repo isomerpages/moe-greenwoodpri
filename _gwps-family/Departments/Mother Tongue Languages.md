@@ -85,3 +85,8 @@ The department also provides external platforms to stretch the students’ poten
      style="width:35%;float:left"><img src="/images/image044.jpeg" 
      style="width:20%;float:left"><img src="/images/image046.jpeg" 
      style="width:20%">
+		 
+<center>Rakan Bahasa Ambassadors</center>
+
+<img src="/images/image050.jpeg" 
+     style="width:30%">

@@ -75,3 +75,17 @@ The PAM Week & Talent Quest provides students with a platform to showcase their 
 | -------- | -------- | 
 |||
 
+Art Trail & Exhibition
+
+Art Trail and Exhibition aim to give voice to our students by creating platforms for them to display their artworks on three different levels: the classroom, the school, and the community. In the process, students learn how artworks can be a vessel of their expressions and beliefs.  
+
+  
+
+**Ghost Nets of the Ocean 2017**
+
+Ghost Nets of the Ocean demonstrates the power of art to spread the message of environmental sustainability and biodiversity. Empowering children to learn and think about the interconnectedness of the environment we live in through play, stories, and hands-on activities is impactful as it nurtures life-long learning skills about empathy, awareness, and shared responsibility for the health of our environment.
+
+<img src="/images/image006.jpeg" 
+     style="width:33%;float:left"><img src="/images/image008.jpeg" 
+     style="width:33%;float:left">  <img src="/images/image010.gif" 
+     style="width:33%"> 

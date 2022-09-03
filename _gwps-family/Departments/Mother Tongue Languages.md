@@ -69,7 +69,7 @@ Every year, the MTL Department will organise activities to create an immersive e
 <center>Deepavali</center>
 
 <img src="/images/image038.jpeg" 
-     style="width:50%;float:left"><img src="/images/image035.jpeg" 
+     style="width:50%;float:left;height:300px"><img src="/images/image035.jpeg" 
      style="width:50%">
 		 
 **External Competitions and Activities**

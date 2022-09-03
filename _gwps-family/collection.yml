@@ -2,5 +2,6 @@ collections:
   gwps-family:
     output: true
     order:
+      - Information and Communications Technology.md
       - Character and Citizenship Education.md
       - Student Management.md

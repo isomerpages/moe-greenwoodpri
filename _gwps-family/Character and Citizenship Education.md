@@ -39,3 +39,20 @@ Financial Literacy is a school-based curriculum aimed at equipping our students 
 
 <img src="/images/image005.jpeg" 
      style="width:50%">
+		 
+**Form Teacher Guidance Period (FTGP) programme**
+
+FTGP seeks to deepen the Teacher-Student Relationship (TSR) and equip students with social and emotional competencies. It serves as a platform for teachers to interact and understand their students and for students to pick up important life skills to overcome challenges. It also creates time and space for students to have meaningful interactions with their teachers and for teachers to seize teachable moments to impart life skills beyond the academic domain.
+
+  
+
+**Values in Action (VIA)**  
+
+In nurturing our students to be Leaders of Character, the VIA programme provides them with opportunities to contribute to society. The school believes that every student, no matter how young, can contribute to society.
+
+The programme focuses on the three areas of Awareness, Action and Advocacy which are aimed at improving the well-being of the community. Students plan and execute a VIA programme, which is integrated with Project Work (PW), at least twice in their six years in Greenwood Primary School and raise funds for at least one Institution of A Public Character (IPC).
+
+<img src="/images/image009.jpeg" 
+     style="width:50%">
+
+Students in Primary 1, 2 and 3 work on ways to contribute to the community by raising awareness on issues that matter to them. Students in Primary 4, take action through our annual Celebrating OWLETS event which serves as a platform for social entrepreneurship and to raise funds for an IPC. Primary 5 students take action and become advocates on important issues such as Active Ageing, Clean & Green and promoting SMART nation initiatives. Students become Leaders of Character as they influence and shape the thinking of others as they work with external stakeholders such as the elderly care centres and preschools in the community.

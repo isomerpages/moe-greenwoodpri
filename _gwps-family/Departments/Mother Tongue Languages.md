@@ -68,3 +68,12 @@ Every year, the MTL Department will organise activities to create an immersive e
 <img src="/images/image038.jpeg" 
      style="width:50%;float:left"><img src="/images/image035.jpeg" 
      style="width:50%">
+		 
+**External Competitions and Activities**
+
+The department also provides external platforms to stretch the students’ potential.
+
+<img src="/images/image040.gif" 
+     style="width:50%">
+		 
+<center>Qin Zhen - Commendation Award<br>25th National Chinese Essay writing competition</center>

@@ -122,3 +122,20 @@ In 2021, the Mathematics Department in Greenwood Primary School embarked on math
 		
 
 <center>c) Show Reasoning and Communication</center>
+
+![](/images/math21.png)
+
+<center>d) Journaling as a tool to bring about Joy of Learning</center>
+
+![](/images/math22.png)
+
+<center>e) Journaling as a tool for reflection leading to self-directed learning </center>
+
+![](/images/math23.png)
+
+Mathemagician
+
+Every student in Greenwood has the opportunity to be a Mathemagician. As Mathemagician, they get to share articles or stories related to mathematics and post questions, puzzles and self-created challenges at the maths corner in their classrooms for a week. In addition, they may also share their reflections on their experience as a Mathemagician. Through this platform, students become more confident in Mathematics and develop affection and a good attitude for the subject.
+
+![](/images/math24.png)
+![](/images/math25.png)

@@ -54,3 +54,9 @@ Strategies adopted by the department to provide an engaging learning experiences
      style="width:25%;float:left"><img src="/images/math10.jpeg" 
      style="width:25%;float:left"><img src="/images/math11.jpeg" 
      style="width:25%">
+		 
+<center>d) Opportunities to communicate reasoning and thinking</center>
+
+<img src="/images/math12.jpeg" 
+     style="width:50%;float:left"><img src="/images/math13.jpeg" 
+     style="width:50%">

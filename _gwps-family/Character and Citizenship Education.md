@@ -32,3 +32,10 @@ The school has a tiered approach in building leadership competency in our studen
 <img src="/images/image001.jpeg" 
      style="width:50%"><img src="/images/image003.png" 
      style="width:50%">
+		 
+**Financial Literacy Programme**
+
+Financial Literacy is a school-based curriculum aimed at equipping our students with the necessary skills and knowledge to make better financial decisions. It is never too young to be financially prudent, and the programme seeks to educate students on the importance of saving, differentiating needs from wants and getting them to be involved in planning their budget.
+
+<img src="/images/image005.jpeg" 
+     style="width:50%">

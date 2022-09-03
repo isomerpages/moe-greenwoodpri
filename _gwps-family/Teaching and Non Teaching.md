@@ -26,3 +26,14 @@ School Executive Committee Members
  |HOD/Info-Comm   Technology and   Media Resource   Library	| Mdm Chu Yee Leen (Zhou Yanling)|	 HOD/Physical Education,   CCA and Student   Management|	 Mr Ardi Bin Ramli  
  |Subject Head/Info-Comm   Technology |	 Mr Lee Choong Yong Mervyn	| Subject Head/   Student   Management   (Covering)	 |Mr Daniel Ng Jun De
  |Subject Head/Project Work	| Mdm Phillida Rabini	| School Staff   Developer|	 Mdm Koh Kim Noi Adrienne
+ 
+ EXECUTIVE AND ADMINISTRATION STAFF
+
+ | DESIGNATION	| NAME | DESIGNATION | NAME|
+| -------- | -------- | -------- | -------- |
+|Administration   Manager	 |Ms Huang Ke Xin Josephine	|Operations   Manager	| Mr Chia Cheok Wah Francis
+ |Administration   Executive|Mdm Wong Ai Nyuk Irene	 |Operations   Support Officer	| Mdm Jamilah Bte Ahmad
+ |Corporate Support   Officer	| Mdm Norazlin Binte Mohamed   Amin |Operations   Support Officer	| Mr Tan Cheng Siong
+ |Corporate Support   Officer|	 Ms Kavitha D/O Maghalingam|Operations   Support Officer|	 Mdm Silvapakiam d/o Muran
+| Info-Comm   Technology   Manager| Mr Muhammad Safiuddin Bin   Mohamed Sabri|Operations   Support Officer|Mdm Fareeth Begam 
+ |Receptionist |Ms Sim Saw Ping Jasline|Operations     Support Officer	| Mr Ismail bin Hussein

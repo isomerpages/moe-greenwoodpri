@@ -2,6 +2,7 @@ collections:
   gwps-family:
     output: true
     order:
+      - Departments/Physical Education.md
       - Departments/Aesthetics.md
       - Departments/Information and Communications Technology.md
       - Departments/Character and Citizenship Education.md

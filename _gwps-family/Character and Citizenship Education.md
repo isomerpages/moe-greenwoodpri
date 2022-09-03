@@ -28,3 +28,6 @@ The Life Skills Programme aims to equip students with life skills and build thei
 **Student Leadership**
 
 The school has a tiered approach in building leadership competency in our students. Tier 1 represents leadership opportunities for all students where they go through the Leader in Me programme which equips them with 7 Habits of Highly Effective People to nurture them into motivated learners. In Tier 2, students who have taken up leadership roles in class committees are trained in their new role to develop their leadership skills. Prefects and CCA leaders form Tier 3 and they go through a modular training to hone their leadership competencies in the four areas of Relating, Sense-making, Visioning and Inventing in the Leadership Framework which is adapted from the Leadership Framework developed by MIT Leadership Centre. Student leaders also go through situational assessment to evaluate their growth in the leadership competencies. Teachers then work with the student leaders to identify the areas that they can focus on for their personal growth and development.
+
+![](/images/image001.jpeg)
+![](/images/image003.png)

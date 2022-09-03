@@ -68,3 +68,8 @@ Throughout the year, key programmes and innovations are planned and organised to
 
 In addition, our students also participate actively in outreach programmes organised by external agencies such as Northwest CDC, NEA and NParks. Partnership with the community gives them an opportunity to engage and work collaboratively with others to conserve our environment and create environmental awareness. Accreditations from the Northwest CDC, Singapore Environment Council, Building and Constructions Authority (BCA) and World Wide Fund For Nature (WWF) have affirmed the school’s good practices.
 
+<img src="/images/SC1.jpeg" 
+     style="width:25%;float:left"><img src="/images/SC2.jpeg" 
+     style="width:25%;float:left"><img src="/images/SC3.jpeg" 
+     style="width:25%;float:left"><img src="/images/Green 1.jpeg" 
+     style="width:25%;float:left">

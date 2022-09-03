@@ -120,3 +120,4 @@ Students would have opportunities to develop the awareness and appreciation of M
 <img src="/images/image019.jpeg" 
      style="width:50%;float:left"><img src="/images/image022.gif" 
      style="width:50%">
+![](/images/image024.gif)

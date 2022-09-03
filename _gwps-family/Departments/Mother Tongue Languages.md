@@ -28,7 +28,8 @@ Our ALP - BLISS in Mother Tongue Languages (MTL) aims to help students to see th
      style="width:33%;float:left"><img src="/images/ML1.png" 
      style="width:33%;float:left"><img src="/images/5.jpeg" 
      style="width:25%">
-		 
+		
+<br>
 **MTL Fortnight activities**
 
 Mother Tongue Languages (MTL) Fortnight aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. MTL teachers conduct workshops and cultural activities for students to participate in authentic cultural experiences as part of MTL fortnight activities. These learning opportunities stimulate the appreciation of the Mother Tongue Culture and promote interest in the learning of the Mother Tongue languages.

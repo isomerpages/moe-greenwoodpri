@@ -72,10 +72,10 @@ The key to problem solving in Greenwood is based on the STAR Strategy. It is a s
 
   
 
-Study the Problem
+**S**tudy the Problem
 
-Think of a Plan
+**T**hink of a Plan
 
-Act on the Plan
+**A**ct on the Plan
 
-Reflect on the Solution
+**R**eflect on the Solution

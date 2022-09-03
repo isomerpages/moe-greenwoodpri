@@ -79,3 +79,17 @@ The key to problem solving in Greenwood is based on the STAR Strategy. It is a s
 **A**ct on the Plan
 
 **R**eflect on the Solution
+
+<center>Using animations to engage students in learning Heuristics</center>
+
+![](/images/math14.jpg)
+
+<center>At Home with Mathematics (ATM)</center>
+
+![](/images/math15.jpeg)
+
+Another innovative resource proudly developed by Greenwood teachers is the At Home with Math (ATM) series for P1 to P4 students. These ATM booklets consist of weekly sums that parents can use to help their children gain mastery in basic Mathematics concepts and monitor their children’s progress in the learning of Mathematics.
+
+<img src="/images/math16.jpeg" 
+     style="width:50%;float:left"><img src="/images/math17.jpeg" 
+     style="width:50%">

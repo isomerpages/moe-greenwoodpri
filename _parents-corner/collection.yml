@@ -1,4 +1,5 @@
 collections:
   parents-corner:
     output: true
-    order: []
+    order:
+      - Sexuality Education Programme.md

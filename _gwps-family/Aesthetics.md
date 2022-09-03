@@ -112,3 +112,11 @@ Students would have creative and innovative self-expression opportunities in the
      style="width:33%;float:left"><img src="/images/image016.gif" 
      style="width:33%;float:left">  <img src="/images/image018.gif" 
      style="width:33%;height:180px">
+		 
+**Music**
+
+Students would have opportunities to develop the awareness and appreciation of Music in local and global cultures in the six years of learning in Greenwood Primary. They would form the ability for creative expression and communication through Music and acquire a life-long involvement in Music. Students would also obtain a fundamental music understanding in the aural and vocal domains and the playing of instruments as an individual and ensemble playing. In the process of performing and creating Music, students are involved in developing listening skills, fine motor skills, creative thinking skills and social skills.
+
+<img src="/images/image019.jpeg" 
+     style="width:50%;float:left"><img src="/images/image022.gif" 
+     style="width:50%">

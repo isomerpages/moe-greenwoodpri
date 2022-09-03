@@ -111,5 +111,4 @@ Students would have creative and innovative self-expression opportunities in the
 <img src="/images/image014.gif" 
      style="width:33%;float:left"><img src="/images/image016.gif" 
      style="width:33%;float:left">  <img src="/images/image018.gif" 
-     style="width:33%">
-		 
+     style="width:33%;height:180px">

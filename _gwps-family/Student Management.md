@@ -21,8 +21,4 @@ Discipline is an educative process to guide students to develop self-management
 
 | Prevent | Manage | Resolve |
 | -------- | -------- | -------- |
-| By instilling Self-Discipline in students<br>By instilling Self-Leadership in
-students     | Through constructive engagement with
-students, parents and the community     | Through reflection<br>By restoring relationships
-(Restorative Practices)     |
-
+| By instilling Self-Discipline in students<br>By instilling Self-Leadership in students     | Through constructive engagement with students, parents and the community     | Through reflection<br>By restoring relationships (Restorative Practices)     |

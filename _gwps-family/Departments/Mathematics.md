@@ -35,3 +35,9 @@ Strategies adopted by the department to provide an engaging learning experiences
 <img src="/images/math.jpeg" 
      style="width:50%;float:left"><img src="/images/math2.jpeg" 
      style="width:50%">
+		 
+<center>b) Learning Collaboratively </center>
+
+<img src="/images/math3.jpeg" 
+     style="width:50%;float:left"><img src="/images/math4.jpeg" 
+     style="width:50%">

@@ -1,5 +1,4 @@
 collections:
   gwps-family:
     output: true
-    order:
-      - Student Management/.keep
+    order: []

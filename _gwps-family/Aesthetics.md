@@ -88,4 +88,11 @@ Ghost Nets of the Ocean demonstrates the power of art to spread the message of 
 <img src="/images/image006.jpeg" 
      style="width:33%;float:left"><img src="/images/image008.jpeg" 
      style="width:33%;float:left">  <img src="/images/image010.gif" 
-     style="width:33%"> 
+     style="width:33%">
+		 
+
+
+| Ghost Nets of the Ocean 2017 | Singapore Youth Festival Exhibition 2019 Recognition <br>‘Teh Tarik and Coffee' |Singapore Youth Festival Exhibition 2021 Recognition <BR>‘Digital Gallery of Memories’|
+| -------- | -------- | -------- |
+|||
+

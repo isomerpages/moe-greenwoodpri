@@ -39,7 +39,7 @@ Mother Tongue Languages (MTL) Fortnight aims to create an immersive environment 
      style="width:50%;float:left"><img src="/images/ml2.jpeg" 
      style="width:50%">
 		 
-<img src="/images/ml3.jpeg" 
+<img src="/images/ml3.png" 
      style="width:50%;float:left"><img src="/images/ml4.jpeg" 
      style="width:50%">
 		

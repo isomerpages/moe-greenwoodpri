@@ -31,3 +31,10 @@ In line with our school’s focus on the holistic development of our students, t
 <img src="/images/image5.jpeg" 
      style="width:50%;float:left"><img src="/images/image007.jpeg" 
      style="width:50%">
+		 
+Play@Recess programme
+
+The programme aims to encourage students to be physically active through participation in unstructured play thus leading an active lifestyle. In addition, the programme allows students to develop their social interaction skills through unstructured play.
+
+<img src="/images/image09.jpeg" 
+     style="width:50%">

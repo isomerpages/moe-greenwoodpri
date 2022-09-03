@@ -53,3 +53,12 @@ Every year, the MTL Department will organise activities to create an immersive e
 
 ![](/images/image019.png)
 ![](/images/image021.png)
+
+<center>Hari Raya Puasa Celebrations</center>
+
+<img src="/images/image024.jpeg" 
+     style="width:20%;float:left"><img src="/images/image026.jpeg" 
+     style="width:20%;float:left"><img src="/images/image028.jpeg" 
+     style="width:20%;float:left"><img src="/images/image030.jpeg" 
+     style="width:20%;float:left"><img src="/images/image032.jpeg" 
+     style="width:20%">

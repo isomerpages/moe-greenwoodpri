@@ -23,26 +23,26 @@ Discipline is an educative process to guide students to develop self-management
 | -------- | -------- | -------- |
 | By instilling Self-Discipline in students<br>By instilling Self-Leadership in students     | Through constructive engagement with students, parents and the community     | Through reflection<br>By restoring relationships (Restorative Practices)     |
 
-School Approach                                                                                  
+**School Approach**                                                                                  
 
 The school adopts a Holistic Approach to Student Management. The approach is through discipline with care and dignity. The core elements are:
 
-All Hands on Deck Involvement     
+**All Hands on Deck Involvement**    
 ·Involving all teaching and non-teaching staff in the day to day management and discipline of students
 
 ·Building on the co-operation and collaboration of all staff as well as stakeholders
 
-Culture of Care
+**Culture of Care**
 ·Connecting the hearts in order to engage the minds
 
 ·Leveraging the quality of teacher-student relationships
 
-Value-based Discipline
+**Value-based Discipline**
 ·Developing students’ character centred on the school values
 
 ·Nurturing students to be able to think and do the right things
 
-Structured Programmes
+**Structured Programmes**
 ·Developing programmes that encourage and recognize the positive behaviors of students:
 
 - Good Behavior/Pupils Motivating Pupils Recognition
@@ -51,8 +51,8 @@ Structured Programmes
 
 - Other platforms creating awareness of the positive behaviors e.g. Assembly Talks
 
-Intervention Support
+**Intervention Support**
 ·Providing proactive and preventive measures in supporting the students with high needs
 
-Staff Support and Development
+**Staff Support and Development**
 ·Conducting workshops and sharing sessions to support and enhance staff capacity

@@ -77,3 +77,9 @@ The department also provides external platforms to stretch the students’ poten
      style="width:50%">
 		 
 <center>Qin Zhen - Commendation Award<br>25th National Chinese Essay writing competition</center>
+
+<img src="/images/image041.jpeg" 
+     style="width:25%;float:left"><img src="/images/image047.png" 
+     style="width:25%;float:left"><img src="/images/image044.jpeg" 
+     style="width:25%;float:left"><img src="/images/image046.jpeg" 
+     style="width:25%">

@@ -24,3 +24,10 @@ description: ""
 |August|LCFV National Day Sing-along and Record-breaking Virtual Event<br>One Heart in the Woods! GWPS Beats the Bug! <br>Creative Poster Drawing (Primary Category) Safety Starts with Me Competition 2021<br>Beautex Art Competition<br>Thank you Hawkers Art Competition<br>Safra Lil’ Star 2021 in Visual Arts<br>Duan Wu Festival Art Contest organised by Singapore Federation<br>Math Olympiad| 	Participation<br><br>	Participation<br><br>	Silver<br><br><br> 	First Place<br>	First Runner Up<br>Champion<br>Third Prize<br><br>Honourable Mention|Intra<br><br>National<br><br>National<br><br><br>National<br>National<br>National<br>National<br>National
 |September|Mathlympics|	2 Silver|	National
 |November|19TH Elementz Science Project Competition & Exhibition	<br><br>Elok-Elok Eja| 3 CERTIFICATE OF COMMENDATION 	<br>3 Participation<br>1st Place (P3)	<br>5 Participation |National <br><br><Br>National
+
+#### 2020
+
+
+| Month | Event  / Competition  | Achievement | Level (Cluster, Zonal, National, International)
+| -------- | -------- | -------- | ---|
+|March|Raffles Scholarship	<br>North West Outstanding School Partner (SPA) Award<br>North West Outstanding All Rounder Student (OARS)Award	|1 Awardee<br>Bronze<br> 	1 Awardee|	National<br>Zonal<br>Zonal

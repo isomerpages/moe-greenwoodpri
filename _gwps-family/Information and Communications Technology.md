@@ -46,4 +46,4 @@ Cyber wellness activities and assembly programmes are specially planned by the c
 
 **Home-based Learning**  
 
-Home-based Learning (HBL) is conducted for all levels of pupils to develop the pupils’ independent learning skills . On HBL days, all pupils will be assigned HBL lessons and assignments, primarily on the Student Learning Space (SLS) Learning Portal (https://vle.learning.moe.edu.sg/login). The SLS is an MOE learning portal that has curriculum-aligned learning resources catering to the needs of all learners.
+Home-based Learning (HBL) is conducted for all levels of pupils to develop the pupils’ independent learning skills . On HBL days, all pupils will be assigned HBL lessons and assignments, primarily on the Student Learning Space (SLS) Learning Portal [(https://vle.learning.moe.edu.sg/login)](https://vle.learning.moe.edu.sg/login). The SLS is an MOE learning portal that has curriculum-aligned learning resources catering to the needs of all learners.

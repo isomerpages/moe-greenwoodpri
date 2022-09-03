@@ -79,4 +79,20 @@ Senior Teachers
 | 3 RESPECT |	 Ms Tan Yueh Zhen Clara<br>Ms Cynthia Ang Xin Wei | 	 6 RESILIENCE|Mdm Ling Sook Leng Michelle <br> Mrs Tracy Lee (Tho Cheng Ping)
  |3  RESPONSIBILITY	| Mdm Rosnani Bte Mohd Hussein<br>Mr Mohamed Noor B Ibrahim	 |6 INTEGRITY|Mr David Tan <br>Mdm Chu Yee Leen 
  |3 RESILIENCE	| Mrs Sarah Tan / Leong Yoke Lin <br>Mdm Wan Norzilah Bte Md   Shafian | 6 CARE|Mrs Mark / Phillida Rabini  <br>Mr Yii Chu Sing Michael 
- |3 INTEGRITY	| Mdm Noraini Bte Nanyan  <br> Mdm Sagaymarie d/o   Savarimuthu   | 6 HARMONY |Mrs Loh / Wee May Joan   Frances <br> Ms Chua Keng Fang 
+ |3 INTEGRITY	| Mdm Noraini Bte Nanyan  <br> Mdm Sagaymarie d/o   Savarimuthu   | 6 HARMONY |Mrs Loh / Wee May Joan   Frances <br> Ms Chua Keng Fang
+ 
+ TEACHERS
+ 
+ | DESIGNATION	| NAME | DESIGNATION | NAME|
+| -------- | -------- | -------- | -------- |
+| Teacher (Mathematics)|	 Mdm Harvinder Kaur	| Teacher (Chinese Language)	| Miss Ow Chung Fah  
+| Teacher (Mathematics)	| Ms Karen Ng Hui Lin|	 Teacher (Chinese Language)	| Ms Tan Ai Ling
+ |Teacher (Mathematics)|	 Mdm Hathijath Bte Abdul   Majeed        | Teacher (Chinese Language)	 |Mdm Wen Xiwen
+ |Teacher  (English/ Maths/ Science)	| Mdm Rokiah Bte Abdul   Rahim	 |Teacher (Malay Language)	| Ms Tengku Nurhafiza Bte   Tengku   Abdul Rahman
+ |Teacher  (English/ Maths/ Science)	| Mdm Amalraj Sahayarani	 |Teacher (Malay Language)|Mdm Hartini Binte Kassim
+| Teacher (English Language)	| Ms Betty Chan	| Teacher (Physical Education)	 |Mr Muhammad Bin Ismail
+ |Teacher (English Language/Art)	| Mdm Azizah Binte Nor   Mohamed	| Teacher (Physical Education)	| Mr Daniel Ng Jun De  
+| Teacher (Music)	 |Mdm Daphne Ng Pei Pei 	| Teacher (Physical Education) 	| Mr Mohamed Mahathir Bin   Kusnong 
+|Teacher (Music)	| Ms Dai Anna 	|Teacher  (English/Mathematics)	 |Ms Halima Bte Mohamed   Yahuff
+ |Teacher (Art)	| Mr Goh Yiang Meng	| Teacher  (English/Mathematics)|Ms Ong Ai Tee
+ |Teacher   (English/Mathematics)	 |Ms Nor Aishah Bte Sa'ad

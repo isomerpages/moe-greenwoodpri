@@ -103,3 +103,20 @@ Every year during the Maths week, the Mathematics department teachers and Math m
 <img src="/images/math18.jpeg" 
      style="width:50%;float:left"><img src="/images/math19.jpeg" 
      style="width:50%">
+		 
+Journal Writing  
+
+  
+
+In 2021, the Mathematics Department in Greenwood Primary School embarked on mathematics journaling with our students. Through Journaling, students develop reasoning and communication skills and also apply their knowledge in Mathematics. Students are able to consolidate and deepen their understanding of mathematics concepts. Journaling is also a good habit that supports the development of metacognition.
+
+<center>a) Reflection on concepts learnt</center>
+
+![](/images/math20.gif)
+
+<center>b) Link Mathematics in class to the real world</center>
+
+<img src="/images/image055.jpeg" 
+     style="width:50%;float:left"><img src="/images/image057.jpeg" 
+     style="width:50%;float:left">
+

@@ -41,3 +41,16 @@ Strategies adopted by the department to provide an engaging learning experiences
 <img src="/images/math3.jpeg" 
      style="width:50%;float:left"><img src="/images/math4.jpeg" 
      style="width:50%">
+		 
+<center>c) Learning through Authentic Experiences </center>
+
+<img src="/images/math5.jpeg" 
+     style="width:33%;float:left"><img src="/images/math6.jpeg" 
+     style="width:33%;float:left"><img src="/images/math7.jpeg" 
+     style="width:33%">
+		 
+<img src="/images/math8.jpeg" 
+     style="width:25%;float:left"><img src="/images/math9.jpeg" 
+     style="width:25%;float:left"><img src="/images/math10.jpeg" 
+     style="width:25%;float:left"><img src="/images/math11.jpeg" 
+     style="width:25%">

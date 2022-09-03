@@ -90,3 +90,11 @@ The department also provides external platforms to stretch the students’ poten
 
 <img src="/images/image050.jpeg" 
      style="width:30%">
+		 
+**School-Based Learning Packages**
+
+The MTL Department prides itself in creating in-house writing, comprehension and oral packages to cater to the needs of our students. In class, teachers used varied strategies to engage the students and make the Mother Tongue Languages fun and interesting.
+
+<img src="/images/4.jpeg" 
+     style="width:50%;float:left"><img src="/images/ml01.jpeg" 
+     style="width:50%">

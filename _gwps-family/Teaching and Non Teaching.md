@@ -95,4 +95,15 @@ Senior Teachers
 | Teacher (Music)	 |Mdm Daphne Ng Pei Pei 	| Teacher (Physical Education) 	| Mr Mohamed Mahathir Bin   Kusnong 
 |Teacher (Music)	| Ms Dai Anna 	|Teacher  (English/Mathematics)	 |Ms Halima Bte Mohamed   Yahuff
  |Teacher (Art)	| Mr Goh Yiang Meng	| Teacher  (English/Mathematics)|Ms Ong Ai Tee
- |Teacher   (English/Mathematics)	 |Ms Nor Aishah Bte Sa'ad
+|| |Teacher   (English/Mathematics)	 |Ms Nor Aishah Bte Sa'ad
+
+#### School Advisory Committee
+
+Commitee Members
+
+ | DESIGNATION	| NAME | DESIGNATION | NAME|
+| -------- | -------- | -------- | -------- |
+|Chairman	| Mr Michael Ling|	 Member	| Mr Abuthahir Abdul Gafoor
+ |Member	| Ms Nicole Lau Vi San|	 Member	| Mr Tan Hong Ju, Erek
+ |Member|	 Ms Karen Yeo Chay   Hwee  | Member	 |Ms Sharon Wong Wai   Peng 
+ |Member	| Ms Tan Yin Joo, Zoe	 |Member	| Mr Zhahir Hushan S/O   Syed

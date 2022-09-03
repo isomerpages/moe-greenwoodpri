@@ -139,3 +139,9 @@ Every student in Greenwood has the opportunity to be a Mathemagician. As Mathema
 
 ![](/images/math24.png)
 ![](/images/math25.png)
+
+Partnering our Stakeholders  
+
+Every year, the Mathematics department teachers organize workshops for the parents. In these workshops, parents can pick up strategies that they can adopt to engage their children in problem-solving at home. Given the Safe Management Measures (SMM) this year, our school conducted the workshops through the online platform.
+
+![](/images/math26.png)

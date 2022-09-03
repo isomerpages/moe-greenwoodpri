@@ -50,3 +50,6 @@ Mother Tongue Languages (MTL) Fortnight aims to create an immersive environment 
 Every year, the MTL Department will organise activities to create an immersive experience leading up to Lunar New Year, Hari Raya Puasa and Deepavali. By experiencing different cultural activities, the MTL Department aims for students of all races to learn more about the various cultures. The activities also promote cultural awareness amongst the different ethnic groups and bring about a greater understanding and appreciation each other’s culture.
 
 <center>Chinese New Year Celebrations</center>
+
+![](/images/image019.png)
+![](/images/image021.png)

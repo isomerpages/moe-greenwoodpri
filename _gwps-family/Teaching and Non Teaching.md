@@ -37,3 +37,11 @@ School Executive Committee Members
  |Corporate Support   Officer|	 Ms Kavitha D/O Maghalingam|Operations   Support Officer|	 Mdm Silvapakiam d/o Muran
 | Info-Comm   Technology   Manager| Mr Muhammad Safiuddin Bin   Mohamed Sabri|Operations   Support Officer|Mdm Fareeth Begam 
  |Receptionist |Ms Sim Saw Ping Jasline|Operations     Support Officer	| Mr Ismail bin Hussein
+ 
+ Allied Educators (AED)
+
+  | DESIGNATION	| NAME | DESIGNATION | NAME|
+| -------- | -------- | -------- | -------- |
+|Senior School   Counsellor	 |Mr Victor Lucas |	 Senior Special   Educational Needs   Officer (SSENO)| Ms Ang Man Ling 
+ |School Counsellor| Ms Priscilla Shin|	 Special   Educational Needs   Officer (SENO)| Ms Mohammed Shahrin Bin   Abdul Rahman Mustaffa 
+| Student Welfare   Officer  |	 Mdm Karen Ong  	 	 

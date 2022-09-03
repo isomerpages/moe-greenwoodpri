@@ -38,3 +38,7 @@ The programme aims to encourage students to be physically active through partici
 
 <img src="/images/image09.jpeg" 
      style="width:50%">
+		 
+**Children’s Day Sports Carnival**  
+
+The objective of the carnival is to promote active participation in fun and healthy physical activities. The carnival is for all students and aims to build in them resilience and sportsmanship as they try out various sports and activities.

@@ -65,3 +65,6 @@ PAM Week & Talent Quest
 
 The PAM Week & Talent Quest provides students with a platform to showcase their talents and appreciate the talents of others. It is also a platform for students to express themselves creatively through Arts.
 
+<img src="/images/image002.gif" 
+     style="width:50%"><img src="/images/image004.gif" 
+     style="width:50%">

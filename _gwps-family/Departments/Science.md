@@ -38,3 +38,19 @@ This programme aims to fuel the curiosity in our students  through scientific i
      style="width:33%;float:left"><img src="/images/sci2.png" 
      style="width:33%;float:left"><img src="/images/sci3.png" 
      style="width:33%">
+		 
+**Science Whizz Kids**
+
+This programme provides students with an opportunity to showcase their talent and develop their potential in Science. The programme aims to provide students  with the opportunity to deepen their learning and stimulate their curiosity in the role played by Science in our everyday life. Through this process, students gain 21st century competencies such as critical and inventive thinking and effective communication skills.
+
+**1)Science Sparks**  
+
+Students have different opportunities to hone their talents and interests in Science.  This programme provides experiential learning through inquiry to build P1 and P2 students' interest towards the learning of Science. Through the experience, students learn interesting Science concepts, have greater awareness of environmental issues and develop their Science thinking skills.
+
+**2)Science Olympiad programme and Excellence 2000 (E2K) Science**  
+
+The Science Olympiad programme (Primary 3-5) and Excellence 2000 (E2K) Science (Primary 4 &5) are for selected students who not only possess a talent for Science but also display interest in learning new Science concepts. These programmes go beyond the Primary Science curriculum and promote open inquiry and higher order thinking skills in students.
+
+**3)Young Scientist Cards (online)**  
+
+In this programme, students are given an opportunity to engage in hands-on tasks and learn Science in a fun manner through everyday scenarios. It provides opportunities for students to deepen their learning and to stimulate their creativity. It aims to develop students into concerned citizens, active contributors and self-directed learners.

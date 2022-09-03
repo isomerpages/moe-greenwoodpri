@@ -60,3 +60,22 @@ Strategies adopted by the department to provide an engaging learning experiences
 <img src="/images/math12.jpeg" 
      style="width:50%;float:left"><img src="/images/math13.jpeg" 
      style="width:50%">
+		 
+<br><br><br>
+<center>Heuristics in the Woods using STAR Strategy</center>
+
+  
+
+Heuristics in the Woods is an innovative teaching and learning resource that Greenwood teachers and students created. This resource makes use of stories and animation to teach heuristics in an exciting way. It makes learning fun and easy. By following the animated stories, students learn to apply the heuristics they have learnt in real-life situations. These animations will be used to create online lesson packages for the students to use as a form of self-directed learning.
+
+The key to problem solving in Greenwood is based on the STAR Strategy. It is a structured strategy for problem-solving that is adapted from Polya’s four-step Model. This strategy is incorporated into the Heuristic Packages for each level and is also the primary strategy that students employ in problem solving. 
+
+  
+
+Study the Problem
+
+Think of a Plan
+
+Act on the Plan
+
+Reflect on the Solution

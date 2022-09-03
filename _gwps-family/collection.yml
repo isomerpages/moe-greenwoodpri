@@ -1,0 +1,4 @@
+collections:
+  gwps-family:
+    output: true
+    order: []

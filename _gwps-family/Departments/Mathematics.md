@@ -93,3 +93,6 @@ Another innovative resource proudly developed by Greenwood teachers is the At Ho
 <img src="/images/math16.jpeg" 
      style="width:50%;float:left"><img src="/images/math17.jpeg" 
      style="width:50%">
+	
+<center>Many skills in Mathematics require some form of drill and practice to be mastered. The ATM questions are designed to provide this in a fun way that promotes family bonding as well.</center>
+

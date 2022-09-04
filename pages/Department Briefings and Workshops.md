@@ -27,8 +27,8 @@ description: ""
 **MALAY**  
 \-[P5 & 6 ML eOral](/files/2021%20P5%20%20P6%20ML%20Parents%20Exam%20Format%20%20E-Oral%20Workshop.pdf)
 \-[P3-4 ML Writing Workshop](/files/2021%20P3%20%20P4%20ML%20Parents%20Writing%20Workshop.pdf)
-\-[P5-6 ML Writing Workshop](https://greenwoodpri-moe-edu-sg-admin.cwp.sg/qql/slot/u189/Documents/2021/Parent%20workshop/MTL/2021%20P5%20%20P6%20ML%20Parents%20Writing%20Workshop.pdf)  
-  
+\-[P5-6 ML Writing Workshop](/files/2021%20P5%20%20P6%20ML%20Parents%20Writing%20Workshop.pdf)
+
 **TAMIL**  
-\-[P5 & 6 TL eOral](https://greenwoodpri-moe-edu-sg-admin.cwp.sg/qql/slot/u189/Documents/2021/Parent%20workshop/MTL/2021_Parents%20Workshop%20-%20P5%20%206%20TL%20eOral%20Slides.pdf)  
-\-[P3-6 TL Writing Workshop](https://greenwoodpri-moe-edu-sg-admin.cwp.sg/qql/slot/u189/Documents/2021/Parent%20workshop/MTL/2021_%20Parent%20Writing%20Workshop_P3-6%20TL.pdf)
+\-[P5 & 6 TL eOral](/files/2021_Parents%20Workshop%20-%20P5%20%206%20TL%20eOral%20Slides.pdf)
+\-[P3-6 TL Writing Workshop](/files/2021_%20Parent%20Writing%20Workshop_P3-6%20TL.pdf)

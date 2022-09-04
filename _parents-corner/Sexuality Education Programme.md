@@ -78,4 +78,12 @@ c.    Character and Citizenship Education (CCE)
 
  **Primary 6**
  
- **UNIT: Gosh! I Am Changing**
+ **UNIT: Are We More Than Friends?**
+ 
+| LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+| -------- | -------- | -------- |
+|Who Are My Friends?<br>(30 min)|-Identify the qualities of a healthy friendship<br>-Recognise the importance of making wise choices in friendship|Term 1 Week 6
+|Am I A Good Friend?<br>(30 min)|-Identify the qualities that they have as a friend<br>-Recognise the importance of developing in oneself the qualities of a good friend|Term 1 Week 6
+|What is Love?<br>(30 min)|-Identify the characteristics of love and infatuation<br>-Distinguish between the characteristics of love versus infatuation<br>-Identify strong feelings arising from infatuation|Term 1 Week 7
+|Am I Falling In Love?<br>(30 min)|-Manage strong feelings arising from infatuation<br>-Identify ways to manage and cope with teasing from peers|Term 1 Week 7
+

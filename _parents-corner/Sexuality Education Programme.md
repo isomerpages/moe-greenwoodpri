@@ -106,3 +106,4 @@ c.    Character and Citizenship Education (CCE)
 
 11.  Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangement.
 
+<center>Updated in January 2022</center>

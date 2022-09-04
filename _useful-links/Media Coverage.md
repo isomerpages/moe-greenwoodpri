@@ -44,7 +44,7 @@ The feature was broadcast on Sunday 28 May, presenting a succinct and accurate p
 
 *   [Hayati sejarah dimuzium terbaru (Berita Harian, Nov 24, 2015)](/images/BH_24112015.jpeg)
 *   [我和邻居是朋友（大拇指第21期，2015）](/files/HDB_Community_Week_2015.pdf)
-*   [Getting along throughbooks  (The Straits Times, May 5, 2015)](/files/ST_Getting_along_through_books.pdf)
+*   [Getting along through books  (The Straits Times, May 5, 2015)](/files/ST_Getting_along_through_books.pdf)
 
 **2014**
 

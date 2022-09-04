@@ -2,4 +2,5 @@ collections:
   useful-links:
     output: true
     order:
+      - Media Coverage.md
       - School Videos.md

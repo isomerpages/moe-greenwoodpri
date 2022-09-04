@@ -87,3 +87,11 @@ c.    Character and Citizenship Education (CCE)
 |What is Love?<br>(30 min)|-Identify the characteristics of love and infatuation<br>-Distinguish between the characteristics of love versus infatuation<br>-Identify strong feelings arising from infatuation|Term 1 Week 7
 |Am I Falling In Love?<br>(30 min)|-Manage strong feelings arising from infatuation<br>-Identify ways to manage and cope with teasing from peers|Term 1 Week 7
 |Main Task<br>(30 min)|Description of the Main Task:<br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.|Term 1 Week 8
+
+ **UNIT: Friends or Foes?**
+ 
+ | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+| -------- | -------- | -------- |
+|Are You Really My Friend?<br>(30 min)|-Identify the pros and cons of forming relationships through social networking websites<br>-Know ways to keep themselves safe when using social networking websites|Term 1 Week 8
+|Is It All Safe?<br>(30 min)|-Know that some information (like pornography) received through the Internet may be harmful<br>-Know ways to keep themselves safe when using social networking websites or the Internet|Term 1 Week 9
+|Main Task<br> (30 min)|Description of the Main Task:<br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.|Term 1 Week 9

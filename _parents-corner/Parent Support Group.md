@@ -60,3 +60,14 @@ Our PSG Executive Committee Members for 2022 are:
 23\.Mdm Bhakti Tamhane
 
 24\.Mdm Vidya Chia
+
+We welcome you to be a part of us! Join us in our school events and play a significant role in your child’s development by helping to create an interesting and engaging environment for your child to learn! We also welcome parents to join us to network and bond together to form a support group for one another so that you will never have to walk alone in this parenting journey.
+
+  
+
+Register below to be part of us!
+
+Please scan the QR code below to register:
+
+<img src="/images/PSG.jpeg" 
+     style="width:30%">

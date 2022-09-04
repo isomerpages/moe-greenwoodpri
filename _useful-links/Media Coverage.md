@@ -36,16 +36,16 @@ The feature was broadcast on Sunday 28 May, presenting a succinct and accurate p
 *   [He doesn’t use kidneycondition as excuse not to do things  (The Straits Times, Nov 25, 2016)](/images/ST_25112016.jpeg)
 *   [患肾脏病没被击倒，积极向上成模范学生（联合晚报 Nov 24, 2016](/images/WB_24112016.jpeg)
 *   [Civilian War Memorial (The Straits Times, 16 Feb, 2016)](/images/ST_16022016.jpeg)
-*   [273students in Sembawang received Edusave awards (The Straits Times, Jan 4, 2016)](https://greenwoodpri-moe-edu-sg-admin.cwp.sg/qql/slot/u189/files/ST_0412016.jpg)
+*   [273students in Sembawang received Edusave awards (The Straits Times, Jan 4, 2016)](/images/ST_0412016.jpeg)
 
   
 
       **2015**
 
-*   [Hayati sejarah dimuzium terbaru (Berita Harian, Nov 24, 2015)](https://greenwoodpri-moe-edu-sg-admin.cwp.sg/qql/slot/u189/files/BH_24112015.jpg)
-*   [我和邻居是朋友（大拇指第21期，2015）](https://greenwoodpri-moe-edu-sg-admin.cwp.sg/qql/slot/u189/files/HDB_Community_Week_2015.pdf)
-*   [Getting along throughbooks  (The Straits Times, May 5, 2015)](https://greenwoodpri-moe-edu-sg-admin.cwp.sg/qql/slot/u189/files/ST_Getting_along_through_books.pdf)
+*   [Hayati sejarah dimuzium terbaru (Berita Harian, Nov 24, 2015)](/images/BH_24112015.jpeg)
+*   [我和邻居是朋友（大拇指第21期，2015）](/files/HDB_Community_Week_2015.pdf)
+*   [Getting along throughbooks  (The Straits Times, May 5, 2015)](/files/ST_Getting_along_through_books.pdf)
 
 **2014**
 
-*   [Fishing forneighbourhood ties (The Straits Times, Jul 1, 2014)](https://greenwoodpri-moe-edu-sg-admin.cwp.sg/qql/slot/u189/files/ST_Fishing_for_neighbourhood_ties.pdf)
+*   [Fishing for neighbourhood ties (The Straits Times, Jul 1, 2014)](/files/ST_Fishing_for_neighbourhood_ties.pdf)

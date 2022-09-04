@@ -2,6 +2,7 @@ collections:
   parents-corner:
     output: true
     order:
+      - Briefing Resources/2021.md
       - Briefing Resources/2020.md
       - Briefing Resources/.keep
       - Calendar of Events.md

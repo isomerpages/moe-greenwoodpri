@@ -73,8 +73,8 @@ c.    Character and Citizenship Education (CCE)
  
   | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
 | -------- | -------- | -------- |
-
-
+|What is Safety?<br>(30 min)|-Know what sexual abuse is<br>-Know that there are laws in Singapore that can protect them from sexual abuse<br>-Know their rights in keeping themselves safe from sexual abuse|Term 3 Week 9
+|Stop It! Run! Tell!<br>(30 min)|Protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>Know their responsibilities in minimising the risk of sexual harm|Term 3 Week 9
 
  **Primary 6**
  

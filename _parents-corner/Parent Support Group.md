@@ -74,3 +74,16 @@ Please scan the QR code below to register:
 		 
 For any enquiries, please email the school and we will get back to you as soon as possible.
 
+<center>School events</center>
+
+![](/images/psg2.png)
+
+| International Friendship Day | Total Defence Day |
+| -------- | -------- | 
+|||
+
+![](/images/psg3.png)
+
+| Sports Day | Teachers’ Day Celebration |
+| -------- | -------- | 
+|||

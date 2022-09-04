@@ -2,4 +2,5 @@ collections:
   parents-corner:
     output: true
     order:
+      - Parent Support Group.md
       - Sexuality Education Programme.md

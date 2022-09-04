@@ -2,6 +2,7 @@ collections:
   parents-corner:
     output: true
     order:
+      - Co Curricular Activities.md
       - Cyberwellness.md
       - Parent Support Group.md
       - Sexuality Education Programme.md

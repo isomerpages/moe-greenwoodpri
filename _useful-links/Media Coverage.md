@@ -33,7 +33,7 @@ The feature was broadcast on Sunday 28 May, presenting a succinct and accurate p
        **2016**
 
 *   [Faktor kesihatan tidakhalang murid raih keputusan baik (Berita Harian, Nov 25, 2016)](/images/BH_25112016.jpeg)
-*   [He doesn’t use kidneycondition as excuse not to do things  (The Straits Times, Nov 25, 2016)](/images/ST_25112016.jpeg)
+*   [He doesn’t use kidney condition as excuse not to do things  (The Straits Times, Nov 25, 2016)](/images/ST_25112016.jpeg)
 *   [患肾脏病没被击倒，积极向上成模范学生（联合晚报 Nov 24, 2016](/images/WB_24112016.jpeg)
 *   [Civilian War Memorial (The Straits Times, 16 Feb, 2016)](/images/ST_16022016.jpeg)
 *   [273students in Sembawang received Edusave awards (The Straits Times, Jan 4, 2016)](/images/ST_0412016.jpeg)

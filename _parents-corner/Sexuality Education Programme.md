@@ -68,3 +68,14 @@ c.    Character and Citizenship Education (CCE)
 | -------- | -------- | -------- |
 |What Are Families?<br>(30 min)|-Know that there are different types of family structures<br>-Know that every family is unique<br>-State that the three basic functions of families are to provide love, protection and guidance<br>-Identify the right sources of help to turn to when in need|Term 3 Week 8
 |What is My Role?<br>(30 min)|-Know that gender is about being male or female<br>-Choose not to stereotype by gender|Term 3 Week 8
+
+ **UNIT: How Do I Keep Myself Safe?**
+ 
+  | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
+| -------- | -------- | -------- |
+
+
+
+ **Primary 6**
+ 
+ **UNIT: Gosh! I Am Changing**

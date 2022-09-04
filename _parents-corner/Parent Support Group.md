@@ -71,3 +71,6 @@ Please scan the QR code below to register:
 
 <img src="/images/PSG.jpeg" 
      style="width:30%">
+		 
+For any enquiries, please email the school and we will get back to you as soon as possible.
+

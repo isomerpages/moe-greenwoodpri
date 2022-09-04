@@ -87,3 +87,23 @@ For any enquiries, please email the school and we will get back to you as soon a
 | Sports Day | Teachers’ Day Celebration |
 | -------- | -------- | 
 |||
+
+![](/images/psg4.png)
+
+| Celebrating OWLETS Carnival | Annual Prize Presentation |
+| -------- | -------- | 
+|||
+
+<center>PSG events</center>
+
+![](/images/psg5.png)
+
+|CNY Shopping Trip | SCDF Fire Station Visit |
+| -------- | -------- | 
+|||
+
+![](/images/psg6.png)
+
+|Coffee Talk – Parenting Workshop | PSG Outings |
+| -------- | -------- | 
+|||

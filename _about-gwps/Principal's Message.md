@@ -3,12 +3,12 @@ title: Principal's Message
 permalink: /about-gwps/principals-message/
 description: ""
 ---
-<img src="/images/principal%20message.png" 
-     style="width:70%">
+<img src="/images/Mrs%20Chua.png" 
+     style="width:60%">
 
 Warmest greetings from the Greenwood family!
 
-Greenwood Primary School recently celebrated her 21st Anniversary. Over the past decades, we have witnessed the growth of the school and celebrated many milestones and achievements. The successes of the school could only be possible because of the dedicated and mission-centred staff as well as the strong support of our School Advisory Committee, parents, partners, and the community, over the years.
+Greenwood Primary School recently celebrated her 21st Anniversary. Over the past decades, we have witnessed the growth of the school and celebrated many milestones and achievements. The successes of the school could only be possible because of the dedicated and mission-centred staff as well as the strong support of our School Advisory Committee, parents, partners, and the community, over the years.
 
 Our school is like a home to both our staff and students - a place where we _learn and grow_ together. Indeed, this idea of _learning and growth_ is aptly captured in the young shoot in our school crest that represents the continual growth of the school community through learning together. In line with _Learn for Life_, we believe that every child can learn.  In Greenwood, we hope to develop and grow our students holistically by creating engaging and joyful everyday learning experiences, both within and beyond the classrooms.  
 
@@ -21,5 +21,4 @@ _Guidance to Wisdom_
 Partnering you in education,
 
 Mrs Tricilia Chua  
-
 Principal

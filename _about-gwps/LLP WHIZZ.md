@@ -3,7 +3,7 @@ title: LLP WHIZZ
 permalink: /about-gwps/LLP-WHIZZ/
 description: ""
 ---
-**Learning for Life Programme (LLP)**
+# **Learning for Life Programme (LLP)**
 
 WHIZZ – **W**e are T**H**inking, **I**nventive and **Z**ealous KId**Z** to serve the community.
 
@@ -43,9 +43,8 @@ CareIN is a 15-hour curriculum developed by the school to educate pupils on valu
 
 Two weeks are designated for Project Work which comprises of a learning curriculum for P1 to P5 pupils. The curriculum comprises of thinking systems/habits such as the 6 Thinking Hats, PDCA cycle, Innowits and Design Thinking as well as problem solving skills and collaborative learning skills. Pupils take the lead to transfer, apply and integrate the skills and knowledge learnt in different IP subjects to solve authentic community-related problems through an experiment, a research or an invention.
 
-<img src="/images/DSC02310.jpeg" 
-     style="width:33%;float:left"><img src="/images/DSC02496.jpeg" 
-     style="width:33%;float:left"><img src="/images/DSC08982.jpeg" 
+<img src="/images/DSC02310.jpeg" style="width:33%;float:left">
+<img src="/images/DSC02496.jpeg" style="width:33%;float:left"><img src="/images/DSC08982.jpeg" 
      style="width:33%">
 
 

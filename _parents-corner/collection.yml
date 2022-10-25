@@ -2,13 +2,13 @@ collections:
   parents-corner:
     output: true
     order:
-      - SAC (School Advisory Commitee).md
+      - Parents/.keep
       - Parents/Cyberwellness.md
       - Parents/Sexuality Education Programme.md
       - Parents/Calendar of Events.md
-      - Parents/.keep
+      - Briefing Resources/.keep
       - Briefing Resources/2022.md
       - Briefing Resources/2021.md
       - Briefing Resources/2020.md
-      - Briefing Resources/.keep
+      - SAC (School Advisory Commitee).md
       - Parent Support Group.md

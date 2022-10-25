@@ -1,5 +1,4 @@
 collections:
   gwps-partners:
     output: true
-    order:
-      - Department Briefings and Workshops.md
+    order: []

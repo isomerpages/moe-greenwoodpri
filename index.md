@@ -12,10 +12,7 @@ sections:
         - title: Announcements
           description: Click here for the lastest announcements!
           url: /Announcements
-        - title: Events
-          description: ""
-          url: /Events
         - title: WHAT'S HAPPENING
-          description: FIND OUT MORE ON OUR SOCIAL MEDIA
-          url: /SOCIAL
+          description: ON OUR SOCIAL MEDIA
+          url: /Events
 ---

@@ -15,7 +15,7 @@ sections:
         - title: Events
           description: ""
           url: /Events
-        - title: SOCIAL MEDIA
-          description: FIND US ON SOCIAL MEDIA
-          url: /permalink/
+        - title: WHAT'S HAPPENED
+          description: FIND OUT MORE ON OUR SOCIAL MEDIA
+          url: ""
 ---

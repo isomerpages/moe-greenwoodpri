@@ -2,10 +2,10 @@ collections:
   parents-corner:
     output: true
     order:
-      - PARENTS/Cyberwellness.md
-      - PARENTS/Sexuality Education Programme.md
-      - PARENTS/Calendar of Events.md
-      - PARENTS/.keep
+      - Parents/Cyberwellness.md
+      - Parents/Sexuality Education Programme.md
+      - Parents/Calendar of Events.md
+      - Parents/.keep
       - Briefing Resources/2022.md
       - Briefing Resources/2021.md
       - Briefing Resources/2020.md

@@ -17,5 +17,5 @@ sections:
           url: /Events
         - title: WHAT'S HAPPENING
           description: FIND OUT MORE ON OUR SOCIAL MEDIA
-          url: /social-media/
+          url: /SOCIAL
 ---

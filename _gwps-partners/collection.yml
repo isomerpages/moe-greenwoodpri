@@ -1,5 +1,5 @@
 collections:
-  parents-corner:
+  gwps-partners:
     output: true
     order:
       - Parents/Department Briefings and Workshops.md

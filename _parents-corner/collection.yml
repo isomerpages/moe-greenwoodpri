@@ -2,6 +2,7 @@ collections:
   parents-corner:
     output: true
     order:
+      - Parents/2022 Briefing Resources.md
       - Parents/.keep
       - Parents/Cyberwellness.md
       - Parents/Sexuality Education Programme.md

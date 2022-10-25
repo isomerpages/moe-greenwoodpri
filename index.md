@@ -14,5 +14,5 @@ sections:
           url: /Announcements
         - title: WHAT'S HAPPENING
           description: ON OUR SOCIAL MEDIA
-          url: /WHATS-HAPPENING
+          url: /WHATS-HAPPENING/
 ---

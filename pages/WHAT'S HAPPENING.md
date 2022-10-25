@@ -3,12 +3,14 @@ title: WHAT'S HAPPENING
 permalink: /EVENTS/
 description: ""
 ---
-
 <img src="/images/FB.jpg" 
      style="width:33%"> 
-
+# <center>[Facebook](https://www.facebook.com/Greenwood.GWPS)
 <img src="/images/IG.jpg" 
      style="width:40%">
+		 
+# 		 <center>[Instagram](https://www.instagram.com/Greenwood.GWPS/)</center>
+		 
 [**Total Defence Day**]
 
 Click [here](https://m.facebook.com/story.php?story_fbid=270793648523788&id=120414723561682&m_entstream_source=timeline) to see how Total Defence Day was commemorated in GWPS.

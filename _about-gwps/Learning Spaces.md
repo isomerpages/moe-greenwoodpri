@@ -3,13 +3,19 @@ title: Learning Spaces
 permalink: /about-gwps/Learning-Spaces/
 description: ""
 ---
-<center>WHIZZ Room</center>
+**<center>WHIZZ Room</center>**
+
+![](/images/Learning%20Space/whizz%20rm-min.jpeg)
+
 <center>BLISS Room</center>
 
+![](/images/Learning%20Space/bliss%20rm-min.jpg)
+
+
 <img src="/images/" 
-     style="width:33%;float:left"><img src="/images/Ecogarden%20edited%20selected.jpeg" 
-     style="width:33%;float:left"><img src="/images/IMG_6549.jpeg" 
-     style="width:33%">
+     style="width:33%;float:left"><img src="/images/Learning%20Space/Ecogarden%20edited%20selected.jpeg" 
+     style="width:34%;float:left"><img src="/images/Learning%20Space/IMG_6549.jpeg" 
+     style="width:29%">
 
 
 | Playground | ECO-Garden | Amphitheater |

@@ -17,5 +17,5 @@ sections:
           url: /Events
         - title: SOCIAL MEDIA
           description: FIND US ON SOCIAL MEDIA
-          url: ""
+          url: /permalink/
 ---

@@ -3,7 +3,6 @@ title: WHAT'S HAPPENING
 permalink: /WHATS-HAPPENING/
 description: ""
 ---
-
 <img src="/images/FB.jpg" 
      style="width:33%"> 
 

@@ -3,17 +3,14 @@ title: Learning Spaces
 permalink: /about-gwps/Learning-Spaces/
 description: ""
 ---
+![](/images/Learning%20Space/whizz%20rm-min.jpeg)
 **<center>WHIZZ Room</center>**
 
-![](/images/Learning%20Space/whizz%20rm-min.jpeg)
-
-<center>BLISS Room</center>
-
 ![](/images/Learning%20Space/bliss%20rm-min.jpg)
+**<center>BLISS Room</center>**
 
-
-<img src="/images/" 
-     style="width:33%;float:left"><img src="/images/Learning%20Space/Ecogarden%20edited%20selected.jpeg" 
+<img src="/images/Learning%20Space/Playground-min.jpeg" 
+     style="width:29%;float:left"><img src="/images/Learning%20Space/Ecogarden%20edited%20selected.jpeg" 
      style="width:34%;float:left"><img src="/images/Learning%20Space/IMG_6549.jpeg" 
      style="width:29%">
 
@@ -22,9 +19,9 @@ description: ""
 | -------- | -------- | -------- |
 |||
 
-<img src="/images/IMG_6544.jpeg" 
-     style="width:33%;float:left"><img src="/images/ECG%20selected.jpeg" 
-     style="width:33%;float:left;height:190px"><img src="/images/clay%20making%20or%20cover%20art%20room.jpeg" 
+<img src="/images/Learning%20Space/IMG_6544.jpeg" 
+     style="width:33%;float:left"><img src="/images/Learning%20Space/ECG%20selected.jpeg" 
+     style="width:%;float:left;height:190px"><img src="/images/Learning%20Space/clay%20making%20or%20cover%20art%20room.jpeg" 
      style="width:33%">
 		 
 | Aspiration Staircase | ECG Corner | Art Room |

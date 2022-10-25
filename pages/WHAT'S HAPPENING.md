@@ -9,5 +9,4 @@ description: ""
 <img src="/images/IG.jpg" 
      style="width:40%">
 		 
-# 		 <center>[Instagram](https://www.instagram.com/Greenwood.GWPS/)</center>
-		 
+# 		 <center>[Instagram]</center>

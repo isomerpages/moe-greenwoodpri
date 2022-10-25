@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Links.md
-      - Media Coverage.md
       - School Videos.md

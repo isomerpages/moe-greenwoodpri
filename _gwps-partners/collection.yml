@@ -2,5 +2,4 @@ collections:
   gwps-partners:
     output: true
     order:
-      - Media Coverage.md
       - Department Briefings and Workshops.md

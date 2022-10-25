@@ -5,8 +5,8 @@ description: ""
 ---
 <img src="/images/FB.jpg" 
      style="width:33%"> 
-# <center>[Facebook]</center>
+#  <center>[Facebook](https://www.facebook.com/Greenwood.GWPS)
+
 <img src="/images/IG.jpg" 
      style="width:40%">
-		 
-# 		 <center>[Instagram]</center>
+#  <center>[Instagram](https://www.instagram.com/Greenwood.GWPS/)

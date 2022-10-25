@@ -3,6 +3,9 @@ title: WHAT'S HAPPENING
 permalink: /WHATS-HAPPENING/
 description: ""
 ---
+![](/images/FB.jpg)
+
+![](/images/IG.jpg)
 
 [**Total Defence Day**]
 

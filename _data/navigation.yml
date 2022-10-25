@@ -12,19 +12,8 @@ links:
   - title: GWPS FAMILY
     collection: gwps-family
   - title: GWPS PRIDE
-    url: /permalink/
-    sublinks:
-      - title: "2022"
-        url: /school-achievement/permalink/2022
-      - title: "2021"
-        url: /school-achievement/permalink/2021
-      - title: "2020"
-        url: /school-achievement/permalink/2020
-      - title: Media Coverage
-        url: /useful-links/Media-Coverage/
+    collection: school-achievement
   - title: GWPS PARTNERS
     collection: parents-corner
   - title: GREENWOODIANS
     collection: useful-links
-  - title: GWPS PRIDE
-    collection: school-achievement

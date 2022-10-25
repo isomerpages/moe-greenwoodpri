@@ -96,30 +96,3 @@ Senior Teachers
 |Teacher (Music)	| Ms Dai Anna 	|Teacher  (English/Mathematics)	 |Ms Halima Bte Mohamed   Yahuff
  |Teacher (Art)	| Mr Goh Yiang Meng	| Teacher  (English/Mathematics)|Ms Ong Ai Tee
 || |Teacher   (English/Mathematics)	 |Ms Nor Aishah Bte Sa'ad
-
-#### School Advisory Committee
-
-Commitee Members
-
- | DESIGNATION	| NAME | DESIGNATION | NAME|
-| -------- | -------- | -------- | -------- |
-|Chairman	| Mr Michael Ling|	 Member	| Mr Abuthahir Abdul Gafoor
- |Member	| Ms Nicole Lau Vi San|	 Member	| Mr Tan Hong Ju, Erek
- |Member|	 Ms Karen Yeo Chay   Hwee  | Member	 |Ms Sharon Wong Wai   Peng 
- |Member	| Ms Tan Yin Joo, Zoe	 |Member	| Mr Zhahir Hushan S/O   Syed
- 
- #### Parents Support Group EXCO
-
- | DESIGNATION	| NAME | DESIGNATION | NAME|
-| -------- | -------- | -------- | -------- |
-|Chairperson	| Mdm Patricia Tay	 |Vice Chairperson|	 Mdm Saliza Binte Senin 
- |Member|	 Mdm Gangi Pooja Raniv 	 |Member	| Mdm Gunasundari
- |Member	 |Mdm Halimatussa’adiah|	 Member	| Mdm Isha Kumar
-| Member	 |Mdm Mandy Kaur Guthri	| Member	|  Mdm Patricia Tan Chor   Eng
- | Member	|  Mdm Eva Yee Yik Shing| 	 Member	|  Mdm Vijayabharathi
- | Member	|  Mdm Jessica Cheah Ley   Keng	|  Member	 | Mdm Sandy Chong Ek   Hua
- | Member| 	 Mdm Shoba Nagalinggam	|  Member| 	 Mdm Nor'Aida Bte Suroto
- | Member	 | Mdm Joann Liza Yeo | 	 Member	 | Mr Keith Goh Han Wee
- | Member	 | Mdm Priya Premkumar	 | Member	 | Mdm He Ye Georgina
- | Member| 	 Mdm Bhakti Tamhane	 | Member| 	 Mdm Wong Siew Yoke   Sylvia
- | Member	 | Mdm Vidya Chia	 | Member	|  Ms Shao Shuai

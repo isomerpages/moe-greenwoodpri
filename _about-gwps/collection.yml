@@ -2,12 +2,12 @@ collections:
   about-gwps:
     output: true
     order:
-      - Our Story.md
       - Principal's Message.md
       - School Vision, Mission and Culture.md
       - School Core Values.md
       - School Crest.md
       - School Mascot.md
+      - Our Story.md
       - General Information.md
       - Learning Spaces.md
       - School Achievements.md

@@ -3,10 +3,9 @@ title: School Crest
 permalink: /about-gwps/school-crest/
 description: ""
 ---
-<img src="/images/logo2.png" 
+<img src="/images/SCHOOL%20CREST/logo2.png" 
      style="width:50%">
-		 
-
+	
 
 The school logo is visual representation of our school’s motto, values, vision and mission.
 

@@ -15,7 +15,7 @@ sections:
         - title: Events
           description: ""
           url: /Events
-        - title: FACEBOOK
-          description: Key Highlight description
-          url: https://www.facebook.com/Greenwood.GWPS
+        - title: SOCIAL MEDIA
+          description: FIND US ON SOCIAL MEDIA
+          url: ""
 ---

@@ -16,7 +16,7 @@ description: ""
 
 | Playground   | ECO-Garden     | Amphitheater |
 | ------------- | ---------------- | ------------- |
-
+|||
 
 <img src="/images/Learning%20Space/aspiration%20stair.jpeg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/ECG .jpeg" 

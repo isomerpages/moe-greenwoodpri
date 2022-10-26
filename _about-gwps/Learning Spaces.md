@@ -9,6 +9,7 @@ description: ""
 ![](/images/Learning%20Space/bliss%20rm-min.jpg)
 **<center>BLISS Room</center>**
 
+
 <img src="/images/Learning%20Space//Playground.jpeg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/Ecogarden.jpg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/AMPHITEATHER.jpg" 
@@ -17,6 +18,7 @@ description: ""
 | Playground   | ECO-Garden     | Amphitheater |
 | ------------- | ---------------- | ------------- |
 |||
+
 
 <img src="/images/Learning%20Space/aspiration%20stair.jpeg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/ECG .jpeg" 
@@ -27,6 +29,7 @@ description: ""
 | Aspiration Staircase | ECG Corner | Art Room |
 | -------- | -------- | -------- |
 |||
+
 
 <img src="/images/RAIN.jpeg" 
      style="width:33%;float:left"><img src="/images/IMG_5115.jpeg" 

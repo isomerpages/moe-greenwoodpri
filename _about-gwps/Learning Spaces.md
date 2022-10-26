@@ -62,6 +62,3 @@ description: ""
 | -------- | -------- | -------- |
 |||
 
-
-
-![](/images/Learning%20Space/COM%20LAB.jpeg)![](/images/Learning%20Space/RAIN.jpeg)![](/images/Learning%20Space/GREEN%20WALL.jpeg)

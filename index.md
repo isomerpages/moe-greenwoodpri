@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/greenwoodpri.gif
+      background: /images/ezgifcom-gif-maker.gif
       key_highlights:
         - title: Announcements
           description: Click here for the lastest announcements!

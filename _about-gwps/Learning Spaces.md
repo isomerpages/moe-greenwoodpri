@@ -18,12 +18,12 @@ description: ""
 | -------- | -------- | -------- |
 |||
 
-<img src="/images/" 
-     style="width:33%;float:left"><img src="/images/IMG_6530.jpeg" 
-     style="width:33%;float:left"><img src="/images/IMG_6536.jpeg" 
+<img src="/images/Learning%20Space/aspiration%20stair.jpeg" 
+     style="width:33%;float:left"><img src="/images/Learning%20Space/ECG%20.jpeg" 
+     style="width:33%;float:left"><img src="/images/Learning%20Space/art%20room.jpg" 
      style="width:33%">
 		 
-| School Field |Indoor Sports Hall | Sheltered Basketball Court |
+| Aspiration Stairs |ECG | Art Room |
 | -------- | -------- | -------- |
 |||
 
@@ -64,4 +64,4 @@ description: ""
 |||
 
 
-![](/images/Learning%20Space/AMPHITEATHER.jpg)
+![](/images/Learning%20Space/art%20room.jpg)

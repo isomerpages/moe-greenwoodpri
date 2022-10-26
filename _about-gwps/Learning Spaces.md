@@ -26,10 +26,10 @@ description: ""
 | -------- | -------- | -------- |
 |     |      |      |
 
-<img src="/images/RAIN.jpeg" 
-     style="width:33%;float:left"><img src="/images/IMG_5115.jpeg" 
-     style="width:33%;float:left"><img src="/images/20200708_114503.jpeg" 
-     style="width:33%;height:190px">
+<img src="/images/Learning%20Space/RAIN.jpeg" 
+     style="width:33%;float:left"><img src="/images/Learning%20Space/GREEN%20WALL.jpeg" 
+     style="width:33%;float:left"><img src="/images/Learning%20Space/COM%20LAB.jpeg" 
+     style="width:33%;float:left">
 		 
 | Rain Harvest | Green Wall | Computer Lab |
 | -------- | -------- | -------- |
@@ -61,3 +61,7 @@ description: ""
 | Media Resource Library |Marie Curie Lab | Einstein Activity Zone |
 | -------- | -------- | -------- |
 |||
+
+
+
+![](/images/Learning%20Space/COM%20LAB.jpeg)![](/images/Learning%20Space/RAIN.jpeg)![](/images/Learning%20Space/GREEN%20WALL.jpeg)

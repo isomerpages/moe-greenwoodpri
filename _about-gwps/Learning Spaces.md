@@ -18,17 +18,14 @@ description: ""
 | ------------- | ---------------- | ------------- |
 |||
 
-
 <img src="/images/Learning%20Space/aspiration%20stair.jpeg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/ECG .jpeg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/art%20room.jpg" 
      style="width:33%;float:left">
-
 		 
 | Aspiration Staircase | ECG Corner | Art Room |
 | -------- | -------- | -------- |
 |||
-
 
 <img src="/images/RAIN.jpeg" 
      style="width:33%;float:left"><img src="/images/IMG_5115.jpeg" 

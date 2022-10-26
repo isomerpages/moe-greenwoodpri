@@ -9,26 +9,20 @@ description: ""
 ![](/images/Learning%20Space/bliss%20rm-min.jpg)
 **<center>BLISS Room</center>**
 
-
-
-
-
-
-
 <img src="/images/Learning%20Space//Playground.jpeg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/Ecogarden.jpg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/AMPHITEATHER.jpg" 
      style="width:33%;float:left">
 
-
 | Playground   | ECO-Garden     | Amphitheater |
 | ------------- | ---------------- | ------------- |
 
 
-<img src="/images/Learning%20Space/IMG_6544.jpeg" 
-     style="width:33%;float:left"><img src="/images/Learning%20Space/ECG%20selected.jpeg" 
-     style="width:%;float:left;height:190px"><img src="/images/Learning%20Space/clay%20making%20or%20cover%20art%20room.jpeg" 
-     style="width:33%">
+<img src="/images/Learning%20Space/aspiration%20stair.jpeg" 
+     style="width:33%;float:left"><img src="/images/Learning%20Space/ECG .jpeg" 
+     style="width:33%;float:left"><img src="/images/Learning%20Space/art%20room.jpg" 
+     style="width:33%;float:left">
+
 		 
 | Aspiration Staircase | ECG Corner | Art Room |
 | -------- | -------- | -------- |

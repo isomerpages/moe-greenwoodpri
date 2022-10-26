@@ -9,7 +9,6 @@ description: ""
 ![](/images/Learning%20Space/bliss%20rm-min.jpg)
 **<center>BLISS Room</center>**
 
-
 <img src="/images/Learning%20Space//Playground.jpeg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/Ecogarden.jpg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/AMPHITEATHER.jpg" 

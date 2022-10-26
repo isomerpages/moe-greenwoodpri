@@ -9,15 +9,21 @@ description: ""
 ![](/images/Learning%20Space/bliss%20rm-min.jpg)
 **<center>BLISS Room</center>**
 
-<img src="/images/Learning%20Space/Playground-min.jpeg" 
-     style="width:29%;float:left"><img src="/images/Learning%20Space/Ecogarden%20edited%20selected.jpeg" 
-     style="width:34%;float:left"><img src="/images/Learning%20Space/IMG_6549.jpeg" 
-     style="width:29%">
 
 
-| Playground | ECO-Garden | Amphitheater |
-| -------- | -------- | -------- |
-|||
+
+
+
+
+<img src="/images/Learning%20Space//Playground.jpeg" 
+     style="width:33%;float:left"><img src="/images/Learning%20Space/Ecogarden.jpg" 
+     style="width:33%;float:left"><img src="/images/Learning%20Space/AMPHITEATHER.jpg" 
+     style="width:33%;float:left">
+
+
+| Playground   | ECO-Garden     | Amphitheater |
+| ------------- | ---------------- | ------------- |
+
 
 <img src="/images/Learning%20Space/IMG_6544.jpeg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/ECG%20selected.jpeg" 

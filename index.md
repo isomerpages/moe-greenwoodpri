@@ -13,6 +13,6 @@ sections:
           description: Click here for the lastest announcements!
           url: /Announcements
         - title: WHAT'S HAPPENING
-          description: ON OUR SOCIAL MEDIA
+          description: On Our Social Media
           url: /EVENTS
 ---

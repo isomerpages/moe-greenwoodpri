@@ -63,5 +63,3 @@ description: ""
 | -------- | -------- | -------- |
 |||
 
-
-![](/images/Learning%20Space/art%20room.jpg)

@@ -12,9 +12,8 @@ description: ""
 <img src="/images/Learning%20Space/Playground.jpeg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/Ecogarden.jpg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/AMPHITEATHER.jpg" 
-     style="width:33%;float:left"> | Playground | ECO-Garden | Amphitheater |
-| -------- | -------- | -------- |
-|||
+     style="width:33%;float:left">  Playground                ECO-Garden Amphitheater
+
 
 <img src="/images/Learning%20Space/aspiration%20stair.jpeg" 
      style="width:33%;float:left"><img src="/images/Learning%20Space/ECG%20.jpeg" 

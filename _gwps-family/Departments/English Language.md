@@ -39,14 +39,14 @@ Lower primary students enjoy the experience of having a special guest in their c
 
 The friendly librarian visits every classroom fortnightly to share on authors and promote books. Students get to borrow these books on the spot.  
 
-![](/images/math29.png)
+![](/images/EL1.png)
 
 <center>Delighted with their latest picks</center>
 
-**Students‘ Caught Reading’  **
+**Students‘ Caught Reading**
 
 Students ‘caught reading’ outside their classrooms are awarded reading badges. These badges serve to build enthusiasm around reading by getting kids talking about the books they love
 
-![](/images/math30.png)
+![](/images/EL2.png)
 
 <center>Students 'caught reading' during their free time.</center>

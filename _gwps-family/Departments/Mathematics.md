@@ -41,10 +41,8 @@ Strategies adopted by the department to provide an engaging learning experiences
 
 ![](/images/m6.png)
 
-<br>
-<center>Heuristics in the Woods using STAR Strategy</center>
 
-  
+<center>Heuristics in the Woods using STAR Strategy</center>
 
 Heuristics in the Woods is an innovative teaching and learning resource that Greenwood teachers and students created. This resource makes use of stories and animation to teach heuristics in an exciting way. It makes learning fun and easy. By following the animated stories, students learn to apply the heuristics they have learnt in real-life situations. These animations will be used to create online lesson packages for the students to use as a form of self-directed learning.
 
@@ -70,23 +68,19 @@ The key to problem solving in Greenwood is based on the STAR Strategy. It is a s
 
 Another innovative resource proudly developed by Greenwood teachers is the At Home with Math (ATM) series for P1 to P4 students. These ATM booklets consist of weekly sums that parents can use to help their children gain mastery in basic Mathematics concepts and monitor their children’s progress in the learning of Mathematics.
 
-<img src="/images/math16.jpeg" 
-     style="width:50%;float:left"><img src="/images/math17.jpeg" 
-     style="width:50%;height:550px">
+![](/images/m7.png)	
 	
 <center>Many skills in Mathematics require some form of drill and practice to be mastered. The ATM questions are designed to provide this in a fun way that promotes family bonding as well.</center>
 
-Maths Week  
+Maths Week
 
 Every year during the Maths week, the Mathematics department teachers and Math monitors work together to plan and carry out various interesting Mathematics activities for all students. These activities help to engage and excite the students and build their confidence in the subject.
 
-<img src="/images/math18.jpeg" 
-     style="width:50%;float:left"><img src="/images/math19.jpeg" 
-     style="width:50%">
+![](/images/m8.png)	
+	
 		 
 Journal Writing  
-
-  
+ 
 
 In 2021, the Mathematics Department in Greenwood Primary School embarked on mathematics journaling with our students. Through Journaling, students develop reasoning and communication skills and also apply their knowledge in Mathematics. Students are able to consolidate and deepen their understanding of mathematics concepts. Journaling is also a good habit that supports the development of metacognition.
 

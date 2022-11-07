@@ -26,28 +26,16 @@ Strategies adopted by the department to provide an engaging learning experiences
   
 <center>a) Learning through Games</center>
 
-<img src="/images/math.jpeg" 
-     style="width:50%;float:left"><img src="/images/math2.jpeg" 
-     style="width:45%">
+![](/images/M1.png)
 		 
 <center>b) Learning Collaboratively </center>
 
-<img src="/images/math3.jpeg" 
-     style="width:50%;float:left"><img src="/images/math4.jpeg" 
-     style="width:50%">
+![](/images/M2.png)
 		 
 <center>c) Learning through Authentic Experiences </center>
 
-<img src="/images/math5.jpeg" 
-     style="width:33%;float:left"><img src="/images/math6.jpeg" 
-     style="width:33%;float:left"><img src="/images/math7.jpeg" 
-     style="width:29%">
-		 
-<img src="/images/math8.jpeg" 
-     style="width:25%;float:left"><img src="/images/math9.jpeg" 
-     style="width:25%;float:left"><img src="/images/math10.jpeg" 
-     style="width:25%;float:left"><img src="/images/math11.jpeg" 
-     style="width:25%">
+![](/images/M4.png)
+![](/images/M5.png)
 		 
 <center>d) Opportunities to communicate reasoning and thinking</center>
 

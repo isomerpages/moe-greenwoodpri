@@ -3,15 +3,15 @@ title: School Vision, Mission and Culture
 permalink: /about-gwps/school-vision-mission-and-culture/
 description: ""
 ---
-### MISSION
+### <center>MISSION
 
 To nurture individuals to become lifelong learners and responsible citizens through a well-rounded education.
 
 ![](/images/VMC/Mission%20banner.png)
 
-### VISION
+### <center>VISION
 
-**Motivated Learners**
+**<center>Motivated Learners**
 
 <img src="/images/VMC/motivated%20learners%20v2.png" 
      style="width:40%">

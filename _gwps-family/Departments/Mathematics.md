@@ -4,21 +4,17 @@ permalink: /gwps-family/Departments/Mathematics/
 description: ""
 third_nav_title: Departments
 ---
-**Vision**
+### **<CENTER>Vision**
 
-Confident Thinkers, Competent and Excellent Problem Solvers
+<CENTER>Confident Thinkers, Competent and Excellent Problem Solvers
 
-Mission 
+### **<CENTER>Mision**
 
 To instil in students the love for Mathematics and help them attain a level of mastery in problem-solving skills that will serve them well in life.
-
-  
 
 Learning Experiences in the classrooms  
 
 In Greenwood, students learn Mathematics in a fun and interactive manner so that they become confident and life-long learners of the subject. We believe that students must have opportunities to hone their reasoning and communication skills in their Mathematics classrooms. This is achieved by providing students with Learning Experiences that allows them to:  
-
-  
 
 1)Experience Early Success  
 
@@ -27,9 +23,7 @@ In Greenwood, students learn Mathematics in a fun and interactive manner so that
 3)Make Steady Progress
 
 Strategies adopted by the department to provide an engaging learning experiences:
-
   
-
 <center>a) Learning through Games</center>
 
 <img src="/images/math.jpeg" 

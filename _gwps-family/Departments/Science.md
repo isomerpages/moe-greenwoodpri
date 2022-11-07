@@ -4,13 +4,12 @@ permalink: /gwps-family/Departments/Science/
 description: ""
 third_nav_title: Departments
 ---
-**VISION**
+### <center> VISION
 
-Critical thinkers with a passion to learn and a concern for the environment.
+<center>Critical thinkers with a passion to learn and a concern for the environment.
 
   
-
-**MISSION**
+### <center>  MISSION
 
 To nurture students to have a curious mind and a desire to learn.
 
@@ -20,9 +19,7 @@ To equip students with the skills to carry out critical and innovative thinking.
 
   
 
-  
-
-**KEY PROGRAMMES**
+#### **KEY PROGRAMMES**
 
 **Teaching and Learning**
 

@@ -90,10 +90,8 @@ In 2021, the Mathematics Department in Greenwood Primary School embarked on math
 
 <center>b) Link Mathematics in class to the real world</center>
 
-<img src="/images/image055.jpeg" 
-     style="width:50%;float:left"><img src="/images/image057.jpeg" 
-     style="width:50%;float:left;height:300px">
-		
+![](/images/m9.png)	
+	
 
 <center>c) Show Reasoning and Communication</center>
 

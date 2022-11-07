@@ -48,8 +48,5 @@ The friendly librarian visits every classroom fortnightly to share on authors an
 Students ‘caught reading’ outside their classrooms are awarded reading badges. These badges serve to build enthusiasm around reading by getting kids talking about the books they love
 
 	
-<img src="/images/EL2.png" 
-     style="width:80%">
-
-
+![](/images/EL3.png)
 <center>Students 'caught reading' during their free time.</center>

@@ -4,19 +4,15 @@ permalink: /gwps-family/Departments/English-Language/
 description: ""
 third_nav_title: Departments
 ---
-**Vision**  
+### <center>Vision
 
-Confident and competent readers who love the English language
+<center>Confident and competent readers who love the English language
 
-**Mission**
+### <center>Mission
 
 To enhance the joy of learning English through quality teaching and learning 
-  
-
-At GWPS, we develop students who love the language by first inculcating a love for reading through our extensive reading programmes
-
-  
-
+  At GWPS, we develop students who love the language by first inculcating a love for reading through our extensive reading programmes
+ 
 ##### Read @ Greenwood  
 
 **Book Buzz in the Woods**

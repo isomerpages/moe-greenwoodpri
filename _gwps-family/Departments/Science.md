@@ -52,9 +52,7 @@ The Science Olympiad programme (Primary 3-5) and Excellence 2000 (E2K) Science (
 
 In this programme, students are given an opportunity to engage in hands-on tasks and learn Science in a fun manner through everyday scenarios. It provides opportunities for students to deepen their learning and to stimulate their creativity. It aims to develop students into concerned citizens, active contributors and self-directed learners.
 
-
-<img src="/images/sc1.png" 
-     style="width:50%;float:center">
+![](/images/rsz_2sc1.png)
 		 
 **GREEN in the Woods (Gracious, Responsible & Environmentally Engaged in the Woods)**
 

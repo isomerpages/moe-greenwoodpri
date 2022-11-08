@@ -4,11 +4,11 @@ permalink: /gwps-family/Departments/Mathematics/
 description: ""
 third_nav_title: Departments
 ---
-### **<CENTER>Vision**
+### <CENTER>Vision
 
 <CENTER>Confident Thinkers, Competent and Excellent Problem Solvers
 
-### **<CENTER>Mision**
+### <CENTER>Mission
 
 To instil in students the love for Mathematics and help them attain a level of mastery in problem-solving skills that will serve them well in life.
 

@@ -26,6 +26,8 @@ Science department believes in deepening the Inquiry approach and the 5E (Evalua
 
 ![](/images/SC.jpeg)
 
+	<br>
+	
 **Eureka! With Parents**  
 
 This programme aims to fuel the curiosity in our students  through scientific inquiry by relating Science concepts acquired from school to the real world. We bring Science alive and make it  relevant and meaningful for our students through Eureka! With Parents. This programme allows parents to explore Science with their children during the school holidays. Here are some real life discoveries shared by our students  and their parents which have been featured in our Eureka with Parents book.

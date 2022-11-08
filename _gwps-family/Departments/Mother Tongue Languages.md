@@ -24,10 +24,7 @@ Key Programme
 
 Our ALP - BLISS in Mother Tongue Languages (MTL) aims to help students to see the relevance of learning MTL by applying reasoning and argumentative skills to construct meaning and opinions linking to societal concerns in the real world. During BLISS lessons, we equip our pupils with 21st-century skills to think critically, examine problems, gather information, and make informed decisions. In the process, students also become more confident speakers and learners who are able to use MTL more effectively.
 
-<img src="/images/2.jpeg" 
-     style="width:33%;float:left"><img src="/images/ML1.png" 
-     style="width:33%;float:left"><img src="/images/5.jpeg" 
-     style="width:25%">
+![](/images/rsz_mt1.png)
 		
 <br>
 
@@ -35,17 +32,7 @@ Our ALP - BLISS in Mother Tongue Languages (MTL) aims to help students to see th
 
 Mother Tongue Languages (MTL) Fortnight aims to create an immersive environment for learning and appreciating Mother Tongue Languages and Cultures. MTL teachers conduct workshops and cultural activities for students to participate in authentic cultural experiences as part of MTL fortnight activities. These learning opportunities stimulate the appreciation of the Mother Tongue Culture and promote interest in the learning of the Mother Tongue languages.
 
-<img src="/images/ml.jpeg" 
-     style="width:50%;float:left;height:240px"><img src="/images/ml2.jpeg" 
-     style="width:50%">
-		 
-<img src="/images/ml3.png" 
-     style="width:50%;float:left"><img src="/images/ml4.jpeg" 
-     style="width:50%">
-		
-<img src="/images/ml5.jpeg" 
-     style="width:50%;float:left"><img src="/images/ml6.jpeg" 
-     style="width:50%">
+![](/images/rsz_mt2.png)
 
 <center>Cultural Celebrations and Activities</center>
 

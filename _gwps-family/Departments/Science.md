@@ -7,7 +7,6 @@ third_nav_title: Departments
 ### <center> VISION
 
 <center>Critical thinkers with a passion to learn and a concern for the environment.
-
   
 ### <center>  MISSION
 
@@ -17,8 +16,8 @@ To equip students with the skills to carry out critical and innovative thinking.
 
  To develop in students, a concern for the environment.
 
-  
-
+<br>
+	
 #### **KEY PROGRAMMES**
 
 **Teaching and Learning**

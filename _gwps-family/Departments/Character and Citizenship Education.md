@@ -4,13 +4,11 @@ permalink: /gwps-family/Departments/Character-and-Citizenship-Education/
 description: ""
 third_nav_title: Departments
 ---
-
-
-Vision  
+### Vision  
 
 Citizens of good character who are rooted to Singapore
 
-Mission
+### Mission
 
 To nurture responsible citizens who are leaders of character.
 

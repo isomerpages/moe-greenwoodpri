@@ -40,17 +40,11 @@ Every year, the MTL Department will organise activities to create an immersive e
 
 **<center>Chinese New Year Celebrations</center>**
 
-![](/images/image019.png)
-![](/images/image021.png)
+![](/images/cny-min.png)
 
 **<center>Hari Raya Puasa Celebrations</center>**
 
-<img src="/images/image024.jpeg" 
-     style="width:20%;float:left"><img src="/images/image026.jpeg" 
-     style="width:20%;float:left"><img src="/images/image028.jpeg" 
-     style="width:20%;float:left"><img src="/images/image030.jpeg" 
-     style="width:20%;float:left"><img src="/images/image032.jpeg" 
-     style="width:20%">
+![](/images/HR-min.png)
 		 
 <br>
 <center>Deepavali</center>
@@ -66,17 +60,15 @@ The department also provides external platforms to stretch the students’ poten
 		 
 <center>Qin Zhen - Commendation Award<br>25th National Chinese Essay writing competition</center>
 
-<img src="/images/image041.jpeg" 
-     style="width:25%;float:left"><img src="/images/image047.png" 
-     style="width:35%;float:left"><img src="/images/image044.jpeg" 
-     style="width:20%;float:left"><img src="/images/image046.jpeg" 
-     style="width:20%">
+![](/images/ML-min.png)
 		 
 <center>Rakan Bahasa Ambassadors</center>
 
 <img src="/images/image050.jpeg" 
      style="width:30%">
-		 
+
+<center>Tamil Language Spelling Bee competition<center>
+
 **School-Based Learning Packages**
 
 The MTL Department prides itself in creating in-house writing, comprehension and oral packages to cater to the needs of our students. In class, teachers used varied strategies to engage the students and make the Mother Tongue Languages fun and interesting.

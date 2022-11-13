@@ -80,18 +80,10 @@ Art Trail and Exhibition aim to give voice to our students by creating platforms
 
 Ghost Nets of the Ocean demonstrates the power of art to spread the message of environmental sustainability and biodiversity. Empowering children to learn and think about the interconnectedness of the environment we live in through play, stories, and hands-on activities is impactful as it nurtures life-long learning skills about empathy, awareness, and shared responsibility for the health of our environment.
 
-<img src="/images/image006.jpeg" 
-     style="width:33%;float:left"><img src="/images/image008.jpeg" 
-     style="width:33%;float:left">  <img src="/images/image010.gif" 
-     style="width:33%">
-		 
+![](/images/ART.png)
 
 
-| Ghost Nets of the Ocean 2017 | Singapore Youth Festival Exhibition 2019 Recognition <br>‘Teh Tarik and Coffee' |Singapore Youth Festival Exhibition 2021 Recognition <BR>‘Digital Gallery of Memories’|
-| -------- | -------- | -------- |
-|||
-
-Museum Based Learning Journey & Assembly Programme  
+**Museum Based Learning Journey & Assembly Programme  **
 
 Museum Based Learning (MBL)  Journey extends students’ appreciation and experience for the arts. MBL experience is designed to provide the breadth and depth of learning local art as part of all primary 4 students’ core learning experience in the art curriculum. The experience comprises pre-, during- and post-visit experiences to one of the local art museums where students are involved as artists and audience to create and appreciate art.The MBL experience culminates in a showcase of students’ art expression.
 
@@ -102,10 +94,7 @@ Museum Based Learning (MBL)  Journey extends students’ appreciation and exper
 
 Students would have creative and innovative self-expression opportunities in the six years of learning in Greenwood Primary through various mediums. The learning of local artworks and artists strengthens the understanding of the individual’s national identity by fostering the appreciation of one’s cultural heritage. The engagement in art discussions in the curriculum promotes a lifelong enjoyment and an appreciation for artistic works, developing visual literacy in our students. The production of artwork encourages imagination and cultivates in students the capacity to innovate and improvise.
 
-<img src="/images/image014.gif" 
-     style="width:33%;float:left"><img src="/images/image016.gif" 
-     style="width:33%;float:left">  <img src="/images/image018.gif" 
-     style="width:33%;height:180px">
+![](/images/ART2.png)
 		 
 **Music**
 

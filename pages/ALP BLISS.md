@@ -3,9 +3,9 @@ title: ALP BLISS
 permalink: /about-gwps/alp-bliss/
 description: ""
 ---
-## <center>Bilingual Literature apprecIation Student Series (BLISS)
+### <center>Bilingual Literature apprecIation Student Series (BLISS)
 
-# **Rationale:**
+#### **Rationale:**
 
 Aligning to the GWPS vision of nurturing pupils to be&nbsp;**Motivated Learners, Critical Thinkers and Leaders of Character**, and&nbsp;**mission of nurturing individuals to be lifelong learners**, we have designed a literature appreciation curriculum for our pupils, BLISS (Bilingual Literature ApprecIation Student Series).
 
@@ -15,7 +15,7 @@ Aligning to the GWPS vision of nurturing pupils to be&nbsp;**Motivated Learners,
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ALP focuses on creativity, critical thinking, communication and collaboration skills in our school based curriculum.
 
-# **Philosophy:**
+#### **Philosophy:**
 
 Our Primary 1 to Primary 6 pupils use Socratic Questioning and Philosophy for Children (P4C) to develop 21st&nbsp;century skills. In BLISS, we believe that every pupil can think for himself/herself. Every child’s voice is valued.
 

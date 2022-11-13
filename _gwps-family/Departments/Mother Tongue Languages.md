@@ -55,9 +55,7 @@ Every year, the MTL Department will organise activities to create an immersive e
 <br>
 <center>Deepavali</center>
 
-<img src="/images/image038.jpeg" 
-     style="width:50%;float:left"><img src="/images/image035.jpeg" 
-     style="width:50%">
+![](/images/dp.png)
 		 
 **External Competitions and Activities**
 
@@ -91,6 +89,4 @@ The MTL Department prides itself in creating in-house writing, comprehension and
 
 E-Oral & Writing workshops for P3- P6 parents are conducted annually to equip parents with skills to support their children at home further. The MTL teachers work hand-in-hand with the parents on the usage of Greenwood Primary School’s in-house e-Oral and writing packages. In 2021, the workshop was held virtually via Zoom. Parents were actively engaged in discussion even though it was conducted virtually.
 
-<img src="/images/ml02.png" 
-     style="width:50%;float:left"><img src="/images/ml03.png" 
-     style="width:50%">
+![](/images/ML2.png)

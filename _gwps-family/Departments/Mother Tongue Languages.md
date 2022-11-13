@@ -73,12 +73,10 @@ The department also provides external platforms to stretch the students’ poten
 
 The MTL Department prides itself in creating in-house writing, comprehension and oral packages to cater to the needs of our students. In class, teachers used varied strategies to engage the students and make the Mother Tongue Languages fun and interesting.
 
-<img src="/images/4.jpeg" 
-     style="width:50%;float:left"><img src="/images/ml01.jpeg" 
-     style="width:50%">
+
 		 
 **e-Oral and writing workshop for parents**
 
 E-Oral & Writing workshops for P3- P6 parents are conducted annually to equip parents with skills to support their children at home further. The MTL teachers work hand-in-hand with the parents on the usage of Greenwood Primary School’s in-house e-Oral and writing packages. In 2021, the workshop was held virtually via Zoom. Parents were actively engaged in discussion even though it was conducted virtually.
-
+	
 ![](/images/ML2.png)

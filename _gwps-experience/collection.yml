@@ -2,4 +2,5 @@ collections:
   gwps-experience:
     output: true
     order:
+      - LLP WHIZZ.md
       - ALP BLISS.md

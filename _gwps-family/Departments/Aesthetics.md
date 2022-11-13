@@ -60,15 +60,7 @@ Key Programmes includes:
 
 The PAM Week & Talent Quest provides students with a platform to showcase their talents and appreciate the talents of others. It is also a platform for students to express themselves creatively through Arts.
 
-<img src="/images/image002.gif" 
-     style="width:50%;float:left"><img src="/images/image004.gif" 
-     style="width:50%">
-
-
-
-| SUO YUANYI  <br>2 Innovation (2021) | DESTINEE TAN  <br>6 Empathy (2021) | 
-| -------- | -------- | 
-|||
+![](/images/art3.png)
 
 #### Art Trail & Exhibition
 

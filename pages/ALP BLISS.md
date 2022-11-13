@@ -23,7 +23,7 @@ Through Socratic Questioning and Philosophy for Children (P4C), our pupils have 
 
 ![](/images/BLISS.png)
 
-# **Outcomes:**
+#### **Outcomes:**
 
 Pupils are able to appreciate literature to:
 
@@ -37,7 +37,7 @@ Pupils are able to appreciate literature to:
 
 ·&nbsp;&nbsp;&nbsp;&nbsp;internalise the school values of Wisdom, Empathy, Graciousness, Resilience, Responsibility and Open-mindedness.
 
-# **Implementation:**  
+#### **Implementation:**  
 The BLISS curriculum runs from Term 1 to Term 3.&nbsp;&nbsp;In the delivery of the lessons, teachers use thinking routines to facilitate discussion based on carefully chosen texts or books. Teachers also use Socratic Questioning and P4C alongside the thinking routines to stimulate pupils thinking, enabling them to see things from different perspectives, evaluate the information and thoughts, and lead them to reflect about their thinking.
 
 **<center>&nbsp;Minister’s Chan Visit to GWPS on 25 May 2022</center>**

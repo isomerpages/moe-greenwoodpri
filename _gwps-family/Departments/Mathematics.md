@@ -72,8 +72,8 @@ Another innovative resource proudly developed by Greenwood teachers is the At Ho
 	
 <center>Many skills in Mathematics require some form of drill and practice to be mastered. The ATM questions are designed to provide this in a fun way that promotes family bonding as well.</center>
 
-**Maths Week
-**
+#### Maths Week
+
 Every year during the Maths week, the Mathematics department teachers and Math monitors work together to plan and carry out various interesting Mathematics activities for all students. These activities help to engage and excite the students and build their confidence in the subject.
 
 ![](/images/m8.png)	

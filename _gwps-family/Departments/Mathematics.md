@@ -62,7 +62,7 @@ The key to problem solving in Greenwood is based on the STAR Strategy. It is a s
 
 ![](/images/math14.jpg)
 
-<center>At Home with Mathematics (ATM)</center>
+**<center>At Home with Mathematics (ATM)</center>**
 
 ![](/images/math15.jpeg)
 
@@ -72,14 +72,14 @@ Another innovative resource proudly developed by Greenwood teachers is the At Ho
 	
 <center>Many skills in Mathematics require some form of drill and practice to be mastered. The ATM questions are designed to provide this in a fun way that promotes family bonding as well.</center>
 
-Maths Week
-
+**Maths Week
+**
 Every year during the Maths week, the Mathematics department teachers and Math monitors work together to plan and carry out various interesting Mathematics activities for all students. These activities help to engage and excite the students and build their confidence in the subject.
 
 ![](/images/m8.png)	
 	
 		 
-Journal Writing  
+**Journal Writing  **
  
 
 In 2021, the Mathematics Department in Greenwood Primary School embarked on mathematics journaling with our students. Through Journaling, students develop reasoning and communication skills and also apply their knowledge in Mathematics. Students are able to consolidate and deepen their understanding of mathematics concepts. Journaling is also a good habit that supports the development of metacognition.
@@ -105,14 +105,14 @@ In 2021, the Mathematics Department in Greenwood Primary School embarked on math
 
 ![](/images/math23.png)
 
-Mathemagician
+**Mathemagician**
 
 Every student in Greenwood has the opportunity to be a Mathemagician. As Mathemagician, they get to share articles or stories related to mathematics and post questions, puzzles and self-created challenges at the maths corner in their classrooms for a week. In addition, they may also share their reflections on their experience as a Mathemagician. Through this platform, students become more confident in Mathematics and develop affection and a good attitude for the subject.
 
 ![](/images/math24.png)
 ![](/images/math25.png)
 
-Partnering our Stakeholders  
+**Partnering our Stakeholders  **
 
 Every year, the Mathematics department teachers organize workshops for the parents. In these workshops, parents can pick up strategies that they can adopt to engage their children in problem-solving at home. Given the Safe Management Measures (SMM) this year, our school conducted the workshops through the online platform.
 

@@ -24,8 +24,6 @@ To equip students with the skills to carry out critical and innovative thinking.
 Science department believes in deepening the Inquiry approach and the 5E (Evaluate, Engage, Explore, Explain, Elaborate, Evaluate) approach through the various engaging and enriching Science lessons. We want to deepen these skills through Hinge Point Questioning and the Error Analysis approach where we would enable students to ask questions and build their critical thinking skills. Strategies such as RISSA and RISES help them further hone their thinking process when they encounter Science Questions.
 
 ![](/images/SC.jpeg)
-
-	<br>
 	
 **Eureka! With Parents**  
 

@@ -69,11 +69,10 @@ The department also provides external platforms to stretch the students’ poten
 
 <center>Tamil Language Spelling Bee competition<center>
 <br>
+
 School-Based Learning Packages
 
 The MTL Department prides itself in creating in-house writing, comprehension and oral packages to cater to the needs of our students. In class, teachers used varied strategies to engage the students and make the Mother Tongue Languages fun and interesting.
-
-
 		 
 e-Oral and writing workshop for parents
 

@@ -67,7 +67,7 @@ The department also provides external platforms to stretch the students’ poten
 <img src="/images/image050.jpeg" 
      style="width:30%">
 
-<center>Tamil Language Spelling Bee competition<center>
+<center>Tamil Language Spelling Bee competition</center>
 
 
 #### School-Based Learning Packages

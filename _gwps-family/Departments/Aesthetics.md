@@ -74,8 +74,7 @@ Ghost Nets of the Ocean demonstrates the power of art to spread the message of 
 
 ![](/images/ART.png)
 
-
-**Museum Based Learning Journey & Assembly Programme  **
+**Museum Based Learning Journey & Assembly Programme**
 
 Museum Based Learning (MBL)  Journey extends students’ appreciation and experience for the arts. MBL experience is designed to provide the breadth and depth of learning local art as part of all primary 4 students’ core learning experience in the art curriculum. The experience comprises pre-, during- and post-visit experiences to one of the local art museums where students are involved as artists and audience to create and appreciate art.The MBL experience culminates in a showcase of students’ art expression.
 

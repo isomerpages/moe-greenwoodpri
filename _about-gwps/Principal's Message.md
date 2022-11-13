@@ -20,5 +20,5 @@ _Guidance to Wisdom_
 
 Partnering you in education,
 
-Mrs Tricilia Chua  
-Principal
+**Mrs Tricilia Chua  
+Principal**

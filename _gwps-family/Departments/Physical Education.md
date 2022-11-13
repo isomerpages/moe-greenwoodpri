@@ -4,17 +4,15 @@ permalink: /gwps-family/Departments/Physical-Education/
 description: ""
 third_nav_title: Departments
 ---
-Vision  
+### Vision  
 
 Every student an active, all-rounded individual who takes ownership of his/her holistic wellness
 
-  
-
-Mission 
+### Mission 
 
 To cultivate each student’s interest to adopt an active, healthy lifestyle and develop sportsmanship through a variety of physical activities.
 
-Key Programmes
+#### Key Programmes
 
 **Swimsafer 2.0**  
 
@@ -24,7 +22,7 @@ The SwimSafer Programme is a programme for the Primary 3 students and aims to te
      style="width:50%"><img src="/images/image03.jpeg" 
      style="width:50%">
 		 
-Primary 5 Outdoor Adventure Camp 
+**Primary 5 Outdoor Adventure Camp **
 
 In line with our school’s focus on the holistic development of our students, the school conducts a 3-Day Outdoor Adventure Camp for Primary 5 students. The camp aims to build life skills, develop team spirit, build confidence and improve communication skills in an outdoor learning environment.
 
@@ -32,7 +30,7 @@ In line with our school’s focus on the holistic development of our students, t
      style="width:50%;float:left"><img src="/images/image007.jpeg" 
      style="width:50%">
 		 
-Play@Recess programme
+**Play@Recess programme**
 
 The programme aims to encourage students to be physically active through participation in unstructured play thus leading an active lifestyle. In addition, the programme allows students to develop their social interaction skills through unstructured play.
 

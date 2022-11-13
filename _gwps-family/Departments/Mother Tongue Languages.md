@@ -4,19 +4,19 @@ permalink: /gwps-family/Departments/Mother-Tongue-Languages/
 description: ""
 third_nav_title: Departments
 ---
-Vision
+### Vision
 
 A community of passionate MTL learners who have the global mindset and yet stay rooted 
 
   
 
-Mission 
+### Mission 
 
 To build a conducive environment for the teaching and learning of MTL and establish a team of competent teachers.
 
   
 
-Key Programme  
+#### Key Programme  
 
   
 
@@ -34,16 +34,16 @@ Mother Tongue Languages (MTL) Fortnight aims to create an immersive environment 
 
 ![](/images/rsz_mt2.png)
 
-<center>Cultural Celebrations and Activities</center>
+**<center>Cultural Celebrations and Activities</center>**
 
 Every year, the MTL Department will organise activities to create an immersive experience leading up to Lunar New Year, Hari Raya Puasa and Deepavali. By experiencing different cultural activities, the MTL Department aims for students of all races to learn more about the various cultures. The activities also promote cultural awareness amongst the different ethnic groups and bring about a greater understanding and appreciation each other’s culture.
 
-<center>Chinese New Year Celebrations</center>
+**<center>Chinese New Year Celebrations</center>**
 
 ![](/images/image019.png)
 ![](/images/image021.png)
 
-<center>Hari Raya Puasa Celebrations</center>
+**<center>Hari Raya Puasa Celebrations</center>**
 
 <img src="/images/image024.jpeg" 
      style="width:20%;float:left"><img src="/images/image026.jpeg" 

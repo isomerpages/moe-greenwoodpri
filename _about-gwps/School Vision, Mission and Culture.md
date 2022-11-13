@@ -11,7 +11,7 @@ To nurture individuals to become lifelong learners and responsible citizens thro
 
 ### <center>VISION
 
-**<center>Motivated Learners**
+**<center>Motivated Learners</center>**
 
 <img src="/images/VMC/motivated%20learners%20v2.png" 
      style="width:40%">

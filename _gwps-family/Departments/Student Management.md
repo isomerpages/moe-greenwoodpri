@@ -4,13 +4,11 @@ permalink: /gwps-family/Departments/Student-Management/
 description: ""
 third_nav_title: Departments
 ---
-
-
-**Vision**
+### Vision
 
 Every student is a person of good character
 
-**Mission**
+### Mission
 
 To nurture a safe and conducive learning environment for all through positive behavior
 

@@ -90,7 +90,7 @@ Museum Based Learning (MBL)  Journey extends students’ appreciation and exper
 <img src="/images/image011.png" 
      style="width:50%">
 <CENTER>Students’ Engaging in learning</center>
-
+<br>
 
 Students would have creative and innovative self-expression opportunities in the six years of learning in Greenwood Primary through various mediums. The learning of local artworks and artists strengthens the understanding of the individual’s national identity by fostering the appreciation of one’s cultural heritage. The engagement in art discussions in the curriculum promotes a lifelong enjoyment and an appreciation for artistic works, developing visual literacy in our students. The production of artwork encourages imagination and cultivates in students the capacity to innovate and improvise.
 
@@ -103,4 +103,3 @@ Students would have opportunities to develop the awareness and appreciation of M
 <img src="/images/image019.jpeg" 
      style="width:50%;float:left"><img src="/images/image022.gif" 
      style="width:50%">
-![](/images/image024.gif)

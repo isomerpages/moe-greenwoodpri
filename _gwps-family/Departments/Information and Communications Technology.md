@@ -4,15 +4,13 @@ permalink: /gwps-family/Departments/Information-and-Communications-Technology/
 description: ""
 third_nav_title: Departments
 ---
-
-
-Vision  
+### Vision  
 
 Achieving excellence through an ICT enriched environment.  
 
   
 
-Mission 
+### Mission 
 
 To nurture a community of responsible ICT users who embrace self-directed and collaborative learning.  
 

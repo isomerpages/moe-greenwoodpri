@@ -10,3 +10,7 @@ description: ""
 # [GWPS OPAC](https://schoolibrary.moe.edu.sg/greenwoodpri)
 	
 # [GWPS Alumni Registration](https://go.gov.sg/greenwoodalumni)
+
+
+<img src="/images/Small%20logo/gwps%20children%20(1).png" 
+     style="width:25%;float:right">

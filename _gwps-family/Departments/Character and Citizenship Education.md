@@ -53,3 +53,6 @@ The programme focuses on the three areas of Awareness, Action and Advocacy which
      style="width:50%">
 
 Students in Primary 1, 2 and 3 work on ways to contribute to the community by raising awareness on issues that matter to them. Students in Primary 4, take action through our annual Celebrating OWLETS event which serves as a platform for social entrepreneurship and to raise funds for an IPC. Primary 5 students take action and become advocates on important issues such as Active Ageing, Clean & Green and promoting SMART nation initiatives. Students become Leaders of Character as they influence and shape the thinking of others as they work with external stakeholders such as the elderly care centres and preschools in the community.
+
+<img src="/images/Small%20logo/gwps%20children%20(4).png" 
+     style="width:25%;float:right">

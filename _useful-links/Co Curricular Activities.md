@@ -38,3 +38,6 @@ AESTHETICS CCA - HOD AESTHETICS (Mrs Jennifer Teo)*</center>
 |17|	Scouts	|Ang Wee Jin<br>Ms Nur'ain Bte Rahim<br>Mrs Frances Loh<br>Ms Noor Shazarratul Aini 
 |18	|Brownies	|Mdm Wan Norzilah<br>Mdm Nazeera  Binte Sulaimi <br>Ms Cynthia Ang Xin Wei<br>Ms Tan Yueh Zhen Clara
  ||SDR	|Mdm Teh Sui Ching Lesley <br>Mdm Noorazima Banu <br>Mdm Azreenah Binte Kamit <br>Mdm Nuraini Bte Abdul Hamid <br>Mdm Siti Norhaidawati<br>Mdm Ong Mee Lin
+ 
+ <img src="/images/Small%20logo/gwps%20children%20(4).png" 
+     style="width:25%;float:right">

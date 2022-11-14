@@ -4,23 +4,19 @@ permalink: /gwps-family/Departments/Character-and-Citizenship-Education/
 description: ""
 third_nav_title: Departments
 ---
-### Vision  
+### <center>Vision</center>  
 
-Citizens of good character who are rooted to Singapore
+<center>Citizens of good character who are rooted to Singapore</center>
 
-### Mission
+### <center>Mission</center>
 
-To nurture responsible citizens who are leaders of character.
+<center>To nurture responsible citizens who are leaders of character.</center>
 
-  
-
-Key Programmes  
+#### **Key Programmes  **
 
 **Character Education through Intellectual Discourse (CareIn)**  
 
 CareIn is a school-based curriculum designed to instil school values and citizenry in our students. It aims to build SEL competencies in them as they engage in discussions on contemporary issues that affect them and the society. Using Appreciative Inquiry (AI), the 4 Player Model and Systems Thinking (Upper Primary), teachers engage students in critical thinking and guide them in developing their own moral compass. This is critical in developing our students into Critical Thinkers and Leaders of Character. 
-
-  
 
 **Life Skills (LS)**  
 

@@ -38,3 +38,6 @@ description: ""
 |The School Library|<b>Monday to Friday</b><br>7.30 am - 4.30 pm
 |School Uniform - Chop Kong Chong|Sales through School Bookshop<br><br>Students are to purchase uniform from the bookshop as parents will not be allowed to enter school premises to buy due to SMM.<br><br>Parents may purchase uniforms from the vendor directly at the address below:<br><br>604 Sembawang Rd, #02-13, Sembawang Shopping Centre,<br>Singapore 758459<br>Tel: 67531489
 | Bookshop - Pacific Bookstores	|Open to students - Monday to Friday (8.00am - 2.30pm)
+
+<img src="/images/Small%20logo/gwps%20children%20(1).png" 
+     style="width:25%;float:right">

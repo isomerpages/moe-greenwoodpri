@@ -41,14 +41,14 @@ Two weeks are designated for Project Work which comprises of a learning curricul
 
 ![](/images/llp1.png)
 
-
 **Values in the Woods Programme**  
 
 The Mother Tongue and Art department staff and pupils have come together to develop a school based programme to be conducted during CCE lessons. The values stories are written by MT/CL teachers and are translated into EL for scaling up to ML and TL versions. Our pupils take the lead in crafting the scenes and illustrating the stories with characters based on our school mascot, OWL, in various families of different races living together. This storyboard is further animated. Through the pupils’ work, they actively transmit the school values to the student body through authentic satires happening around them.
 
-<img src="/images/VIW_recording.jpeg" style="width:33%;float:left"><img src="/images/VIW_recording1.jpeg" style="width:33%;float:left"><img src="/images/VIW%20script%20writing.jpeg" style="width:33%">
-		 
-![](/images/llp2.png)
+<img style="width:33%;float:left" src="/images/VIW_recording.jpeg"><img style="width:33%;float:left" src="/images/VIW_recording1.jpeg"><img style="width:33%" src="/images/VIW%20script%20writing.jpeg">
+		 <img style="width:70%" src="/images/llp2.png">
+
+
 **Lifeskills Programme**
 
 Lifeskills programme consists of Form Teacher Guidance Period (FTGP), 7 Habits Lessons and Financial Literacy. Through the 7 Habits lessons, pupils develop good habits for them to develop their social emotional competencies and enable them to interact effectively with their peers and others.
@@ -67,6 +67,4 @@ This is a community project in collaboration with KTPH as part of service to the
 
 As part of the Education and Career Guidance (ECG) programme, our pupils lead as health ambassadors of the school. They will give talks and share tips of good health habits to the school community, family members and the community around us pertaining to the body system in the theme of the year. We aspire that our pupils would be able to empathise with or inspired to be future workers in the health industry and serve our aging nation.
 
-
-
-
+<img style="width:33%;float:right" src="/images/Small%20logo/gwps%20children%20(3).png">

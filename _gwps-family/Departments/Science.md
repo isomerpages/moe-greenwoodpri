@@ -4,17 +4,15 @@ permalink: /gwps-family/Departments/Science/
 description: ""
 third_nav_title: Departments
 ---
-### VISION
+### <center>VISION</center>
 
-Critical thinkers with a passion to learn and a concern for the environment.
+<center>Critical thinkers with a passion to learn and a concern for the environment.</center>
   
-### MISSION
+### <center>MISSION</center>
 
-To nurture students to have a curious mind and a desire to learn.
+<center>To nurture students to have a curious mind and a desire to learn.
 
-To equip students with the skills to carry out critical and innovative thinking. 
-
- To develop in students, a concern for the environment.
+To equip students with the skills to carry out critical and innovative thinking. <br>To develop in students, a concern for the environment.</center>
 
 	
 #### **KEY PROGRAMMES**
@@ -22,10 +20,12 @@ To equip students with the skills to carry out critical and innovative thinking.
 **Teaching and Learning**
 
 Science department believes in deepening the Inquiry approach and the 5E (Evaluate, Engage, Explore, Explain, Elaborate, Evaluate) approach through the various engaging and enriching Science lessons. We want to deepen these skills through Hinge Point Questioning and the Error Analysis approach where we would enable students to ask questions and build their critical thinking skills. Strategies such as RISSA and RISES help them further hone their thinking process when they encounter Science Questions.
+<img src="/images/SC.jpeg" 
+     style="width:70%">
 
-![](/images/SC.jpeg)
+
 	
-**Eureka! With Parents**  
+**Eureka! With Parents** <br>
 
 This programme aims to fuel the curiosity in our students  through scientific inquiry by relating Science concepts acquired from school to the real world. We bring Science alive and make it  relevant and meaningful for our students through Eureka! With Parents. This programme allows parents to explore Science with their children during the school holidays. Here are some real life discoveries shared by our students  and their parents which have been featured in our Eureka with Parents book.
 
@@ -61,3 +61,6 @@ Throughout the year, key programmes and innovations are planned and organised to
 In addition, our students also participate actively in outreach programmes organised by external agencies such as Northwest CDC, NEA and NParks. Partnership with the community gives them an opportunity to engage and work collaboratively with others to conserve our environment and create environmental awareness. Accreditations from the Northwest CDC, Singapore Environment Council, Building and Constructions Authority (BCA) and World Wide Fund For Nature (WWF) have affirmed the school’s good practices.
 
 ![](/images/rsz_sc2.png)
+
+<img src="/images/Small%20logo/gwps%20children%20(4).png" 
+     style="width:25%;float:right">

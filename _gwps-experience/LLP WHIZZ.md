@@ -3,7 +3,6 @@ title: LLP WHIZZ
 permalink: /about-gwps/LLP-WHIZZ/
 description: ""
 ---
-
 ### **Learning for Life Programme (LLP)**
 
 WHIZZ –&nbsp;**W**e are T**H**inking,&nbsp;**I**nventive and&nbsp;**Z**ealous KId**Z**&nbsp;to serve the community.
@@ -14,13 +13,9 @@ WHIZZ –&nbsp;**W**e are T**H**inking,&nbsp;**I**nventive and&nbsp;**Z**ealous 
 
 Globalisation, changing demographics and technological advancements are some of the key driving forces in a fast changing world. To enable our pupils to face the challenges and capitalise on the opportunities of the future, the school has developed a value-based curriculum which develops pupils’ critical and inventive thinking where they apply various thinking skills and systems to derive alternative solutions and perspectives and relate to real-life problems.
 
-  
-
 #### **Philosophy:**  
 
 We believe that the critical and inventive thinking skills that one acquires when he/she is young will ultimately determine his/her level of success in the future. Thinking habits and systems such as Appreciative Inquiry (AI), Systems Thinking, 6 Thinking Hats, PDCA (Plan, Do, Check, Action) Cycle, Innowits Protocol and Design Thinking promote critical and inventive thinking. These systems require pupils to have an intentional process to derive new, relevant solutions that would create positive impacts. As the customised curriculum is values-based, it would develop our pupils with some core values and give them the moral compass to be rooted to Singapore. We believe that early exposure to thinking dispositions and values-based inquiry would groom our pupils to be lifelong learners and prepare them for greater goals in their lives to serve the future of Singapore.
-
-  
 
 #### **Outcomes:**
 
@@ -51,7 +46,7 @@ Two weeks are designated for Project Work which comprises of a learning curricul
 
 The Mother Tongue and Art department staff and pupils have come together to develop a school based programme to be conducted during CCE lessons. The values stories are written by MT/CL teachers and are translated into EL for scaling up to ML and TL versions. Our pupils take the lead in crafting the scenes and illustrating the stories with characters based on our school mascot, OWL, in various families of different races living together. This storyboard is further animated. Through the pupils’ work, they actively transmit the school values to the student body through authentic satires happening around them.
 
-<img style="width:33%;float:left" src="/images/VIW_recording.jpeg"><img style="width:33%;float:left" src="/images/VIW_recording1.jpeg"><img style="width:33%" src="/images/VIW%20script%20writing.jpeg">
+<img src="/images/VIW_recording.jpeg" style="width:33%;float:left"><img src="/images/VIW_recording1.jpeg" style="width:33%;float:left"><img src="/images/VIW%20script%20writing.jpeg" style="width:33%">
 		 
 ![](/images/llp2.png)
 **Lifeskills Programme**
@@ -71,3 +66,7 @@ This is a community project in collaboration with ACM and Greenwood parents to e
 This is a community project in collaboration with KTPH as part of service to the community and at the same time enriches the career education of our pupils. Each year of the collaboration would be based on a theme – related to Science and Health Education learning such as digestive system, circulatory system, muscular and skeletal systems. Once a term, the pupils in the performing arts CCA would perform for an hour during the visit to KTPH. After the performance, the hospital would conduct health talks on the healthy lifestyle and habits that would affect that particular body system as well as the careers in the health industry pertaining to the care of that body system.
 
 As part of the Education and Career Guidance (ECG) programme, our pupils lead as health ambassadors of the school. They will give talks and share tips of good health habits to the school community, family members and the community around us pertaining to the body system in the theme of the year. We aspire that our pupils would be able to empathise with or inspired to be future workers in the health industry and serve our aging nation.
+
+
+
+

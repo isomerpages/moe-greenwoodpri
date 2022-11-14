@@ -18,25 +18,25 @@ To nurture individuals to become lifelong learners and responsible citizens thro
 
 The school community is passionate about learning for life.  We are self-directed learners and collaborators who seek to give our best.
 
-**Critical Thinkers**
+**<center>Critical Thinkers</center>**
 
 <img src="/images/VMC/critical%20thinkers%20v2.png" 
      style="width:40%">
 
 The school community considers and articulates multiple perspectives to solve problems innovatively. We are inquisitive and reflective in examining our own beliefs and assumptions.
 
-**Leaders of Character**
+**<center>Leaders of Character</center>**
 
 <img src="/images/VMC/leaders%20of%20character%20v2.png" 
      style="width:40%">
 
 The school community positively influences and impacts their peers, family and the community. They are good role models who make positive contributions to society.
 
-# **School Culture:**
+# **<center>School Culture:</center>**
 
 <img src="/images/VMC/care%20trust%20and%20support.jpg" 
      style="width:40%">
 
-# **Guiding Principles:**
+# **<center>Guiding Principles:</center>**
 
 ![Guiding Principles: All hands on deck, Child at the centre and every one is valued](/images/VMC/guiding%20principles.jpg)

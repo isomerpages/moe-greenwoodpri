@@ -96,3 +96,6 @@ Senior Teachers
 |Teacher (Music)	| Ms Dai Anna 	|Teacher  (English/Mathematics)	 |Ms Halima Bte Mohamed   Yahuff
  |Teacher (Art)	| Mr Goh Yiang Meng	| Teacher  (English/Mathematics)|Ms Ong Ai Tee
 || |Teacher   (English/Mathematics)	 |Ms Nor Aishah Bte Sa'ad
+
+<img src="/images/Small%20logo/gwps%20children%20(1).png" 
+     style="width:25%;float:right">

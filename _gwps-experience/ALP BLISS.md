@@ -21,7 +21,7 @@ Our Primary 1 to Primary 6 pupils use Socratic Questioning and Philosophy for Ch
 
 Through Socratic Questioning and Philosophy for Children (P4C), our pupils have been able to relate children literature to our school values namely,&nbsp;Wisdom, Empathy, Graciousness, Resilience, Responsibility and Open-mindedness. In addition, pupils have been applying reasoning and argumentative skills to construct meaning and opinions&nbsp;linking these to societal concerns in the real world.
 
-![](/images/BLISS.png)
+<img style="width:70%" src="/images/BLISS.png">
 
 #### **Outcomes:**
 
@@ -41,12 +41,12 @@ Pupils are able to appreciate literature to:
 The BLISS curriculum runs from Term 1 to Term 3.&nbsp;&nbsp;In the delivery of the lessons, teachers use thinking routines to facilitate discussion based on carefully chosen texts or books. Teachers also use Socratic Questioning and P4C alongside the thinking routines to stimulate pupils thinking, enabling them to see things from different perspectives, evaluate the information and thoughts, and lead them to reflect about their thinking.
 
 **<center>&nbsp;Minister’s Chan Visit to GWPS on 25 May 2022</center>**
+<img style="width:70%" src="/images/BLISS2.png">
+<img style="width:70%" src="/images/BLISS3.png">	
+<img style="width:70%" src="/images/BLISS4.png">
+<img style="width:70%" src="/images/BLISS5.png">
 
-![](/images/BLISS2.png)
-![](/images/BLISS3.png)
-![](/images/BLISS4.png)
-![](/images/BLISS5.png)
 
 <center>	
-<img style="width:25%;float:right" src="/images/Picture3.png">
+<img src="/images/Picture3.png" style="width:25%;float:right">
 </center></center></center>

@@ -3,7 +3,7 @@ title: LLP WHIZZ
 permalink: /about-gwps/LLP-WHIZZ/
 description: ""
 ---
-### **Learning for Life Programme (LLP)**
+### **<center>Learning for Life Programme (LLP)</center>**
 
 WHIZZ –&nbsp;**W**e are T**H**inking,&nbsp;**I**nventive and&nbsp;**Z**ealous KId**Z**&nbsp;to serve the community.
 
@@ -45,8 +45,8 @@ Two weeks are designated for Project Work which comprises of a learning curricul
 
 The Mother Tongue and Art department staff and pupils have come together to develop a school based programme to be conducted during CCE lessons. The values stories are written by MT/CL teachers and are translated into EL for scaling up to ML and TL versions. Our pupils take the lead in crafting the scenes and illustrating the stories with characters based on our school mascot, OWL, in various families of different races living together. This storyboard is further animated. Through the pupils’ work, they actively transmit the school values to the student body through authentic satires happening around them.
 
-<img style="width:33%;float:left" src="/images/VIW_recording.jpeg"><img style="width:33%;float:left" src="/images/VIW_recording1.jpeg"><img style="width:33%" src="/images/VIW%20script%20writing.jpeg">
-		 <img style="width:70%" src="/images/llp2.png">
+<img src="/images/VIW_recording.jpeg" style="width:33%;float:left"><img src="/images/VIW_recording1.jpeg" style="width:33%;float:left"><img src="/images/VIW%20script%20writing.jpeg" style="width:33%">
+		 <img src="/images/llp2.png" style="width:70%">
 
 
 **Lifeskills Programme**
@@ -67,4 +67,4 @@ This is a community project in collaboration with KTPH as part of service to the
 
 As part of the Education and Career Guidance (ECG) programme, our pupils lead as health ambassadors of the school. They will give talks and share tips of good health habits to the school community, family members and the community around us pertaining to the body system in the theme of the year. We aspire that our pupils would be able to empathise with or inspired to be future workers in the health industry and serve our aging nation.
 
-<img style="width:33%;float:right" src="/images/Small%20logo/gwps%20children%20(3).png">
+<img src="/images/Small%20logo/gwps%20children%20(3).png" style="width:33%;float:right">

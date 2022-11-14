@@ -4,8 +4,6 @@ permalink: /parents-corner/Briefing-Resources/2022/
 description: ""
 third_nav_title: Parents
 ---
-
-
 *   [P1 Parent Engagement Briefing](/p1-parent-engagement-briefing)  
     
 *   Tamil Language Briefing
@@ -28,3 +26,6 @@ third_nav_title: Parents
   
 
 *   [Parent Teacher Meeting](/files/MTP-22%20P4%20Holistic%20Programme%20%20Subject-based%20Banding_ForUpload.pdf)
+
+<img src="/images/Small%20logo/gwps%20children%20(1).png" 
+     style="width:25%;float:right">

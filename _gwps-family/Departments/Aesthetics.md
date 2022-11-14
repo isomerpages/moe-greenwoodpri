@@ -4,13 +4,13 @@ permalink: /gwps-family/Departments/Aesthetics/
 description: ""
 third_nav_title: Departments
 ---
-### VISION
+### <center>VISION</center>
 
-Life Long ARTS Learners
+<center>Life Long ARTS Learners</center>
 
-### MISSION
+### <center>MISSION</center>
 
-LOVE – Learn and explore ARTS through Opportunities provided in a Vibrant ARTS Environment 
+<center>LOVE – Learn and explore ARTS through Opportunities provided in a Vibrant ARTS Environment </center>
 
 #### Approach
 
@@ -59,8 +59,9 @@ Key Programmes includes:
 #### PAM Week & Talent Quest  
 
 The PAM Week & Talent Quest provides students with a platform to showcase their talents and appreciate the talents of others. It is also a platform for students to express themselves creatively through Arts.
+<img src="/images/art3.png" 
+     style="width:70%">
 
-![](/images/art3.png)
 
 #### Art Trail & Exhibition
 
@@ -72,7 +73,9 @@ Art Trail and Exhibition aim to give voice to our students by creating platforms
 
 Ghost Nets of the Ocean demonstrates the power of art to spread the message of environmental sustainability and biodiversity. Empowering children to learn and think about the interconnectedness of the environment we live in through play, stories, and hands-on activities is impactful as it nurtures life-long learning skills about empathy, awareness, and shared responsibility for the health of our environment.
 
-![](/images/ART.png)
+<img src="/images/ART.png" 
+     style="width:70%">
+
 
 **Museum Based Learning Journey & Assembly Programme**
 
@@ -80,14 +83,14 @@ Museum Based Learning (MBL)  Journey extends students’ appreciation and exper
 
 <img src="/images/image011.png" 
      style="width:50%">
-<center>Students’ Engaging in learning</center>
+**<center>Students’ Engaging in learning</center>**
 <br>
-
 Students would have creative and innovative self-expression opportunities in the six years of learning in Greenwood Primary through various mediums. The learning of local artworks and artists strengthens the understanding of the individual’s national identity by fostering the appreciation of one’s cultural heritage. The engagement in art discussions in the curriculum promotes a lifelong enjoyment and an appreciation for artistic works, developing visual literacy in our students. The production of artwork encourages imagination and cultivates in students the capacity to innovate and improvise.
 
-![](/images/ART2.png)
+<img src="/images/ART2.png" 
+     style="width:70%">
 		 
-**Music**
+#### **Music**
 
 Students would have opportunities to develop the awareness and appreciation of Music in local and global cultures in the six years of learning in Greenwood Primary. They would form the ability for creative expression and communication through Music and acquire a life-long involvement in Music. Students would also obtain a fundamental music understanding in the aural and vocal domains and the playing of instruments as an individual and ensemble playing. In the process of performing and creating Music, students are involved in developing listening skills, fine motor skills, creative thinking skills and social skills.
 

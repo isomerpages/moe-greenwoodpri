@@ -3,7 +3,7 @@ title: ALP BLISS
 permalink: /about-gwps/alp-bliss/
 description: ""
 ---
-### Bilingual Literature apprecIation Student Series (BLISS)
+### <center>Bilingual Literature apprecIation Student Series <br>(BLISS)<center>
 
 #### **Rationale:**
 
@@ -48,5 +48,5 @@ The BLISS curriculum runs from Term 1 to Term 3.&nbsp;&nbsp;In the delivery of t
 ![](/images/BLISS5.png)
 
 <center>	
-<img src="/images/Picture3.png" style="width:25%;float:right">
-</center>
+<img style="width:25%;float:right" src="/images/Picture3.png">
+</center></center></center>

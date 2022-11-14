@@ -2,10 +2,10 @@ collections:
   gwps-partners:
     output: true
     order:
-      - Parents/2020 Briefing Resources.md
-      - Parents/2021 Briefing Resources.md
-      - Parents/2022 Briefing Resources.md
       - Parents/.keep
+      - Parents/2022 Briefing Resources.md
+      - Parents/2021 Briefing Resources.md
+      - Parents/2020 Briefing Resources.md
       - Parents/Cyberwellness.md
       - Parents/Sexuality Education Programme.md
       - Parents/Calendar of Events.md

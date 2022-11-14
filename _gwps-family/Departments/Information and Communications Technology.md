@@ -4,19 +4,16 @@ permalink: /gwps-family/Departments/Information-and-Communications-Technology/
 description: ""
 third_nav_title: Departments
 ---
-### Vision  
+### <center>Vision</center>
 
-Achieving excellence through an ICT enriched environment.  
+<center>Achieving excellence through an ICT enriched environment.  </center> 
 
-  
+### <center>Mission</center> 
 
-### Mission 
+<center>To nurture a community of responsible ICT users who embrace self-directed and collaborative learning.  </center>
 
-To nurture a community of responsible ICT users who embrace self-directed and collaborative learning.  
 
-  
-
-**Key Programmes**  
+#### **Key Programmes**  
 
 **ICT Baseline Lesson**  
 
@@ -43,8 +40,9 @@ Knowing that the students are digital natives, the school emphasises educating t
 
 Cyber wellness activities and assembly programmes are specially planned by the cyber wellness student ambassadors to bring about an awareness of these principles to their peers.  The cyber wellness messages are also infused into CareIN lessons, where students will deepen their learning through classroom discussion and authentic real-life applications.
 
-![](/images/image008.gif)
-
+<img src="/images/image008.gif" 
+     style="width:75%">
+		 
 **Home-based Learning**  
 
 Home-based Learning (HBL) is conducted for all levels of pupils to develop the pupils’ independent learning skills . On HBL days, all pupils will be assigned HBL lessons and assignments, primarily on the Student Learning Space (SLS) Learning Portal [(https://vle.learning.moe.edu.sg/login)](https://vle.learning.moe.edu.sg/login). The SLS is an MOE learning portal that has curriculum-aligned learning resources catering to the needs of all learners.

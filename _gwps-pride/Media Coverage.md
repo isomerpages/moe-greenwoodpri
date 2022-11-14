@@ -3,9 +3,6 @@ title: Media Coverage
 permalink: /useful-links/Media-Coverage/
 description: ""
 ---
-
-
-
 **2022**  
 
 *   [The Lee Kuan Yew Award for All-Round Excellence](https://www.facebook.com/Greenwood.GWPS/photos/a.120477380222083/148805670722587/)
@@ -52,3 +49,7 @@ The feature was broadcast on Sunday 28 May, presenting a succinct and accurate p
 **2014**
 
 *   [Fishing for neighbourhood ties (The Straits Times, Jul 1, 2014)](/files/ST_Fishing_for_neighbourhood_ties.pdf)
+
+
+<img src="/images/Small%20logo/gwps%20children%20(3).png" 
+     style="width:25%;float:right">

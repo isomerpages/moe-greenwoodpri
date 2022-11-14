@@ -66,7 +66,7 @@ Senior Teachers
 | 1 Integrity | Ms Nur'ain Bte Rahim <br> Mdm Leo Dan Dan|4 Responsibility |	 Mrs Yeo / Toh Su Wei Jacqueline <br>Ms Nur Adilah Bte Khamsani 
  |1 Care	| Mrs Tan / Elizabeth Chew Sau   Leng <br>Ms Noor Shazarratul Aini|4 Resilience 	| Mrs Jasmine Yeo / Lim Ching   Mei <br>Ms Jazreel Tan Qian Yee 
  |1 Harmony| Mdm Teo Hui Lee Celeste <br> Mdm Tham Yoke Kuan Joyce|4 Integrity|	 Mdm Siti Norhaidahwati Bte   Noor  <br> Mrs Mohan / Satwant Kaur  
-| 1 WISDOM	 |Mdm Nazeera  Binte Sulaimi<br> Mdm Woo Wai Yin|4 Care	 |Ms Li Qin Fang <br>Mdm Siti Sarah Bte Mohamad   Saleh 
+| 1 Wisdom	 |Mdm Nazeera  Binte Sulaimi<br> Mdm Woo Wai Yin|4 Care	 |Ms Li Qin Fang <br>Mdm Siti Sarah Bte Mohamad   Saleh 
 | 1 EMPATHY	 |Mrs Ali / Noorazima Banu D/O   Abdul Ahzim<br>Ms Dong Yinong | 4 Harmony| Mdm Siti Noraisha Bte Sanusi <br>Mdm Li Liu  
  |2 Respect	| Mdm Wong Li Peng <br> Mdm Junainah Bte Mohamed   Yusoff |5 Respect|	 Mr Lee Choong Yong Mervyn <br>Ms Eilina Abdullah Look
 | 2   Responsibility	| Mr Ong LuZheng Noah<br>Mdm Nuraini Bte Abdul Hamid <br> Mdm Sriranjni d/o   Chuparmaniam| 5   Responsibility|Ms Low Pei Qi <br>Miss Chow Yee Sun
@@ -74,7 +74,7 @@ Senior Teachers
 | 2 Integrity	 |Mrs Angie Li / Wong Kah Hwei<br>Mdm Hayati Murni Bte   Mohamed Yacob| 5 Integrity | Mdm Serene Poh<br> Ms Sujatha Pillai 
 | 2 Care	| Mdm Koh Kim Noi Adrienne <br> Ms Nur Rahayu Binte   Mohammad Noor|5 Care | Mr Mohammad Rasyid B Razin   P V<br> Ms Lin Jiaying   
 | 2 Harmony|	 Mdm Ng Lay Ling Rebecca  <br>Mdm Marsita Bte Ismail 	 |5 Harmony|Mr Ang Wee Jin  <br> Mdm Goh Min Min / Linda  
-| 2 WISDOM	| Mdm Banun Bte Mohamed <br> Ms Bak Ing Shien	 |6 Respect| Ms Shaalini Gejendhiran  <br> Mr Ng Jun Wei Daniel
+| 2 Wisdom	| Mdm Banun Bte Mohamed <br> Ms Bak Ing Shien	 |6 Respect| Ms Shaalini Gejendhiran  <br> Mr Ng Jun Wei Daniel
 | 2 EMPATHY	| Mdm Siti Alifah Bte Mod Talib  <br> Mdm Huang Yanling  |6 Responsibility| Mrs Koh / Lim Poh Ling Pauline<br>Mdm Nur Sussilawati Md   Hasshim
 | 3 Respect |	 Ms Tan Yueh Zhen Clara<br>Ms Cynthia Ang Xin Wei | 	 6 Resilience|Mdm Ling Sook Leng Michelle <br> Mrs Tracy Lee (Tho Cheng Ping)
  |3 Responsibility	| Mdm Rosnani Bte Mohd Hussein<br>Mr Mohamed Noor B Ibrahim	 |6 Integrity|Mr David Tan <br>Mdm Chu Yee Leen 

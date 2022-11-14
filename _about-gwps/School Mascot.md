@@ -3,8 +3,6 @@ title: School Mascot
 permalink: /about-gwps/school-mascot/
 description: ""
 ---
-# <center> School Mascot
-
 	
 The idea of having a school’s mascot was conceptualized in late 2003. Greenwood Primary was looking for an entity which the school could associate it with and is synonymous to. Since the owl is part of Greenwood’s logo, the idea of an owl mascot was mooted.
 

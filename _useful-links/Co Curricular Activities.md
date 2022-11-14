@@ -7,11 +7,12 @@ The Co-Curriculum is integral to the holistic development of our students and i
 
 In Greenwood, we offer a range of CCAs in Physical Sports, Visual & Performing Arts, Uniformed Groups and Clubs & Societies.
 
-![](/images/cca.png)
 
+<img src="/images/cca.png" 
+     style="width:75%">
 
-<center>Greenwood Primary School<br>
-CCA Teachers in Charge 2022<br>
+**<center>Greenwood Primary School<br>**
+**CCA Teachers in Charge** 2022<br>
 SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi)*
 AESTHETICS CCA - HOD AESTHETICS (Mrs Jennifer Teo)*</center>
 

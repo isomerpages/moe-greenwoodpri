@@ -3,7 +3,6 @@ title: PSG (Parent Support Group)
 permalink: /parents-corner/PSG/
 description: ""
 ---
-
 ![](/images/1.jpeg)
 
 Our PSG is known as BRIDGE. The colourful bridge is used as a metaphor to show the meaningful link between the school and parents, working towards the well-being of all Greenwood students.
@@ -72,3 +71,6 @@ For any enquiries, please email the school and we will get back to you as soon a
 |Coffee Talk – Parenting Workshop | PSG Outings |
 | -------- | -------- | 
 |||
+
+<img src="/images/Small%20logo/gwps%20children%20(1).png" 
+     style="width:25%;float:right">

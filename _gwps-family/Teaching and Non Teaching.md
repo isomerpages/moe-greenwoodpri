@@ -61,7 +61,7 @@ Senior Teachers
  | DESIGNATION	| NAME | DESIGNATION | NAME|
 | -------- | -------- | -------- | -------- |
 |1 RESPECT |	 Mdm Azreenah Binte Kamit<br>Mdm Teh Sui Ching Lesley |3 CARE	| Mrs Koh - Zhuo Caiwei <br> Ms Jessie Lau Luyi | 
-1   RESPONSIBILITY|Mrs Sharon Teo<br>Mdm Nur Sakinah Binte   Mohammed Salim | 3 HARMONY	| Mr Tan Teck Lee  <br>Mrs Jennifer Teo / Soh Xinxiang  
+1   Responsibility|Mrs Sharon Teo<br>Mdm Nur Sakinah Binte   Mohammed Salim | 3 HARMONY	| Mr Tan Teck Lee  <br>Mrs Jennifer Teo / Soh Xinxiang  
 |1 RESILIENCE	| Mdm Ong Mee Lin <br>Mdm Siti Fadiah Bte Ramdan|4 RESPECT|Mrs Wong / Beh Ying Ping   Joceiyn<br>Mr Mohamed Sha'ban B Mohd   Rapiai
 | 1 INTEGRITY | Ms Nur'ain Bte Rahim <br> Mdm Leo Dan Dan|4 RESPONSIBILITY |	 Mrs Yeo / Toh Su Wei Jacqueline <br>Ms Nur Adilah Bte Khamsani 
  |1 CARE	| Mrs Tan / Elizabeth Chew Sau   Leng <br>Ms Noor Shazarratul Aini|4 RESILIENCE 	| Mrs Jasmine Yeo / Lim Ching   Mei <br>Ms Jazreel Tan Qian Yee 

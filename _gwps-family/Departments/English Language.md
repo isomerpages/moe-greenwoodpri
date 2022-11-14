@@ -6,7 +6,7 @@ third_nav_title: Departments
 ---
 ### <center>Vision</center>
 
-<center>Confident and competent readers who love the English language
+<center>Confident and competent readers who love the English language</center>
 
 ### <center>Mission</center>
 

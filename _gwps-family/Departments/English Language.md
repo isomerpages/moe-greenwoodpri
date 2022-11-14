@@ -32,7 +32,7 @@ The department has designed a set of reading activities for each block of studen
 Lower primary students enjoy the experience of having a special guest in their classroom who reads aloud a book to them every month
 
 <img src="/images/math28.jpeg" 
-     style="width:70%">
+     style="width:55%">
 
 **<center>Our principal, Mrs Chua, as the guest reader  for one of our classes!</center>**
 
@@ -52,3 +52,7 @@ Students ‘caught reading’ outside their classrooms are awarded reading badge
 <img src="/images/EL3.png" 
      style="width:70%">
 **<center>Students 'caught reading' during their free time.</center>**
+
+
+<img src="/images/Small%20logo/gwps%20children%20(4).png" 
+     style="width:25%;float:right">

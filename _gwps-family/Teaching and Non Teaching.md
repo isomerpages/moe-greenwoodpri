@@ -60,23 +60,23 @@ Senior Teachers
 
  | DESIGNATION	| NAME | DESIGNATION | NAME|
 | -------- | -------- | -------- | -------- |
-|1 RESPECT |	 Mdm Azreenah Binte Kamit<br>Mdm Teh Sui Ching Lesley |3 CARE	| Mrs Koh - Zhuo Caiwei <br> Ms Jessie Lau Luyi | 
-1   Responsibility|Mrs Sharon Teo<br>Mdm Nur Sakinah Binte   Mohammed Salim | 3 HARMONY	| Mr Tan Teck Lee  <br>Mrs Jennifer Teo / Soh Xinxiang  
-|1 RESILIENCE	| Mdm Ong Mee Lin <br>Mdm Siti Fadiah Bte Ramdan|4 RESPECT|Mrs Wong / Beh Ying Ping   Joceiyn<br>Mr Mohamed Sha'ban B Mohd   Rapiai
+|1 Respect |	 Mdm Azreenah Binte Kamit<br>Mdm Teh Sui Ching Lesley |3 Care	| Mrs Koh - Zhuo Caiwei <br> Ms Jessie Lau Luyi | 
+1   Responsibility|Mrs Sharon Teo<br>Mdm Nur Sakinah Binte   Mohammed Salim | 3 Harmony	| Mr Tan Teck Lee  <br>Mrs Jennifer Teo / Soh Xinxiang  
+|1 RESILIENCE	| Mdm Ong Mee Lin <br>Mdm Siti Fadiah Bte Ramdan|4 Respect|Mrs Wong / Beh Ying Ping   Joceiyn<br>Mr Mohamed Sha'ban B Mohd   Rapiai
 | 1 INTEGRITY | Ms Nur'ain Bte Rahim <br> Mdm Leo Dan Dan|4 RESPONSIBILITY |	 Mrs Yeo / Toh Su Wei Jacqueline <br>Ms Nur Adilah Bte Khamsani 
  |1 CARE	| Mrs Tan / Elizabeth Chew Sau   Leng <br>Ms Noor Shazarratul Aini|4 RESILIENCE 	| Mrs Jasmine Yeo / Lim Ching   Mei <br>Ms Jazreel Tan Qian Yee 
  |1 HARMONY| Mdm Teo Hui Lee Celeste <br> Mdm Tham Yoke Kuan Joyce|4 INTEGRITY|	 Mdm Siti Norhaidahwati Bte   Noor  <br> Mrs Mohan / Satwant Kaur  
 | 1 WISDOM	 |Mdm Nazeera  Binte Sulaimi<br> Mdm Woo Wai Yin|4 CARE	 |Ms Li Qin Fang <br>Mdm Siti Sarah Bte Mohamad   Saleh 
 | 1 EMPATHY	 |Mrs Ali / Noorazima Banu D/O   Abdul Ahzim<br>Ms Dong Yinong | 4 HARMONY| Mdm Siti Noraisha Bte Sanusi <br>Mdm Li Liu  
- |2 RESPECT	| Mdm Wong Li Peng <br> Mdm Junainah Bte Mohamed   Yusoff |5 RESPECT|	 Mr Lee Choong Yong Mervyn <br>Ms Eilina Abdullah Look
+ |2 Respect	| Mdm Wong Li Peng <br> Mdm Junainah Bte Mohamed   Yusoff |5 Respect|	 Mr Lee Choong Yong Mervyn <br>Ms Eilina Abdullah Look
 | 2   RESPONSIBILITY	| Mr Ong LuZheng Noah<br>Mdm Nuraini Bte Abdul Hamid <br> Mdm Sriranjni d/o   Chuparmaniam| 5   RESPONSIBILITY|Ms Low Pei Qi <br>Miss Chow Yee Sun
  |2 RESILIENCE	| Mrs Winnie Yan / Tan Mui Li  <br>Mr Teo Peng Koon / Zhang Bingkun |5 RESILIENCE|	 Mrs Koh / Tan Yan San <br> Mdm Yap Siok Hwei 
 | 2 INTEGRITY	 |Mrs Angie Li / Wong Kah Hwei<br>Mdm Hayati Murni Bte   Mohamed Yacob| 5 INTEGRITY | Mdm Serene Poh<br> Ms Sujatha Pillai 
 | 2 CARE	| Mdm Koh Kim Noi Adrienne <br> Ms Nur Rahayu Binte   Mohammad Noor|5 CARE | Mr Mohammad Rasyid B Razin   P V<br> Ms Lin Jiaying   
 | 2 HARMONY|	 Mdm Ng Lay Ling Rebecca  <br>Mdm Marsita Bte Ismail 	 |5 HARMONY|Mr Ang Wee Jin  <br> Mdm Goh Min Min / Linda  
-| 2 WISDOM	| Mdm Banun Bte Mohamed <br> Ms Bak Ing Shien	 |6 RESPECT| Ms Shaalini Gejendhiran  <br> Mr Ng Jun Wei Daniel
+| 2 WISDOM	| Mdm Banun Bte Mohamed <br> Ms Bak Ing Shien	 |6 Respect| Ms Shaalini Gejendhiran  <br> Mr Ng Jun Wei Daniel
 | 2 EMPATHY	| Mdm Siti Alifah Bte Mod Talib  <br> Mdm Huang Yanling  |6 RESPONSIBILITY| Mrs Koh / Lim Poh Ling Pauline<br>Mdm Nur Sussilawati Md   Hasshim
-| 3 RESPECT |	 Ms Tan Yueh Zhen Clara<br>Ms Cynthia Ang Xin Wei | 	 6 RESILIENCE|Mdm Ling Sook Leng Michelle <br> Mrs Tracy Lee (Tho Cheng Ping)
+| 3 Respect |	 Ms Tan Yueh Zhen Clara<br>Ms Cynthia Ang Xin Wei | 	 6 RESILIENCE|Mdm Ling Sook Leng Michelle <br> Mrs Tracy Lee (Tho Cheng Ping)
  |3  RESPONSIBILITY	| Mdm Rosnani Bte Mohd Hussein<br>Mr Mohamed Noor B Ibrahim	 |6 INTEGRITY|Mr David Tan <br>Mdm Chu Yee Leen 
  |3 RESILIENCE	| Mrs Sarah Tan / Leong Yoke Lin <br>Mdm Wan Norzilah Bte Md   Shafian | 6 CARE|Mrs Mark / Phillida Rabini  <br>Mr Yii Chu Sing Michael 
  |3 INTEGRITY	| Mdm Noraini Bte Nanyan  <br> Mdm Sagaymarie d/o   Savarimuthu   | 6 HARMONY |Mrs Loh / Wee May Joan   Frances <br> Ms Chua Keng Fang

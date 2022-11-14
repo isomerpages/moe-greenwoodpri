@@ -47,6 +47,6 @@ The BLISS curriculum runs from Term 1 to Term 3.&nbsp;&nbsp;In the delivery of t
 ![](/images/BLISS4.png)
 ![](/images/BLISS5.png)
 
-	
-<img style="width:25%;float:right" src="/images/Picture3.png">
+<center>	
+<img src="/images/Picture3.png" style="width:25%;float:right"></center>
 </center>

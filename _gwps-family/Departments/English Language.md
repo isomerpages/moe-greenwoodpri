@@ -31,22 +31,24 @@ The department has designed a set of reading activities for each block of studen
 
 Lower primary students enjoy the experience of having a special guest in their classroom who reads aloud a book to them every month
 
-![](/images/math28.jpeg)
+<img src="/images/math28.jpeg" 
+     style="width:70%">
 
-<center>Our principal, Mrs Chua, as the guest reader  for one of our classes!</center>
+**<center>Our principal, Mrs Chua, as the guest reader  for one of our classes!</center>**
 
 **Peek A Book**
 
 The friendly librarian visits every classroom fortnightly to share on authors and promote books. Students get to borrow these books on the spot.  
 
-![](/images/EL1.png)
+<img src="/images/EL1.png" 
+     style="width:70%">
 
-<center>Delighted with their latest picks</center>
+**<center>Delighted with their latest picks</center>**
 
 **Students‘ Caught Reading**
 
 Students ‘caught reading’ outside their classrooms are awarded reading badges. These badges serve to build enthusiasm around reading by getting kids talking about the books they love
 
-	
-![](/images/EL3.png)
-<center>Students 'caught reading' during their free time.</center>
+<img src="/images/EL3.png" 
+     style="width:70%">
+**<center>Students 'caught reading' during their free time.</center>**

@@ -2,7 +2,7 @@ collections:
   gwps-experience:
     output: true
     order:
-      - School Videos.md
-      - Co Curricular Activities.md
       - LLP WHIZZ.md
       - ALP BLISS.md
+      - Co Curricular Activities.md
+      - School Videos.md

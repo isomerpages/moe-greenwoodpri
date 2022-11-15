@@ -2,8 +2,6 @@ collections:
   gwps-experience:
     output: true
     order:
-      - Project Work.md
-      - Green in the Woods.md
       - Holistic Curriculum/.keep
       - Holistic Curriculum/English Language.md
       - Holistic Curriculum/Mathematics.md
@@ -16,5 +14,7 @@ collections:
       - Holistic Curriculum/Student Management.md
       - LLP WHIZZ.md
       - ALP BLISS.md
+      - Green in the Woods.md
+      - Project Work.md
       - Co Curricular Activities.md
       - School Videos.md

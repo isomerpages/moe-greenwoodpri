@@ -4,7 +4,6 @@ permalink: /gwps-family/Departments/Character-and-Citizenship-Education/
 description: ""
 third_nav_title: Holistic Curriculum
 ---
-
 ### <center>Vision</center>  
 
 <center>Citizens of good character who are rooted to Singapore</center>
@@ -13,7 +12,7 @@ third_nav_title: Holistic Curriculum
 
 <center>To nurture responsible citizens who are leaders of character.</center>
 
-#### **Key Programmes  **
+#### **Key Programmes**
 
 **Character Education through Intellectual Discourse (CareIn)**  
 

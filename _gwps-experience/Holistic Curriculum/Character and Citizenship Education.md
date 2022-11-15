@@ -40,8 +40,7 @@ Financial Literacy is a school-based curriculum aimed at equipping our students 
 **Form Teacher Guidance Period (FTGP) programme**
 
 FTGP seeks to deepen the Teacher-Student Relationship (TSR) and equip students with social and emotional competencies. It serves as a platform for teachers to interact and understand their students and for students to pick up important life skills to overcome challenges. It also creates time and space for students to have meaningful interactions with their teachers and for teachers to seize teachable moments to impart life skills beyond the academic domain.
-
-  
+ 
 
 **Values in Action (VIA)**  
 
@@ -53,6 +52,15 @@ The programme focuses on the three areas of Awareness, Action and Advocacy which
      style="width:50%">
 
 Students in Primary 1, 2 and 3 work on ways to contribute to the community by raising awareness on issues that matter to them. Students in Primary 4, take action through our annual Celebrating OWLETS event which serves as a platform for social entrepreneurship and to raise funds for an IPC. Primary 5 students take action and become advocates on important issues such as Active Ageing, Clean & Green and promoting SMART nation initiatives. Students become Leaders of Character as they influence and shape the thinking of others as they work with external stakeholders such as the elderly care centres and preschools in the community.
+
+**Cyber Wellness Programme**
+
+Knowing that the students are digital natives, the school emphasises educating the students on cyber wellness to guide them in protecting themselves in the cyber world and being responsible users of these technologies. MOE uses the Cyber Wellness framework to develop the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. The three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’ when adhered to, will anchor a child’s well-being in cyberspace as he will then be able to make careful and well-considered decisions.  
+
+Cyber wellness activities and assembly programmes are specially planned by the cyber wellness student ambassadors to bring about an awareness of these principles to their peers.  The cyber wellness messages are also infused into CareIN lessons, where students will deepen their learning through classroom discussion and authentic real-life applications.
+
+<img src="/images/image008.gif" 
+     style="width:75%">
 
 <img src="/images/Small%20logo/gwps%20children%20(4).png" 
      style="width:25%;float:right">

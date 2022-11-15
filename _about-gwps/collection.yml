@@ -2,8 +2,8 @@ collections:
   about-gwps:
     output: true
     order:
-      - Teaching and Non Teaching.md
       - Principal's Message.md
+      - Teaching and Non Teaching.md
       - School Vision, Mission and Culture.md
       - School Values.md
       - School Crest.md

@@ -2,6 +2,7 @@ collections:
   gwps-experience:
     output: true
     order:
+      - Project Work.md
       - Green in the Woods.md
       - Holistic Curriculum/.keep
       - Holistic Curriculum/English Language.md

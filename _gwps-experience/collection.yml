@@ -2,6 +2,7 @@ collections:
   gwps-experience:
     output: true
     order:
+      - Holistic Curriculum/.keep
       - LLP WHIZZ.md
       - ALP BLISS.md
       - Co Curricular Activities.md

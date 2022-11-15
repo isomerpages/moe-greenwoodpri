@@ -3,7 +3,7 @@ title: Links
 permalink: /useful-links/Links/
 description: ""
 ---
-[![](/images/SLS-Logo.png)]((https://vle.learning.moe.edu.sg/login))
+[![](/images/SLS-Logo.png)](https://vle.learning.moe.edu.sg/login)
 
 [![](/images/KOOBITS.jpg)](https://problemsums.koobits.com/)
 

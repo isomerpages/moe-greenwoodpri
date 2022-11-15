@@ -2,6 +2,7 @@ collections:
   gwps-experience:
     output: true
     order:
+      - Holistic Curriculum/Character and Citizenship Education.md
       - Holistic Curriculum/Information and Communications Technology.md
       - Holistic Curriculum/Aesthetics.md
       - Holistic Curriculum/Physical Education.md

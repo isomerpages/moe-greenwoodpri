@@ -2,7 +2,6 @@ collections:
   gwps-family:
     output: true
     order:
-      - Departments/Mother Tongue Languages.md
       - Departments/Physical Education.md
       - Departments/Aesthetics.md
       - Departments/Information and Communications Technology.md

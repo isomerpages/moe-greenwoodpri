@@ -2,6 +2,5 @@ collections:
   gwps-family:
     output: true
     order:
-      - Departments/Character and Citizenship Education.md
       - Departments/Student Management.md
       - Departments/.keep

@@ -35,18 +35,12 @@ Pupils are
 
 CareIN is a 15-hour curriculum developed by the school to educate pupils on values and to build citizenry in them. The school uses the Appreciative Inquiry (AI), Four Player Model and Systems Thinking to engage pupils in their discussions. The package consists of worksheets, articles for discussions and pupils’ reflections on real-life local and foreign current affairs which are aired weekly through News-in-Class, a Mediacorp production. Issues presented would serve as triggers for discussions or debates on character and citizenry values. Pupils would then do reflections on how they are able to lead positive changes to the issues in groups or individually. (Refer to sample lesson plans attached)
 
-**Project Work**
-
-Two weeks are designated for Project Work which comprises of a learning curriculum for P1 to P5 pupils. The curriculum comprises of thinking systems/habits such as the 6 Thinking Hats, PDCA cycle, Innowits and Design Thinking as well as problem solving skills and collaborative learning skills. Pupils take the lead to transfer, apply and integrate the skills and knowledge learnt in different IP subjects to solve authentic community-related problems through an experiment, a research or an invention.
-
-![](/images/llp1.png)
-
 **Values in the Woods Programme**  
 
 The Mother Tongue and Art department staff and pupils have come together to develop a school based programme to be conducted during CCE lessons. The values stories are written by MT/CL teachers and are translated into EL for scaling up to ML and TL versions. Our pupils take the lead in crafting the scenes and illustrating the stories with characters based on our school mascot, OWL, in various families of different races living together. This storyboard is further animated. Through the pupils’ work, they actively transmit the school values to the student body through authentic satires happening around them.
 
-<img src="/images/VIW_recording.jpeg" style="width:33%;float:left"><img src="/images/VIW_recording1.jpeg" style="width:33%;float:left"><img src="/images/VIW%20script%20writing.jpeg" style="width:33%">
-		 <img src="/images/llp2.png" style="width:70%">
+<img style="width:33%;float:left" src="/images/VIW_recording.jpeg"><img style="width:33%;float:left" src="/images/VIW_recording1.jpeg"><img style="width:33%" src="/images/VIW%20script%20writing.jpeg">
+		 <img style="width:70%" src="/images/llp2.png">
 
 
 **Lifeskills Programme**
@@ -67,4 +61,4 @@ This is a community project in collaboration with KTPH as part of service to the
 
 As part of the Education and Career Guidance (ECG) programme, our pupils lead as health ambassadors of the school. They will give talks and share tips of good health habits to the school community, family members and the community around us pertaining to the body system in the theme of the year. We aspire that our pupils would be able to empathise with or inspired to be future workers in the health industry and serve our aging nation.
 
-<img src="/images/Small%20logo/gwps%20children%20(3).png" style="width:33%;float:right">
+<img style="width:33%;float:right" src="/images/Small%20logo/gwps%20children%20(3).png">

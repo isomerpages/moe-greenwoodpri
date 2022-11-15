@@ -2,6 +2,7 @@ collections:
   gwps-experience:
     output: true
     order:
+      - Holistic Curriculum/Physical Education.md
       - Holistic Curriculum/Mother Tongue Languages.md
       - Holistic Curriculum/Science.md
       - Holistic Curriculum/Mathematics.md

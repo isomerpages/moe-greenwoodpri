@@ -3,7 +3,7 @@ title: P1 Experience
 permalink: /GWPS-EXPERIENCES/P1-Experience/
 description: ""
 ---
-### <center> **Video about Greenwood Primary School**</center>
+### <center>**Video about Greenwood Primary School**</center>
 
 **<center>GWPS E-School Tour</center>**
 

@@ -3,6 +3,8 @@ title: Announcements
 permalink: /Announcements/
 description: ""
 ---
+P1 (2023) Orientation Briefing slides can be found [here](https://greenwoodpri-moe-edu-sg-admin.cwp.sg/qql/slot/u189/Documents/2022/BRIEFING%20RESOURCES/P1%20Orientation%20Mass%20Briefing%20Slides_website.pdf).
+
 Calling all Ex-Greenwoodians! Do sign up [here](https://go.gov.sg/greenwoodalumni) as an Alumni! **\*New\***
 
 [**Greenwood Primary Official Instagram**]

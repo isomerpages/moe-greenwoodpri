@@ -3,10 +3,6 @@ title: The Greenwood Family
 permalink: /gwps-family/Teaching-and-Non-Teaching/
 description: ""
 ---
-
-
-
-
 PRINCIPAL AND VICE PRINCIPALS
 
 | DESIGNATION	| NAME | DESIGNATION | NAME|

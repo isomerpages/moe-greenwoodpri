@@ -1,5 +1,5 @@
 collections:
-  gwps-pride:
+  gwps-achievements:
     output: true
     order:
       - Media Coverage.md

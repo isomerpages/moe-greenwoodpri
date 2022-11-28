@@ -11,19 +11,19 @@ As parent volunteers and members of the PSG, we work hand in hand with the schoo
 
  #### Parents Support Group EXCO
 
- | DESIGNATION	| NAME | DESIGNATION | NAME|
+ | 	|  | | |
 | -------- | -------- | -------- | -------- |
-|Chairperson	| Mdm Patricia Tay	 |Vice Chairperson|	 Mdm Saliza Binte Senin 
- |Member|	 Mdm Gangi Pooja Raniv 	 |Member	| Mdm Gunasundari
- |Member	 |Mdm Halimatussa’adiah|	 Member	| Mdm Isha Kumar
-| Member	 |Mdm Mandy Kaur Guthri	| Member	|  Mdm Patricia Tan Chor   Eng
- | Member	|  Mdm Eva Yee Yik Shing| 	 Member	|  Mdm Vijayabharathi
- | Member	|  Mdm Jessica Cheah Ley   Keng	|  Member	 | Mdm Sandy Chong Ek   Hua
- | Member| 	 Mdm Shoba Nagalinggam	|  Member| 	 Mdm Nor'Aida Bte Suroto
- | Member	 | Mdm Joann Liza Yeo | 	 Member	 | Mr Keith Goh Han Wee
- | Member	 | Mdm Priya Premkumar	 | Member	 | Mdm He Ye Georgina
- | Member| 	 Mdm Bhakti Tamhane	 | Member| 	 Mdm Wong Siew Yoke   Sylvia
- | Member	 | Mdm Vidya Chia	 | Member	|  Ms Shao Shuai
+|	| Mdm Patricia Tay	 ||	 Mdm Saliza Binte Senin 
+ ||	 Mdm Gangi Pooja Raniv 	 |	| Mdm Gunasundari
+ | |Mdm Halimatussa’adiah|	 	| Mdm Isha Kumar
+|  |Mdm Mandy Kaur Guthri	| 	|  Mdm Patricia Tan Chor   Eng
+ | 	|  Mdm Eva Yee Yik Shing| 	 	|  Mdm Vijayabharathi
+ | 	|  Mdm Jessica Cheah Ley   Keng	| 	 | Mdm Sandy Chong Ek   Hua
+ | | 	 Mdm Shoba Nagalinggam	|  | 	 Mdm Nor'Aida Bte Suroto
+ |  | Mdm Joann Liza Yeo | 	 	 | Mr Keith Goh Han Wee
+ |  | Mdm Priya Premkumar	 |  | Mdm He Ye Georgina
+ | | 	 Mdm Bhakti Tamhane	 | | 	 Mdm Wong Siew Yoke   Sylvia
+ | 	 | Mdm Vidya Chia	 | 	|  Ms Shao Shuai
 
 We welcome you to be a part of us! Join us in our school events and play a significant role in your child’s development by helping to create an interesting and engaging environment for your child to learn! We also welcome parents to join us to network and bond together to form a support group for one another so that you will never have to walk alone in this parenting journey.
 

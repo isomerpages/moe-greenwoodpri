@@ -7,6 +7,8 @@ description: ""
 
 * [What's Green in Greenwood? (Instagram) - 27 October 2022](https://www.instagram.com/p/CkNuKVtyPln/?fbclid=IwAR0eg13zsYBlebXq35lw7KaUD-dz8PZvOBHfJVctnaDZhPpT_JnibmZ3YKs)
 
+* [Greenwood's Contribution to Community Farming (Facebook) - 5 April 2022](https://m.facebook.com/story.php?story_fbid=pfbid0jviinT9CsXeBHEA3xwow6WJQB8v96SkCPeWN5uC4f5Rb7c7CcKA5B7qwfphtBd9Kl&id=100046772719390&mibextid=Nif5oz)
+
 *   [The Lee Kuan Yew Award for All-Round Excellence](https://www.facebook.com/Greenwood.GWPS/photos/a.120477380222083/148805670722587/)
 
 **2019**

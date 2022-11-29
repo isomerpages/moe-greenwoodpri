@@ -3,7 +3,7 @@ title: P1 Experience
 permalink: /GWPS-EXPERIENCES/P1-Experience/
 description: ""
 ---
-Let's take a virtual tour around the school through the lens of a Primary One child.
+Let's take a virtual tour around the school through the lens of a Primary One student.
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/1zKpjPYqOMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><br>
 

@@ -1,0 +1,8 @@
+collections:
+  gwps-achievements:
+    output: true
+    order:
+      - Media Coverage.md
+      - 2022.md
+      - 2021.md
+      - 2020.md

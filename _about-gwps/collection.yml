@@ -1,0 +1,13 @@
+collections:
+  about-gwps:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Video.md
+      - Greenwood Family.md
+      - School Vision, Mission and Culture.md
+      - School Values.md
+      - School Crest.md
+      - School Mascot.md
+      - General Information.md
+      - Learning Spaces.md

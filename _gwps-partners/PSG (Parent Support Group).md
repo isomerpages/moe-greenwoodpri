@@ -9,7 +9,7 @@ Our PSG is known as BRIDGE. The colourful bridge is used as a metaphor to show 
 
 As parent volunteers and members of the PSG, we work hand in hand with the school to develop our students into Motivated Learners, Critical Thinkers and Leaders of Character. We play an active role to nurture our students into lifelong learners and responsible citizens through a well-rounded education. We provide the voice of our parents as we communicate with the school.
 
-** Parents Support Group EXCO**
+Parents Support Group EXCO
 
  | 	|  | | |
 | -------- | -------- | -------- | -------- |

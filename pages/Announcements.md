@@ -3,7 +3,7 @@ title: Announcements
 permalink: /Announcements/
 description: ""
 ---
-P1 (2023) Orientation Briefing slides can be found [here](/files/P1%20BRIEFING/P1%20Orientation%20Mass%20Briefing%20Slides_website.pdf).
+P1 (2023) Orientation Briefing slides can be found [here](/files/P1%20BRIEFING/P1%20Orientation%20Mass%20Briefing%20Slides_website.pdf) .
 
 Calling all Ex-Greenwoodians! Do sign up [here](https://go.gov.sg/greenwoodalumni) as an Alumni! **\*New\***
 

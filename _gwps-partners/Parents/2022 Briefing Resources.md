@@ -4,7 +4,7 @@ permalink: /parents-corner/Briefing-Resources/2022/
 description: ""
 third_nav_title: Parents
 ---
-*   [P1 Parent Engagement Briefing](/p1-parent-engagement-briefing)  
+*   [P1 Parent Engagement Briefing](/p1-parent-engagement-briefing.pdf)  
     
 *   Tamil Language Briefing
 	*   [TL Parent Workshop E-oral](/files/TL_Parent%20Workshop_E-oral_2022.pdf)

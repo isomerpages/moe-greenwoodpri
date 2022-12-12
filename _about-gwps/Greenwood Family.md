@@ -32,12 +32,13 @@ School Executive Committee Members
  | DESIGNATION	| NAME | DESIGNATION | NAME|
 | -------- | -------- | -------- | -------- |
 |Administration   Manager	 |Ms Huang Ke Xin Josephine	|Operations   Manager	| Mr Chia Cheok Wah Francis
- |Administration   Executive|Mdm Wong Ai Nyuk Irene	 |Operations   Support Officer	| Mdm Jamilah Bte Ahmad
+ |Administration   Executive|Mdm Wong Ai Nyuk Irene	 | Adjunct Operations   Manager	| Mr Lim Eng Hock
  |Corporate Support   Officer	| Mdm Norazlin Binte Mohamed   Amin |Operations   Support Officer	| Mr Tan Cheng Siong
  |Corporate Support   Officer|	 Ms Kavitha D/O Maghalingam|Operations   Support Officer|	 Mdm Silvapakiam d/o Muran
 | Info-Comm   Technology   Manager| Mr Muhammad Safiuddin Bin   Mohamed Sabri|Operations   Support Officer|Mdm Fareeth Begam 
  |Receptionist |Ms Sim Saw Ping Jasline|Operations     Support Officer	| Mr Ismail bin Hussein
- 
+ | | |Operations     Support Officer  |Mdm Jamilah Bte Ahmad
+  
  Allied Educators (AED)
 
   | DESIGNATION	| NAME | DESIGNATION | NAME|

@@ -71,12 +71,12 @@ Senior Teachers
  |1 Harmony| Mdm Nuraini Binte Abdul Hamid <br> Ms Bak Ing Shien|4 Integrity|Mdm Noraini Binte Nanyan<br> Mr Teo Peng Koon / Zhang Bingkun 
  |1 Wisdom	 |Mdm Siti Alifah Bte Mod Talib<br> Mdm Sriranjni D/o Chuparmaniam|4 Care	 |Mrs Koh - Zhuo Caiwei<br>Ms Nur Sakinah Binte Mohammed Salim
 | 1 Empathy	 |Mrs Angie Li / Wong Kah Hwei<br>Mdm Junainah Bte Mohamed Yusoff  | 4 Harmony| Mr Tan Teck Lee <br>Mrs Jennifer Teo / Soh Xinxiang
- |2 Respect	| Mdm Azreenah Binte Kamit <br> Mdm Teh Sui Ching Lesley |5 Respect|	 Mr Lee Choong Yong Mervyn <br>Ms Eilina Abdullah Look
-| 2 responsibility | Mrs Sharon Teo / Chee Wei Leng<br>Ms Ow Chung Fah| 5 Responsibility|Ms Low Pei Qi <br>Miss Chow Yee Sun
- |2 Resilience	| Mdm Ong Mee Lin <br>Mdm Siti Fadiah Bte Ramdan |5 Resilience|	 Mrs Koh / Tan Yan San <br> Mdm Yap Siok Hwei 
-| 2 Integrity	 |Ms Nur'ain Bte Rahim<br>Ms Nur Rahayu Binte Mohammad Noor| 5 Integrity | Mdm Serene Poh<br> Ms Sujatha Pillai 
-| 2 Care	| Mrs Tan / Elizabeth Chew Sau Leng <br>Ms Noor Shazarratul Aini Binte Abdul Aziz|5 Care | Mr Mohammad Rasyid B Razin   P V<br> Ms Lin Jiaying   
-| 2 Harmony|	Mdm Teo Hui Lee Celeste <br>Mdm Tham Yoke Kuan Joyce	 |5 Harmony|Mr Ang Wee Jin  <br> Mdm Goh Min Min / Linda  
+ |2 Respect	| Mdm Azreenah Binte Kamit <br> Mdm Teh Sui Ching Lesley |5 Respect|Mdm Ling Sook Leng Michelle <br>Mdm Siti Sarah Binte Mohamad Saleh
+| 2 responsibility | Mrs Sharon Teo / Chee Wei Leng<br>Ms Ow Chung Fah| 5 responsibility|Mrs Koh / Lim Poh Ling Pauline <br>Mr Mohamed Sha'ban B Mohd Rapiai
+ |2 Resilience	| Mdm Ong Mee Lin <br>Mdm Siti Fadiah Bte Ramdan |5 Resilience|	 Ms Li Qin Fang  <br>Ms Hartini Binte Kassim 
+| 2 Integrity	 |Ms Nur'ain Bte Rahim<br>Ms Nur Rahayu Binte Mohammad Noor| 5 Integrity | Mrs Loh / Wee May Joan Frances<br> Mrs Mohan / Satwant Kaur D/o Bhagwan Singh
+| 2 Care	| Mrs Tan / Elizabeth Chew Sau Leng <br>Ms Noor Shazarratul Aini Binte Abdul Aziz|5 Care | Ms Shaalini D/o Gejendhiran  <br> Mr Lim Kwang Seng Jimmy  
+| 2 Harmony|	Mdm Teo Hui Lee Celeste <br>Mdm Tham Yoke Kuan Joyce	 |5 Harmony|Ms Nur Sussilawati Md Hasshim  <br> Mrs Jasmine Yeo / Lim Ching Mei
 | 2 Wisdom	| Mdm Nazeera Bte Sulaimi <br> Mdm Woo Wai Yin	 |6 Respect| Ms Shaalini Gejendhiran  <br> Mr Ng Jun Wei Daniel
 | 2 Empathy	| Mrs Ali / Noorazima Banu D/o Abdul Ahzim <br> Ms Dong Yinong  |6 Responsibility| Mrs Koh / Lim Poh Ling Pauline<br>Mdm Nur Sussilawati Md   Hasshim
 | 3 Respect |	 Mdm Siti Norhaidahwati Bte Noor<br>Mdm Li Liu | 	 6 Resilience|Mdm Ling Sook Leng Michelle <br> Mrs Tracy Lee (Tho Cheng Ping)

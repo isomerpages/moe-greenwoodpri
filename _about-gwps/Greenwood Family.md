@@ -79,10 +79,10 @@ Senior Teachers
 | 2 Harmony|	Mdm Teo Hui Lee Celeste <br>Mdm Tham Yoke Kuan Joyce	 |5 Harmony|Mr Ang Wee Jin  <br> Mdm Goh Min Min / Linda  
 | 2 Wisdom	| Mdm Nazeera Bte Sulaimi <br> Mdm Woo Wai Yin	 |6 Respect| Ms Shaalini Gejendhiran  <br> Mr Ng Jun Wei Daniel
 | 2 Empathy	| Mrs Ali / Noorazima Banu D/o Abdul Ahzim <br> Ms Dong Yinong  |6 Responsibility| Mrs Koh / Lim Poh Ling Pauline<br>Mdm Nur Sussilawati Md   Hasshim
-| 3 Respect |	 Ms Tan Yueh Zhen Clara<br>Ms Cynthia Ang Xin Wei | 	 6 Resilience|Mdm Ling Sook Leng Michelle <br> Mrs Tracy Lee (Tho Cheng Ping)
- |3 Responsibility	| Mdm Rosnani Bte Mohd Hussein<br>Mr Mohamed Noor B Ibrahim	 |6 Integrity|Mr David Tan <br>Mdm Chu Yee Leen 
- |3 Resilience	| Mrs Sarah Tan / Leong Yoke Lin <br>Mdm Wan Norzilah Bte Md   Shafian | 6 Care|Mrs Mark / Phillida Rabini  <br>Mr Yii Chu Sing Michael 
- |3 Integrity	| Mdm Noraini Bte Nanyan  <br> Mdm Sagaymarie d/o   Savarimuthu   | 6 Harmony |Mrs Loh / Wee May Joan   Frances <br> Ms Chua Keng Fang
+| 3 Respect |	 Mdm Siti Norhaidahwati Bte Noor<br>Mdm Li Liu | 	 6 Resilience|Mdm Ling Sook Leng Michelle <br> Mrs Tracy Lee (Tho Cheng Ping)
+ |3 Responsibility	| Mr Ong LuZheng Noah<br>Ms Nur Adilah Binte Khamsani|6 Integrity|Mr David Tan <br>Mdm Chu Yee Leen 
+ |3 Resilience	| Mrs Wong / Beh Ying Ping Joceiyn <br>Ms K Radha | 6 Care|Mrs Mark / Phillida Rabini  <br>Mr Yii Chu Sing Michael 
+ |3 Integrity	| Mr Mohamed Noor B Ibrahim  <br> Ms Chua Keng Fang | 6 Harmony |Mrs Loh / Wee May Joan   Frances <br> Ms Chua Keng Fang
  
  TEACHERS
  

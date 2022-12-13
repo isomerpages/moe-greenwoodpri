@@ -51,13 +51,13 @@ Senior Teachers
 
 | DESIGNATION	| NAME | DESIGNATION | NAME|
 | -------- | -------- | -------- | -------- |
-|Senior Teacher(English Language)	| Mdm Banun Bte Mohamed |	 Senior Teacher (Science)	| Mrs Frances Loh 
- |Senior Teacher (English Language)| Mdm Rosnani Bte Mohd Hussein|Senior Teacher (Science)	| Mrs Joceiyn Wong
- |Senior Teacher (English Language) 	|Mr Ong LuZheng Noah  | Senior Teacher (Science) | Ms Tan Yueh Zhen Clara    
- |Senior Teacher   (Mathematics) 	| Mrs Pauline Koh|Senior Teacher (Science)| Mr Ang Wee Jin  
- |Senior Teacher   (Mathematics)	| Mrs Mohan |  Senior Teacher   (Malay Language)| Mdm Najiyyah Bte Mohamed Said
- | Senior Teacher   (Chinese Language) |Ms Dong Yinong  |Senior Teacher   (Physical Education)| Mr Lim Kwang Seng Jimmy |
- |Senior Teacher   (Music)| Mdm Yap Siok Hwei
+|Senior Teacher <br>(English Language)	| Mdm Banun Bte Mohamed |	 Senior Teacher <br>(Science)	| Mrs Frances Loh 
+ |Senior Teacher <br> (English Language)| Mdm Rosnani Bte Mohd Hussein|Senior Teacher  <br>(Science)	| Mrs Joceiyn Wong
+ |Senior Teacher <br>(English Language) 	|Mr Ong LuZheng Noah  | Senior Teacher<br> (Science) | Ms Tan Yueh Zhen Clara    
+ |Senior Teacher  <br> (Mathematics) 	| Mrs Pauline Koh|Senior Teacher <br>(Science)| Mr Ang Wee Jin  
+ |Senior Teacher   <br>(Mathematics)	| Mrs Mohan |  Senior Teacher  <br> (Malay Language)| Mdm Najiyyah Bte Mohamed Said
+ | Senior Teacher <br>  (Chinese Language) |Ms Dong Yinong  |Senior Teacher <br>  (Physical Education)| Mr Lim Kwang Seng Jimmy |
+ |Senior Teacher<br>   (Music)| Mdm Yap Siok Hwei
  
  Form Teachers
 

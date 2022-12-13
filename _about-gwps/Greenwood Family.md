@@ -53,7 +53,7 @@ Senior Teachers
 | -------- | -------- | -------- | -------- |
 |Senior Teacher(English Language)	| Mdm Banun Bte Mohamed |	 Senior Teacher (Science)	| Mrs Frances Loh 
  |Senior Teacher (English Language)| Mdm Rosnani Bte Mohd Hussein|Senior Teacher (Science)	| Mrs Joceiyn Wong
- |Senior Teacher (Physical   Education) 	| Mr Lim Kwang Seng Jimmy  | Senior Teacher (Music) | Mdm Yap Siok Hwei    
+ |Senior Teacher (English Language) 	|Mr Ong LuZheng Noah  | Senior Teacher (Music) | Mdm Yap Siok Hwei    
  |Senior Teacher   (Mathematics) 	| Mrs Pauline Koh|Senior Teacher (Malay   Language)| Mdm Najiyyah Bte           Mohamed Said  
  |Senior Teacher   (Mathematics)	| Mrs Mohan
  

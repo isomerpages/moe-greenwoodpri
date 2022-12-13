@@ -77,12 +77,12 @@ Senior Teachers
 | 2 Integrity	 |Ms Nur'ain Bte Rahim<br>Ms Nur Rahayu Binte Mohammad Noor| 5 Integrity | Mrs Loh / Wee May Joan Frances<br> Mrs Mohan / Satwant Kaur D/o Bhagwan Singh
 | 2 Care	| Mrs Tan / Elizabeth Chew Sau Leng <br>Ms Noor Shazarratul Aini Binte Abdul Aziz|5 Care | Ms Shaalini D/o Gejendhiran  <br> Mr Lim Kwang Seng Jimmy  
 | 2 Harmony|	Mdm Teo Hui Lee Celeste <br>Mdm Tham Yoke Kuan Joyce	 |5 Harmony|Ms Nur Sussilawati Md Hasshim  <br> Mrs Jasmine Yeo / Lim Ching Mei
-| 2 Wisdom	| Mdm Nazeera Bte Sulaimi <br> Mdm Woo Wai Yin	 |6 Respect| Ms Shaalini Gejendhiran  <br> Mr Ng Jun Wei Daniel
-| 2 Empathy	| Mrs Ali / Noorazima Banu D/o Abdul Ahzim <br> Ms Dong Yinong  |6 Responsibility| Mrs Koh / Lim Poh Ling Pauline<br>Mdm Nur Sussilawati Md   Hasshim
-| 3 Respect |	 Mdm Siti Norhaidahwati Bte Noor<br>Mdm Li Liu | 	 6 Resilience|Mdm Ling Sook Leng Michelle <br> Mrs Tracy Lee (Tho Cheng Ping)
- |3 Responsibility	| Mr Ong LuZheng Noah<br>Ms Nur Adilah Binte Khamsani|6 Integrity|Mr David Tan <br>Mdm Chu Yee Leen 
- |3 Resilience	| Mrs Wong / Beh Ying Ping Joceiyn <br>Ms K Radha | 6 Care|Mrs Mark / Phillida Rabini  <br>Mr Yii Chu Sing Michael 
- |3 Integrity	| Mr Mohamed Noor B Ibrahim  <br> Ms Chua Keng Fang | 6 Harmony |Mrs Loh / Wee May Joan   Frances <br> Ms Chua Keng Fang
+| 2 Wisdom	| Mdm Nazeera Bte Sulaimi <br> Mdm Woo Wai Yin	 |6 Respect| Mr Lee Choong Yong Mervyn<br>Mdm Eilina Look
+| 2 Empathy	| Mrs Ali / Noorazima Banu D/o Abdul Ahzim <br> Ms Dong Yinong  |6 responsibility| Mdm Low Pei Qi<br>Ms Chow Yee Sun
+| 3 Respect |	 Mdm Siti Norhaidahwati Bte Noor<br>Mdm Li Liu | 	 6 Resilience|Mrs Koh / Tan Yan San<br>Mrs Tracy Lee /Tho Cheng Ping
+ |3 Responsibility	| Mr Ong LuZheng Noah<br>Ms Nur Adilah Binte Khamsani|6 Integrity|Mdm Serene Poh <br>Mr Yii Chu Sing Michael 
+ |3 Resilience	| Mrs Wong / Beh Ying Ping Joceiyn <br>Ms K Radha | 6 Care|Mr Mohammad Rasyid B Razin P V Vincent<br>Mdm Chu Yee Leen
+ |3 Integrity	| Mr Mohamed Noor B Ibrahim  <br> Ms Chua Keng Fang | 6 Harmony |Mr Ang Wee Jin<br>Mdm Goh Min Min / Linda 
  
  TEACHERS
  

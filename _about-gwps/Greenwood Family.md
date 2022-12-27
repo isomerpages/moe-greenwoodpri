@@ -71,32 +71,32 @@ Senior Teachers
  |1 Wisdom	 |Mdm Siti Alifah Bte Mod Talib<br> Mdm Sriranjni D/o Chuparmaniam|4 Care	 |Mrs Koh - Zhuo Caiwei<br>Ms Nur Sakinah Binte Mohammed Salim<br>Mr Mohamed Mahathir Bin Kusnong
 | 1 Empathy	 |Mrs Angie Li / Wong Kah Hwei<br>Mdm Junainah Bte Mohamed Yusoff  | 4 Harmony| Mr Tan Teck Lee <br>Mrs Jennifer Teo / Soh Xinxiang
  |2 Respect	| Mdm Azreenah Binte Kamit <br> Mdm Teh Sui Ching Lesley |5 Respect|Mdm Ling Sook Leng Michelle <br>Mdm Siti Sarah Binte Mohamad Saleh<br>Mdm Sagaymarie D/o Savarimuthu
-| 2 responsibility | Mrs Sharon Teo / Chee Wei Leng<br>Ms Ow Chung Fah| 5 responsibility|Mrs Koh / Lim Poh Ling Pauline <br>Mr Mohamed Sha'ban B Mohd Rapiai
- |2 Resilience	| Mdm Ong Mee Lin <br>Mdm Siti Fadiah Bte Ramdan |5 Resilience|	 Ms Li Qin Fang  <br>Ms Hartini Binte Kassim 
+| 2 responsibility | Mrs Sharon Teo / Chee Wei Leng<br>Ms Ow Chung Fah<br>Ms Maisarah Bte Zulkifly| 5 responsibility|Mrs Koh / Lim Poh Ling Pauline <br>Mr Mohamed Sha'ban B Mohd Rapiai
+ |2 Resilience	| Mdm Ong Mee Lin <br>Mdm Siti Fadiah Bte Ramdan |5 Resilience|	 Ms Li Qin Fang  <br>Ms Hartini Binte Kassim<br>Mr Ng Jun Wei Daniel
 | 2 Integrity	 |Ms Nur'ain Bte Rahim<br>Ms Nur Rahayu Binte Mohammad Noor| 5 Integrity | Mrs Loh / Wee May Joan Frances<br> Mrs Mohan / Satwant Kaur D/o Bhagwan Singh
-| 2 Care	| Mrs Tan / Elizabeth Chew Sau Leng <br>Ms Noor Shazarratul Aini Binte Abdul Aziz|5 Care | Ms Shaalini D/o Gejendhiran  <br> Mr Lim Kwang Seng Jimmy  
+| 2 Care	| Mrs Tan/Elizabeth Chew Sau Leng <br>Mdm Noor Shazarratul Aini Binte Abdul Aziz|5 Care | Ms Shaalini D/o Gejendhiran  <br> Mr Lim Kwang Seng Jimmy  
 | 2 Harmony|	Mdm Teo Hui Lee Celeste <br>Mdm Tham Yoke Kuan Joyce	 |5 Harmony|Ms Nur Sussilawati Md Hasshim  <br> Mrs Jasmine Yeo / Lim Ching Mei
 | 2 Wisdom	| Mdm Nazeera Bte Sulaimi <br> Mdm Woo Wai Yin	 |6 Respect| Mr Lee Choong Yong Mervyn<br>Mdm Eilina Look
-| 2 Empathy	| Mrs Ali / Noorazima Banu D/o Abdul Ahzim <br> Ms Dong Yinong  |6 responsibility| Mdm Low Pei Qi<br>Ms Chow Yee Sun
+| 2 Empathy	| Mrs Ali/Noorazima Banu D/o Abdul Ahzim <br> Ms Dong Yinong  |6 responsibility| Mdm Low Pei Qi<br>Ms Chow Yee Sun
 | 3 Respect |	 Mdm Siti Norhaidahwati Bte Noor<br>Mdm Li Liu | 	 6 Resilience|Mrs Koh / Tan Yan San<br>Mrs Tracy Lee /Tho Cheng Ping
  |3 Responsibility	| Mr Ong LuZheng Noah<br>Ms Nur Adilah Binte Khamsani|6 Integrity|Mdm Serene Poh <br>Mr Yii Chu Sing Michael 
  |3 Resilience	| Mrs Wong / Beh Ying Ping Joceiyn <br>Ms K Radha | 6 Care|Mr Mohammad Rasyid B Razin P V Vincent<br>Mdm Chu Yee Leen
- |3 Integrity	| Mr Mohamed Noor B Ibrahim  <br> Ms Chua Keng Fang | 6 Harmony |Mr Ang Wee Jin<br>Mdm Goh Min Min / Linda 
+ |3 Integrity	| Mr Mohamed Noor B Ibrahim  <br> Ms Chua Keng Fang<br>Ms Shen Yan | 6 Harmony |Mr Ang Wee Jin<br>Mdm Goh Min Min / Linda<br> Ms sujatha Pillai 
  
  TEACHERS
  
  | DESIGNATION	| NAME | DESIGNATION | NAME|
 | -------- | -------- | -------- | -------- |
-| Teacher (Mathematics)|	 Mdm Harvinder Kaur	| Teacher (Chinese Language)	| Miss Ow Chung Fah  
+| Teacher (Mathematics)|	 Mdm Harvinder Kaur	| Teacher (Chinese Language)	| 
 | Teacher (Mathematics)	| Ms Karen Ng Hui Lin|	 Teacher (Chinese Language)	| Ms Tan Ai Ling
  |Teacher (Mathematics)|	 Mdm Hathijath Bte Abdul   Majeed        | Teacher (Chinese Language)	 |Mdm Wen Xiwen
- |Teacher  (English/ Maths/ Science)	| Mdm Rokiah Bte Abdul   Rahim	 |Teacher (Malay Language)	| Ms Tengku Nurhafiza Bte   Tengku   Abdul Rahman
- |Teacher  (English/ Maths/ Science)	| Mdm Amalraj Sahayarani	 |Teacher (Malay Language)|Mdm Hartini Binte Kassim
-| Teacher (English Language)	| Ms Betty Chan	| Teacher (Physical Education)	 |Mr Muhammad Bin Ismail
+ |Teacher  (English/ Maths/ Science)	| Mdm Rokiah Bte Abdul   Rahim	 |	| 
+ |Teacher  (English/ Maths/ Science)	| Mdm Amalraj Sahayarani	 ||
+| 	|	| Teacher (Physical Education)	 |Mr Muhammad Bin Ismail
  |Teacher (English Language/Art)	| Mdm Azizah Binte Nor   Mohamed	| Teacher (Physical Education)	| Mr Daniel Ng Jun De  
-| Teacher (Music)	 |Mdm Daphne Ng Pei Pei 	| Teacher (Physical Education) 	| Mr Mohamed Mahathir Bin   Kusnong 
+| Teacher (Music)	 |Mdm Daphne Ng Pei Pei 	|  	| 
 |Teacher (Music)	| Ms Dai Anna 	|Teacher  (English/Mathematics)	 |Ms Halima Bte Mohamed   Yahuff
- |Teacher (Art)	| Mr Goh Yiang Meng	| Teacher  (English/Mathematics)|Ms Ong Ai Tee
+ |Teacher (Art)	| Mr Goh Yiang Meng	| |
 || |Teacher   (English/Mathematics)	 |Ms Nor Aishah Bte Sa'ad
 
 <img src="/images/Small%20logo/gwps%20children%20(1).png" 

@@ -53,8 +53,8 @@ Senior Teachers
 | -------- | -------- | -------- | -------- |
 |Senior Teacher <br>(English Language)	| Mdm Banun Bte Mohamed |	 Senior Teacher <br>(Science)	| Mrs Frances Loh 
  |Senior Teacher <br> (English Language)| Mdm Rosnani Bte Mohd Hussein|Senior Teacher  <br>(Science)	| Mrs Joceiyn Wong
- |Senior Teacher  <br> (Mathematics) 	| Mrs Pauline Koh|Senior Teacher<br>   (Music)|  Mdm Yap Siok Hwei
- |Senior Teacher   <br>(Mathematics)	| Mrs Mohan |  Senior Teacher  <br> (Malay Language)| Mdm Najiyyah Bte Mohamed Said
+ |Senior Teacher  <br> (Mathematics) 	| Mrs Koh/Lim Poh Ling Pauline|Senior Teacher<br>   (Music)|  Mdm Yap Siok Hwei
+ |Senior Teacher   <br>(Mathematics)	| Mrs Mohan/Satwant Kaur D/o Bhagwan Singh |  Senior Teacher  <br> (Malay Language)| Mdm Najiyyah Bte Mohamed Said
  | Senior Teacher <br>  (Chinese Language) |Ms Dong Yinong  |Senior Teacher <br>  (Physical Education)| Mr Lim Kwang Seng Jimmy |
  ||
  

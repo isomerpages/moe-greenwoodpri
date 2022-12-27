@@ -45,7 +45,7 @@ School Executive Committee Members
 | -------- | -------- | -------- | -------- |
 |Senior School   Counsellor	 |Mr Victor Lucas |	 Senior Special   Educational Needs   Officer (SSENO)| Ms Ang Man Ling 
  |School Counsellor| Ms Priscilla Shin|	 Special   Educational Needs   Officer (SENO)| Ms Mohammed Shahrin Bin   Abdul Rahman Mustaffa 
-| Student Welfare   Officer  |	 Mdm Karen Ong
+| Student Welfare   Officer  |	 Mdm Ong Karen 
 
 Senior Teachers
 
@@ -53,11 +53,10 @@ Senior Teachers
 | -------- | -------- | -------- | -------- |
 |Senior Teacher <br>(English Language)	| Mdm Banun Bte Mohamed |	 Senior Teacher <br>(Science)	| Mrs Frances Loh 
  |Senior Teacher <br> (English Language)| Mdm Rosnani Bte Mohd Hussein|Senior Teacher  <br>(Science)	| Mrs Joceiyn Wong
- |Senior Teacher <br>(English Language) 	|Mr Ong LuZheng Noah  | Senior Teacher<br> (Science) | Ms Tan Yueh Zhen Clara    
- |Senior Teacher  <br> (Mathematics) 	| Mrs Pauline Koh|Senior Teacher <br>(Science)| Mr Ang Wee Jin  
+ |Senior Teacher  <br> (Mathematics) 	| Mrs Pauline Koh|Senior Teacher<br>   (Music)|  Mdm Yap Siok Hwei
  |Senior Teacher   <br>(Mathematics)	| Mrs Mohan |  Senior Teacher  <br> (Malay Language)| Mdm Najiyyah Bte Mohamed Said
  | Senior Teacher <br>  (Chinese Language) |Ms Dong Yinong  |Senior Teacher <br>  (Physical Education)| Mr Lim Kwang Seng Jimmy |
- |Senior Teacher<br>   (Music)| Mdm Yap Siok Hwei
+ ||
  
  Form Teachers
 

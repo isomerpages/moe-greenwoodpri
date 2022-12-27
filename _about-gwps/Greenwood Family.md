@@ -87,17 +87,15 @@ Senior Teachers
  
  | DESIGNATION	| NAME | DESIGNATION | NAME|
 | -------- | -------- | -------- | -------- |
-| Teacher (Mathematics)|	 Mdm Harvinder Kaur	| Teacher (Chinese Language)	| 
+| Teacher (Mathematics)|	 Mdm Harvinder Kaur	| Teacher (Chinese Language)	| Mdm Wen Xiwen
 | Teacher (Mathematics)	| Ms Karen Ng Hui Lin|	 Teacher (Chinese Language)	| Ms Tan Ai Ling
- |Teacher (Mathematics)|	 Mdm Hathijath Bte Abdul   Majeed        | Teacher (Chinese Language)	 |Mdm Wen Xiwen
- |Teacher  (English/ Maths/ Science)	| Mdm Rokiah Bte Abdul   Rahim	 |	| 
- |Teacher  (English/ Maths/ Science)	| Mdm Amalraj Sahayarani	 ||
-| 	|	| Teacher (Physical Education)	 |Mr Muhammad Bin Ismail
- |Teacher (English Language/Art)	| Mdm Azizah Binte Nor   Mohamed	| Teacher (Physical Education)	| Mr Daniel Ng Jun De  
-| Teacher (Music)	 |Mdm Daphne Ng Pei Pei 	|  	| 
-|Teacher (Music)	| Ms Dai Anna 	|Teacher  (English/Mathematics)	 |Ms Halima Bte Mohamed   Yahuff
- |Teacher (Art)	| Mr Goh Yiang Meng	| |
-|| |Teacher   (English/Mathematics)	 |Ms Nor Aishah Bte Sa'ad
+ |Teacher (Mathematics)|	 Mdm Hathijath Bte Abdul   Majeed        | Teacher (Tamil Language)	 | Mdm Indira Ananthan
+ |Teacher  (English/ Maths/ Science)	| Mdm Rokiah Bte Abdul   Rahim	 |Teacher (Physical Education)	| Mr Muhammad Bin Ismail
+ |Teacher  (English/ Maths/ Science)	| Mdm Amalraj Sahayarani	 |Teacher (Physical Education)|Mr Daniel Ng Jun De  
+|Teacher  (English/ Maths/ Science) 	| Ms Nora Othman-Tooch	|Teacher (Music) 	 |Mdm Daphne Ng Pei Pei 
+ |Teacher (English Language/Art)	| Mdm Azizah Binte Nor   Mohamed	|Teacher (Music) 	| Ms Dai Anna
+|Teacher (Mathematics) 	 | Mdm Lydia Lim Lee Cheng	|Teacher (Art)  	|  Mr Goh Yiang Meng
+|Teacher   (English/Mathematics)	|Ms Nor Aishah Bte Sa'ad  	|Teacher  (English/Mathematics)	 |Ms Halima Bte Mohamed   Yahuff
 
 <img src="/images/Small%20logo/gwps%20children%20(1).png" 
      style="width:25%;float:right">

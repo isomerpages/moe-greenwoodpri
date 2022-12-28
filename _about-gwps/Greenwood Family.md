@@ -31,11 +31,11 @@ School Executive Committee Members
 
  | DESIGNATION	| NAME | DESIGNATION | NAME|
 | -------- | -------- | -------- | -------- |
-|Administration   Manager	 |Ms Huang Ke Xin Josephine	|Operations   Manager	| Mr Chia Cheok Wah Francis
- |Administration   Executive|Mdm Wong Ai Nyuk Irene	 | Adjunct Operations   Manager	| Mr Lim Eng Hock
+|Administration   Manager	 |Ms Josephine Huang Kexin 	|Operations   Manager	| Mr Chia Cheok Wah Francis
+ |Administrative   Executive|Mdm Wong Ai Nyuk Irene	 | Adjunct Operations   Manager	| Mr Lim Eng Hock
  |Corporate Support   Officer	| Mdm Siti Halija Bte Norazmi |Operations   Support Officer	| Mr Tan Cheng Siong
  |Corporate Support   Officer|	 Ms Kavitha D/o Maghalingam|Operations   Support Officer|	 Mdm Silvapakiam D/o Muran
-|Adjunct Support   Officer| Mdm Norazlin Bte Mohamed Amin|Operations   Support Officer|Mdm Fareeth Begam 
+|Adjunct  Corporate Support Officer| Mdm Norazlin Bte Mohamed Amin|Operations   Support Officer|Mdm Fareeth Begam 
  |Receptionist |Ms Sim Saw Ping Jasline|Operations     Support Officer	| Mr Ismail bin Hussein
  |Info-Comm   Technology   Manager |Mr Muhammad Safiuddin Bin   Mohamed Sabri |Operations     Support Officer  |Mdm Jamilah Bte Ahmad
   
@@ -53,9 +53,9 @@ Senior Teachers
 | -------- | -------- | -------- | -------- |
 |Senior Teacher <br>(English Language)	| Mdm Banun Bte Mohamed |	 Senior Teacher <br>(Science)	| Mrs Frances Loh 
  |Senior Teacher <br> (English Language)| Mdm Rosnani Bte Mohd Hussein|Senior Teacher  <br>(Science)	| Mrs Joceiyn Wong
- |Senior Teacher  <br> (Mathematics) 	| Mrs Koh/Lim Poh Ling Pauline|Senior Teacher<br>   (Music)|  Mdm Yap Siok Hwei
- |Senior Teacher   <br>(Mathematics)	| Mrs Mohan/Satwant Kaur D/o Bhagwan Singh |  Senior Teacher  <br> (Malay Language)| Mdm Najiyyah Bte Mohamed Said
- | Senior Teacher <br>  (Chinese Language) |Ms Dong Yinong  |Senior Teacher <br>  (Physical Education)| Mr Lim Kwang Seng Jimmy |
+ |Senior Teacher<br>   (Music)|  Mdm Yap Siok Hwei|  Senior Teacher <br>  (Chinese Language)|Ms Dong Yinong
+ Senior Teacher   <br>(Mathematics)	| Mrs Mohan/Satwant Kaur D/o Bhagwan Singh |  Senior Teacher  <br> (Malay Language)| Mdm Najiyyah Bte Mohamed Said
+ | |  |Senior Teacher <br>  (Physical Education)| Mr Lim Kwang Seng Jimmy |
  ||
  
  Form Teachers

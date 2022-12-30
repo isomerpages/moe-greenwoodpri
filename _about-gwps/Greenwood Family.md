@@ -21,7 +21,7 @@ School Executive Committee Members
 |Level Head/Mathematics| Ms Low Pei Qi|Assistant Year Head/Middle Primary (Covering)|Mdm Serene Poh|
 |Level Head/Science|Ms Lim Ching Mei Jasmine|Year Head/Upper Primary	| Mdm Ling Sook Leng Michelle
 |HOD/Mother Tongue   Languages	|Mdm Goh Min Min Linda | HOD/Aesthetics	| Mdm Soh Xinxiang Jennifer
-|Subject Head/Malay and Tamil   Languages	|Mdm Junainah Bte Mohamed Yusoff | HOD/Character and Citizenship   Education	| Mr Ng Jun Wei Daniel 
+|Subject Head/Malay and Tamil   Languages	|Mdm Junainah Bte Mohamed Yusoff | HOD/Character and Citizenship   Education	| Mr Daniel Ng Jun Wei 
 |Subject Head/Chinese Language	|Ms Chow Yee Sun 	| Subject Head/Character and Citizenship Education	| Mdm Siti Fadiah Bte Ramdan 	
 |HOD/Info-Comm Technology and Media Resource   Library| Mdm Chu Yee Leen (Zhou Yanling)	 |Subject Head/Student Well-Being	| Mdm Tan Yan San
 |Subject Head/Info-Comm Technology   |Mr Lee Choong Yong Mervyn  |	 Subject Head/Partnerships	| Mdm Nur'Ain Bte Rahim

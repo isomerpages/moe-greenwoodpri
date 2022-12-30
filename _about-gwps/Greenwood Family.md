@@ -82,7 +82,7 @@ Senior Teachers
 | 3 Respect |	 Mdm Siti Norhaidahwati Bte Noor<br>Mdm Li Liu | 	 6 Resilience|Mrs Koh / Tan Yan San<br>Mrs Tracy Lee /Tho Cheng Ping
  |3 Responsibility	| Mr Ong LuZheng Noah<br>Ms Nur Adilah Binte Khamsani|6 Integrity|Mdm Serene Poh <br>Mr Yii Chu Sing Michael 
  |3 Resilience	| Mrs Wong / Beh Ying Ping Joceiyn <br>Ms K Radha | 6 Care|Mr Mohammad Rasyid B Razin P V Vincent<br>Mdm Chu Yee Leen
- |3 Integrity	| Mr Mohamed Noor B Ibrahim  <br> Ms Chua Keng Fang<br>Ms Shen Yan | 6 Harmony |Mr Ang Wee Jin<br>Mdm Goh Min Min / Linda<br> Ms sujatha Pillai 
+ |3 Integrity	| Mr Mohamed Noor B Ibrahim  <br> Ms Chua Keng Fang<br>Ms Shen Yan | 6 Harmony |Mr Ang Wee Jin<br>Mdm Goh Min Min Linda<br> Ms Sujatha Pillai 
  
  TEACHERS
  

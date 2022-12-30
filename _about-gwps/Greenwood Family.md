@@ -66,14 +66,14 @@ Senior Teachers
 |1 Respect |	 Mrs Winnie Yan /Tan Mui Li<br>Ms M Akmar |3 Care	| Mr David Tan Sez Wee <br> Ms Jazreel Tan Qian Yee | 
 1 Responsibility |Mdm Wong Li Peng<br>Mdm Najiyyah Bte Mohamed Said | 3 Harmony	| Mdm Siti Noraisha Bte Sanusi<br>Mdm Yap Siok Hwei
 |1 Resilience	|Mdm Banun Bte Mohamed <br>Mdm Huang Yanling|4 Respect |Ms Tan Yueh Zhen Clara<br>Ms Cynthia Ang Xin Wei
-| 1 Integrity | Mdm Koh Kim Noi Adrienne <br> Mdm Marsita Bte Ismail|4 Responsibility |	 Mdm Rosnani Bte Mohd Hussein<br>Mrs Sabrina Tan
+| 1 Integrity | Mdm Koh Kim Noi Adrienne <br> Mdm Marsita Bte Ismail|4 Responsibility |	 Mdm Rosnani Bte Mohd Hussein<br>Mrs Sabrina Tan / Wong Choon Yen
  |1 Care	| Mdm Ng Lay Ling Rebecca<br>Mdm Hayati Murni Bte Mohamed Yacob|4 Resilience | Mrs Sarah Tan / Leong Yoke Lin <br>Mdm Wan Norzilah Bte Mohd Shafian 
  |1 Harmony| Mdm Nuraini Binte Abdul Hamid <br> Ms Bak Ing Shien|4 Integrity|Mdm Noraini Binte Nanyan<br> Mr Teo Peng Koon / Zhang Bingkun 
  |1 Wisdom	 |Mdm Siti Alifah Bte Mod Talib<br> Mdm Sriranjni D/o Chuparmaniam|4 Care	 |Mrs Koh - Zhuo Caiwei<br>Ms Nur Sakinah Binte Mohammed Salim<br>Mr Mohamed Mahathir Bin Kusnong
 | 1 Empathy	 |Mrs Angie Li / Wong Kah Hwei<br>Mdm Junainah Bte Mohamed Yusoff  | 4 Harmony| Mr Tan Teck Lee <br>Mrs Jennifer Teo / Soh Xinxiang
  |2 Respect	| Mdm Azreenah Binte Kamit <br> Mdm Teh Sui Ching Lesley |5 Respect|Mdm Ling Sook Leng Michelle <br>Mdm Siti Sarah Binte Mohamad Saleh<br>Mdm Sagaymarie D/o Savarimuthu
 | 2 Responsibility | Mrs Sharon Teo / Chee Wei Leng<br>Ms Ow Chung Fah<br>Ms Maisarah Bte Zulkifly| 5 Responsibility|Mrs Koh / Lim Poh Ling Pauline <br>Mr Mohamed Sha'ban B Mohd Rapiai
- |2 Resilience	| Mdm Ong Mee Lin <br>Mdm Siti Fadiah Bte Ramdan |5 Resilience|	 Ms Li Qin Fang  <br>Ms Hartini Binte Kassim<br>Mr Ng Jun Wei Daniel
+ |2 Resilience	| Mdm Ong Mee Lin <br>Mdm Siti Fadiah Bte Ramdan |5 Resilience|	 Ms Li Qin Fang  <br>Ms Hartini Binte Kassim<br>Mr  DanielNg Jun Wei
 | 2 Integrity	 |Ms Nur'ain Bte Rahim<br>Ms Nur Rahayu Binte Mohammad Noor| 5 Integrity | Mrs Loh / Wee May Joan Frances<br> Mrs Mohan / Satwant Kaur D/o Bhagwan Singh
 | 2 Care	| Mrs Tan/Elizabeth Chew Sau Leng <br>Mdm Noor Shazarratul Aini Binte Abdul Aziz|5 Care | Ms Shaalini D/o Gejendhiran  <br> Mr Lim Kwang Seng Jimmy  
 | 2 Harmony|	Mdm Teo Hui Lee Celeste <br>Mdm Tham Yoke Kuan Joyce	 |5 Harmony|Ms Nur Sussilawati Md Hasshim  <br> Mrs Jasmine Yeo / Lim Ching Mei

@@ -16,7 +16,7 @@ School Executive Committee Members
 | -------- | -------- | -------- | -------- |
 |HOD/English Language|  Ms Eilina Abdullah Look	|Year Head/Lower Primary|Mrs Sharon Teo
 |Level Head/English Language|Mdm Noraini Bte Nanyan|Assistant Year Head/Lower Primary|Mdm Teo Hui Lee Celeste
-|Level Head/Mathematics   |	 Mr Yii Chu Sing Michael 	 |Year Head/Middle Primary	 | Mrs Koh - Zhuo Caiwei
+|HOD/Mathematics (Covering)   |	 Mr Yii Chu Sing Michael 	 |Assistant Year Head/Lower Primary (Covering)|Mdm Siti Noraisha Bte Sanusi|Year Head/Middle Primary	 | Mrs Koh - Zhuo Caiwei
 |Level Head/Mathematics   	| Ms Low Pei Qi	 |Year Head/Upper Primary	| Mdm Ling Sook Leng Michelle
 |HOD/Science	| Ms Li Qin Fang	| HOD/Aesthetics	| Mdm Soh Xinxiang Jennifer
 |Level Head/Science	| Ms Lim Ching Mei Jasmine| HOD/Character and Citizenship   Education	| Mr Ng Jun Wei Daniel 

@@ -45,7 +45,7 @@ b.	Character and Citizenship Education (CCE)
 
  **Primary 5**
  
-
+![](/images/P5.jpg)
  **Primary 6**
  
  **UNIT: Are We More Than Friends?**

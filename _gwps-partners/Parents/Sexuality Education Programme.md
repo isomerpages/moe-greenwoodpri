@@ -41,34 +41,10 @@ b.	Character and Citizenship Education (CCE)
 8. 	Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
 
-**At Greenwood Primary School, the following Sexuality Education lessons will be taught in 2022:**
+**2023 SEXUALITY EDUCATION LESSONS IN CCE 2021**
 
  **Primary 5**
  
- **UNIT: Gosh! I Am Changing**
- 
- 
-
-| LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-| -------- | -------- | -------- |
-|What Is Happening To Me?<br> (30 min)|-Know what puberty is<br>-Identify the physical changes during puberty|Term 3 Week 5
-|What Can I Do? (Part 1) <br>(30 min)|-Identify the stresses caused by physical and emotional changes during puberty<br>-Describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>-Describe the emotions caused by physical changes during puberty<br>-Recognise that one’s identity does not change even when one’s body is experiencing change due to puberty|Term 3 Week 5
-|What Can I Do? (Part 2)<br> (30 min)|-Identify the stresses caused by physical and emotional changes during puberty<br>-Describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>-Describe the emotions caused by physical changes during puberty<br>-Recognise that one’s identity does not change even when one’s body is experiencing change due to puberty|Term 3 Week 6
-|Main Task<br>(30 min)|Description of the Main Task:<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.|Term 3 Week 6
-
- **UNIT: Where I Belong**
- 
- | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-| -------- | -------- | -------- |
-|What Are Families?<br>(30 min)|-Know that there are different types of family structures<br>-Know that every family is unique<br>-State that the three basic functions of families are to provide love, protection and guidance<br>-Identify the right sources of help to turn to when in need|Term 3 Week 8
-|What is My Role?<br>(30 min)|-Know that gender is about being male or female<br>-Choose not to stereotype by gender|Term 3 Week 8
-
- **UNIT: How Do I Keep Myself Safe?**
- 
-  | LESSONS / DURATION | Lesson Objectives<br>At the end of the lesson, pupils will be able to: | TIME PERIOD<br>(e.g. Term 1 Week 2) |
-| -------- | -------- | -------- |
-|What is Safety?<br>(30 min)|-Know what sexual abuse is<br>-Know that there are laws in Singapore that can protect them from sexual abuse<br>-Know their rights in keeping themselves safe from sexual abuse|Term 3 Week 9
-|Stop It! Run! Tell!<br>(30 min)|Protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>Know their responsibilities in minimising the risk of sexual harm|Term 3 Week 9
 
  **Primary 6**
  

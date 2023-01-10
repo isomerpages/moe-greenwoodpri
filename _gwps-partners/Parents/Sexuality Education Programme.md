@@ -54,7 +54,7 @@ Please Note:
 **INFORMATION FOR PARENTS**
 
 8.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
-9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/GY%20Opt-out%20form.pdf). The completed opt-out form is to be submitted by 27/01/2023.
+9.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be sent to parents via Parent Gateway at the start of the year and is also downloadable [here](/files/GY%20Opt-out%20form.pdf). The completed opt-out form is to be submitted by 27/01/2023.
 10.	Parents can contact the school at greenwood_ps@moe.edu.sg or 63666158 for discussion or to seek clarification about the school’s Sexuality Education programme. 
 
 

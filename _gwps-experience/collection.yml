@@ -2,6 +2,7 @@ collections:
   gwps-experience:
     output: true
     order:
+      - ALP BLISS/Newsletters.md
       - ALP BLISS/ALP BLISS.md
       - ALP BLISS/.keep
       - Holistic Curriculum/.keep

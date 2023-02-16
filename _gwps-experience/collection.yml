@@ -2,7 +2,6 @@ collections:
   gwps-experience:
     output: true
     order:
-      - Newsletters.md
       - Holistic Curriculum/.keep
       - Holistic Curriculum/English Language.md
       - Holistic Curriculum/Mathematics.md

@@ -9,7 +9,7 @@ description: ""
 [<img src="/images/KOOBITS.jpg" 
      style="width:50%">](https://problemsums.koobits.com/)
 		 
-#### <center> [GWPS MTL Resource](https://sites.google.com/moe.edu.sg/gwpsmtl/home)		 
+#### <center><a href="https://sites.google.com/moe.edu.sg/gwpsmtl/home">GWPS MTL Resource</a>
 	
 #### <center>[EZhiShi](https://www.ezhishi.net/)
 		 

@@ -9,8 +9,7 @@ description: ""
 [<img src="/images/Links/KOOBITS.jpg" 
      style="width:50%">](https://problemsums.koobits.com/)
 		
-[<img src="/images/Links/ezhishi.png" 
-     style="width:50%">] (https://www.ezhishi.net/)
+<a href="https://www.ezhishi.net"><img src="/images/Links/Ezhishi.png" style="width:50%"></a>
 		 
 #### <center><a href="https://sites.google.com/moe.edu.sg/gwpsmtl/home">GWPS MTL Resource</a>
 		 

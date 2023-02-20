@@ -11,11 +11,11 @@ description: ""
 		 
 #### <center><a href="https://sites.google.com/moe.edu.sg/gwpsmtl/home">GWPS MTL Resource</a>
 	
-#### <center>[EZhiShi](https://www.ezhishi.net/)
+#### <center><a href="https://www.ezhishi.net">EZhiShi</a>
 		 
-#### <center> [GWPS OPAC](https://schoolibrary.moe.edu.sg/greenwoodpri)</center>
+#### <center> <a href="https://schoolibrary.moe.edu.sg/greenwoodpri">GWPS OPAC</center>
 	
-#### <center>[GWPS Alumni Registration](https://go.gov.sg/greenwoodalumni)</center>
+#### <center><a href="https://go.gov.sg/greenwoodalumni">GWPS Alumni Registration</a></center>
 
 
 <img src="/images/Small%20logo/gwps%20children%20(1).png" 

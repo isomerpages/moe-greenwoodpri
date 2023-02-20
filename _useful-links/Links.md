@@ -3,15 +3,16 @@ title: Links
 permalink: /useful-links/Links/
 description: ""
 ---
-[<img src="/images/SLS-Logo.png" 
+[<img src="/images/Links/SLS-Logo.png" 
      style="width:50%">](https://vle.learning.moe.edu.sg/login)
 		 <br>
-[<img src="/images/KOOBITS.jpg" 
+[<img src="/images/Links/KOOBITS.jpg" 
      style="width:50%">](https://problemsums.koobits.com/)
+		
+[<img src="/images/Links/ezhishi.png" 
+     style="width:50%">] (https://www.ezhishi.net/)
 		 
 #### <center><a href="https://sites.google.com/moe.edu.sg/gwpsmtl/home">GWPS MTL Resource</a>
-	
-#### <center><a href="https://www.ezhishi.net">EZhiShi</a></center>
 		 
 #### <center> <a href="https://schoolibrary.moe.edu.sg/greenwoodpri">GWPS OPAC</a></center>
 	

@@ -97,7 +97,11 @@ Senior Teachers
  |Teacher (English Language/Art)	| Mdm Azizah Binte Nor   Mohamed	|Teacher (Music) 	| Ms Dai Anna
 |Teacher (English/Mathematics) 	 | 	Ms Halima Bte Mohamed   Yahuff|Teacher (Music)  	|  Ms Oon Yuan Lin
 |Teacher   (English/Mathematics)	|Ms Nor Aishah Bte Sa'ad  	|Teacher  (Art)	 |Mr Goh Yiang Meng
-|Teacher  (Mathematics/Science)	|Ms Zarina Bte Mohamed Isa|Teacher  (English/ Maths/ PE) |Mr Muhammad Safiuddin Bin Mohamed Sabri
+|Teacher  (English/Mathematics)	|Mrs Yeo / Toh Su Wei Jacqueline|Teacher  (English/ Maths/ PE) |Mr Muhammad Safiuddin Bin Mohamed Sabri
+|Teacher  (Mathematics/Science)	|Ms Zarina Bte Mohamed Isa|||
+
+
+
 
 <img src="/images/Small%20logo/gwps%20children%20(1).png" 
      style="width:25%;float:right">

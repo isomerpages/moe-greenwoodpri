@@ -34,18 +34,18 @@ School Executive Committee Members
 | -------- | -------- | -------- | -------- |
 |Administration   Manager	 |Ms Josephine Huang Kexin 	|Operations   Manager	| Mr Chia Cheok Wah Francis
  |Administrative   Executive|Mdm Wong Ai Nyuk Irene	 | Adjunct Operations   Manager	| Mr Lim Eng Hock
- |Corporate Support   Officer	| Mdm Siti Halija Bte Norazmi |Operations   Support Officer	| Mr Tan Cheng Siong
- |Corporate Support   Officer|	 Ms Kavitha D/o Maghalingam|Operations   Support Officer|	 Mdm Silvapakiam D/o Muran
-|Corporate Support Officer| Mdm Norazlin Bte Mohamed Amin|Operations   Support Officer|Mdm Fareeth Begam 
+ |Corporate Support   Officer	| Ms Kavitha D/o Maghalingam|Operations   Support Officer	| Mr Tan Cheng Siong
+ |Corporate Support   Officer|	 Mdm Siti Halija Bte Norazmi |Operations Support Officer|	 Mdm Silvapakiam D/o Muran
+|Operations Support Officer| Mdm Jamilah Bte Ahmad|Operations   Support Officer|Mdm Fareeth Begam 
  |Receptionist |Ms Sim Saw Ping Jasline|Operations     Support Officer	| Mr Ismail bin Hussein
- |Info-Comm   Technology   Manager |Mr Muhammad Safiuddin Bin   Mohamed Sabri |Operations     Support Officer  |Mdm Jamilah Bte Ahmad
+ |||  |
   
  Allied Educators (AED)
 
   | DESIGNATION	| NAME | DESIGNATION | NAME|
 | -------- | -------- | -------- | -------- |
 |Senior School   Counsellor	 |Mr Victor Lucas |	 Senior Special   Educational Needs   Officer (SSENO)| Ms Ang Man Ling 
- |School Counsellor| Ms Priscilla Shin|	 Special   Educational Needs   Officer (SENO)| Ms Mohammed Shahrin Bin   Abdul Rahman Mustaffa 
+ |School Counsellor| Ms Priscilla Shin|	 Special   Educational Needs   Officer (SENO)| Mr Mohammed Shahrin Bin   Abdul Rahman Mustaffa 
 | Student Welfare   Officer  |	 Mdm Ong Karen 
 
 Senior Teachers
@@ -88,15 +88,16 @@ Senior Teachers
  
  | DESIGNATION	| NAME | DESIGNATION | NAME|
 | -------- | -------- | -------- | -------- |
-| Teacher (Mathematics)|	 Mdm Harvinder Kaur	| Teacher (Chinese Language)	| Mdm Wen Xiwen
+| Teacher (Mathematics)|Mdm Hathijath Bte Abdul   Majeed	 | Teacher (Chinese Language)	| Mdm Wen Xiwen
 | Teacher (Mathematics)	| Ms Karen Ng Hui Lin|	 Teacher (Chinese Language)	| Ms Tan Ai Ling
- |Teacher (Mathematics)|	 Mdm Hathijath Bte Abdul   Majeed        | Teacher (Tamil Language)	 | Mdm Indira Ananthan
+ |Teacher (Mathematics)|	  Mdm Lydia Lim Lee Cheng       | Teacher (Tamil Language)	 | Mrs Nalpon Jeyamarie Jean/ Mrs Jean
  |Teacher  (English/ Maths/ Science)	| Mdm Rokiah Bte Abdul   Rahim	 |Teacher (Physical Education)	| Mr Muhammad Bin Ismail
  |Teacher  (English/ Maths/ Science)	| Mdm Amalraj Sahayarani	 |Teacher (Physical Education)|Mr Daniel Ng Jun De  
 |Teacher  (English/ Maths/ Science) 	| Ms Nora Othman-Tooch	|Teacher (Music) 	 |Mdm Daphne Ng Pei Pei 
  |Teacher (English Language/Art)	| Mdm Azizah Binte Nor   Mohamed	|Teacher (Music) 	| Ms Dai Anna
-|Teacher (Mathematics) 	 | Mdm Lydia Lim Lee Cheng	|Teacher (Art)  	|  Mr Goh Yiang Meng
-|Teacher   (English/Mathematics)	|Ms Nor Aishah Bte Sa'ad  	|Teacher  (English/Mathematics)	 |Ms Halima Bte Mohamed   Yahuff
+|Teacher (English/Mathematics) 	 | 	Ms Halima Bte Mohamed   Yahuff|Teacher (Music)  	|  Ms Oon Yuan Lin
+|Teacher   (English/Mathematics)	|Ms Nor Aishah Bte Sa'ad  	|Teacher  (Art)	 |Mr Goh Yiang Meng
+|Teacher  (Mathematics/Science)	|Ms Zarina Bte Mohamed Isa|Teacher  (English/ Maths/ PE) |Mr Muhammad Safiuddin Bin Mohamed Sabri
 
 <img src="/images/Small%20logo/gwps%20children%20(1).png" 
      style="width:25%;float:right">

@@ -17,8 +17,8 @@ School Executive Committee Members
 |HOD/English Language|  Ms Eilina Abdullah Look	|Year Head/Lower Primary|Mrs Sharon Teo
 |Level Head/English Language|Mdm Noraini Bte Nanyan|Assistant Year Head/Lower Primary|Mdm Teo Hui Lee Celeste
 |HOD/Mathematics (Covering)   |	 Mr Yii Chu Sing Michael|Assistant Year Head/Middle Primary (Covering)|Mdm Siti Noraisha Bte Sanusi
-|HOD/Science|Ms Li Qin Fang|Year Head/Middle Primary|Mrs Koh - Zhuo Caiwei|
-|Level Head/Mathematics| Ms Low Pei Qi|Assistant Year Head/Upper Primary (Covering)|Mdm Serene Poh|
+|Level Head/Mathematics|Ms Low Pei Qi|Year Head/Middle Primary|Mrs Koh - Zhuo Caiwei|
+|HOD/Science| Ms Li Qin Fang|Assistant Year Head/Upper Primary (Covering)|Mdm Serene Poh|
 |Level Head/Science|Ms Lim Ching Mei Jasmine|Year Head/Upper Primary	| Mdm Ling Sook Leng Michelle
 |HOD/Mother Tongue   Languages	|Mdm Goh Min Min Linda | HOD/Aesthetics	| Mdm Soh Xinxiang Jennifer
 |Subject Head/Malay and Tamil   Languages	|Mdm Junainah Bte Mohamed Yusoff | HOD/Character and Citizenship   Education	| Mr Daniel Ng Jun Wei 
@@ -52,11 +52,11 @@ Senior Teachers
 
 | DESIGNATION	| NAME | DESIGNATION | NAME|
 | -------- | -------- | -------- | -------- |
-|Senior Teacher <br>(English Language)	| Mdm Banun Bte Mohamed |	 Senior Teacher <br>(Science)	| Mrs Frances Loh 
- |Senior Teacher <br> (English Language)| Mdm Rosnani Bte Mohd Hussein|Senior Teacher  <br>(Science)	| Mrs Joceiyn Wong
- |Senior Teacher<br>   (Music)|  Mdm Yap Siok Hwei|  Senior Teacher <br>  (Chinese Language)|Ms Dong Yinong
- Senior Teacher   <br>(Mathematics)	| Mrs Mohan/Satwant Kaur D/o Bhagwan Singh |  Senior Teacher  <br> (Malay Language)| Mdm Najiyyah Bte Mohamed Said
- | |  |Senior Teacher <br>  (Physical Education)| Mr Lim Kwang Seng Jimmy |
+|Senior Teacher <br>(English Language)	| Mdm Banun Bte Mohamed |	 Senior Teacher <br>(Mathematics)	| Mrs Mohan/Satwant Kaur D/o Bhagwan Singh
+ |Senior Teacher <br> (English Language)| Mdm Rosnani Bte Mohd Hussein|Senior Teacher  <br>(Chinese Language)	| Ms Dong Yinong
+ |Senior Teacher<br>   (Science)| Mrs Frances Loh  |  Senior Teacher <br>  (Malay Language)|Mdm Najiyyah Bte Mohamed Said
+ Senior Teacher   <br>(Science)	| Mrs Joceiyn Wong |  Senior Teacher  <br> (Physical Education)| Mr Lim Kwang Seng Jimmy
+ | Senior Teacher<br>   (Music)| Mdm Yap Siok Hwei ||  |
  ||
  
  Form Teachers

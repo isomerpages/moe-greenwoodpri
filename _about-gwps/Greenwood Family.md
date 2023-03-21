@@ -38,7 +38,7 @@ School Executive Committee Members
  |Corporate Support   Officer|	 Mdm Siti Halija Bte Norazmi |Operations Support Officer|	 Mdm Silvapakiam D/o Muran
 |Operations Support Officer| Mdm Jamilah Bte Ahmad|Operations   Support Officer|Mdm Fareeth Begam 
  |Receptionist |Ms Sim Saw Ping Jasline|Operations     Support Officer	| Mr Ismail bin Hussein
- |||  |
+ 
   
  Allied Educators (AED)
 
@@ -57,11 +57,11 @@ Senior Teachers
  |Senior Teacher<br>   (Science)| Mrs Frances Loh  |  Senior Teacher <br>  (Malay Language)|Mdm Najiyyah Bte Mohamed Said
  Senior Teacher   <br>(Science)	| Mrs Joceiyn Wong |  Senior Teacher  <br> (Physical Education)| Mr Lim Kwang Seng Jimmy
  | Senior Teacher<br>   (Music)| Mdm Yap Siok Hwei ||  |
- ||
+ 
  
  Form Teachers
 
- | DESIGNATION	| NAME | DESIGNATION | NAME|
+ | FORM CLASS	| NAME | FORM CLASS | NAME|
 | -------- | -------- | -------- | -------- |
 |1 Respect |	 Mrs Winnie Yan /Tan Mui Li<br>Ms Maizathul Akmar Bte S. Hameed|3 Care	| Mr David Tan Sez Wee <br> Ms Jazreel Tan Qian Yee | 
 1 Responsibility |Mdm Wong Li Peng<br>Mdm Najiyyah Bte Mohamed Said | 3 Harmony	| Mdm Siti Noraisha Bte Sanusi<br>Mdm Yap Siok Hwei
@@ -77,7 +77,7 @@ Senior Teachers
 | 2 Integrity	 |Ms Nur'ain Bte Rahim<br>Ms Nur Rahayu Binte Mohammad Noor| 5 Integrity | Mrs Loh / Wee May Joan Frances<br> Mrs Mohan / Satwant Kaur D/o Bhagwan Singh
 | 2 Care	| Mrs Tan/Elizabeth Chew Sau Leng <br>Mdm Noor Shazarratul Aini Binte Abdul Aziz|5 Care | Ms Shaalini D/o Gejendhiran  <br> Mr Lim Kwang Seng Jimmy  
 | 2 Harmony|	Mdm Teo Hui Lee Celeste <br>Mdm Tham Yoke Kuan Joyce	 |5 Harmony|Ms Nur Sussilawati Md Hasshim  <br> Mrs Jasmine Yeo / Lim Ching Mei
-| 2 Wisdom	| Mdm Nazeera Bte Sulaimi <br> Mdm Woo Wai Yin	 |6 Respect| Mr Lee Choong Yong Mervyn<br>Mdm Eilina Look
+| 2 Wisdom	| Mdm Nazeera Bte Sulaimi <br> Mdm Woo Wai Yin	 |6 Respect| Mr Lee Choong Yong Mervyn<br>Ms Eilina Look
 | 2 Empathy	| Mrs Ali/Noorazima Banu D/o Abdul Ahzim <br> Ms Dong Yinong  |6 Responsibility| Mdm Low Pei Qi<br>Ms Chow Yee Sun
 | 3 Respect |	 Mdm Siti Norhaidahwati Bte Noor<br>Mdm Li Liu | 	 6 Resilience|Mrs Koh / Tan Yan San<br>Mrs Tracy Lee /Tho Cheng Ping
  |3 Responsibility	| Mr Ong Luzheng, Noah<br>Ms Nur Adilah Binte Khamsani|6 Integrity|Mdm Serene Poh <br>Mr Yii Chu Sing Michael 
@@ -92,13 +92,13 @@ Senior Teachers
 | Teacher (Mathematics)	| Ms Karen Ng Hui Lin|	 Teacher (Chinese Language)	| Ms Tan Ai Ling
  |Teacher (Mathematics)|	  Mdm Lydia Lim Lee Cheng       | Teacher (Tamil Language)	 | Mrs Nalpon Jeyamarie Jean/ Mrs Jean
  |Teacher  (English/ Maths/ Science)	| Mdm Rokiah Bte Abdul   Rahim	 |Teacher (Physical Education)	| Mr Muhammad Bin Ismail
- |Teacher  (English/ Maths/ Science)	| Mdm Amalraj Sahayarani	 |Teacher (Physical Education)|Mr Daniel Ng Jun De  
+ |Teacher  (English/ Maths/ Science)	| Mdm Amalraj Sahayarani	 |Teacher (Music)|Ms Oon Yuan Lin
 |Teacher  (English/ Maths/ Science) 	| Ms Nora Othman-Tooch	|Teacher (Music) 	 |Mdm Daphne Ng Pei Pei 
  |Teacher (English Language/Art)	| Mdm Azizah Binte Nor   Mohamed	|Teacher (Music) 	| Ms Dai Anna
-|Teacher (English/Mathematics) 	 | 	Ms Halima Bte Mohamed   Yahuff|Teacher (Music)  	|  Ms Oon Yuan Lin
-|Teacher   (English/Mathematics)	|Ms Nor Aishah Bte Sa'ad  	|Teacher  (Art)	 |Mr Goh Yiang Meng
+|Teacher (English/Mathematics) 	 | 	Ms Halima Bte Mohamed   Yahuff|Teacher (Art)  	|  Mr Goh Yiang Meng
+|Teacher   (English/Mathematics)	|Ms Nor Aishah Bte Sa'ad  	|Teacher  (Mathematics/Science)	 |Ms Zarina Bte Mohamed Isa
 |Teacher  (English/Mathematics)	|Mrs Yeo / Toh Su Wei Jacqueline|Teacher  (English/ Maths/ PE) |Mr Muhammad Safiuddin Bin Mohamed Sabri
-|Teacher  (Mathematics/Science)	|Ms Zarina Bte Mohamed Isa|||
+
 
 
 

@@ -5,7 +5,7 @@ description: ""
 ---
 [<img src="/images/Links/SLS-Logo.png" 
      style="width:50%">](https://vle.learning.moe.edu.sg/login)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Student Learning Space
+<center>Student Learning Space</center>
 
 [<img src="/images/Links/KOOBITS.jpg" 
      style="width:50%">](https://problemsums.koobits.com/)

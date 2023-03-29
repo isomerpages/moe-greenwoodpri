@@ -3,7 +3,8 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-<font size="32"><b>Get in touch with  </b></font><p>
+<font size="32"><b>Get in touch with  </b></font>
+
 <font size="32" color="orange" ><b>Greenwood Primary</b></font>
 =====================================
 

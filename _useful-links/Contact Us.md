@@ -4,7 +4,7 @@ permalink: /contact-us/
 description: ""
 ---
 <font size="32"><b>Get in touch with  </b></font>
-<br>
+
 <font size="32" color="orange" ><b>Greenwood Primary</b></font>
 =====================================
 

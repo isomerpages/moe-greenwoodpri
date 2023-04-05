@@ -2,5 +2,4 @@ collections:
   useful-links:
     output: true
     order:
-      - Contact Us.md
       - Links.md

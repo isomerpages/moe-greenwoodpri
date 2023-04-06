@@ -16,17 +16,17 @@ School Executive Committee Members
 | -------- | -------- | -------- | -------- |
 |HOD/English Language|  Ms Eilina Abdullah Look	|Year Head/Lower Primary|Mrs Sharon Teo
 |Level Head/English Language|Mdm Noraini Bte Nanyan|Assistant Year Head/Lower Primary|Mdm Teo Hui Lee Celeste
-|HOD/Mathematics (Covering)   |	 Mr Yii Chu Sing Michael|Assistant Year Head/Middle Primary (Covering)|Mdm Siti Noraisha Bte Sanusi
-|Level Head/Mathematics|Ms Low Pei Qi|Year Head/Middle Primary|Mrs Koh - Zhuo Caiwei|
-|HOD/Science| Ms Li Qin Fang|Assistant Year Head/Upper Primary (Covering)|Mdm Serene Poh|
-|Level Head/Science|Ms Lim Ching Mei Jasmine|Year Head/Upper Primary	| Mdm Ling Sook Leng Michelle
-|HOD/Mother Tongue   Languages	|Mdm Goh Min Min Linda | HOD/Aesthetics	| Mdm Soh Xinxiang Jennifer
+|HOD/Mathematics (Covering)   |	 Mr Yii Chu Sing Michael|Year Head/Middle Primary|Mrs Koh - Zhuo Caiwei
+|Level Head/Mathematics|Ms Low Pei Qi|Assistant Year Head/Middle Primary (Covering)|Mdm Siti Noraisha Bte Sanusi|
+|HOD/Science| Ms Li Qin Fang|Year Head/Upper Primary|Mdm Ling Sook Leng Michelle|
+|Level Head/Science|Ms Lim Ching Mei Jasmine|Assistant Year Head/Upper Primary (Covering)	| Mdm Serene Poh
+|HOD/Mother Tongue   Languages	|Mdm Goh Min Min Linda | School Staff   Developer		| Mdm Koh Kim Noi Adrienne
 |Subject Head/Malay and Tamil   Languages	|Mdm Junainah Bte Mohamed Yusoff | HOD/Character and Citizenship   Education	| Mr Daniel Ng Jun Wei 
 |Subject Head/Chinese Language	|Ms Chow Yee Sun 	| Subject Head/Character and Citizenship Education	| Mdm Siti Fadiah Bte Ramdan 	
 |HOD/Info-Comm Technology and Media Resource   Library| Mdm Chu Yee Leen (Zhou Yanling)	 |Subject Head/Student Well-Being	| Mdm Tan Yan San
 |Subject Head/Info-Comm Technology   |Mr Lee Choong Yong Mervyn  |	 Subject Head/Partnerships	| Mdm Nur'Ain Bte Rahim
- |School Staff   Developer	| Mdm Koh Kim Noi Adrienne |	 HOD/Physical Education,   CCA and Student Management|	 Mr Ardi Bin Ramli  
- ||| Subject Head/Student   Management |Mr Daniel Ng Jun De
+ |HOD/Aesthetics| Mdm Soh Xinxiang Jennifer |	 HOD/Physical Education,   CCA and Student Management|	 Mr Ardi Bin Ramli  
+ |Subject Head/Music|Mrs Sabrina Tan / Wong Choon Yen| Subject Head/Student   Management |Mr Daniel Ng Jun De
 
  EXECUTIVE AND ADMINISTRATION STAFF
 
@@ -103,5 +103,4 @@ Senior Teachers
 
 
 
-<img src="/images/Small%20logo/gwps%20children%20(1).png" 
-     style="width:25%;float:right">
+<img src="/images/Small%20logo/gwps%20children%20(1).png" style="width:25%;float:right">

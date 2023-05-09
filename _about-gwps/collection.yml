@@ -2,6 +2,7 @@ collections:
   about-gwps:
     output: true
     order:
+      - School Bus Services.md
       - Principal's Message.md
       - School Video.md
       - Greenwood Family.md

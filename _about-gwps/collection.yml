@@ -2,7 +2,6 @@ collections:
   about-gwps:
     output: true
     order:
-      - School Bus Services.md
       - Principal's Message.md
       - School Video.md
       - Greenwood Family.md
@@ -11,5 +10,6 @@ collections:
       - School Crest.md
       - School Mascot.md
       - General Information.md
+      - School Bus Services.md
       - Learning Spaces.md
       - Contact Us.md

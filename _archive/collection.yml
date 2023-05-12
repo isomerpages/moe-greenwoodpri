@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - 2020 Briefing Resources.md
       - privacy.md

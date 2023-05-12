@@ -2,4 +2,4 @@ collections:
   archive:
     output: true
     order:
-      - privacy.md
+      - Privacy Statement.md

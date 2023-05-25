@@ -77,7 +77,7 @@ Senior Teachers
 | 2 Integrity	 |Ms Nur'ain Bte Rahim<br>Ms Nur Rahayu Binte Mohammad Noor| 5 Integrity | Mrs Loh / Wee May Joan Frances<br> Mrs Mohan / Satwant Kaur D/o Bhagwan Singh
 | 2 Care	| Mrs Tan/Elizabeth Chew Sau Leng <br>Mdm Noor Shazarratul Aini Binte Abdul Aziz|5 Care | Ms Shaalini D/o Gejendhiran  <br> Mr Lim Kwang Seng Jimmy  
 | 2 Harmony|	Mdm Teo Hui Lee Celeste <br>Mdm Tham Yoke Kuan Joyce	 |5 Harmony|Ms Nur Sussilawati Md Hasshim  <br> Mrs Jasmine Yeo / Lim Ching Mei
-| 2 Wisdom	| Mdm Nazeera Bte Sulaimi <br> Mdm Woo Wai Yin	 |6 Respect| Mr 小李飞刀<br>Ms Eilina Look
+| 2 Wisdom	| Mdm Nazeera Bte Sulaimi <br> Mdm Woo Wai Yin	 |6 Respect| Mr Lee Choong Yong Mervyn<br>Ms Eilina Look
 | 2 Empathy	| Mrs Ali/Noorazima Banu D/o Abdul Ahzim <br> Ms Dong Yinong  |6 Responsibility| Mdm Low Pei Qi<br>Ms Chow Yee Sun
 | 3 Respect |	 Mdm Siti Norhaidahwati Bte Noor<br>Mdm Li Liu | 	 6 Resilience|Mrs Koh / Tan Yan San<br>Mrs Tracy Lee /Tho Cheng Ping
  |3 Responsibility	| Mr Ong Luzheng, Noah<br>Ms Nur Adilah Binte Khamsani|6 Integrity|Mdm Serene Poh <br>Mr Yii Chu Sing Michael 

@@ -90,7 +90,7 @@ Senior Teachers
 | -------- | -------- | -------- | -------- |
 | Teacher (Mathematics)|Mdm Hathijath Bte Abdul   Majeed	 | Teacher (Chinese Language)	| Mdm Wen Xiwen
 | Teacher (Mathematics)	| Ms Karen Ng Hui Lin|	 Teacher (Chinese Language)	| Ms Tan Ai Ling
- |Teacher (Mathematics)|	  Mdm Lydia Lim Lee Cheng       | Teacher (Tamil Language)	 | Mrs Nalpon Jeyamarie Jean/ Mrs Jean
+ |Teacher (Mathematics)|	  Mdm Lydia Lim Lee Cheng       | Teacher (Tamil Language)	 | Ms Nalpon Jeyamarie Jean/ Mrs Jesu
  |Teacher  (English/ Maths/ Science)	| Mdm Rokiah Bte Abdul   Rahim	 |Teacher (Physical Education)	| Mr Muhammad Bin Ismail
  |Teacher  (English/ Maths/ Science)	| Mdm Amalraj Sahayarani	 |Teacher (Music)|Ms Oon Yuan Lin
 |Teacher  (English/ Maths/ Science) 	| Ms Nora Othman-Tooch	|Teacher (Music) 	 |Mdm Daphne Ng Pei Pei 

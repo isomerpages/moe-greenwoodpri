@@ -56,7 +56,7 @@ Senior Teachers
  |Senior Teacher <br> (English Language)| Mdm Rosnani Bte Mohd Hussein|Senior Teacher  <br>(Chinese Language)	| Ms Dong Yinong
  |Senior Teacher<br>   (Science)| Mrs Frances Loh  |  Senior Teacher <br>  (Malay Language)|Mdm Najiyyah Bte Mohamed Said
  Senior Teacher   <br>(Science)	| Mrs Joceiyn Wong |  Senior Teacher  <br> (Physical Education)| Mr Lim Kwang Seng Jimmy
- ||  ||  |
+
  
  
  Form Teachers

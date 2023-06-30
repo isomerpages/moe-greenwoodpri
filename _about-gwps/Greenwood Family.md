@@ -46,7 +46,7 @@ School Executive Committee Members
 | -------- | -------- | -------- | -------- |
 |Senior School   Counsellor	 |Mr Victor Lucas |	 Senior Special   Educational Needs   Officer (SSENO)| Ms Ang Man Ling 
  |School Counsellor| Ms Priscilla Shin|	 Special   Educational Needs   Officer (SENO)| Mr Mohammed Shahrin Bin   Abdul Rahman Mustaffa 
-| Student Welfare   Officer  |	 Mdm Ong Karen 
+| Student Welfare   Officer  |	 Mdm Ong Karen |	 Special   Educational Needs   Officer (SENO)| Miss Liu Yu Fei
 
 Senior Teachers
 
@@ -92,12 +92,14 @@ Senior Teachers
 | Teacher (Mathematics)	| Ms Karen Ng Hui Lin|	 Teacher (Chinese Language)	| Ms Tan Ai Ling
  |Teacher (Mathematics)|	  Mdm Lydia Lim Lee Cheng       | Teacher (Tamil Language)	 | Ms Nalpon Jeyamarie Jean/ Mrs Jesu
  |Teacher  (English/ Maths/ Science)	| Mdm Rokiah Bte Abdul   Rahim	 |Teacher (Physical Education)	| Mr Muhammad Bin Ismail
- |Teacher  (English/ Maths/ Science)	| Mdm Amalraj Sahayarani	 |Teacher (Music)|Ms Oon Yuan Lin
+ |Teacher  (English/ Maths/ Science)	| Mdm Amalraj Sahayarani	 |Teacher (English/Mathematics)|Mdm Syafiqah Binte Haji Shaik Maideen
 |Teacher  (English/ Maths/ Science) 	| Ms Nora Othman-Tooch	|Teacher (Music) 	 |Mdm Daphne Ng Pei Pei 
- |Teacher (English Language/Art)	| Mdm Azizah Binte Nor   Mohamed	|Teacher (Music) 	| Ms Dai Anna
+ |Teacher (English/Art)	| Mdm Azizah Binte Nor   Mohamed	|Teacher (Music) 	| Ms Dai Anna
 |Teacher (English/Mathematics) 	 | 	Ms Halima Bte Mohamed   Yahuff|Teacher (Art)  	|  Mr Goh Yiang Meng
 |Teacher   (English/Mathematics)	|Ms Nor Aishah Bte Sa'ad  	|Teacher  (Mathematics/Science)	 |Ms Zarina Bte Mohamed Isa
 |Teacher  (English/Mathematics)	|Mrs Yeo / Toh Su Wei Jacqueline|Teacher  (English/ Maths/ PE) |Mr Muhammad Safiuddin Bin Mohamed Sabri
+|Teacher  (Science)	|Mr Azman Bin Mohamad Dali|Teacher  (English/ Maths) |Mdm Indira Ananthan
+
 
 
 

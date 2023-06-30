@@ -35,7 +35,7 @@ SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi)
 |14	|English Language, Drama and Debating<br>(BLISS)|	Ms Shaalini Gejendhiran<br>Mr Md Rasyid <br> Mdm Serene Poh <br> Mdm K Radha
 |15|	Environmental Science (Einstein)|	Mrs Mohan<br>Mdm Nur Sussilawati Md Hasshim    <br>Ms Jasmine Lim Ching Mei <br>Mdm Hayati Murni Bte Mohamed Yacob
 |16	|Infocomm Technology (Pixelbyte) |	Mr Lee Choong Yong Mervyn <br>Mdm Siti Noraisha Bte Sanusi<br>Ms Jazreel Tan Qian Yee<br>Mrs Tracy Lee
-|17|	Scouts	|Ang Wee Jin<br>Mdm Hartini Binte Kassim<br>Ms Nur'ain Bte Rahim<br>Ms Noor Shazarratul Aini <br>Ms Cynthia Ang Xin Wei
+|17|	Scouts	|Mr Ang Wee Jin<br>Mdm Hartini Binte Kassim<br>Ms Nur'ain Bte Rahim<br>Ms Noor Shazarratul Aini <br>Ms Cynthia Ang Xin Wei
 |18	|Brownies	|Mdm Wan Norzilah<br>Mdm Nazeera  Binte Sulaimi
  ||SDR	|Mdm Teh Sui Ching Lesley <br>Mdm Noorazima Banu <br>Mdm Azreenah Binte Kamit <br>Mdm Nuraini Bte Abdul Hamid <br>Mdm Ong Mee Lin
  

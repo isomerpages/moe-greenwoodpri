@@ -30,13 +30,13 @@ SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi)
 |9	|Choir	|Mdm Ng Lay Ling Rebecca <br>Mdm Joceiyn Wong<br>Mdm Toh Su Wei Jacqueline <br>Ms Tan Yueh Zhen Clara
 |10	| Angklung and Kulintang Ensemble	|Mdm Rosnani<br>Mdm Tan Yan San<br> Mrs Sabrina Tan<br> Mdm Leo Dan Dan<br>Mdm Elizabeth Chew Sau Leng
 |11|String Ensemble	|Mdm Siti Sarah Bte Mohamad Saleh<br>Mdm Dai Anna <br>Mdm Noraini Bte Nanyan<br> Ms Shen Yan
-|12	|Chinese Drums|	Mdm Phillida Rabini <br>Mdm Jocelyn Beh<br>Mrs Sarah Tan<br>Miss Chow Yee Sun
-|13	|Art Club|	Mdm Woo Wai Yin<br>Ms Nur Rahayu<br>Mdm Azizah (FAJT)<br>Mdm Marsita Bte Ismail 
-|14	|English Language, Drama and Debating<br>(BLISS)|	Mdm Banun Bte Mohamed<br>Ms Dong Yinong <br>Ms Shaalini Gejendhiran<br>Mr Md Rasyid 
-|15|	Environmental Science (Einstein)|	Mrs Mohan    <br>Ms Jasmine Lim Ching Mei <br>Mdm Serene Poh<br>Ms Nor Aishah Bte Sa'ad
+|12	|Chinese Drums|	Mrs Sarah Tan <br>Mdm Banun Bte Mohamed<br>Miss Chow Yee Sun<br> Mr Tan Teck Lee
+|13	|Art Club|	Ms Dong Yinong<br>Ms Nur Rahayu<br>Mdm Azizah<br>Mdm Marsita Bte Ismail <br> Mdm Woo Wai Yin
+|14	|English Language, Drama and Debating<br>(BLISS)|	Ms Shaalini Gejendhiran<br>Mr Md Rasyid <br> Mdm Serene Poh <br> Mdm K Radha
+|15|	Environmental Science (Einstein)|	Mrs Mohan<br>Mdm Nur Sussilawati Md Hasshim    <br>Ms Jasmine Lim Ching Mei <br>Mdm Hayati Murni Bte Mohamed Yacob
 |16	|Infocomm Technology (Pixelbyte) |	Mr Lee Choong Yong Mervyn <br>Mdm Siti Noraisha Bte Sanusi<br>Ms Jazreel Tan Qian Yee<br>Mrs Tracy Lee
-|17|	Scouts	|Ang Wee Jin<br>Ms Nur'ain Bte Rahim<br>Ms Noor Shazarratul Aini <br>Mdm Hartini Binte Kassim
-|18	|Brownies	|Mdm Wan Norzilah<br>Mdm Nazeera  Binte Sulaimi <br>Ms Cynthia Ang Xin Wei<br>Ms Tan Yueh Zhen Clara
- ||SDR	|Mdm Teh Sui Ching Lesley <br>Mdm Noorazima Banu <br>Mdm Azreenah Binte Kamit <br>Mdm Nuraini Bte Abdul Hamid <br>Mdm Siti Norhaidawati<br>Mdm Ong Mee Lin
+|17|	Scouts	|Ang Wee Jin<br>Mdm Hartini Binte Kassim<br>Ms Nur'ain Bte Rahim<br>Ms Noor Shazarratul Aini <br>Ms Cynthia Ang Xin Wei
+|18	|Brownies	|Mdm Wan Norzilah<br>Mdm Nazeera  Binte Sulaimi
+ ||SDR	|Mdm Teh Sui Ching Lesley <br>Mdm Noorazima Banu <br>Mdm Azreenah Binte Kamit <br>Mdm Nuraini Bte Abdul Hamid <br>Mdm Ong Mee Lin
  
  <img src="/images/Small%20logo/gwps%20children%20(4).png" style="width:25%;float:right">

@@ -3,7 +3,7 @@ title: School Bus Advertisement
 permalink: /useful-links/bus-advert/
 description: ""
 ---
-<font size="4" color="blue"> School Bus Advertisement </font>
+<font size="6" color="blue"> School Bus Advertisement </font>
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
 

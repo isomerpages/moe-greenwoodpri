@@ -2,4 +2,5 @@ collections:
   archive:
     output: true
     order:
+      - School Bus Advertisement.md
       - Privacy Statement.md

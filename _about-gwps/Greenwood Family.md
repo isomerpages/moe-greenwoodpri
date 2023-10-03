@@ -8,7 +8,7 @@ PRINCIPAL AND VICE PRINCIPALS
 | DESIGNATION	| NAME | DESIGNATION | NAME|
 | -------- | -------- | -------- | -------- |
 | Principal     | 	 Mrs Tricilia Chua      | Vice-Principal     | Mr James Lee |
-||| Vice-Principal| Mr Kumar Palaiyan 
+|Vice-Principal|Mr Kumar Palaiyan | Vice-Principal (Admin)| Mr Tan Kar Wee
 
 School Executive Committee Members
 

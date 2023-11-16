@@ -4,7 +4,7 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-Booklist for 2024 classes can be found 
+Booklist for 2024 classes can be found here.
 
 <!--P1 (2023) Orientation Briefing slides can be found [here](/files/P1%20BRIEFING/P1%20Orientation%20Mass%20Briefing%20Slides_website.pdf) .-->
 

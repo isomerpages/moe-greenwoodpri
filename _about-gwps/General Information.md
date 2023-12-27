@@ -2,17 +2,18 @@
 title: General Information
 permalink: /about-gwps/General-Information/
 description: ""
+variant: markdown
 ---
 | Primary 1 to 6 | | 
 | -------- | -------- |
 | Reporting Time     | 7.30 am     | 
-|Dismissal Time<br>Primary 1 to Primary 6|<b>Monday</b><br> 2.45 pm<br><b>Tuesday to Friday</b><br>1.15 pm
+|Dismissal Time | 1.30 pm
 
 |Gate Opening Times   | | 
 | -------- | -------- |
 |Gate 1|Opened during school hours
 |Gate 3|<b>Monday to Friday</b><br>7.00 am – 7.30 am
-|Gate 5 |<b>Monday</b><br>7.00 am – 7.30 am<br> 2.30 pm – 3.15 pm<br><b>Tuesday to Friday</b><br>7.00 am – 7.30 am<br> 1.00 pm – 1.45 pm
+|Gate 5 |<b>Monday to Friday</b><br>7.00 am – 7.30 am<br> 1.30 pm – 2.00 pm
 
 |   | | 
 | -------- | -------- |

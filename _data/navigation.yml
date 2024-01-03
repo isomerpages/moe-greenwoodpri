@@ -1,0 +1,12 @@
+logo: /images/logoedit3.png
+links:
+  - title: About GWPS
+    collection: about-gwps
+  - title: GWPS Experiences
+    collection: gwps-experience
+  - title: Gwps Achievements
+    collection: gwps-achievements
+  - title: Our Partners
+    collection: gwps-partners
+  - title: Other Information
+    collection: useful-links

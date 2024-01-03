@@ -1,0 +1,22 @@
+collections:
+  gwps-experience:
+    output: true
+    order:
+      - Holistic Curriculum/.keep
+      - Holistic Curriculum/English Language.md
+      - Holistic Curriculum/Mathematics.md
+      - Holistic Curriculum/Science.md
+      - Holistic Curriculum/Mother Tongue Languages.md
+      - Holistic Curriculum/Physical Education.md
+      - Holistic Curriculum/Aesthetics.md
+      - Holistic Curriculum/Information and Communications Technology.md
+      - Holistic Curriculum/Character and Citizenship Education.md
+      - Holistic Curriculum/Student Management.md
+      - LLP WHIZZ.md
+      - ALP BLISS/.keep
+      - ALP BLISS/ALP BLISS.md
+      - ALP BLISS/Newsletters.md
+      - Green in the Woods.md
+      - Project Work.md
+      - Co Curricular Activities.md
+      - P1 Experience.md

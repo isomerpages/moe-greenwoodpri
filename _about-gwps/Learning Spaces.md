@@ -7,11 +7,12 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Foyer1.JPG">
 Foyer</div>
-
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Bliss1.jpg">
 Bliss</div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning%20Space/ECO_Garden1.jpg">
+ECO Garden</div>
 <p></p>
 <p></p>
 <p></p>

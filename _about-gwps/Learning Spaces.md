@@ -10,14 +10,11 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Foyer1.JPG">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Bliss1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Rain_Harvesting1.jpg">
 </div>
 </th>
 </tr>
@@ -58,9 +55,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Green_Wall.JPG">
-</div>
 </td>
 </tr>
 <tr>

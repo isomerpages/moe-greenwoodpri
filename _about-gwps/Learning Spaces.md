@@ -2,7 +2,7 @@
 title: Learning Spaces
 permalink: /about-gwps/learning-spaces/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <table>
@@ -36,7 +36,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Amphiteather.JPG">
 </div>
-<p>Amphiteather</p>
+<p>Amphitheater</p>
 </td>
 </tr>
 <tr>
@@ -45,14 +45,14 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Media_Resource_Library.JPG">
 </div>
-<p>Resource Media Library</p>
+<p>Media Resource Library</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Wonder_in_the_Woods.JPG">
 </div>
-<p>Wonder In the Wood</p>
+<p>Wonder in the Woods</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +84,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Rain_Harvesting1.jpg">
 </div>
-<p>Rain Havesting System</p>
+<p>Rain Harvest System</p>
 </td>
 </tr>
 <tr>

@@ -12,12 +12,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Foyer.JPG">
 </div>
+<p>Foyer</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Bliss_Room.JPG">
 </div>
-<p></p>
+<p>Bliss Room</p>
 </th>
 </tr>
 <tr>

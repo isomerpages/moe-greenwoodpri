@@ -8,18 +8,18 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Foyer.JPG">
 </div>
-<p>Foyer</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Bliss_Room.JPG">
 </div>
-<p>Bliss Room</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -27,14 +27,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/ECO_Garden1.jpg">
 </div>
-<p></p>
+<p>Eco Garden</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Amphiteather.JPG">
 </div>
-<p></p>
+<p>Amp Teather</p>
 </td>
 </tr>
 <tr>

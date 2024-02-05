@@ -5,25 +5,6 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Foyer" src="/images/Learning Space/Foyer.JPG"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Foyer</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<table>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
 <table>
 <tbody>
 <tr>
@@ -93,13 +74,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Green Wall</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Green_Wall.JPG">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Harvesting Rain System</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Rain_Harvesting1.jpg">
 </div>
@@ -107,66 +88,58 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>School Field</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/School_Field.JPG">
 </div>
-<p>School Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Outdoor Basketball Court</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Outdoor_Basketball_Court.JPG">
 </div>
-<p>Outdoor Basketball Court</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sheltered Basketball Court</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Sheltered_Basketball_Court.JPG">
 </div>
-<p>Sheltered Basketball Court</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Playground</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Playground.JPG">
 </div>
-<p>Playground</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Indoor Sport Hall</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Indoor_Sport_Hall.JPG">
 </div>
-<p>Indoor Sport Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Computer Labs</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Computer_Lab.JPG">
 </div>
-<p>Computer Labs</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Band Room</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Band_Room.JPG">
 </div>
-<p>Band Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dance Studio</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning Space/Dance_Studio.JPG">
 </div>
-<p>Dance Studio</p>
 </td>
 </tr>
 <tr>

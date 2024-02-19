@@ -6,7 +6,7 @@ variant: markdown
 ---
 <h3><strong>Learning for Life Programme (LLP)</strong></h3>
 <p>WHIZZ –&nbsp;<strong>W</strong>e are T<strong>H</strong>inking,&nbsp;<strong>I</strong>nventive
-and&nbsp;<strong>Z</strong>ealous KId<strong>Z</strong>&nbsp;<strong><font color="#ff0000">who </font></strong> serve
+and&nbsp;<strong>Z</strong>ealous KId<strong>Z</strong>&nbsp;who  serve
 the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whizz.jpeg">

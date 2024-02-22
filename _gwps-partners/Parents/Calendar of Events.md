@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Parents
 variant: tiptap
 ---
-<p>Parents can find our School Calendar of Events on the Parents Gateway
-(PG) app under the “Services” tab, “School Calendar” module (see screenshot
+<p>The School Calendar of Events can be found on the Parents Gateway (PG)
+app under the “Services” tab, “School Calendar” module (see screenshot
 below).</p>
 <p>Please note that the dates in the event calendar are subject to changes.
 Refer to the PG app calendar for the latest updates.</p>

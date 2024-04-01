@@ -2,5 +2,5 @@ collections:
   useful-links:
     output: true
     order:
-      - Links.md
+      - For Students.md
       - For GWPS Alumni/.keep

@@ -70,13 +70,32 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>GWPS Visitor Registration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gwps-vrs</a>
+</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>MOE Email Verification required.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Finance and Procurement Questions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://go.gov.sg/fpqns" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fpqns</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Social Media Post Clearance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-socialmediapost" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gwps-socialmediapost</a>
+</p>
 </td>
 </tr>
 <tr>

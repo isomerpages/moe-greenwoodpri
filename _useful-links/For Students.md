@@ -1,14 +1,13 @@
 ---
-title: Links
-permalink: /useful-links/Links/
+title: For Students
+permalink: /useful-links/for-student/
 description: ""
+variant: markdown
 ---
-[<img src="/images/Links/SLS-Logo.png" 
-     style="width:50%">](https://vle.learning.moe.edu.sg/login)
+[<img src="/images/Links/SLS-Logo.png" style="width:50%">](https://vle.learning.moe.edu.sg/login)
 <center>Student Learning Space</center>
 
-[<img src="/images/Links/KOOBITS.jpg" 
-     style="width:50%">](https://problemsums.koobits.com/)
+[<img src="/images/Links/KOOBITS.jpg" style="width:50%">](https://problemsums.koobits.com/)
 <center>Koobits</center>
 
 <a href="https://www.ezhishi.net"><img src="/images/Links/Ezhishi.png" style="width:50%"></a>
@@ -21,8 +20,6 @@ description: ""
 <a href="https://schoolibrary.moe.edu.sg/greenwoodpri"><img src="/images/Links/OPAC.png" style="width:50%"></a>
 <center>OPAC</center>
 
-<a href="https://go.gov.sg/greenwoodalumni"><img src="/images/Links/Form.jpg" style="width:50%"></a>
-<center>GWPS Alumni Registration</center>
 
-<img src="/images/Small%20logo/gwps%20children%20(1).png" 
-     style="width:25%;float:right">
+
+<img src="/images/Small%20logo/gwps%20children%20(1).png" style="width:25%;float:right">

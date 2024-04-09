@@ -40,7 +40,7 @@ description: ""
 <p>HR &amp; Payroll (HRP) Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.hrp.gov.sg/hrp/#/</a>
+<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">https://www.hrp.gov.sg/hrp/#/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,7 +52,7 @@ description: ""
 <p>OPAL 2.0</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://idm.opal2.moe.edu.sg/</a>
+<p><a href="https://idm.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://idm.opal2.moe.edu.sg/</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

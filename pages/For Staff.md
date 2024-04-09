@@ -28,7 +28,7 @@ description: ""
 <p>MIMS Portal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

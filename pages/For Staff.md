@@ -1,7 +1,7 @@
 ---
 title: For Staff
 permalink: /for-staff/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <table>
@@ -59,10 +59,6 @@ description: ""
 <p>Requires OPAL Credentials</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
 <tr>
 <th rowspan="1" colspan="3">
 <p>GWPS LINKS</p>
@@ -77,6 +73,9 @@ description: ""
 </p>
 </td>
 <td rowspan="3" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <p>MOE Email Verification required.</p>
 </td>
 </tr>
@@ -96,17 +95,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/gwps-socialmediapost" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gwps-socialmediapost</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>

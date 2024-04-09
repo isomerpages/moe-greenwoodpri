@@ -16,7 +16,7 @@ description: ""
 <p>MOE Intranet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/Pages/Home.aspx</a>
+<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/Pages/Home.aspx</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

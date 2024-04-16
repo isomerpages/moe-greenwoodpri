@@ -45,6 +45,29 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>GWPS Templates and Documents</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-admin-ops" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gwps-admin-ops</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="3">
 <p>MOE LINKS</p>
 </th>

@@ -19,7 +19,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://greenwoodpri.edupage.org/?" rel="noopener noreferrer nofollow" target="_blank">Greenwood Pri Edupage</a>
+<p><a href="https://greenwoodpri.edupage.org/?" rel="noopener noreferrer nofollow" target="_blank">Greenwood Pri Edu Page</a>
 </p>
 </td>
 </tr>

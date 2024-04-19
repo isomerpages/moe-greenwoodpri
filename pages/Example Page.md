@@ -14,15 +14,13 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>GWPS Visitor Registration</p>
-<p><a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gwps-vrs</a>
-</p>
+<a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gwps-vrs</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Finance and Procurement Questions</p>
-<p><a href="https://go.gov.sg/fpqns" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fpqns</a>
-</p>
+<a href="https://go.gov.sg/fpqns" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fpqns</a>
 </td>
 </tr>
 <tr>

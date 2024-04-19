@@ -13,27 +13,27 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GWPS Visitor Registration</p>
-<a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gwps-vrs</a>
+
+<a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">Visitor Registration</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Finance and Procurement Questions</p>
-<a href="https://go.gov.sg/fpqns" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fpqns</a>
+
+<a href="https://go.gov.sg/fpqns" rel="noopener noreferrer nofollow" target="_blank">Finance and Procurement Questions</a>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Social Media Post Clearance</p>
-<p><a href="https://go.gov.sg/gwps-socialmediapost" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gwps-socialmediapost</a>
+
+<p><a href="https://go.gov.sg/gwps-socialmediapost" rel="noopener noreferrer nofollow" target="_blank">Social Media Post Clearance</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GWPS Templates and Documents</p>
-<p><a href="https://go.gov.sg/gwps-admin-ops" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gwps-admin-ops</a>
+
+<p><a href="https://go.gov.sg/gwps-admin-ops" rel="noopener noreferrer nofollow" target="_blank">Templates and Documents</a>
 </p>
 </td>
 </tr>

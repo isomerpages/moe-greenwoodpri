@@ -7,94 +7,96 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="1">
 <p>GWPS LINKS</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>GWPS Visitor Registration</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gwps-vrs</a>
-</p>
-</td>
-<td rowspan="3" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p>MOE Email Verification required.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Finance and Procurement Questions</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fpqns" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/fpqns</a>
+<p><a href="https://go.gov.sg/fpqns" rel="noopener noreferrer nofollow" target="_blank">Finance and Procurement Questions</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Social Media Post Clearance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-socialmediapost" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gwps-socialmediapost</a>
+<p><a href="https://greenwoodpri.edupage.org/?" rel="noopener noreferrer nofollow" target="_blank">Greenwood Pri Edu Page</a>
 </p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
+<p><a href="https://rbs.avero-tech.com/login.html" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System (RBS)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-socialmediapost" rel="noopener noreferrer nofollow" target="_blank">Social Media Post Clearance</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-sct-agenda" rel="noopener noreferrer nofollow" target="_blank">Staff Contact Time Agenda Input</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/technexus" rel="noopener noreferrer nofollow" target="_blank">Tech Nexus</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-admin-ops" rel="noopener noreferrer nofollow" target="_blank">Templates and Documents</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">Visitor Registration</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p>MOE LINKS</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOE Intranet</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://intranet.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://intranet.moe.gov.sg/Pages/Home.aspx</a>
+<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">HR &amp; Payroll (HRP) Portal</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Only on SSOE network or VPN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MIMS Portal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login</a>
+<p><a href="https://intranet.moe.gov.sg/Pages/Home.aspx" rel="noopener noreferrer nofollow" target="_blank">MOE Intranet</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Requires MIMS login</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HR &amp; Payroll (HRP) Portal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">https://www.hrp.gov.sg/hrp/#/</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Requires Singpass</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OPAL 2.0</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://idm.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://idm.opal2.moe.edu.sg/</a>
+<p><a href="https://idm.opal2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Requires OPAL Credentials</p>
 </td>
 </tr>
 </tbody>

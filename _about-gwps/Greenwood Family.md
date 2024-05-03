@@ -951,6 +951,20 @@ variant: tiptap
 <p>Mr Mohamed Mahathir Bin Kusnong</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teacher (Mathematics/Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Poh Hwee Khim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sujatha Pillai</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -962,7 +976,7 @@ variant: tiptap
 <p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sujatha Pillai</p>
+<p>Mr Muhammad Bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Tamil Language)</p>
@@ -993,10 +1007,10 @@ variant: tiptap
 <p>Mdm Leo Dan Dan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mosman Ismahil</p>
 </td>
 </tr>
 <tr>
@@ -1007,10 +1021,10 @@ variant: tiptap
 <p>Ms Tan Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zaiton Binte Muslim</p>
 </td>
 </tr>
 <tr>
@@ -1099,10 +1113,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Rokiah Bte Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English/Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Jayaraman Saravanan Shakaana</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (English/Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nigel Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

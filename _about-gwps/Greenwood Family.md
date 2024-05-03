@@ -993,10 +993,10 @@ variant: tiptap
 <p>Mdm Leo Dan Dan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hassan Mulyadi Mohamed</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1007,10 +1007,10 @@ variant: tiptap
 <p>Ms Tan Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Art)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Yiang Meng</p>
+<p></p>
 </td>
 </tr>
 <tr>

@@ -5,7 +5,13 @@ description: ""
 variant: tiptap
 ---
 <p>PRINCIPAL AND VICE PRINCIPALS</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -52,7 +58,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>School Executive Committee Members</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -267,7 +279,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>EXECUTIVE AND ADMINISTRATION STAFF</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -384,7 +402,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>Allied Educators (AED)</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -445,7 +469,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>Senior Teachers</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -527,7 +557,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>Form Teachers</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -825,14 +861,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Wee Jin</p>
-<p>Mdm Hayati Murni Bte Mohd Yacob</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Loh - Wee May Joan Frances</p>
-<p>Mrs Mohan - Satwant Kaur d/o Bhagwan Singh</p>
+<p>Mr Ardi Bin Ramli</p>
 </td>
 </tr>
 <tr>
@@ -849,7 +885,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nor Aishah Bte Sa'ad</p>
 <p>Mdm Sagaymarie D/o Savarimuthu</p>
-<p>Mr Lim Kwang Seng Jimmy</p>
 </td>
 </tr>
 <tr>
@@ -859,6 +894,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Noraini Bte Nanyan</p>
 <p>Mrs Koh - Zhuo Caiwei</p>
+<p>Mr Marcus Lim Jun Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Harmony</p>
@@ -871,7 +907,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>TEACHERS</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

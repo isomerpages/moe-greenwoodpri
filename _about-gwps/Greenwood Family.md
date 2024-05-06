@@ -5,7 +5,13 @@ description: ""
 variant: tiptap
 ---
 <p>PRINCIPAL AND VICE PRINCIPALS</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -52,7 +58,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>School Executive Committee Members</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -267,7 +279,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>EXECUTIVE AND ADMINISTRATION STAFF</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -384,7 +402,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>Allied Educators (AED)</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -445,7 +469,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>Senior Teachers</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -527,7 +557,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>Form Teachers</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -825,14 +861,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Wee Jin</p>
-<p>Mdm Hayati Murni Bte Mohd Yacob</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Loh - Wee May Joan Frances</p>
-<p>Mrs Mohan - Satwant Kaur d/o Bhagwan Singh</p>
+<p>Mr Ardi Bin Ramli</p>
 </td>
 </tr>
 <tr>
@@ -849,7 +885,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Nor Aishah Bte Sa'ad</p>
 <p>Mdm Sagaymarie D/o Savarimuthu</p>
-<p>Mr Lim Kwang Seng Jimmy</p>
 </td>
 </tr>
 <tr>
@@ -859,6 +894,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Noraini Bte Nanyan</p>
 <p>Mrs Koh - Zhuo Caiwei</p>
+<p>Mr Marcus Lim Jun Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Harmony</p>
@@ -871,7 +907,13 @@ variant: tiptap
 </tbody>
 </table>
 <p>TEACHERS</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -909,6 +951,20 @@ variant: tiptap
 <p>Mr Mohamed Mahathir Bin Kusnong</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teacher (Mathematics/Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Poh Hwee Khim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sujatha Pillai</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -920,13 +976,13 @@ variant: tiptap
 <p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sujatha Pillai</p>
+<p>Mr Muhammad Bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nalpon Jeyamarie Jean/ Mrs Jesu</p>
+<p>Ms Nalpon Jeyamarie Jean</p>
 </td>
 </tr>
 <tr>
@@ -937,10 +993,10 @@ variant: tiptap
 <p>Mrs Yeo / Toh Su Wei Jacqueline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
+<p>Teacher (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Bin Ismail</p>
+<p>Mrs Jesu</p>
 </td>
 </tr>
 <tr>
@@ -954,7 +1010,7 @@ variant: tiptap
 <p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hassan Mulyadi Mohamed</p>
+<p>Mr Muhammad Bin Ismail</p>
 </td>
 </tr>
 <tr>
@@ -965,10 +1021,10 @@ variant: tiptap
 <p>Ms Tan Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Art)</p>
+<p>Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Yiang Meng</p>
+<p>Mr Mosman Ismahil</p>
 </td>
 </tr>
 <tr>
@@ -979,10 +1035,10 @@ variant: tiptap
 <p>Mdm Maisarah Bte Zulkifly</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Music)</p>
+<p>Teacher (Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Tang Yee Yee</p>
+<p>Mdm Zaiton Binte Muslim</p>
 </td>
 </tr>
 <tr>
@@ -993,10 +1049,10 @@ variant: tiptap
 <p>Mdm Azizah Binte Nor Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Mathematics/Science)</p>
+<p>Teacher (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Halima Bte Mohamed Yahuff</p>
+<p>Ms Angela Tang Yee Yee</p>
 </td>
 </tr>
 <tr>
@@ -1010,7 +1066,7 @@ variant: tiptap
 <p>Teacher (English/Mathematics/Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zarina Bte Mohamed Isa</p>
+<p>Ms Halima Bte Mohamed Yahuff</p>
 </td>
 </tr>
 <tr>
@@ -1024,7 +1080,7 @@ variant: tiptap
 <p>Teacher (English/Mathematics/Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nicholas Darren Jajatnath</p>
+<p>Ms Zarina Bte Mohamed Isa</p>
 </td>
 </tr>
 <tr>
@@ -1033,6 +1089,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Hathijath Bte Abdul Majeed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English/Mathematics/Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Darren Jajatnath</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zarina Khatoon d/o Mohd Ashraf</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/ Maths/ PE)</p>
@@ -1046,7 +1116,7 @@ variant: tiptap
 <p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarina Khatoon d/o Mohd Ashraf</p>
+<p>Mdm Rokiah Bte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Music)</p>
@@ -1057,16 +1127,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (English/Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Nigel Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (English/Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Jayaraman Saravanan Shakaana</p>
 </td>
 </tr>
 </tbody>

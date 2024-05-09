@@ -28,7 +28,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-announcements" rel="noopener noreferrer nofollow" target="_blank">Morning Announcement</a>
+<p><a href="https://go.gov.sg/gwps-announcements" rel="noopener noreferrer nofollow" target="_blank">Morning Announcement Link</a>
 </p>
 </td>
 </tr>

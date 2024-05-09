@@ -4,7 +4,10 @@ permalink: /for-staff/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -20,6 +23,12 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://greenwoodpri.edupage.org/?" rel="noopener noreferrer nofollow" target="_blank">Greenwood Pri Edu Page</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-announcements" rel="noopener noreferrer nofollow" target="_blank">Morning Announcement Link</a>
 </p>
 </td>
 </tr>

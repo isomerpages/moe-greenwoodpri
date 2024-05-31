@@ -1,6 +1,7 @@
 ---
 title: Example Page
 permalink: /example-page/
-variant: markdown
+variant: tiptap
 description: ""
 ---
+<p></p>

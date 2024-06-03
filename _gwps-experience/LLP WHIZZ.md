@@ -76,6 +76,59 @@ in developing our students into Critical Thinkers and Leaders of Character.</p>
 our school values using the CIW Reflection. Thereafter, teachers will provide
 their input and feedback to support our students’ character development.</p>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/CCEin_the_wood.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/schoolvalues.png">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/7habits.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/CCEcharacters.png">
+</div>
+<p></p>
+<p><strong>Project Work (PW)</strong>
+</p>
+<p>Project Work (PW)</p>
+<p></p>
+<p><strong>GREEN (Gracious, Responsible, and Environmentally ENgaged) in the Woods (GITW)</strong>
+</p>
+<p>GITW seeks to nurture our students as future environmental change-makers.
+Our environmental education programme, which is intentional and spiral
+in approach, aims to heighten environmental awareness and instil in students
+a lifelong commitment to care for the environment. GITW pursues this through
+four core aspects (Curriculum, Campus, Culture, and Community), focusing
+on waste management, energy conservation, water conservation, and biodiversity,
+using the 4Rs (Reduce, Reuse, Recycle, and Replace) approach. Students
+are concerned citizens of the environment and strive to become active contributors
+by taking proactive steps to make a difference through activities such
+as the Clean Plate Campaign, biweekly recycling efforts, and sharing during
+assembly programmes.</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:33%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(3).png">
 </div>

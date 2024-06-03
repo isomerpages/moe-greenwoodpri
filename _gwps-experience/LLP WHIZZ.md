@@ -75,72 +75,7 @@ in developing our students into Critical Thinkers and Leaders of Character.</p>
 <p>Additionally, students will self-assess on their progress in demonstrating
 our school values using the CIW Reflection. Thereafter, teachers will provide
 their input and feedback to support our students’ character development.</p>
-<p><strong>Values in the Woods Programme</strong>
-</p>
-<p>The Mother Tongue and Art department staff and pupils have come together
-to develop a school based programme to be conducted during CCE lessons.
-The values stories are written by MT/CL teachers and are translated into
-EL for scaling up to ML and TL versions. Our pupils take the lead in crafting
-the scenes and illustrating the stories with characters based on our school
-mascot, OWL, in various families of different races living together. This
-storyboard is further animated. Through the pupils’ work, they actively
-transmit the school values to the student body through authentic satires
-happening around them.</p>
-<div class="isomer-image-wrapper">
-<img style="width:33%;float:left" height="auto" width="100%" src="/images/VIW_recording.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:33%;float:left" height="auto" width="100%" src="/images/VIW_recording1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:33%" height="auto" width="100%" src="/images/VIW%20script%20writing.jpeg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/llp2.png">
-</div>
-<p><strong>Lifeskills Programme</strong>
-</p>
-<p>Lifeskills programme consists of Form Teacher Guidance Period (FTGP),
-7 Habits Lessons and Financial Literacy. Through the 7 Habits lessons,
-pupils develop good habits for them to develop their social emotional competencies
-and enable them to interact effectively with their peers and others.</p>
-<p><strong>Enchanting Experiences in collaboration with Asian Civilisations Museum (ACM)</strong>
-</p>
-<p>This is a community project in collaboration with ACM and Greenwood parents
-to engage pupils to learn and appreciate historical bearing on character
-development. The school is partnering ACM to design a learning day at the
-museum using Design Thinking methodology for the pupils and parents. The
-learning experience requires parents’ active participation to co-construct
-knowledge and understanding with their children during their 2-hour discovery
-journey at the museum. Together with their parents, they would draw perspectives
-of how history and culture shape character. They also learn to appreciate
-the community and what it is able to offer for their development. For the
-year 2014, pupils are required to lead some of the learning activities
-for their parents. For the year 2015, student leaders who are involved
-in the learning journey in 2014 would take the lead to design the learning
-activities for P3 pupils.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp3.png">
-</div>
-<p><strong>Values in Action (VIA) in collaboration with Khoo Teck Puat Hospital (KTPH)</strong>
-</p>
-<p>This is a community project in collaboration with KTPH as part of service
-to the community and at the same time enriches the career education of
-our pupils. Each year of the collaboration would be based on a theme –
-related to Science and Health Education learning such as digestive system,
-circulatory system, muscular and skeletal systems. Once a term, the pupils
-in the performing arts CCA would perform for an hour during the visit to
-KTPH. After the performance, the hospital would conduct health talks on
-the healthy lifestyle and habits that would affect that particular body
-system as well as the careers in the health industry pertaining to the
-care of that body system.</p>
-<p>As part of the Education and Career Guidance (ECG) programme, our pupils
-lead as health ambassadors of the school. They will give talks and share
-tips of good health habits to the school community, family members and
-the community around us pertaining to the body system in the theme of the
-year. We aspire that our pupils would be able to empathise with or inspired
-to be future workers in the health industry and serve our aging nation.</p>
 <div class="isomer-image-wrapper">
 <img style="width:33%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(3).png">
 </div>

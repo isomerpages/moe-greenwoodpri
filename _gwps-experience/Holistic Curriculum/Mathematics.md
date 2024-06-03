@@ -3,130 +3,133 @@ title: Mathematics
 permalink: /gwps-family/Departments/Mathematics/
 description: ""
 third_nav_title: Holistic Curriculum
+variant: tiptap
 ---
-
-### <center>Vision</center>
-
-<center>Confident Thinkers, Competent and Excellent Problem Solvers</center>
-
-### <center>Mission</center>
-
-<center>To instil in students the love for Mathematics and help them attain a level of mastery in problem-solving skills that will serve them well in life.</center>
-
-
-**<center>Learning Experiences in the classrooms</center>** 
-In Greenwood, students learn Mathematics in a fun and interactive manner so that they become confident and life-long learners of the subject. We believe that students must have opportunities to hone their reasoning and communication skills in their Mathematics classrooms. This is achieved by providing students with Learning Experiences that allows them to:  
-
-1)Experience Early Success  
-
-2)Build a Strong Foundation
-
-3)Make Steady Progress
-
-Strategies adopted by the department to provide an engaging learning experiences:
-  
-<center>a) Learning through Games</center>
-<img src="/images/M1.png" 
-     style="width:70%">
-		 
-<center>b) Learning Collaboratively </center>
-<img src="/images/M2.png" 
-     style="width:70%">		 
-		 
-<center>c) Learning through Authentic Experiences </center>
-<img src="/images/M4.png" 
-     style="width:70%">
-<img src="/images/M5.png" 
-     style="width:70%">
-		 	 
-<center>d) Opportunities to communicate reasoning and thinking</center>
-<img src="/images/m6.png" 
-     style="width:70%">
-
-
-
-**<center>Heuristics in the Woods using STAR Strategy</center>**
-
-Heuristics in the Woods is an innovative teaching and learning resource that Greenwood teachers and students created. This resource makes use of stories and animation to teach heuristics in an exciting way. It makes learning fun and easy. By following the animated stories, students learn to apply the heuristics they have learnt in real-life situations. These animations will be used to create online lesson packages for the students to use as a form of self-directed learning.
-
-The key to problem solving in Greenwood is based on the STAR Strategy. It is a structured strategy for problem-solving that is adapted from Polya’s four-step Model. This strategy is incorporated into the Heuristic Packages for each level and is also the primary strategy that students employ in problem solving. 
-
-  
-
-**S**tudy the Problem
-
-**T**hink of a Plan
-
-**A**ct on the Plan
-
-**R**eflect on the Solution
-
-**<center>Using animations to engage students in learning Heuristics</center>**
-<img src="/images/math14.jpg" 
-     style="width:70%">
-
-**<center>At Home with Mathematics (ATM)</center>**
-<img src="/images/math15.jpeg" 
-     style="width:70%">
-
-
-Another innovative resource proudly developed by Greenwood teachers is the At Home with Math (ATM) series for P1 to P4 students. These ATM booklets consist of weekly sums that parents can use to help their children gain mastery in basic Mathematics concepts and monitor their children’s progress in the learning of Mathematics.
-<img src="/images/m7.png" 
-     style="width:70%">
-	
-<center>Many skills in Mathematics require some form of drill and practice to be mastered. The ATM questions are designed to provide this in a fun way that promotes family bonding as well.</center>
-
-#### Maths Week
-
-Every year during the Maths week, the Mathematics department teachers and Math monitors work together to plan and carry out various interesting Mathematics activities for all students. These activities help to engage and excite the students and build their confidence in the subject.
-
-<img src="/images/m8.png" 
-     style="width:70%">
-
-	
-		 
-#### Journal Writing  
- 
-
-In 2021, the Mathematics Department in Greenwood Primary School embarked on mathematics journaling with our students. Through Journaling, students develop reasoning and communication skills and also apply their knowledge in Mathematics. Students are able to consolidate and deepen their understanding of mathematics concepts. Journaling is also a good habit that supports the development of metacognition.
-
-**<center>a) Reflection on concepts learnt</center>**
-<img src="/images/math20.gif" 
-     style="width:70%">
-
-**<center>b) Link Mathematics in class to the real world</center>**
-<img src="/images/m9.png" 
-     style="width:70%">
-	
-**<center>c) Show Reasoning and Communication</center>**
-<img src="/images/math21.png" 
-     style="width:70%">
-
-**<center>d) Journaling as a tool to bring about Joy of Learning</center>**
-<img src="/images/math22.png" 
-     style="width:70%">
-
-**<center>e) Journaling as a tool for reflection leading to self-directed learning </center>**
-
-<img src="/images/math23.png" 
-     style="width:70%">
-
-#### Mathemagician
-
-Every student in Greenwood has the opportunity to be a Mathemagician. As Mathemagician, they get to share articles or stories related to mathematics and post questions, puzzles and self-created challenges at the maths corner in their classrooms for a week. In addition, they may also share their reflections on their experience as a Mathemagician. Through this platform, students become more confident in Mathematics and develop affection and a good attitude for the subject.
-
-<img src="/images/math24.png" 
-     style="width:70%">
-<img src="/images/math25.png" 
-     style="width:70%">
-
-#### Partnering our Stakeholders  
-
-Every year, the Mathematics department teachers organize workshops for the parents. In these workshops, parents can pick up strategies that they can adopt to engage their children in problem-solving at home. Given the Safe Management Measures (SMM) this year, our school conducted the workshops through the online platform.
-
-<img src="/images/math26.png" 
-     style="width:70%">
-
-
-<img src="/images/Small%20logo/gwps%20children%20(4).png" 
-     style="width:25%;float:right">
+<h3>Vision</h3>
+<p>Confident Thinkers, Competent and Self-Directed Problem Solvers</p>
+<h3>Mission</h3>
+<p>To instil in students the love for Mathematics and help them attain a
+level of mastery in problem-solving skills which will serve them well in
+life.</p>
+<p></p>
+<h4><strong>Learning Experiences</strong></h4>
+<p>In Greenwood Primary School, we believe in providing enriching and joyful
+learning experiences through active and collaborative learning, sound pedagogy
+and various curriculum initiatives, for our students to achieve our vision
+and mission.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math1.png">
+</div>
+<p>All students could apply mathematics in the real world and have fun solving
+mathematical problems outside their classrooms during the Math Week.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math2.png">
+</div>
+<p>Primary 1 and Primary 2 students have the opportunity to be Mathemagicians.&nbsp;As
+Mathemagicians, they get to share stories related to mathematics, post
+questions or puzzles for their peers in class as well as during recess
+time. Through this platform, students can develop affection towards mathematics
+and become more confident to communicate mathematical ideas.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math3.png">
+</div>
+<p>Mathletics is a unique programme designed to support Primary 6 students
+in learning mathematics while promoting an active lifestyle through badminton.
+Students have the opportunity to revise and apply mathematical concepts
+such as estimation and geometry, and inculcate values such as responsibility
+and resilience while having fun learning badminton skills.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math4.png">
+</div>
+<p>Teachers use the Random ACt of Maths programme to motivate students to
+love and learn mathematics. Students who have consistently demonstrate
+positive Attitude towards study, are Curious about mathematics and show
+the griT to learn and not give up easily, will be rewarded with stars.
+Students can use these stars to redeem ‘mystery’ gifts from their teachers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math5.png">
+</div>
+<p>Greenwood works in partnership with Raffles Girls School to provide additional
+weekly support to some Primary 5 and Primary 6 students in terms of academic
+as well as motivational support. Apart from helping the students revise
+mathematical concepts, the secondary school students also help to build
+better disposition towards studies.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math6.png">
+</div>
+<p>Use of technology and manipulative in teaching and learning to enhance
+conceptual understanding.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math7.png">
+</div>
+<p>Students work collaboratively using concrete resources to have better
+conceptual understanding.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math8.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Heuristics Packages for Primary 3 to Primary 6 are produced by the teachers
+in Greenwood to systematically guide the students in applying heuristics
+to solve word problems using the STAR strategy. The STAR strategy is a
+structured problem-solving process adapted from Polya’s four-step Model.</p>
+<p><strong>S</strong>tudy the Problem</p>
+<p><strong>T</strong>hink of a Plan</p>
+<p><strong>A</strong>ct on the Plan</p>
+<p><strong>R</strong>eflect on the Solution</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math9.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math9_1.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students have access to online learning resources such as Koobits and
+Students Learning Space or SLS to help them learn independently.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<h4></h4>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(4).png">
+</div>
+<p></p>

@@ -36,24 +36,10 @@ variant: tiptap
 <p>Mr Leonard Ong Keng Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Abuthahir Abdul Gafoor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Honorary Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tricilia Chua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Hong Ju, Erek</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +53,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Allan Lim Yee Chian</p>
+<p>Mr Abuthahir Abdul Gafoor</p>
 </td>
 </tr>
 <tr>
@@ -76,6 +62,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Keith Goh Han Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Hong Ju, Erek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Allan Lim Yee Chian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

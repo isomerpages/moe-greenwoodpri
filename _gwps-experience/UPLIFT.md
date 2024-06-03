@@ -53,4 +53,7 @@ the future with confidence and resilience.</p>
 <p>(Back facing photographs included taking into account the identity of
 our high needs students)</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/UPLIFT/UPLIFT.jpg">
+</div>
 <p></p>

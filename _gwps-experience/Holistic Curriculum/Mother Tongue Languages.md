@@ -94,7 +94,6 @@ culture.</p>
 <p></p>
 <p><strong>External Competitions and Activities</strong>
 </p>
-<p></p>
 <p>The department also provides external platforms to stretch the students’
 potential.</p>
 <div class="isomer-image-wrapper">

@@ -96,6 +96,10 @@ culture.</p>
 </p>
 <p>The department also provides external platforms to stretch the students’
 potential.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLCL01.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/image040.gif">
 </div>

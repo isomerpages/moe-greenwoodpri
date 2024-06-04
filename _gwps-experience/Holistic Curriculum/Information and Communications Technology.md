@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: tiptap
 ---
-<h3>Vision</h3>
+<h3><strong>Vision</strong></h3>
 <p>Achieving&nbsp;excellence through an ICT enriched environment.&nbsp;&nbsp;</p>
-<h3>Mission&nbsp;</h3>
+<h3><strong>Mission&nbsp;</strong></h3>
 <p>To nurture a community of responsible ICT users who embrace self-directed
 and collaborative learning. &nbsp;</p>
 <h4><strong>Key Programmes</strong></h4>

@@ -3,57 +3,38 @@ title: English Language
 permalink: /gwps-family/Departments/English-Language/
 description: ""
 third_nav_title: Holistic Curriculum
+variant: tiptap
 ---
-
-### **<center>Vision</center>**
-
-<center>Confident and competent readers who love the English language</center>
-
-### **<center>Mission</center>**
-
-To enhance the joy of learning English through quality teaching and learning 
-  At GWPS, we develop students who love the language by first inculcating a love for reading through our extensive reading programmes
- 
-##### Read @ Greenwood  
-
-**Book Buzz in the Woods**
-
-Teachers role model reading to students. Through Book Buzz in the Woods, teachers share their favourite book to motivate and encourage students to read.
-
-![](/images/math27.png)
-
-**Avid Readers**
-
-The department has designed a set of reading activities for each block of students. Students choose activities to complete in their Avid Readers book. After completion, they proudly get to claim their reading badge.  
-
-  
-
-**Guest Reader**
-
-Lower primary students enjoy the experience of having a special guest in their classroom who reads aloud a book to them every month
-
-<img src="/images/math28.jpeg" 
-     style="width:55%">
-
-**<center>Our principal, Mrs Chua, as the guest reader  for one of our classes!</center>**
-
-**Peek A Book**
-
-The friendly librarian visits every classroom fortnightly to share on authors and promote books. Students get to borrow these books on the spot.  
-
-<img src="/images/EL1.png" 
-     style="width:70%">
-
-**<center>Delighted with their latest picks</center>**
-
-**Students‘ Caught Reading**
-
-Students ‘caught reading’ outside their classrooms are awarded reading badges. These badges serve to build enthusiasm around reading by getting kids talking about the books they love
-
-<img src="/images/EL3.png" 
-     style="width:70%">
-**<center>Students 'caught reading' during their free time.</center>**
-
-
-<img src="/images/Small%20logo/gwps%20children%20(4).png" 
-     style="width:25%;float:right">
+<h3><strong>Vision</strong></h3>
+<p>Every Greenwoodian a proficient English Language communicator with a passion
+for reading</p>
+<h3><strong>Mission</strong></h3>
+<p>Fostering English Language fluency in a language-rich environment</p>
+<h4>Exciting and Engaging English Language Exploration</h4>
+<p>In Greenwood Primary School, the learning of the English Language takes
+place in a vibrant and engaging environment where excitement and interaction
+take centre stage, and the habit of reading is in the limelight.</p>
+<p>Classrooms buzz with activities as students participate in engaging lessons
+filled with fun games, lively discussions and hands-on activities. Through
+storytelling, role-playing, and interactive technology, students are immersed
+in a joyful journey of language discovery and mastery.</p>
+<p>This fun and stimulating atmosphere not only fosters a love for the English
+Language but also encourages active participation, creativity and a deep
+enthusiasm for learning, both in and out of the classrooms.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/English01.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/English02.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(4).png">
+</div>
+<p></p>

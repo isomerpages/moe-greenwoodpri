@@ -110,7 +110,7 @@ potential.</p>
 <p><strong>25th National Chinese Essay writing competition</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image040.gif">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/image040.gif">
 </div>
 <p>Qin Zhen - Commendation Award</p>
 <p></p>

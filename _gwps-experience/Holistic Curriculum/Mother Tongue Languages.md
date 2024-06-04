@@ -98,13 +98,13 @@ culture.</p>
 potential.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLCL01.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLCL01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLML01.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLML01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLTL01.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLTL01.png">
 </div>
 <p></p>
 <p><strong>25th National Chinese Essay writing competition</strong>
@@ -117,7 +117,7 @@ potential.</p>
 <p><strong>Rakan Bahasa Ambassadors</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML-min.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ML-min.png">
 </div>
 <p></p>
 <p><strong>Tamil Language Spelling Bee competition</strong>

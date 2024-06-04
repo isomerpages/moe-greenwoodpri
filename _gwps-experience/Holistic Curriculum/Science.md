@@ -27,7 +27,7 @@ when they encounter science questions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science02.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science02.png">
 </div>
 <p></p>
 <p><strong><u>Eureka! With Family</u></strong>
@@ -40,7 +40,7 @@ students on how science is linked to our everyday lives.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science04.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science04.png">
 </div>
 <p></p>
 <p><strong><u>STEM in the Woods</u></strong>
@@ -53,7 +53,7 @@ and interdisciplinary nature of many professions in the 21st century. It
 also provides students with an opportunity to showcase their talent and
 develop their potential in Science.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science05.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science05.png">
 </div>
 <p></p>
 <p><strong><u>Science SPARKS</u></strong>
@@ -65,7 +65,7 @@ interest towards the learning of&nbsp;science.&nbsp;Through the experience,
 students learn interesting Science concepts, have greater awareness of
 environmental issues and develop their science thinking skills</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science06.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science06.png">
 </div>
 <p></p>
 <p><strong><u>Excellence 2000 (E2K) Science</u></strong>
@@ -94,13 +94,13 @@ love for learning and discovery of science concepts linked to the real-world
 context. It also nurtures knowledgeable and scientifically literate individuals
 who can contribute to a better future for themselves and the world.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science08.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science08.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science09.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science09.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science10.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science10.png">
 </div>
 <p></p>
 <p><strong><u>Science and Earth Week</u></strong>
@@ -112,7 +112,7 @@ curriculum, to inspire students in STEM related fields and to empower students
 to be future changemakers who will positively contribute to a sustainable
 and resilient future.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science11.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science11.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">

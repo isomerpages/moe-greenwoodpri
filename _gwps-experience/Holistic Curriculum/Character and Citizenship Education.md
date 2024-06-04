@@ -49,7 +49,9 @@ identity, build a sense of belonging and pride in the nation.</p>
 Gallery and Kreta Ayer Heritage Gallery. Primary 5 students visiting Indian
 Heritage Centre; and Primary 6 students visiting the Asian Civilisations
 Museum.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/CCE03.png">
+</div>
 <p></p>
 <p><strong>Values in Action (VIA)</strong>
 </p>
@@ -85,7 +87,18 @@ centre partners.</p>
 <p>Our students become Leaders of Character as they influence and shape the
 thinking of others as they work with external stakeholders such as the
 elderly care centres and preschools in the community.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/CCE04.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/CCE05.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/CCE06.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/CCE07.png">
+</div>
 <p></p>
 <p><strong>Education and Career Guidance (ECG)</strong>
 </p>
@@ -106,7 +119,7 @@ value of all occupations.</p>
 activities, and self-directed learning via Student Learning Spaces (SLS)
 and the exploration of MySkillsFuture portal. ECG lessons have the following
 goals:</p>
-<p><u>Discovering Purpose – Who am I? </u>
+<p><u>Discovering Purpose – Who am I?</u>
 </p>
 <p>Nurture students' self-awareness to support them in discovering how they
 can meaningfully play a part in their community.</p>

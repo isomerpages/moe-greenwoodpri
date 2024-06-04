@@ -22,14 +22,16 @@ in a joyful journey of language discovery and mastery.</p>
 Language but also encourages active participation, creativity and a deep
 enthusiasm for learning, both in and out of the classrooms.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/English01.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/English02.png">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/English03.png">
+</div>
 <p></p>
 <p></p>
 <p></p>

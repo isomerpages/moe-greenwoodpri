@@ -101,23 +101,30 @@ potential.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLCL01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/image040.gif">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLML01.png">
 </div>
-<p>Qin Zhen - Commendation Award
-<br>25th National Chinese Essay writing competition</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/ML-min.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLTL01.png">
 </div>
+<p></p>
+<p><strong>25th National Chinese Essay writing competition</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image040.gif">
+</div>
+<p>Qin Zhen - Commendation Award</p>
 <p></p>
 <p><strong>Rakan Bahasa Ambassadors</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/image050.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ML-min.png">
 </div>
 <p></p>
 <p><strong>Tamil Language Spelling Bee competition</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/image050.jpeg">
+</div>
 <p></p>
 <h4>School-Based Learning Packages</h4>
 <p>The MTL Department prides itself in creating in-house writing, comprehension

@@ -34,22 +34,22 @@ in authentic cultural experiences as part of MTL fortnight activities.
 These learning opportunities stimulate the appreciation of the Mother Tongue
 Culture and promote interest in the learning of the Mother Tongue languages.</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/Story_Telling_with_hand_Puppet.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Story_Telling_with_hand_Puppet.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/Malay_Traditional_games.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Malay_Traditional_games.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/Lantern_making.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Lantern_making.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/Kucing_Saya.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Kucing_Saya.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/Festive_Patch_work_activities.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Festive_Patch_work_activities.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/Chinese_Painting.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Chinese_Painting.jpg">
 </div>
 <p></p>
 <p><strong>Cultural Celebrations and Activities</strong>
@@ -66,10 +66,10 @@ culture.</p>
 <p><strong>Chinese New Year Celebrations</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/HC_CNY_page_0001.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/HC_CNY_page_0001.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/HC_CNY_page_0002.jpg">
+<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/HC_CNY_page_0002.jpg">
 </div>
 <p></p>
 <p></p>
@@ -98,13 +98,13 @@ culture.</p>
 potential.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLCL01.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLCL01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLML01.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLML01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLTL01.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLTL01.png">
 </div>
 <p></p>
 <p><strong>25th National Chinese Essay writing competition</strong>

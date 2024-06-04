@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: tiptap
 ---
-<h3>Vision</h3>
+<h3><strong>Vision</strong></h3>
 <p>Confident Thinkers, Competent and Self-Directed Problem Solvers</p>
-<h3>Mission</h3>
+<h3><strong>Mission</strong></h3>
 <p>To instil in students the love for Mathematics and help them attain a
 level of mastery in problem-solving skills which will serve them well in
 life.</p>
@@ -70,60 +70,10 @@ conceptual understanding.</p>
 </div>
 <p>Students work collaboratively using concrete resources to have better
 conceptual understanding.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math8.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Heuristics Packages for Primary 3 to Primary 6 are produced by the teachers
-in Greenwood to systematically guide the students in applying heuristics
-to solve word problems using the STAR strategy. The STAR strategy is a
-structured problem-solving process adapted from Polya’s four-step Model.</p>
-<p><strong>S</strong>tudy the Problem</p>
-<p><strong>T</strong>hink of a Plan</p>
-<p><strong>A</strong>ct on the Plan</p>
-<p><strong>R</strong>eflect on the Solution</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Math.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/math9_1.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Students have access to online learning resources such as Koobits and
-Students Learning Space or SLS to help them learn independently.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
 <p></p>

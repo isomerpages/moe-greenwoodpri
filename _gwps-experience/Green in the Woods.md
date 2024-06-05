@@ -74,28 +74,21 @@ Campus, Culture and Community.</p>
 <td rowspan="1" colspan="1">
 <p>OneMillionTrees movement (curriculum)</p>
 <p>&nbsp;</p>
-<p>Festival of Biodiversity</p>
-<p>(curriculum)</p>
+<p>Festival of Biodiversity (curriculum)</p>
 <p>&nbsp;</p>
 <p>Green Living Spaces: Eco -gardens, Vertical Green Walls (campus)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Solar Panels</p>
-<p>(campus)</p>
-<p>Use of LED lights and light sensors in toilets</p>
-<p>(campus)</p>
-<p>Advocacy through assembly talks, emails and posters</p>
-<p>(campus)</p>
+<p>Solar Panels(campus)</p>
+<p>Use of LED lights and light sensors in toilets (campus)</p>
+<p>Advocacy through assembly talks, emails and posters (campus)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Green sharing during assemblies to promote sustainable living (curriculum)</p>
 <p>Recycling Programme (Weekly recycling, Save-the-pen, Red and Green packets
-recycling, PSG Donation Drive, NTUC Share-a-book)</p>
-<p>(curriculum &amp; community)</p>
+recycling, PSG Donation Drive, NTUC Share-a-book) (curriculum &amp; community)</p>
 <p>Advocacy of 4R (Refuse, Reduce, Reuse, Recycle) through Project Work (curriculum)</p>
-<p>&nbsp;</p>
-<p>Clean Plate Campaign (community)</p>
-<p>&nbsp;</p>
+<p>&nbsp;Clean Plate Campaign (community)</p>
 <p>Food Digesting System (campus)</p>
 <p>Water Conservation efforts (curriculum)</p>
 <p>Rainwater harvesting system (campus)</p>
@@ -103,8 +96,7 @@ recycling, PSG Donation Drive, NTUC Share-a-book)</p>
 <td rowspan="1" colspan="1">
 <p>Cultivate good habits: e.g. setting of air-conditioner to 25 degree Celsius,
 switching off of electrical appliances when not in use (curriculum)</p>
-<p>Hydroponics (food supply resilience)</p>
-<p>(curriculum &amp; community)</p>
+<p>Hydroponics (food supply resilience) (curriculum &amp; community)</p>
 <p>Project Work infusion (curriculum)</p>
 <p><strong>&nbsp;</strong>
 </p>

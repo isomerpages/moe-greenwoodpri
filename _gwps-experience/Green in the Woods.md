@@ -106,7 +106,6 @@ switching off of electrical appliances when not in use (curriculum)</p>
 </table>
 <p>With students’ and staff’s active participation and advocacy in the green
 initiatives, the school builds a Culture that will impact many generations.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Green02.png">
 </div>

@@ -2,7 +2,6 @@ collections:
   gwps-experience:
     output: true
     order:
-      - Project DELIGHT.md
       - Holistic Curriculum/.keep
       - Holistic Curriculum/English Language.md
       - Holistic Curriculum/Mathematics.md
@@ -20,4 +19,5 @@ collections:
       - Green in the Woods.md
       - Project Work.md
       - Co Curricular Activities.md
+      - Project DELIGHT.md
       - P1 Experience.md

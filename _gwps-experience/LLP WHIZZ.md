@@ -8,9 +8,6 @@ variant: tiptap
 <p>WHIZZ –&nbsp;<strong>W</strong>e are T<strong>H</strong>inking,&nbsp;<strong>I</strong>nventive
 and&nbsp;<strong>Z</strong>ealous KId<strong>Z</strong>&nbsp;who serve
 the community.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whizz.jpeg">
-</div>
 <h4><strong>Rationale:</strong></h4>
 <p>Globalisation, changing demographics and technological advancements are
 some of the key driving forces in a fast changing world. To enable our

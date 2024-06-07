@@ -7,24 +7,35 @@ variant: tiptap
 ---
 <h3><strong>Vision</strong></h3>
 <p>A community of passionate MTL learners who have the global mindset and
-yet stay rooted&nbsp;</p>
+yet stay rooted</p>
 <h3><strong>Mission&nbsp;</strong></h3>
 <p>To build a conducive environment for the teaching and learning of MTL
 and establish a team of competent teachers.</p>
 <h4><strong>Key Programme</strong></h4>
 <p><strong>Applied Learning Programme (ALP) -Bilingual&nbsp;Literature apprecIation&nbsp;Student’s&nbsp;Series (BLISS)</strong>
 </p>
-<p>Our ALP - BLISS in Mother Tongue Languages (MTL) aims to help students
-to see the relevance of learning MTL by applying reasoning and argumentative
-skills to construct meaning and opinions linking to societal concerns in
-the real world. During BLISS lessons, we equip our pupils with 21st-century
-skills to think critically, examine problems, gather information, and make
-informed decisions. In the process, students also become more confident
-speakers and learners who are able to use MTL more effectively.</p>
+<p>Our ALP-BLISS in Mother Tongue Languages (MTL) aims to help students see
+the relevance of learning MTL by applying reasoning and argumentative skills
+to construct meaning and opinions linking to societal concerns in the real
+world. During BLISS lessons, we equip our pupils with 21st-century skills
+to think critically, examine problems, gather information, and make informed
+decisions. In the process, students also become more confident speakers
+and learners who are able to use MTL more effectively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/rsz_mt1.png">
 </div>
+<p><strong>Literature Appreciation- Reading Circle</strong>
+</p>
+<p>The Reading Circle, a component of the SOAR lesson extension and BLISS
+programme, fosters a love for literature among P4 and P5 Higher Progress
+students. Through the programme, students are introduced to Singaporean
+literature and learn various literary appreciation techniques. These include
+analysing themes, understanding character development, exploring literary
+devices, and interpreting symbolism.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_Literature.png">
+</div>
 <p><strong>MTL Fortnight activities</strong>
 </p>
 <p>Mother Tongue Languages (MTL) Fortnight aims to create an immersive environment
@@ -33,24 +44,6 @@ teachers conduct workshops and cultural activities for students to participate
 in authentic cultural experiences as part of MTL fortnight activities.
 These learning opportunities stimulate the appreciation of the Mother Tongue
 Culture and promote interest in the learning of the Mother Tongue languages.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Story_Telling_with_hand_Puppet.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Malay_Traditional_games.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Lantern_making.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Kucing_Saya.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Festive_Patch_work_activities.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/Chinese_Painting.jpg">
-</div>
 <p></p>
 <p><strong>Cultural Celebrations and Activities</strong>
 </p>
@@ -62,34 +55,27 @@ for students of all races to learn more about the various cultures. The
 activities also promote cultural awareness amongst the different ethnic
 groups and bring about a greater understanding and appreciation each other’s
 culture.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLFortnight.png">
+</div>
 <p></p>
+<p><strong>Cultural Celebrations and Activities</strong>
+</p>
+<p>Each year, the MTL Department organises activities to create an immersive
+experience leading up to Lunar New Year, Hari Raya Puasa, and Deepavali.
+By participating in these cultural activities, students of all races gain
+a deeper understanding of various cultures. These activities also promote
+cultural awareness among different ethnic groups, fostering greater appreciation
+and understanding of each other's traditions.</p>
 <p><strong>Chinese New Year Celebrations</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/HC_CNY_page_0001.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" src="/images/Holistic%20Curriculum/HC_CNY_page_0002.jpg">
-</div>
 <p></p>
 <p></p>
 <p><strong>Hari Raya Puasa Celebrations</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/HariRaya_page_0001.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/HariRaya_page_0002.jpg">
-</div>
 <p>
 <br><strong>Deepavali</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/deepavali_page_0001.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/Holistic%20Curriculum/deepavali_page_0002.jpg">
-</div>
 <p></p>
 <p></p>
 <p><strong>External Competitions and Activities</strong>

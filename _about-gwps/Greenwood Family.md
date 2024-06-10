@@ -4,7 +4,7 @@ permalink: /gwps-family/Teaching-and-Non-Teaching/
 description: ""
 variant: tiptap
 ---
-<p>PRINCIPAL AND VICE PRINCIPALS</p>
+<h4><strong>PRINCIPAL AND VICE PRINCIPALS</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -57,7 +57,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>School Executive Committee Members</p>
+<h4><strong>SCHOOL EXECUTIVE COMMITTEE MEMBERS</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -278,7 +278,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>EXECUTIVE AND ADMINISTRATION STAFF</p>
+<h3><strong>EXECUTIVE AND ADMINISTRATION STAFF</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -401,7 +401,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Allied Educators (AED)</p>
+<h3><strong>ALLIED EDUCATORS (AED)</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -468,7 +468,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Senior Teachers</p>
+<h3><strong>SENIOR TEACHERS</strong>&nbsp;</h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -556,7 +556,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Form Teachers</p>
+<h3><strong>FORM TEACHERS </strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -906,7 +906,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>TEACHERS</p>
+<h3><strong>TEACHERS</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

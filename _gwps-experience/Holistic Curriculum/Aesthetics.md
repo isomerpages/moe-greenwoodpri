@@ -3,91 +3,87 @@ title: Aesthetics
 permalink: /gwps-family/Departments/Aesthetics/
 description: ""
 third_nav_title: Holistic Curriculum
+variant: tiptap
 ---
-
-### <center>VISION</center>
-
-<center>Life Long ARTS Learners</center>
-
-### <center>MISSION</center>
-
-<center>LOVE – Learn and explore ARTS through Opportunities provided in a Vibrant ARTS Environment </center>
-
-#### Approach
-
-Experience – Enlighten – Explore
-
-A Continuous and Progressive Art  and Music Curriculum
-
-Greenwood Primary School’s  Aesthetics Team has designed a rich art & music curriculum to support the holistic development of every student.
- 
-The value of Art & Music in the curriculum is threefold: 
-
-·Fundamental in Arts
-
-·Intermediary in Arts
-
-·Semantics in Arts  
-
-Structure of Curriculum Units
-
-  
-**Historical & Discussion**
-
-Units of arts appreciation based on historical perspectives and integrative to the learning of the modules. Integrated in each unit to allow students to discuss arts with greater depth through formal analysis ie. style, materials, techniques and expressiveness.
-
-**Progressive**
-
-For Art, units of learning are designed based on art elements/concepts through 4 main art forms - Drawing, Painting, Digital Art, Ceramics. For Music, units of learning are designed based on music elements/concepts through instruments, singing and movement. Units of learning are linked with major National celebrations and school events. Greenwood Primary School’s Aesthetics Team has designed a rich art & music curriculum to support the holistic development of every student. In line with the syllabus, Greenwood Primary School planned and organised programmes for students to instil their love for the subject areas and take ownership in their learning.
-
-The programmes aim to:
-
-\-    provide opportunities for students’ authentic learning
-
-\-    promote a rich arts environment
-
-\-    build greater confidence in self 
-
-Key Programmes includes:
-
-#### PAM Week & Talent Quest  
-
-The PAM Week & Talent Quest provides students with a platform to showcase their talents and appreciate the talents of others. It is also a platform for students to express themselves creatively through Arts.
-
-<img src="/images/art3.png" 
-     style="width:70%">
-
-#### Art Trail & Exhibition
-
-Art Trail and Exhibition aim to give voice to our students by creating platforms for them to display their artworks on three different levels: the classroom, the school, and the community. In the process, students learn how artworks can be a vessel of their expressions and beliefs.  
-
-**Ghost Nets of the Ocean 2017**
-
-Ghost Nets of the Ocean demonstrates the power of art to spread the message of environmental sustainability and biodiversity. Empowering children to learn and think about the interconnectedness of the environment we live in through play, stories, and hands-on activities is impactful as it nurtures life-long learning skills about empathy, awareness, and shared responsibility for the health of our environment.
-
-<img src="/images/ART.png" 
-     style="width:70%">
-
-**Museum Based Learning Journey & Assembly Programme**
-
-Museum Based Learning (MBL)  Journey extends students’ appreciation and experience for the arts. MBL experience is designed to provide the breadth and depth of learning local art as part of all primary 4 students’ core learning experience in the art curriculum. The experience comprises pre-, during- and post-visit experiences to one of the local art museums where students are involved as artists and audience to create and appreciate art.The MBL experience culminates in a showcase of students’ art expression.
-
-<img src="/images/image011.png" 
-     style="width:50%">
-**<center>Students’ Engaging in learning</center>**
-
-Students would have creative and innovative self-expression opportunities in the six years of learning in Greenwood Primary through various mediums. The learning of local artworks and artists strengthens the understanding of the individual’s national identity by fostering the appreciation of one’s cultural heritage. The engagement in art discussions in the curriculum promotes a lifelong enjoyment and an appreciation for artistic works, developing visual literacy in our students. The production of artwork encourages imagination and cultivates in students the capacity to innovate and improvise.
-
-<img src="/images/ART2.png" 
-     style="width:70%">
-
-#### **Music**
-
-Students would have opportunities to develop the awareness and appreciation of Music in local and global cultures in the six years of learning in Greenwood Primary. They would form the ability for creative expression and communication through Music and acquire a life-long involvement in Music. Students would also obtain a fundamental music understanding in the aural and vocal domains and the playing of instruments as an individual and ensemble playing. In the process of performing and creating Music, students are involved in developing listening skills, fine motor skills, creative thinking skills and social skills.
-
-<img src="/images/image019.jpeg" 
-     style="width:50%;float:left"><img src="/images/image022.gif" 
-     style="width:50%">
-		 
-<img src="/images/Small%20logo/gwps%20children%20(4).png" 
-     style="width:25%;float:right">
+<h3><strong>VISION</strong></h3>
+<p>Lifelong ARTS Learners</p>
+<h3><strong>MISSION</strong></h3>
+<p>LOVE –&nbsp;Learn and explore ARTS through&nbsp;Opportunities provided
+in a&nbsp;Vibrant ARTS&nbsp;Environment&nbsp;</p>
+<h4><strong>Approach</strong></h4>
+<p>Appreciate - Acquire - Articulate</p>
+<p></p>
+<p><strong>A Continuous and Progressive Art and Music Curriculum</strong>
+<br>Greenwood Primary School has designed a rich art and music curriculum
+to support the holistic development of every student. Our curriculum is
+structured to ensure continuous and progressive learning in both art and
+music, fostering a lifelong appreciation and love for the arts.</p>
+<p></p>
+<p><strong>Structure of Curriculum Units</strong>
+<br>Art: Units of learning are designed based on art elements and concepts
+through four main art forms:</p>
+<p>- Drawing</p>
+<p>- Painting</p>
+<p>- Digital Art</p>
+<p>- Ceramics</p>
+<p>Music: Units of learning are structured around music elements and concepts,
+incorporating:</p>
+<p>- Instruments</p>
+<p>- Singing</p>
+<p>- Movement</p>
+<p>Units are thoughtfully linked with major national celebrations and school
+events, integrating a real-world context into the learning process.</p>
+<p></p>
+<p><strong>Key Programmes</strong>
+<br>Aesthetics Week - Shining Stars</p>
+<p>The Shining Stars programme provides students with a platform to showcase
+their talents and appreciate the talents of others. It is an opportunity
+for students to express themselves creatively through the arts, fostering
+a sense of pride and confidence.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Aesthetics01.png">
+</div>
+<p></p>
+<p><strong>Aesthetics Fest</strong>
+<br>The Aesthetics Fest is designed to enhance cultural appreciation among
+students, helping them understand and experience the diversity of cultural
+expressions in the arts. This vibrant festival provides opportunities for
+students to explore their creativity, express themselves, and showcase
+their skills and talents. The Aesthetics Fest fosters a deeper appreciation
+for the rich tapestry of global cultures and artistic traditions by encouraging
+artistic exploration through a curated programme of visual art, music and
+dances.</p>
+<p></p>
+<p><strong>&nbsp;Art Trail &amp; Exhibition</strong>
+<br>The Art Trail and Exhibition aim to give voice to our students by creating
+platforms for them to display their artworks at three different levels:
+the classroom, the school, and the community. This initiative helps students
+understand how artworks can serve as vessels for their expressions and
+beliefs.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Aesthetics02.png">
+</div>
+<p></p>
+<p><strong>Museum Based Learning Journey &amp; Assembly Programme</strong>
+<br>The Museum Based Learning (MBL) Journey extends students’ appreciation
+and experience of the arts. This programme is a core part of the Primary
+4 art curriculum and includes pre-, during-, and post-visit activities
+to local art museums. Students engage as both artists and audience members,
+culminating in a showcase of their artistic expressions. The Assembly Programme
+is curated to expose students to different art forms throughout their school
+years.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Aesthetics03.png">
+</div>
+<p></p>
+<p><strong>Platforms and Activities that Engages our Students in Learning</strong>
+<br>Art:&nbsp; Over six years, students engage in various mediums, learning
+about local artworks and artists. This strengthens their national identity
+and cultural heritage appreciation. Through art discussions and projects,
+students develop visual literacy, imagination, and innovation skills.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(4).png">
+</div>
+<p></p>

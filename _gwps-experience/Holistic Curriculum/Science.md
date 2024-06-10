@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h3><strong>Vision</strong></h3>
-<p>Critical Thinkers, Adaptive Innovators, and Eco Stewards for Life</p>
-<h3><strong>Mission</strong></h3>
+<h4><center><strong>Vision</strong></center></h4>
+<p></p><center>Critical Thinkers, Adaptive Innovators, and Eco Stewards for Life<p></p>
+<h4><strong>Mission</strong></h4>
 <p>To foster critical, innovative and adaptive learners who appreciate science
-and actively contribute to a sustainable future.</p>
+and actively contribute to a sustainable future.</p></center><p></p>
 <p></p>
 <h4><strong>Key Programme</strong></h4>
 <p><strong>Teaching and Learning</strong>

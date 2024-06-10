@@ -278,7 +278,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>EXECUTIVE AND ADMINISTRATION STAFF</strong></h3>
+<h4><strong>EXECUTIVE AND ADMINISTRATION STAFF</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -401,7 +401,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>ALLIED EDUCATORS (AED)</strong></h3>
+<h4><strong>ALLIED EDUCATORS (AED)</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -468,7 +468,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>SENIOR TEACHERS</strong>&nbsp;</h3>
+<h4><strong>SENIOR TEACHERS</strong>&nbsp;</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -556,7 +556,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>FORM TEACHERS</strong></h3>
+<h4><strong>FORM TEACHERS</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -906,7 +906,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>TEACHERS</strong></h3>
+<h4><strong>TEACHERS</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

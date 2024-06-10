@@ -3,15 +3,21 @@ title: Aesthetics
 permalink: /gwps-family/departments/aesthetics/
 description: ""
 third_nav_title: Holistic Curriculum
-variant: markdown
+variant: tiptap
 ---
-<h4><center><strong>Vision</strong></center></h4>
-<p></p><center>Lifelong ARTS Learners</center><p></p>
-<h4><center><strong>Mission</strong></center></h4>
-<p></p><center>LOVE –&nbsp;Learn and explore ARTS through&nbsp;Opportunities provided
-in a&nbsp;Vibrant ARTS&nbsp;Environment&nbsp;</center><p></p>
-<h4><center><strong>Approach</strong></center></h4>
-<p></p><center>Appreciate - Acquire - Articulate</center><p></p>
+<h4><strong>Vision</strong></h4>
+<p></p>
+<p>Lifelong ARTS Learners</p>
+<p></p>
+<h4><strong>Mission</strong></h4>
+<p></p>
+<p>LOVE –&nbsp;Learn and explore ARTS through&nbsp;Opportunities provided
+in a&nbsp;Vibrant ARTS&nbsp;Environment&nbsp;</p>
+<p></p>
+<h4><strong>Approach</strong></h4>
+<p></p>
+<p>Appreciate - Acquire - Articulate</p>
+<p></p>
 <p></p>
 <p><strong>A Continuous and Progressive Art and Music Curriculum</strong>
 <br>Greenwood Primary School has designed a rich art and music curriculum
@@ -22,15 +28,33 @@ music, fostering a lifelong appreciation and love for the arts.</p>
 <p><strong>Structure of Curriculum Units</strong>
 <br>Art: Units of learning are designed based on art elements and concepts
 through four main art forms:</p>
-Drawing
-<p>- Painting</p>
-<p>- Digital Art</p>
-<p>- Ceramics</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Drawing</p>
+</li>
+<li>
+<p>Painting</p>
+</li>
+<li>
+<p>Digital Art</p>
+</li>
+<li>
+<p>Ceramics</p>
+</li>
+</ul>
 <p>Music: Units of learning are structured around music elements and concepts,
 incorporating:</p>
-<p>- Instruments</p>
-<p>- Singing</p>
-<p>- Movement</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Instruments</p>
+</li>
+<li>
+<p>Singing</p>
+</li>
+<li>
+<p>Movement</p>
+</li>
+</ul>
 <p>Units are thoughtfully linked with major national celebrations and school
 events, integrating a real-world context into the learning process.</p>
 <p></p>

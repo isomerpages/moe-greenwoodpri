@@ -86,11 +86,11 @@ and understanding of each other's traditions.</p>
 <p></p>
 <p><strong>External Competitions and Activities</strong>
 </p>
-<p>Students have the thrilling opportunity to participate in various external
+Students have the thrilling opportunity to participate in various external
 competitions, where they can sharpen their communication skills and embrace
 the excitement of healthy competition. These activities offer invaluable
 experiences, enabling students to showcase and apply their language skills
-in dynamic and diverse settings.</p>
+in dynamic and diverse settings.
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_CL.png">
 </div>

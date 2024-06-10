@@ -81,7 +81,19 @@ years.</p>
 about local artworks and artists. This strengthens their national identity
 and cultural heritage appreciation. Through art discussions and projects,
 students develop visual literacy, imagination, and innovation skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Aesthetics04.png">
+</div>
 <p></p>
+<p>Music: Students develop awareness and appreciation of music within local
+and global cultures. They gain the ability to express themselves creatively
+through music, involving themselves in lifelong musical pursuits. The curriculum
+focuses on aural and vocal domains, individual and ensemble instrument
+playing, and the development of listening, fine motor, creative thinking,
+and social skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Aesthetics05.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(4).png">

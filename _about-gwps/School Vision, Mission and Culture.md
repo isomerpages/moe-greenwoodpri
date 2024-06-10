@@ -12,19 +12,19 @@ To nurture individuals to become lifelong learners and responsible citizens thro
 
 ### **<center>VISION</center>**
 
-**<center>Motivated Learners</center>**
+##### **<center>Motivated Learners</center>**
 
 <img src="/images/VMC/motivated%20learners%20v2.png" style="width:40%">
 
 The school community is passionate about learning for life.  We are self-directed learners and collaborators who seek to give our best.
 
-**<center>Critical Thinkers</center>**
+##### **<center>Critical Thinkers</center>**
 
 <img src="/images/VMC/critical%20thinkers%20v2.png" style="width:40%">
 
 The school community considers and articulates multiple perspectives to solve problems innovatively. We are inquisitive and reflective in examining our own beliefs and assumptions.
 
-**<center>Leaders of Character</center>**
+##### **<center>Leaders of Character</center>**
 
 <img src="/images/VMC/leaders%20of%20character%20v2.png" style="width:40%">
 

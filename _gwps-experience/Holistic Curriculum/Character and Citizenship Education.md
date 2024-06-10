@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h3><center><strong>Vision</strong></center></h3>
+<h4><center><strong>Vision</strong></center></h4>
 <p></p><center>Citizens of good character who are rooted to Singapore<p></p>
-<h3><strong>Mission</strong></h3>
+<h4><strong>Mission</strong></h4>
 <p>To nurture responsible citizens who are leaders of character.</p></center>
 <h4><strong>Key Programmes</strong></h4>
 <p><strong>CCE in the Woods (CIW)</strong>

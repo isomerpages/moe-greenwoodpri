@@ -114,10 +114,8 @@ be allowed to enter school premises to buy due to SMM.
 <br>
 <br>Parents may purchase uniforms from the vendor directly at the address
 below:
-<br>
-<br>604 Sembawang Rd, #02-13, Sembawang Shopping Centre,
-<br>Singapore 758459
-<br>Tel: 67531489</p>
+<br><strong>604 Sembawang Rd, #02-13, Sembawang Shopping Centre, <br>Singapore 758459 <br>Tel: 67531489</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -138,7 +136,8 @@ below:
 <br>Monday to Thursday (8am - 5.30pm)
 <br>Friday (8am - 5pm)
 <br>Lunch Time (1pm - 2pm)
-<br>Tel: 85229048</p>
+<br><strong>Tel: 8522 9048</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -147,8 +146,8 @@ below:
 </td>
 <td rowspan="1" colspan="1">
 <p>Big Heart Student Care @ Greenwood Primary School
-<br>Tel: 90220773
-<br>e-mail: greenwood@shgstudentcare.com.sg</p>
+<br><strong>Tel: 9022 0773 <br>e-mail: greenwood@shgstudentcare.com.sg</strong>
+</p>
 </td>
 </tr>
 </tbody>

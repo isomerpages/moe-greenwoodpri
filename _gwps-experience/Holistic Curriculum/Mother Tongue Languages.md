@@ -69,64 +69,56 @@ cultural awareness among different ethnic groups, fostering greater appreciation
 and understanding of each other's traditions.</p>
 <p><strong>Chinese New Year Celebrations</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_CNY.png">
+</div>
 <p></p>
 <p><strong>Hari Raya Puasa Celebrations</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLHariRaya.png">
+</div>
 <p>
 <br><strong>Deepavali</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_deepavali.png">
+</div>
 <p></p>
 <p><strong>External Competitions and Activities</strong>
 </p>
-<p>The department also provides external platforms to stretch the students’
-potential.</p>
-<p></p>
+<p>Students have the thrilling opportunity to participate in various external
+competitions, where they can sharpen their communication skills and embrace
+the excitement of healthy competition. These activities offer invaluable
+experiences, enabling students to showcase and apply their language skills
+in dynamic and diverse settings.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLCL01.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_CL.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLML01.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_ML01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLTL01.png">
-</div>
-<p></p>
-<p><strong>25th National Chinese Essay writing competition</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/image040.gif">
-</div>
-<p>Qin Zhen - Commendation Award</p>
-<p></p>
-<p><strong>Rakan Bahasa Ambassadors</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ML-min.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_ML02.png">
 </div>
 <p></p>
-<p><strong>Tamil Language Spelling Bee competition</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/image050.jpeg">
-</div>
-<p></p>
-<h4>School-Based Learning Packages</h4>
-<p>The MTL Department prides itself in creating in-house writing, comprehension
+<h4><strong>School-Based Learning Packages</strong></h4>
+<p>The MTL Department prides itself on creating in-house writing, comprehension,
 and oral packages to cater to the needs of our students. In class, teachers
-used varied strategies to engage the students and make the Mother Tongue
-Languages fun and interesting.</p>
-<h4>e-Oral and writing workshop for parents</h4>
-<p>E-Oral &amp; Writing workshops for P3- P6 parents are conducted annually
-to equip parents with skills to support their children at home further.
-The MTL teachers work hand-in-hand with the parents on the usage of Greenwood
-Primary School’s in-house e-Oral and writing packages. In 2021, the workshop
-was held virtually via Zoom. Parents were actively engaged in discussion
-even though it was conducted virtually.</p>
+use varied strategies to engage the students and make the Mother Tongue
+languages fun and interesting.</p>
+<h4><strong>Conversational Chinese and Malay</strong></h4>
+<p>Selected P3 students attend weekly Conversational Chinese and Malay (CCM)
+lessons, delivered through face-to-face sessions and the SLS platform.
+This programme aims to strengthen Singapore's multi-racial cohesion by
+providing students with a basic understanding of a third language. These
+skills can be valuable for economic or other purposes in adulthood. By
+sharing their newfound knowledge with peers, students enhance social cohesion
+within the school community</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/ML2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_ccm.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(4).png">
 </div>

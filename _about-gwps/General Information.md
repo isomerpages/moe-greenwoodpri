@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Primary 1 to 6</h4>
+<h5>Primary 1 to 6</h5>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -44,7 +44,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Gate Opening Times</h4>
+<h5>Gate Opening Times</h5>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -86,14 +86,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <h5>The School Library</h5>
 </td>
@@ -107,13 +99,8 @@ variant: tiptap
 <h5>School Uniform - Chop Kong Chong</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sales through School Bookshop
-<br>
-<br>Students are to purchase uniform from the bookshop as parents will not
-be allowed to enter school premises to buy due to SMM.
-<br>
-<br>Parents may purchase uniforms from the vendor directly at the address
-below:
+<p>Sales through School Bookshop or directly from the vendor online at
+<a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/gwps/" rel="noopener noreferrer nofollow" target="_blank">this link</a>or the address below:
 <br><strong>604 Sembawang Rd, #02-13, Sembawang Shopping Centre, <br>Singapore 758459 <br>Tel: 67531489</strong>
 </p>
 </td>
@@ -123,7 +110,8 @@ below:
 <h5>Bookshop - Pacific Bookstores</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p>Open to students - Monday to Friday (8.00am - 2.30pm)
+<p><strong>Monday to Friday</strong>
+<br>8.00 am - 2.30 pm
 <br>Tel: 90481621</p>
 </td>
 </tr>
@@ -133,9 +121,9 @@ below:
 </td>
 <td rowspan="1" colspan="1">
 <p>Open only on 1st &amp; 3rd week of the month
-<br>Monday to Thursday (8am - 5.30pm)
-<br>Friday (8am - 5pm)
-<br>Lunch Time (1pm - 2pm)
+<br><strong>Monday to Thursday </strong>(8am - 5.30pm)
+<br><strong>Friday </strong>(8am - 5pm)
+<br><strong>Lunch Time </strong>(1pm - 2pm)
 <br><strong>Tel: 8522 9048</strong>
 </p>
 </td>

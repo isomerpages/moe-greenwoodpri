@@ -5,13 +5,13 @@ description: ""
 third_nav_title: ALP BLISS
 variant: tiptap
 ---
-<p><a href="/files/ALP BLISS/2023_P4_BLISS_E_Newsletter__2____ML.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 P4 BLISS E-Newsletter (2) - ML</a>
+<p><a href="/files/ALP BLISS/2023_P4_BLISS_E_Newsletter__2____ML.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 P4 BLISS E-Newsletter - ML</a>
 </p>
-<p><a href="/files/ALP BLISS/2023_P5_BLISS_E_Newsletter__2____ML.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 P5 BLISS E-Newsletter (2) - ML</a>
+<p><a href="/files/ALP BLISS/2023_P4_BLISS_E_Newsletter__2____TL.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 P4 BLISS E-Newsletter - TL</a>
 </p>
-<p><a href="/files/ALP BLISS/2023_P4_BLISS_E_Newsletter__2____TL.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 P4 BLISS E-Newsletter (2) - TL</a>
+<p><a href="/files/ALP BLISS/2023_P5_BLISS_E_Newsletter__2____ML.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 P5 BLISS E-Newsletter - ML</a>
 </p>
-<p><a href="/files/ALP BLISS/2023_P5_BLISS_E_Newsletter__2____TL.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 P5 BLISS E-Newsletter (2) - TL</a>
+<p><a href="/files/ALP BLISS/2023_P5_BLISS_E_Newsletter__2____TL.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 P5 BLISS E-Newsletter - TL</a>
 </p>
 <p><a href="/files/ALP BLISS/P5_Chinese_E_news_letter___.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Chinese E news letter 校刊</a>
 </p>

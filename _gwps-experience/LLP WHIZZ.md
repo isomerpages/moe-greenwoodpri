@@ -19,8 +19,7 @@ the future, the school has developed a value-based curriculum which develops
 students’ critical and inventive thinking where they apply various thinking
 skills and systems to derive alternative solutions and perspectives and
 relate to real-life problems.</p>
-<p><strong>Philosophy:</strong>
-</p>
+<h4><strong>Philosophy:</strong></h4>
 <p>We believe that the critical and inventive thinking skills that one acquires
 when he/she is young will ultimately determine his/her level of success
 in the future. Thinking habits and systems such as Appreciative Inquiry

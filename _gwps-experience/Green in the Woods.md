@@ -125,5 +125,4 @@ of sustainability, ensuring that the next generation is well-equipped to
 contribute to a greener and more resilient future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Green04.png">
-</div>
-<p></p></strong></strong>
+</div></strong></strong>

@@ -5,15 +5,17 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h3><strong>Vision</strong></h3>
-<p>Every Greenwoodian a proficient English Language communicator with a passion
-for reading</p>
-<h3><strong>Mission</strong></h3>
-<p>Fostering English Language fluency in a language-rich environment</p>
-<h4>Exciting and Engaging English Language Exploration</h4>
+<h4><strong><center>Vision</center></strong></h4>
+Every Greenwoodian a proficient English Language communicator with a passion
+for reading
+<h4><strong><center>Mission</center></strong></h4>
+Fostering English Language fluency in a language-rich environment
+<h4><strong><center>Exciting and Engaging English Language Exploration</center></strong></h4>
+
 <p>In Greenwood Primary School, the learning of the English Language takes
 place in a vibrant and engaging environment where excitement and interaction
 take centre stage, and the habit of reading is in the limelight.</p>
+
 <p>Classrooms buzz with activities as students participate in engaging lessons
 filled with fun games, lively discussions and hands-on activities. Through
 storytelling, role-playing, and interactive technology, students are immersed

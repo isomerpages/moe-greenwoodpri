@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: tiptap
 ---
-<h3><strong>VISION</strong></h3>
+<h3><strong>Vision</strong></h3>
 <p>Lifelong ARTS Learners</p>
-<h3><strong>MISSION</strong></h3>
+<h3><strong>Mission</strong></h3>
 <p>LOVE –&nbsp;Learn and explore ARTS through&nbsp;Opportunities provided
 in a&nbsp;Vibrant ARTS&nbsp;Environment&nbsp;</p>
 <h4><strong>Approach</strong></h4>

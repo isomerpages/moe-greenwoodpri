@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h3><strong>Vision</strong></h3>
-<p>Lifelong ARTS Learners</p>
-<h3><strong>Mission</strong></h3>
-<p>LOVE –&nbsp;Learn and explore ARTS through&nbsp;Opportunities provided
-in a&nbsp;Vibrant ARTS&nbsp;Environment&nbsp;</p>
-<h4><strong>Approach</strong></h4>
-<p>Appreciate - Acquire - Articulate</p>
+<h4><center><strong>Vision</strong></center></h4>
+<p></p><center>Lifelong ARTS Learners</center><p></p>
+<h4><center><strong>Mission</strong></center></h4>
+<p></p><center>LOVE –&nbsp;Learn and explore ARTS through&nbsp;Opportunities provided
+in a&nbsp;Vibrant ARTS&nbsp;Environment&nbsp;</center><p></p>
+<h4><center><strong>Approach</strong></center></h4>
+<p></p><center>Appreciate - Acquire - Articulate</center><p></p>
 <p></p>
 <p><strong>A Continuous and Progressive Art and Music Curriculum</strong>
 <br>Greenwood Primary School has designed a rich art and music curriculum
@@ -22,7 +22,7 @@ music, fostering a lifelong appreciation and love for the arts.</p>
 <p><strong>Structure of Curriculum Units</strong>
 <br>Art: Units of learning are designed based on art elements and concepts
 through four main art forms:</p>
-<p>- Drawing</p>
+Drawing
 <p>- Painting</p>
 <p>- Digital Art</p>
 <p>- Ceramics</p>

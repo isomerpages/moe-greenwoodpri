@@ -5,33 +5,33 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h3><strong>Vision</strong></h3>
-<p>A community of passionate MTL learners who have the global mindset and
-yet stay rooted</p>
+<h4><center><strong>Vision</strong></center></h4>
+<p></p><center>A community of passionate MTL learners who have the global mindset and
+yet stay rooted<p></p>
 <h3><strong>Mission&nbsp;</strong></h3>
 <p>To build a conducive environment for the teaching and learning of MTL
-and establish a team of competent teachers.</p>
+and establish a team of competent teachers.</p></center><p></p>
 <h4><strong>Key Programme</strong></h4>
 <p><strong>Applied Learning Programme (ALP) -Bilingual&nbsp;Literature apprecIation&nbsp;Student’s&nbsp;Series (BLISS)</strong>
 </p>
-<p>Our ALP-BLISS in Mother Tongue Languages (MTL) aims to help students see
+Our ALP-BLISS in Mother Tongue Languages (MTL) aims to help students see
 the relevance of learning MTL by applying reasoning and argumentative skills
 to construct meaning and opinions linking to societal concerns in the real
 world. During BLISS lessons, we equip our pupils with 21st-century skills
 to think critically, examine problems, gather information, and make informed
 decisions. In the process, students also become more confident speakers
-and learners who are able to use MTL more effectively.</p>
+and learners who are able to use MTL more effectively.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/rsz_mt1.png">
 </div>
 <p><strong>Literature Appreciation- Reading Circle</strong>
 </p>
-<p>The Reading Circle, a component of the SOAR lesson extension and BLISS
+The Reading Circle, a component of the SOAR lesson extension and BLISS
 programme, fosters a love for literature among P4 and P5 Higher Progress
 students. Through the programme, students are introduced to Singaporean
 literature and learn various literary appreciation techniques. These include
 analysing themes, understanding character development, exploring literary
-devices, and interpreting symbolism.</p>
+devices, and interpreting symbolism.
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_Literature.png">

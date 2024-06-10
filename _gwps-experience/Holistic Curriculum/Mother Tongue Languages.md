@@ -56,9 +56,8 @@ activities also promote cultural awareness amongst the different ethnic
 groups and bring about a greater understanding and appreciation each other’s
 culture.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTLFortnight.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/mtl_001.png">
 </div>
-<p></p>
 <p><strong>Cultural Celebrations and Activities</strong>
 </p>
 <p>Each year, the MTL Department organises activities to create an immersive

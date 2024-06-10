@@ -4,18 +4,15 @@ permalink: /gwps-experience/green-in-the-woods/
 description: ""
 variant: markdown
 ---
-<h3><strong>GREEN in the Woods (Gracious, Responsible &amp; Environmentally ENgaged in the Woods)</strong></h3>
-<h3><strong>Vision</strong></h3>
-<p>A community that cares for the future.</p>
-<p></p>
-<h3><strong>Mission</strong></h3>
-<p>Establish and sustain a positive environmental culture in school using
-the Head, Heart and Hands approach.</p>
-<p></p>
+<center><h3><strong>GREEN in the Woods </strong></h3><strong>
+<h3><strong>(Gracious, Responsible &amp; Environmentally ENgaged in the Woods)</strong></h3>
+<h4><strong><center>Vision</center></strong></h4>
+A community that cares for the future.
+<h4><strong>Mission</strong></h4>Establish and sustain a positive environmental culture in school using the Head, Heart and Hands approach.
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Green01.png">
 </div>
-<h3><strong>Aim</strong></h3>
+<h4><strong>Aim</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>To develop our students into eco-stewards for life, empowering them as
@@ -26,8 +23,8 @@ and resilient future.</p>
 <p>Advocating and embracing the Green Plan 2030 through School’s Green programmes.</p>
 </li>
 </ol>
-<p>The Green in the Woods programme is implemented through the 4Cs – Curriculum,
-Campus, Culture and Community.</p>
+	</strong></center><p><strong>The Green in the Woods programme is implemented through the 4Cs – Curriculum,
+Campus, Culture and Community.</strong></p><strong>
 <p></p>
 <h4><strong>Programmes</strong></h4>
 <table style="minWidth: 100px">
@@ -66,9 +63,8 @@ Campus, Culture and Community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Pillar 4: Green Economy which extends across Pillars 1, 2, 3 and 5</strong>
-</p>
-</td>
+<center><strong>Pillar 4: Green Economy which extends across Pillars 1, 2, 3 and 5</strong>
+</center></td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -113,8 +109,7 @@ initiatives, the school builds a Culture that will impact many generations.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Green03.png">
 </div>
 <p></p>
-<p><strong>Community Outreach</strong>
-</p>
+<h4><strong>Community Outreach</strong></h4><strong>
 <p>Green in the Woods is dedicated to fostering community engagement and
 sustainability through innovative practices and early education. By collaborating
 with the Residents' Committee (RC), we distribute the produce from our
@@ -131,4 +126,4 @@ contribute to a greener and more resilient future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Green04.png">
 </div>
-<p></p>
+<p></p></strong></strong>

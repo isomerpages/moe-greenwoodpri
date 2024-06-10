@@ -556,7 +556,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3><strong>FORM TEACHERS </strong></h3>
+<h3><strong>FORM TEACHERS</strong></h3>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

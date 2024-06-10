@@ -5,19 +5,17 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h4><strong>Vision</strong></h4>
-<p></p>
-<p>Lifelong ARTS Learners</p>
-<p></p>
-<h4><strong>Mission</strong></h4>
-<p></p>
-<p>LOVE –&nbsp;Learn and explore ARTS through&nbsp;Opportunities provided
-in a&nbsp;Vibrant ARTS&nbsp;Environment&nbsp;</p>
-<p></p>
-<h4><strong>Approach</strong></h4>
-<p></p>
-<p>Appreciate - Acquire - Articulate</p>
-<p></p>
+<h4><center><strong>Vision</strong></center></h4>
+<p></p><center>Lifelong ARTS Learners</center><p></p>
+
+<h4><center><strong>Mission</strong></center></h4>
+
+<p></p><center>LOVE –&nbsp;Learn and explore ARTS through&nbsp;Opportunities provided
+in a&nbsp;Vibrant ARTS&nbsp;Environment&nbsp;<p></p></center>
+
+<h4><center><strong>Approach</strong></center></h4>
+<p></p><center>Appreciate - Acquire - Articulate</center><p></p>
+
 <p></p>
 <p><strong>A Continuous and Progressive Art and Music Curriculum</strong>
 <br>Greenwood Primary School has designed a rich art and music curriculum

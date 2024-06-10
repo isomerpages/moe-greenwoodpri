@@ -93,13 +93,13 @@ the excitement of healthy competition. These activities offer invaluable
 experiences, enabling students to showcase and apply their language skills
 in dynamic and diverse settings.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_CL.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_CL.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_ML01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_ML02.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_ML02.png">
 </div>
 <p></p>
 <h4><strong>School-Based Learning Packages</strong></h4>

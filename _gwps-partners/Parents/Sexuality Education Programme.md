@@ -118,8 +118,7 @@ for discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>
 </ol>
-<p><em>(Updated in January 2024)</em>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(1).png">
 </div>

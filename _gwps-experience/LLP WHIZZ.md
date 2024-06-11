@@ -4,7 +4,7 @@ permalink: /about-gwps/llp-whizz/
 description: ""
 variant: markdown
 ---
-<h3><strong>Learning for Life Programme (LLP)</strong></h3>
+<center><h3><strong>Learning for Life Programme (LLP)</strong></h3>
 <p>WHIZZ –&nbsp;<strong>W</strong>e are T<strong>H</strong>inking,&nbsp;<strong>I</strong>nventive
 and&nbsp;<strong>Z</strong>ealous KId<strong>Z</strong>&nbsp;who serve
 the community.</p>
@@ -31,7 +31,7 @@ develop our students with some core values and give them the moral compass
 to be rooted to Singapore. We believe that early exposure to thinking dispositions
 and values-based inquiry would groom our students to be lifelong learners
 and prepare them for greater goals in their lives to serve the future of
-Singapore.</p>
+Singapore.</p></center>
 <p><strong>Outcomes:</strong>
 </p>
 <p>Students are</p>

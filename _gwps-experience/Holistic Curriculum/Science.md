@@ -12,7 +12,7 @@ variant: markdown
 and actively contribute to a sustainable future.</p></center><p></p>
 <p></p>
 <center><h4><strong>Key Programmes</strong></h4></center>
-<p><strong><u>Teaching and Learning</u></strong>
+<p><strong>Teaching and Learning</strong>
 </p>
 <p>Science department believes in enthusing and nurturing our students to
 be scientifically literate so that they can make informed decisions and
@@ -30,7 +30,7 @@ when they encounter science questions.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science02.png">
 </div>
 <p></p>
-<p><strong><u>Eureka! With Family</u></strong>
+<p><strong>Eureka! With Family</strong>
 <br>This programme aims to strengthen home-school partnership in science learning.
 Through Eureka! with Family SLS lesson packages, the department hopes to
 encourage parents and family members to spark a meaningful discussion with
@@ -43,7 +43,7 @@ students on how science is linked to our everyday lives.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science04.png">
 </div>
 <p></p>
-<p><strong><u>STEM in the Woods</u></strong>
+<p><strong>STEM in the Woods</strong>
 </p>
 <p>STEM in the Woods emphasises on the integration of Science, Technology,
 Engineering and Mathematics to create a more holistic and interconnected
@@ -56,7 +56,7 @@ develop their potential in Science.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science05.png">
 </div>
 <p></p>
-<p><strong><u>Science SPARKS</u></strong>
+<p><strong>Science SPARKS</strong>
 </p>
 <p>Students have different opportunities to hone their talents and interests
 in Science.&nbsp;This programme is specially designed by the school to
@@ -68,7 +68,7 @@ environmental issues and develop their science thinking skills</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science06.png">
 </div>
 <p></p>
-<p><strong><u>Excellence 2000 (E2K) Science</u></strong>
+<p><strong>Excellence 2000 (E2K) Science</strong>
 </p>
 <p>Excellence 2000 (E2K) Science (Primary 4 &amp; 5) are for selected students
 who not only possess an aptitude for Science but also display interest
@@ -79,14 +79,14 @@ in students.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science07.png">
 </div>
 <p></p>
-<p><strong><u>Science Class library</u></strong>
+<p><strong>Science Class library</strong>
 </p>
 <p>To encourage our students to read more widely, every class has a collection
 of science magazines added to their class library. This is to instil curiosity
 in our students about the environment we live in and is inspired to discover
 more about science in our everyday lives.</p>
 <p></p>
-<p><strong><u>Science Learning Journey</u></strong>
+<p><strong>Science Learning Journey</strong>
 </p>
 <p>The science learning journeys ignite curiosity and wonder in our students
 to explore learning science beyond the classroom. It inspires a lifelong
@@ -103,7 +103,7 @@ who can contribute to a better future for themselves and the world.&nbsp;</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science10.png">
 </div>
 <p></p>
-<p><strong><u>Science and Earth Week</u></strong>
+<p><strong>Science and Earth Week</strong>
 </p>
 <p>Science and Earth Week is dedicated to showcasing the wonders of science
 and to raise awareness about environmental issues. The programme aims to

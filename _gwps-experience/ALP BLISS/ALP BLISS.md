@@ -5,10 +5,10 @@ description: ""
 third_nav_title: ALP BLISS
 variant: markdown
 ---
-<strong><center><h3>Bilingual Literature appreciation Student Series <br>(BLISS)</h3></center></strong>
+<h3><strong><center>Bilingual Literature appreciation Student Series (BLISS)</center></strong></h3>
 
-<strong><h4>Rationale: 
-	</h4></strong>
+<h4><strong>Rationale:</strong></h4>
+
 Aligning to the GWPS vision of nurturing pupils to be&nbsp;**Motivated Learners, Critical Thinkers and Leaders of Character**, and&nbsp;**mission of nurturing individuals to be lifelong learners**, we have designed a literature appreciation curriculum for our pupils, BLISS (Bilingual Literature ApprecIation Student Series).
 
 * To prepare our pupils to thrive in the fast changing, complex global world, Greenwood Primary School (GWPS) strives to equip our pupils with the 21st century skills to enable them to think critically, examine problems, gather information, and make informed decisions.

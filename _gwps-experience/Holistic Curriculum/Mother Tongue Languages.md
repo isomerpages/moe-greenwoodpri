@@ -101,12 +101,12 @@ in dynamic and diverse settings.
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_ML02.png">
 </div>
 <p></p>
-<h4><strong>School-Based Learning Packages</strong></h4>
+<center><h4><strong>School-Based Learning Packages</strong></h4></center>
 <p>The MTL Department prides itself on creating in-house writing, comprehension,
 and oral packages to cater to the needs of our students. In class, teachers
 use varied strategies to engage the students and make the Mother Tongue
 languages fun and interesting.</p>
-<h4><strong>Conversational Chinese and Malay</strong></h4>
+<center><h4><strong>Conversational Chinese and Malay</strong></h4></center>
 <p>Selected P3 students attend weekly Conversational Chinese and Malay (CCM)
 lessons, delivered through face-to-face sessions and the SLS platform.
 This programme aims to strengthen Singapore's multi-racial cohesion by

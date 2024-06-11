@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h4><center><strong>Vision</strong></center></h4>
+<center><h3><strong>Vision</strong></h3>
 Confident Thinkers, Competent and Self-Directed Problem Solvers
-<h4><center><strong>Mission</strong></center></h4>
+<h3><strong>Mission</strong></h3>
 To instil in students the love for Mathematics and help them attain a
 level of mastery in problem-solving skills which will serve them well in
 	life.
-<h4><center><strong>Learning Experiences</strong></center></h4>
+<h4><strong>Learning Experiences</strong></h4></center>
 <p>In Greenwood Primary School, we believe in providing enriching and joyful
 learning experiences through active and collaborative learning, sound pedagogy
 and various curriculum initiatives, for our students to achieve our vision

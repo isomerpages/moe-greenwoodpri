@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h4><center><strong>Vision</strong></center></h4>
+<h3><center><strong>Vision</strong></center></h3>
 <p></p><center>A community of passionate MTL learners who have the global mindset and
 yet stay rooted<p></p>
 <h3><strong>Mission&nbsp;</strong></h3>
 <p>To build a conducive environment for the teaching and learning of MTL
 and establish a team of competent teachers.</p></center><p></p>
-<h4><strong>Key Programme</strong></h4>
+<center><h4><strong>Key Programmes</strong></h4></center>
 <p><strong>Applied Learning Programme (ALP) -Bilingual&nbsp;Literature apprecIation&nbsp;Student’s&nbsp;Series (BLISS)</strong>
 </p>
 Our ALP-BLISS in Mother Tongue Languages (MTL) aims to help students see
@@ -101,12 +101,12 @@ in dynamic and diverse settings.
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/MTL_ML02.png">
 </div>
 <p></p>
-<h4><strong>School-Based Learning Packages</strong></h4>
+<center><h4><strong>School-Based Learning Packages</strong></h4></center>
 <p>The MTL Department prides itself on creating in-house writing, comprehension,
 and oral packages to cater to the needs of our students. In class, teachers
 use varied strategies to engage the students and make the Mother Tongue
 languages fun and interesting.</p>
-<h4><strong>Conversational Chinese and Malay</strong></h4>
+<center><h4><strong>Conversational Chinese and Malay</strong></h4></center>
 <p>Selected P3 students attend weekly Conversational Chinese and Malay (CCM)
 lessons, delivered through face-to-face sessions and the SLS platform.
 This programme aims to strengthen Singapore's multi-racial cohesion by

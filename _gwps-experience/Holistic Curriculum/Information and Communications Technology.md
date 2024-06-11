@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h4><center><strong>Vision</strong></center></h4>
+<h3><center><strong>Vision</strong></center></h3>
 <p></p><center>Achieving&nbsp;excellence through an ICT enriched environment.&nbsp;&nbsp;</center><p></p>
 <h3><center><strong>Mission&nbsp;</strong></center></h3>
 <p></p><center>To nurture a community of responsible ICT users who embrace self-directed
 and collaborative learning. &nbsp;</center><p></p>
-<h4><strong>Key Programmes</strong></h4>
+<center><h4><strong>Key Programmes</strong></h4></center>
 <p><strong>ICT Integration in Curriculum</strong>
 </p>
 <p>The school integrates ICT into the curriculum to enhance teaching and

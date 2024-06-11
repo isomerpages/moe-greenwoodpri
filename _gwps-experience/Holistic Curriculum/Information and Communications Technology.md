@@ -10,7 +10,7 @@ variant: markdown
 <h3><center><strong>Mission&nbsp;</strong></center></h3>
 <p></p><center>To nurture a community of responsible ICT users who embrace self-directed
 and collaborative learning. &nbsp;</center><p></p>
-<center><h3><strong>Key Programmes</strong></h3></center>
+<center><h4><strong>Key Programmes</strong></h4></center>
 <p><strong>ICT Integration in Curriculum</strong>
 </p>
 <p>The school integrates ICT into the curriculum to enhance teaching and

@@ -56,8 +56,8 @@ incorporating:</p>
 <p>Units are thoughtfully linked with major national celebrations and school
 events, integrating a real-world context into the learning process.</p>
 <p></p>
-<p><strong>Key Programmes</strong>
-<br>Aesthetics Week - Shining Stars</p>
+<h4><p><strong></strong></p><center><strong>Key Programmes</strong></center></h4>
+<br><strong>Aesthetics Week - Shining Stars</strong><p></p>
 <p>The Shining Stars programme provides students with a platform to showcase
 their talents and appreciate the talents of others. It is an opportunity
 for students to express themselves creatively through the arts, fostering

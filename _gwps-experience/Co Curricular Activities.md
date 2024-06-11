@@ -2,18 +2,19 @@
 title: Co Curricular Activities
 permalink: /parents-corner/CCA/
 description: ""
+variant: markdown
 ---
-The&nbsp;Co-Curriculum is integral to the holistic development of our students and is an important aspect of the Greenwood schooling experience. Through Co-curriculum Activities (CCA), students are given opportunities to discover their interests and talents, as well as to develop character, skillsets, and the 21st&nbsp;century competencies.  
+Co-Curriculum is integral to the holistic development of our students and is an important aspect of the Greenwood schooling experience. Through Co-curriculum Activities (CCA), students are given opportunities to discover their interests and talents, as well as to develop character, skillsets, and the 21st&nbsp;century competencies.  
 
 In Greenwood, we offer a range of CCAs in Physical Sports, Visual &amp; Performing Arts, Uniformed Groups and Clubs &amp; Societies.
 
 
 <img src="/images/cca.png" style="width:75%">
 
-**<center>Greenwood Primary School<br>**
-**CCA Teachers in Charge 2023**<br>
+<strong><center>Greenwood Primary School<br>
+CCA Teachers in Charge 2023<br>
 SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi)
-<br>AESTHETICS CCA - HOD AESTHETICS (Mrs Jennifer Teo)</center>
+<br>AESTHETICS CCA - HOD AESTHETICS (Mrs Jennifer Teo)</center></strong>
 
 
 

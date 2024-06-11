@@ -11,8 +11,8 @@ variant: markdown
 <p>To foster critical, innovative and adaptive learners who appreciate science
 and actively contribute to a sustainable future.</p></center><p></p>
 <p></p>
-<h4><strong>Key Programme</strong></h4>
-<p><strong>Teaching and Learning</strong>
+<center><h4><strong>Key Programme</strong></h4></center>
+<p><strong><u>Teaching and Learning</u></strong>
 </p>
 <p>Science department believes in enthusing and nurturing our students to
 be scientifically literate so that they can make informed decisions and

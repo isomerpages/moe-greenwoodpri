@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h4><center><strong>Vision</strong></center></h4>
+<h3><center><strong>Vision</strong></center></h3>
 <p></p><center>Lifelong ARTS Learners</center><p></p>
 
-<h4><center><strong>Mission</strong></center></h4>
+<h3><center><strong>Mission</strong></center></h3>
 
 <p></p><center>LOVE –&nbsp;Learn and explore ARTS through&nbsp;Opportunities provided
 in a&nbsp;Vibrant ARTS&nbsp;Environment&nbsp;<p></p></center>
 
-<h4><center><strong>Approach</strong></center></h4>
+<h3><center><strong>Approach</strong></center></h3>
 <p></p><center>Appreciate - Acquire - Articulate</center><p></p>
 
 <p></p>
@@ -56,7 +56,7 @@ incorporating:</p>
 <p>Units are thoughtfully linked with major national celebrations and school
 events, integrating a real-world context into the learning process.</p>
 <p></p>
-<h4><p><strong></strong></p><center><strong>Key Programmes</strong></center></h4>
+<h4><center><strong>Key Programmes</strong></center></h4>
 <br><strong>Aesthetics Week - Shining Stars</strong><p></p>
 <p>The Shining Stars programme provides students with a platform to showcase
 their talents and appreciate the talents of others. It is an opportunity

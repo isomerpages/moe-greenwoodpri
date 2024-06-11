@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-#### <center>**Vision**  </center>
+<h3><strong><center>Vision</center></strong></h3>
 
 <center>Every student an active, all-rounded individual who takes ownership of his/her holistic wellness</center>
 
-#### <center>**Mission&nbsp;**</center>
+<h3><strong><center>Mission</center></strong></h3>
 
 <center>To cultivate each student’s interest to adopt an active, healthy lifestyle and develop sportsmanship through a variety of physical activities.</center>
 
-#### Key Programmes
+<h4><strong><center>Key Programmes</center></strong></h4>
 
 **Swimsafer 2.0**  
 

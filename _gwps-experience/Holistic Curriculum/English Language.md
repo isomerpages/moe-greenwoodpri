@@ -10,12 +10,10 @@ Every Greenwoodian a proficient English Language communicator with a passion
 for reading
 <h4><strong>Mission</strong></h4>
 Fostering English Language fluency in a language-rich environment
-<h4><strong>Exciting and Engaging English Language Exploration</strong></h4>
+<h4><strong>Exciting and Engaging English Language Exploration</strong></h4></center>
 In Greenwood Primary School, the learning of the English Language takes
 place in a vibrant and engaging environment where excitement and interaction
-take centre stage, and the habit of reading is in the limelight.</center>
-
----
+take centre stage, and the habit of reading is in the limelight.
 <p>Classrooms buzz with activities as students participate in engaging lessons
 filled with fun games, lively discussions and hands-on activities. Through
 storytelling, role-playing, and interactive technology, students are immersed

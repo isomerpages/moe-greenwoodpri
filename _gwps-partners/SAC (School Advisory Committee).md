@@ -4,7 +4,7 @@ permalink: /parents-corner/sac/
 description: ""
 variant: tiptap
 ---
-<h4>School Advisory Committee</h4>
+<h3><strong>School Advisory Committee</strong></h3>
 <h5><strong>Committee Members</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>

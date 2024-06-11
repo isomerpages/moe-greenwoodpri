@@ -4,7 +4,7 @@ permalink: /gwps-experience/green-in-the-woods/
 description: ""
 variant: markdown
 ---
-<h3><strong>GREEN in the Woods</strong><br><strong>(Gracious, Responsible &amp; Environmentally ENgaged in the Woods)</strong></h3>
+<center><h3><strong>GREEN in the Woods</strong><br><strong>(Gracious, Responsible &amp; Environmentally ENgaged in the Woods)</strong></h3>
 <p></p>
 <h4><strong>Vision</strong></h4>
 <p>A community that cares for the future.</p>
@@ -14,6 +14,7 @@ the Head, Heart and Hands approach.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Green01.png">
 </div>
+	</center>
 <h4><strong>Aim</strong></h4>
 <ol data-tight="true" class="tight">
 <li>

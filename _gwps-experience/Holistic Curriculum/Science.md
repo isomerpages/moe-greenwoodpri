@@ -1,57 +1,121 @@
 ---
 title: Science
-permalink: /gwps-family/Departments/Science/
+permalink: /gwps-family/departments/science/
 description: ""
 third_nav_title: Holistic Curriculum
+variant: markdown
 ---
-### <center>VISION</center>
-
-<center>Critical thinkers with a passion to learn and a concern for the environment.</center>
-  
-### <center>MISSION</center>
-
-<center>To nurture students to have a curious mind and a desire to learn.
-
-To equip students with the skills to carry out critical and innovative thinking. <br>To develop in students, a concern for the environment.</center>
-
-	
-#### **KEY PROGRAMMES**
-
-**Teaching and Learning**
-
-Science department believes in deepening the Inquiry approach and the 5E (Evaluate, Engage, Explore, Explain, Elaborate, Evaluate) approach through the various engaging and enriching Science lessons. We want to deepen these skills through Hinge Point Questioning and the Error Analysis approach where we would enable students to ask questions and build their critical thinking skills. Strategies such as RISSA and RISES help them further hone their thinking process when they encounter Science Questions.
-<img src="/images/SC.jpeg" 
-     style="width:70%">
-
-
-	
-**Eureka! With Parents** <br>
-
-This programme aims to fuel the curiosity in our students  through scientific inquiry by relating Science concepts acquired from school to the real world. We bring Science alive and make it  relevant and meaningful for our students through Eureka! With Parents. This programme allows parents to explore Science with their children during the school holidays. Here are some real life discoveries shared by our students  and their parents which have been featured in our Eureka with Parents book.
-
-<img src="/images/sci.png" 
-     style="width:33%;float:left"><img src="/images/sci2.png" 
-     style="width:33%;float:left"><img src="/images/sci3.png" 
-     style="width:33%">
-		 
-**Science Whizz Kids**
-
-This programme provides students with an opportunity to showcase their talent and develop their potential in Science. The programme aims to provide students  with the opportunity to deepen their learning and stimulate their curiosity in the role played by Science in our everyday life. Through this process, students gain 21st century competencies such as critical and inventive thinking and effective communication skills.
-
-**1)Science Sparks**  
-
-Students have different opportunities to hone their talents and interests in Science.  This programme provides experiential learning through inquiry to build P1 and P2 students' interest towards the learning of Science. Through the experience, students learn interesting Science concepts, have greater awareness of environmental issues and develop their Science thinking skills.
-
-**2)Science Olympiad programme and Excellence 2000 (E2K) Science**  
-
-The Science Olympiad programme (Primary 3-5) and Excellence 2000 (E2K) Science (Primary 4 &5) are for selected students who not only possess a talent for Science but also display interest in learning new Science concepts. These programmes go beyond the Primary Science curriculum and promote open inquiry and higher order thinking skills in students.
-
-**3)Young Scientist Cards (online)**  
-
-In this programme, students are given an opportunity to engage in hands-on tasks and learn Science in a fun manner through everyday scenarios. It provides opportunities for students to deepen their learning and to stimulate their creativity. It aims to develop students into concerned citizens, active contributors and self-directed learners.
-
-![](/images/rsz_2sc1.png)
-		 
-
-<img src="/images/Small%20logo/gwps%20children%20(4).png" 
-     style="width:25%;float:right">
+<h4><center><strong>Vision</strong></center></h4>
+<p></p><center>Critical Thinkers, Adaptive Innovators, and Eco Stewards for Life<p></p>
+<h4><strong>Mission</strong></h4>
+<p>To foster critical, innovative and adaptive learners who appreciate science
+and actively contribute to a sustainable future.</p></center><p></p>
+<p></p>
+<h4><strong>Key Programme</strong></h4>
+<p><strong>Teaching and Learning</strong>
+</p>
+<p>Science department believes in enthusing and nurturing our students to
+be scientifically literate so that they can make informed decisions and
+take responsible actions in their daily lives. In addition, the department
+wants to provide strong science fundamentals for students to innovate and
+pursue STEM for future learning and work. Through the Inquiry-based learning,
+the department strives to develop our students to be inspired by science,
+inquire like scientists, and innovate using science. The school has also
+adopted strategies such as RISES and CCC further hone their thinking process
+when they encounter science questions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science01.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science02.png">
+</div>
+<p></p>
+<p><strong><u>Eureka! With Family</u></strong>
+<br>This programme aims to strengthen home-school partnership in science learning.
+Through Eureka! with Family SLS lesson packages, the department hopes to
+encourage parents and family members to spark a meaningful discussion with
+students on how science is linked to our everyday lives.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science03.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science04.png">
+</div>
+<p></p>
+<p><strong><u>STEM in the Woods</u></strong>
+</p>
+<p>STEM in the Woods emphasises on the integration of Science, Technology,
+Engineering and Mathematics to create a more holistic and interconnected
+approach to learning. The programme encourages students to apply knowledge
+from multiple domains to solve real-world problems, mirroring the collaborative
+and interdisciplinary nature of many professions in the 21st century. It
+also provides students with an opportunity to showcase their talent and
+develop their potential in Science.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science05.png">
+</div>
+<p></p>
+<p><strong><u>Science SPARKS</u></strong>
+</p>
+<p>Students have different opportunities to hone their talents and interests
+in Science.&nbsp;This programme is specially designed by the school to
+provide experiential learning through inquiry to build P1 and P2 students’
+interest towards the learning of&nbsp;science.&nbsp;Through the experience,
+students learn interesting Science concepts, have greater awareness of
+environmental issues and develop their science thinking skills</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science06.png">
+</div>
+<p></p>
+<p><strong><u>Excellence 2000 (E2K) Science</u></strong>
+</p>
+<p>Excellence 2000 (E2K) Science (Primary 4 &amp; 5) are for selected students
+who not only possess an aptitude for Science but also display interest
+in learning new Science concepts. These programmes go beyond the Primary
+Science curriculum and promote open inquiry and higher order thinking skills
+in students.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science07.png">
+</div>
+<p></p>
+<p><strong><u>Science Class library</u></strong>
+</p>
+<p>To encourage our students to read more widely, every class has a collection
+of science magazines added to their class library. This is to instil curiosity
+in our students about the environment we live in and is inspired to discover
+more about science in our everyday lives.</p>
+<p></p>
+<p><strong><u>Science Learning Journey</u></strong>
+</p>
+<p>The science learning journeys ignite curiosity and wonder in our students
+to explore learning science beyond the classroom. It inspires a lifelong
+love for learning and discovery of science concepts linked to the real-world
+context. It also nurtures knowledgeable and scientifically literate individuals
+who can contribute to a better future for themselves and the world.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science08.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science09.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science10.png">
+</div>
+<p></p>
+<p><strong><u>Science and Earth Week</u></strong>
+</p>
+<p>Science and Earth Week is dedicated to showcasing the wonders of science
+and to raise awareness about environmental issues. The programme aims to
+arouse interest and curiosity about Science in students beyond the science
+curriculum, to inspire students in STEM related fields and to empower students
+to be future changemakers who will positively contribute to a sustainable
+and resilient future.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/science11.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(4).png">
+</div>
+<p></p>

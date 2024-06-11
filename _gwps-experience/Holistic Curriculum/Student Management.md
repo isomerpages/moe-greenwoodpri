@@ -3,22 +3,21 @@ title: Student Management
 permalink: /gwps-family/Departments/Student-Management/
 description: ""
 third_nav_title: Holistic Curriculum
+variant: markdown
 ---
-
-### <center>Vision</center>
+#### <center>**Vision**</center>
 
 <center>Every student is a person of good character</center>
 
-### <center>Mission</center>
+#### <center>**Mission**</center>
 
 <center>To nurture a safe and conducive learning environment for all through positive behavior</center>
 
-**Discipline Framework** 
+**Discipline Framework**&nbsp;
 
-Discipline is an educative process to guide students to develop self-management and good character. Disciplinary measures help them to learn the consequences of their inappropriate actions and poor choices and take responsibility not to repeat their mistakes.
+Discipline is an educative process to guide students to&nbsp;develop self-management and good character. Disciplinary measures help them&nbsp;to learn the consequences of their inappropriate actions and poor choices&nbsp;and&nbsp;take responsibility not to repeat their mistakes.
 
-<img src="/images/Picture1.jpeg" 
-     style="width:60%">
+<img src="/images/Picture1.jpeg" style="width:60%">
 		 
 
 | Prevent | Manage | Resolve |
@@ -59,5 +58,4 @@ The school adopts a Holistic Approach to Student Management. The approach is thr
 **Staff Support and Development**
 ·Conducting workshops and sharing sessions to support and enhance staff capacity
 
-<img src="/images/Small%20logo/gwps%20children%20(4).png" 
-     style="width:25%;float:right">
+<img src="/images/Small%20logo/gwps%20children%20(4).png" style="width:25%;float:right">

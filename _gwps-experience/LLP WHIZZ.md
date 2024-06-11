@@ -9,7 +9,7 @@ variant: tiptap
 and&nbsp;<strong>Z</strong>ealous KId<strong>Z</strong>&nbsp;who serve
 the community.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whizz.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whizz-min.jpeg">
 </div>
 <h4><strong>Rationale:</strong></h4>
 <p>Globalisation, changing demographics and technological advancements are
@@ -32,7 +32,8 @@ to be rooted to Singapore. We believe that early exposure to thinking dispositio
 and values-based inquiry would groom our students to be lifelong learners
 and prepare them for greater goals in their lives to serve the future of
 Singapore.</p>
-<h4><strong>Outcomes:</strong></h4>
+<p><strong>Outcomes:</strong>
+</p>
 <p>Students are</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -61,7 +62,8 @@ and community activities/programmes and actively participates in them</p>
 <p>Wise, empathetic, gracious, resilient, responsible, and open-minded</p>
 </li>
 </ul>
-<h4><strong>Implementation:</strong></h4>
+<p><strong>Implementation:</strong>
+</p>
 <p><strong>CCE in the Woods (CIW)</strong>
 </p>
 <p>CIW is our school-based values-curriculum developed to educate students
@@ -75,6 +77,7 @@ in developing our students into Critical Thinkers and Leaders of Character.</p>
 <p>Additionally, students will self-assess on their progress in demonstrating
 our school values using the CIW Reflection. Thereafter, teachers will provide
 their input and feedback to support our students’ character development.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width:33%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(3).png">

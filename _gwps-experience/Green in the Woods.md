@@ -4,15 +4,16 @@ permalink: /gwps-experience/green-in-the-woods/
 description: ""
 variant: markdown
 ---
-<center><h3><strong>GREEN in the Woods </strong></h3><strong>
-<h3><strong>(Gracious, Responsible &amp; Environmentally ENgaged in the Woods)</strong></h3>
+<h3><strong><center>GREEN in the Woodse
+	
+(Gracious, Responsible &amp; Environmentally ENgaged in the Woods)</center></strong></h3>
 <h4><strong><center>Vision</center></strong></h4>
-A community that cares for the future.
-<h4><strong>Mission</strong></h4>Establish and sustain a positive environmental culture in school using the Head, Heart and Hands approach.
+<center>A community that cares for the future.</center>
+<center><h4><strong>Mission</strong></h4>Establish and sustain a positive environmental culture in school using the Head, Heart and Hands approach.</center>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/Green01.png">
 </div>
-<h4><strong>Aim</strong></h4>
+<center><h4><strong>Aim</strong></h4></center>
 <ol data-tight="true" class="tight">
 <li>
 <p>To develop our students into eco-stewards for life, empowering them as
@@ -23,10 +24,10 @@ and resilient future.</p>
 <p>Advocating and embracing the Green Plan 2030 through School’s Green programmes.</p>
 </li>
 </ol>
-	</strong></center><p><strong>The Green in the Woods programme is implemented through the 4Cs – Curriculum,
-Campus, Culture and Community.</strong></p><strong>
+<strong>The Green in the Woods programme is implemented through the 4Cs – Curriculum,
+Campus, Culture and Community.</strong><p></p><strong>
 <p></p>
-<h4><strong>Programmes</strong></h4>
+<h4><strong>Key Programmes</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>

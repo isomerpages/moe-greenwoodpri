@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h4><center><strong>Vision</strong></center></h4>
+<h3><center><strong>Vision</strong></center></h3>
 <p></p><center>A community of passionate MTL learners who have the global mindset and
 yet stay rooted<p></p>
 <h3><strong>Mission&nbsp;</strong></h3>

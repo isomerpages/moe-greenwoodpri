@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<center><h4><strong>Vision</strong></h4>
+<center><h3><strong>Vision</strong></h3>
 Confident Thinkers, Competent and Self-Directed Problem Solvers
-<h4><strong>Mission</strong></h4>
+<h3><strong>Mission</strong></h3>
 To instil in students the love for Mathematics and help them attain a
 level of mastery in problem-solving skills which will serve them well in
 	life.

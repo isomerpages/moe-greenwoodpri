@@ -11,7 +11,7 @@ yet stay rooted<p></p>
 <h3><strong>Mission&nbsp;</strong></h3>
 <p>To build a conducive environment for the teaching and learning of MTL
 and establish a team of competent teachers.</p></center><p></p>
-<h4><strong>Key Programme</strong></h4>
+<center><h4><strong>Key Programmes</strong></h4></center>
 <p><strong>Applied Learning Programme (ALP) -Bilingual&nbsp;Literature apprecIation&nbsp;Student’s&nbsp;Series (BLISS)</strong>
 </p>
 Our ALP-BLISS in Mother Tongue Languages (MTL) aims to help students see

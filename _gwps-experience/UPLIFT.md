@@ -4,32 +4,32 @@ permalink: /uplift/
 variant: markdown
 description: ""
 ---
-<h4><strong>UPLIFT: Empowering Holistic Development for Future-Ready Students</strong></h4>
-<p>UPLIFT is an initiative dedicated to enhancing the well-being and holistic
+<h3><center><strong>UPLIFT: Empowering Holistic Development for Future-Ready Students</strong></center></h3>
+<p></p><center>UPLIFT is an initiative dedicated to enhancing the well-being and holistic
 development of our disadvantaged students. It aims to create a nurturing
 environment that supports every aspect of a student's growth, ensuring
-they are well-prepared for the future.</p>
+	they are well-prepared for the future.</center><p></p>
 <p></p>
-<p><strong>Approach</strong>
-</p>
+<h4><strong>Approach</strong>
+</h4>
 <p>The school designs specialized programmes to support the development of
 these students. The program is designed to be hands-on, fun, and engaging
 while also instilling good values and resilience. The programmes include:</p>
 <ol data-tight="true" class="tight">
-<li>
-<p>Drop-in Centre Services</p>
+ <li>
+Drop-in Centre Services
 </li>
 <li>
-<p>Gardening</p>
+Gardening
 </li>
 <li>
-<p>Sports and Games</p>
+Sports and Games
 </li>
 <li>
-<p>Team-building activities</p>
+Team-building activities
 </li>
 <li>
-<p>Cooking &amp; Baking</p>
+Cooking &amp; Baking
 </li>
 </ol>
 <p>Through UPLIFT, we are committed to creating a supportive and inclusive

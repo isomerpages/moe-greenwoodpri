@@ -57,7 +57,7 @@ incorporating:</p>
 events, integrating a real-world context into the learning process.</p>
 <p></p>
 <h4><center><strong>Key Programmes</strong></center></h4>
-<br><strong>Aesthetics Week - Shining Stars</strong><p></p>
+<br><strong>Aesthetics Week - Shining Stars</strong>
 <p>The Shining Stars programme provides students with a platform to showcase
 their talents and appreciate the talents of others. It is an opportunity
 for students to express themselves creatively through the arts, fostering

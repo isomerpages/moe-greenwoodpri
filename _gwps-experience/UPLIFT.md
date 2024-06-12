@@ -39,5 +39,5 @@ students, we can uplift them and ensure they are ready to face the future
 with confidence and resilience. We also believe in cultivating proactive
 and strategic partnerships with the community to support the school’s efforts.</p>
 <p></p>
-<p></p>
+<img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(4).png">
 <p></p>

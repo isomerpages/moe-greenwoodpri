@@ -135,4 +135,5 @@ smoothen transition from preschool to primary school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/delight08.png">
 </div>
+<img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(4).png">
 <p></p>

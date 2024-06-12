@@ -2,7 +2,6 @@ collections:
   gwps-experience:
     output: true
     order:
-      - UPLIFT.md
       - Holistic Curriculum/.keep
       - Holistic Curriculum/English Language.md
       - Holistic Curriculum/Mathematics.md
@@ -21,3 +20,4 @@ collections:
       - Project Work.md
       - Co Curricular Activities.md
       - Project DELIGHT.md
+      - UPLIFT.md

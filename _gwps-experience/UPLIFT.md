@@ -10,8 +10,7 @@ development of our disadvantaged students. It aims to create a nurturing
 environment that supports every aspect of a student's growth, ensuring
 	they are well-prepared for the future.</center><p></p>
 <p></p>
-<h4><strong>Approach</strong>
-</h4>
+<h3><center><strong>Approach</strong></center></h3>
 <p>The school designs specialized programmes to support the development of
 these students. The program is designed to be hands-on, fun, and engaging
 while also instilling good values and resilience. The programmes include:</p>

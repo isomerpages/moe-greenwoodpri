@@ -1,13 +1,13 @@
 ---
 title: Project DELIGHT
 permalink: /project-delight/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h3><strong>Strengthening Foundations at Lower Primary @ Greenwood Primary School:&nbsp;Project DELIGHT</strong></h3>
 <p></p>
-<h4><strong>What is Project DELIGHT?</strong>
-</h4>
+<p><strong>What is Project DELIGHT?</strong>
+</p>
 <hr>
 <p><strong>DELIGHT </strong>(<strong>D</strong>iscover, <strong>E</strong>xplore, <strong>L</strong>earn
 &amp; <strong>I</strong>nvestigate in <strong>G</strong>roups <strong>H</strong>appily <strong>T</strong>ogether)</p>
@@ -135,5 +135,7 @@ smoothen transition from preschool to primary school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/delight08.png">
 </div>
+<div class="isomer-image-wrapper">
 <img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(4).png">
+</div>
 <p></p>

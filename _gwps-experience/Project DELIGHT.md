@@ -4,10 +4,10 @@ permalink: /project-delight/
 variant: markdown
 description: ""
 ---
-<h4><strong>Strengthening Foundations at Lower Primary @ Greenwood Primary School:&nbsp;Project DELIGHT</strong></h4>
+<h3><strong>Strengthening Foundations at Lower Primary @ Greenwood Primary School:&nbsp;Project DELIGHT</strong></h3>
 <p></p>
-<p><strong>What is Project DELIGHT?</strong>
-</p>
+<h4><strong>What is Project DELIGHT?</strong>
+</h4>
 <hr>
 <p><strong>DELIGHT </strong>(<strong>D</strong>iscover, <strong>E</strong>xplore, <strong>L</strong>earn
 &amp; <strong>I</strong>nvestigate in <strong>G</strong>roups <strong>H</strong>appily <strong>T</strong>ogether)</p>

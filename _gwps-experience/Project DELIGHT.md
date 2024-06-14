@@ -4,7 +4,7 @@ permalink: /project-delight/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Strengthening Foundations at Lower Primary @ Greenwood Primary School:&nbsp;Project DELIGHT</strong></h4>
+<h3><strong>Strengthening Foundations at Lower Primary @ Greenwood Primary School:&nbsp;Project DELIGHT</strong></h3>
 <p></p>
 <p><strong>What is Project DELIGHT?</strong>
 </p>
@@ -134,5 +134,8 @@ selected students. Students learn and build self-management skills and
 smoothen transition from preschool to primary school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/delight08.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(4).png">
 </div>
 <p></p>

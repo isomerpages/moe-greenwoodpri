@@ -60,13 +60,13 @@ through:</p>
 </li>
 <li>
 <p>promoting an intrinsic motivation to learn through a celebration of students’
-achievement at the end of Term 1 (Celebrating My Milestone).</p>
+achievement at the end of Term 1 (Celebrating My Milestones).</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Holistic Curriculum/delight02.png">
 </div>
-<p></p>
 <p><strong>Promote Joy of Learning</strong>
 </p>
 <ul data-tight="true" class="tight">

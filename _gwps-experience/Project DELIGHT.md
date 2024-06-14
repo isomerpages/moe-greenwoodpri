@@ -53,14 +53,14 @@ an intrinsic motivation</p>
 through:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>creating a vibrant learning environment,</p>
+<p>creating a vibrant learning environment</p>
 </li>
 <li>
 <p>orientation programmes for primary 1 students</p>
 </li>
 <li>
 <p>promoting an intrinsic motivation to learn through a celebration of students’
-achievement at the end of Term 1 (Celebrating My Milestones).</p>
+achievement at the end of Term 1 (Celebrating My Milestones)</p>
 </li>
 </ul>
 <p></p>

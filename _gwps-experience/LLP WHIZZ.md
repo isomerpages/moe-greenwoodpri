@@ -2,7 +2,7 @@
 title: LLP WHIZZ
 permalink: /about-gwps/llp-whizz/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Learning for Life Programme (LLP)</strong></h3>
 <p>WHIZZ –&nbsp;<strong>W</strong>e are T<strong>H</strong>inking,&nbsp;<strong>I</strong>nventive
@@ -93,9 +93,8 @@ subjects to create experiments, conduct research, or invent solutions.
 Below are the different components of the school’s Project Work:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Curriculum based on Design Thinking Principles:</p>
-</li>
-</ol>
+<p><strong>Curriculum based on Design Thinking Principles:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The school’s PW curriculum is designed around the principles of design
@@ -107,11 +106,10 @@ others, and develop solutions collaboratively.</p>
 including critical, adaptive, and inventive thinking.</p>
 </li>
 </ul>
-<ol data-tight="true" class="tight">
-<li>
-<p>Values in Action (VIA) Projects:</p>
 </li>
-</ol>
+<li>
+<p><strong>Values in Action (VIA) Projects:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students engage in real-life tasks through VIA projects, which integrate
@@ -125,17 +123,16 @@ all aimed at improving community well-being.</p>
 <p>Students acquire Civic Literacy</p>
 </li>
 </ul>
-<ol data-tight="true" class="tight">
-<li>
-<p>Student Involvement:</p>
 </li>
-</ol>
+<li>
+<p><strong>Student Involvement:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Primary 1 and 2 students raise awareness on relevant issues. For instance,
 they use food journaling to document family memories, contributing to the
-national archival collection, Singapore Makan, in collaboration with the
-National Library Board Contemporary Collecting</p>
+national archival collection, Singapore <a href="https://www.singaporememories.gov.sg/Highlight/HighlightCollections?HighlightId=1" rel="noopener noreferrer nofollow" target="_blank">Makan</a>,
+in collaboration with the National Library Board Contemporary Collecting</p>
 </li>
 <li>
 <p>Primary 3 students reimagine and design school spaces to enhance the learning
@@ -152,11 +149,10 @@ while serving other partners such as the Day Centres for Seniors and the
 Preschools in our neighbourhood.</p>
 </li>
 </ul>
-<ol data-tight="true" class="tight">
-<li>
-<p>Celebrating Owlets - Project Showcase</p>
 </li>
-</ol>
+<li>
+<p><strong>Celebrating Owlets - Project Showcase</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students have opportunities to present their final project outcomes to
@@ -171,6 +167,8 @@ Owlets event, where completed projects are displayed in booths.</p>
 such as Communication, Collaboration and Information Skills.</p>
 </li>
 </ul>
+</li>
+</ol>
 <p>Greenwood Primary School’s WHIZZ programme exemplifies its commitment
 to nurturing Critical Thinkers and Leaders of Character who actively contribute
 to their community. Through the Project Work and CIW, students learn about

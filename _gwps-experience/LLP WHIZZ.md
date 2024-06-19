@@ -52,17 +52,9 @@ and community activities/programmes and actively participates in them</p>
 </p>
 <p><strong>CCE in the Woods (CIW)</strong>
 </p>
-<p>CIW is our school-based values-curriculum developed to educate students
-on values and self-leadership skills with the 7 Habits of Highly Effective
-People as a foundation. The CIW package consists of activity sheets, buzz
-time and students’ reflection on our school values and the 7 habits.</p>
-<p>Through the use Appreciative Inquiry (AI), the Four Player Model and Systems
-Thinking (Upper Primary), teachers engage students in critical thinking
-and guide them in developing their own moral compass. This is critical
-in developing our students into Critical Thinkers and Leaders of Character.</p>
-<p>Additionally, students will self-assess on their progress in demonstrating
-our school values using the CIW Reflection. Thereafter, teachers will provide
-their input and feedback to support our students’ character development.</p>
+<p>CIW is our school-based values-curriculum developed to educate students on values and self-leadership skills with the 7 Habits of Highly Effective People as a foundation. The CIW package consists of activity sheets, buzz time and students’ reflection on our school values and the 7 habits..</p>
+<p>Through the use Appreciative Inquiry (AI), the Four Player Model and Systems Thinking (Upper Primary), teachers engage students in critical thinking and guide them in developing their own moral compass. This is critical in developing our students into Critical Thinkers and Leaders of Character.</p>
+<p>Additionally, students will self-assess on their progress in demonstrating our school values using the CIW Reflection. Thereafter, teachers will provide their input and feedback to support our students’ character development.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">

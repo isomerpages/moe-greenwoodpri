@@ -468,7 +468,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><strong>SENIOR TEACHERS</strong>&nbsp;</h4>
+<h4><strong>LEAD AND SENIOR TEACHERS</strong>&nbsp;</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -548,10 +548,10 @@ variant: tiptap
 <p>Mrs Joceiyn Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lead Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Soo Cheng</p>
 </td>
 </tr>
 </tbody>
@@ -1119,24 +1119,24 @@ variant: tiptap
 <p>Mr Nigel Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nur Farah Amirah Frauder</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Chinese Language/CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Liu Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lim Jie Ning</p>
 </td>
 </tr>
 </tbody>

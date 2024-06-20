@@ -178,7 +178,18 @@ The positive contributions our students make will help them become Critical
 Thinkers and Leaders of Character, forming a future generation that will
 contribute significantly to society.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW01.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW02.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW03.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW04.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:33%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(3).png">
 </div>

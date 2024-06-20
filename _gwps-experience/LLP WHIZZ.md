@@ -182,7 +182,7 @@ contribute significantly to society.</p>
 <img style="width: 80%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW01.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW02.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW02.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW03.png">

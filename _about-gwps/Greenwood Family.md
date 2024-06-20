@@ -1136,7 +1136,7 @@ variant: tiptap
 <p>Teacher (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Jie Ning</p>
+<p>Ms Lim Jie Ning Clare</p>
 </td>
 </tr>
 </tbody>

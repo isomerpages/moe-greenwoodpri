@@ -1,6 +1,6 @@
 ---
 title: Project DELIGHT
-permalink: /project-delight/
+permalink: /gwps-experiences/project-delight/
 variant: tiptap
 description: ""
 ---

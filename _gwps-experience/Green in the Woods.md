@@ -1,6 +1,6 @@
 ---
 title: Green in the Woods
-permalink: /gwps-experience/green-in-the-woods/
+permalink: /gwps-experiences/green-in-the-woods/
 description: ""
 variant: markdown
 ---

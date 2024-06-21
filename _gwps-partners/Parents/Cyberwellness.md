@@ -1,8 +1,9 @@
 ---
 title: Cyberwellness
-permalink: /parents-corner/Cyberwellness/
+permalink: /gwps-partners/parents/cyberwellness/
 description: ""
 third_nav_title: Parents
+variant: tiptap
 ---
 *   [Developing Your Child to be a Positive Peer Influence Online](/files/2018%20T1%20Parents%20Tip%20Sheet.pdf)
 
@@ -14,5 +15,4 @@ third_nav_title: Parents
 
 *   [Helping Your Children Be Discerning About Online Information Tips](/files/2019%20Connect%20T2%20Parents%20Tipsheet%20-%20Pri.pdf)
 
-<img src="/images/Small%20logo/gwps%20children%20(1).png" 
-     style="width:25%;float:right">
+<img src="/images/Small%20logo/gwps%20children%20(1).png" style="width:25%;float:right">

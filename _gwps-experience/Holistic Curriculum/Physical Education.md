@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /gwps-family/Departments/Physical-Education/
+permalink: /gwps-family/departments/physical-education/
 description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown

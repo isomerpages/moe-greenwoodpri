@@ -1,6 +1,6 @@
 ---
 title: Newsletters
-permalink: /gwps-experience/ALP-BLISS/permalink/
+permalink: /gwps-experiences/alp-bliss/newsletters/
 description: ""
 third_nav_title: ALP BLISS
 variant: tiptap

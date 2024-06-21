@@ -1,6 +1,6 @@
 ---
 title: Calendar of Events
-permalink: /parents-corner/Calendar-of-Events/
+permalink: /gwps-partners/parents/calendar-of-events/
 description: ""
 third_nav_title: Parents
 variant: tiptap

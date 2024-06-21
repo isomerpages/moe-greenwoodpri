@@ -1,6 +1,6 @@
 ---
 title: ALP BLISS
-permalink: /about-gwps/alp-bliss/
+permalink: /gwps-experiences/alp-bliss/
 description: ""
 third_nav_title: ALP BLISS
 variant: markdown

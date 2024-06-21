@@ -1,6 +1,6 @@
 ---
 title: SAC (School Advisory Committee)
-permalink: /parents-corner/sac/
+permalink: /gwps-partners/sac/
 description: ""
 variant: tiptap
 ---

@@ -1,6 +1,6 @@
 ---
 title: Greenwood Family
-permalink: /gwps-family/Teaching-and-Non-Teaching/
+permalink: /about-gwps/teaching-and-non-teaching/
 description: ""
 variant: tiptap
 ---

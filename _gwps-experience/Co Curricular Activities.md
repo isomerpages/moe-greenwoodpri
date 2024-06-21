@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities
-permalink: /parents-corner/CCA/
+permalink: /gwps-experiences/cca/
 description: ""
 variant: markdown
 ---

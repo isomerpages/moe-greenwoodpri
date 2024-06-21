@@ -1,6 +1,6 @@
 ---
 title: Booklist 2024
-permalink: /gwps-partners/parents/permalink/
+permalink: /gwps-partners/parents/booklist-2024/
 variant: markdown
 description: ""
 third_nav_title: Parents

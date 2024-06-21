@@ -1,6 +1,6 @@
 ---
 title: School Bus Services
-permalink: /about-gwps/permalink/
+permalink: /about-gwps/school-bus-services/
 description: ""
 variant: markdown
 ---

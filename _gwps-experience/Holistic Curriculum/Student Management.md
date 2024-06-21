@@ -1,6 +1,6 @@
 ---
 title: Student Management
-permalink: /gwps-family/Departments/Student-Management/
+permalink: /gwps-family/departments/student-management/
 description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown

@@ -1,6 +1,6 @@
 ---
 title: LLP WHIZZ
-permalink: /about-gwps/llp-whizz/
+permalink: /gwps-experiences/llp-whizz/
 description: ""
 variant: markdown
 ---

@@ -1,7 +1,8 @@
 ---
 title: Media Coverage
-permalink: /useful-links/Media-Coverage/
+permalink: /school-achievements/media-coverage/
 description: ""
+variant: tiptap
 ---
 **2023**
 

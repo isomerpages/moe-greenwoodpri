@@ -1,6 +1,6 @@
 ---
 title: UPLIFT
-permalink: /uplift/
+permalink: /gwps-experiences/uplift/
 variant: markdown
 description: ""
 ---

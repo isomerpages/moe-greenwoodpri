@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education Programme
-permalink: /parents-corner/Sexuality-Education-Programme/
+permalink: /gwps-partners/parents/sexuality-education-programme/
 description: ""
 third_nav_title: Parents
 variant: tiptap

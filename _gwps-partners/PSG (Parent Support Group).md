@@ -1,6 +1,6 @@
 ---
 title: PSG (Parent Support Group)
-permalink: /parents-corner/PSG/
+permalink: /gwps-partners/psg/
 description: ""
 variant: tiptap
 ---

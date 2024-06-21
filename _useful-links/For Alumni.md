@@ -1,6 +1,6 @@
 ---
 title: For Alumni
-permalink: /for-alumni/
+permalink: /useful-links/for-alumni/
 variant: markdown
 description: ""
 ---

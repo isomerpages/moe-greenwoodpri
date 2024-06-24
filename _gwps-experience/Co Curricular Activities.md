@@ -29,11 +29,11 @@ SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi)
 |7	|Malay Dance|	Mdm Najiyyah Bte Mohamad Said<br>Mdm Zakiah <br>Ms Nur Adilah Bte Khamsani <br>Mdm Siti Fadiah Bte Ramdan
 |8	|Indian Dance	|Mdm Sagaymarie d/o Savarimuthu  <br>Mdm Junainah Bte Mohamed Yusoff  <br>Mdm Sriranjni d/o Chuparmaniam 
 |9	|Choir	|Mdm Toh Su Wei Jacqueline <br>Mdm Ng Lay Ling Rebecca <br>Mdm Joceiyn Wong <br>Ms Tan Yueh Zhen Clara
-|10	| Angklung and Kulintang Ensemble	|Mdm Elizabeth Chew Sau Leng <br>Mdm Rohaiyah <br>Mdm Tan Yan San <br>Zheng Kejun
-|11|String Ensemble	|Mdm Siti Sarah Bte Mohamad Saleh<br>Ms Sarah Nur Shahirah  <br>Ms Shen Yan<br>Ms Lim Jie Ning Clare <br>Mdm Noraini Bte Nanyan
+|10	| Angklung<br>(Ensemble Angklung/ Kulintang)	|Mdm Elizabeth Chew Sau Leng <br>Mdm Rohaiyah <br>Mdm Tan Yan San <br>Zheng Kejun
+|11|String Ensemble<br>(Ensemble String) |Mdm Siti Sarah Bte Mohamad Saleh<br>Ms Sarah Nur Shahirah  <br>Ms Shen Yan<br>Ms Lim Jie Ning Clare <br>Mdm Noraini Bte Nanyan
 |12	|Chinese Drums|	Mrs Sarah Tan <br> Mr Tan Teck Lee<br>Mdm Banun Bte Mohamed<br>Miss Chow Yee Sun
-|13	|Art Club|	Ms Dong Yinong <br>Ms Nur Rahayu<br>Mdm Azizah<br>Mdm Marsita
-|14	|English Language, Drama and Debating<br>(BLISS)|	Mr Md Rasyid  <br> Mdm K Radha <br> Mdm Serene Poh <br>Mdm Rosnani Bte Mohd Hussein
+|13	|Art Club<br>(Art &amp; Craft Club)|	Ms Dong Yinong <br>Ms Nur Rahayu<br>Mdm Azizah<br>Mdm Marsita
+|14	|English Language, Drama and Debating|	Mr Md Rasyid  <br> Mdm K Radha <br> Mdm Serene Poh <br>Mdm Rosnani Bte Mohd Hussein
 |15|	Environmental Science |	Mdm Nur Sussilawati Md Hasshim<br>Mdm Wong Li Peng <br>Ms Jasmine Lim Ching Mei <br>Mdm Siti Alifah Bte Mod Talib 
 |16	|Infocomm Technology (Media Production) |Mrs Tracy Lee <br>Mdm Wong Kah Hwei Angie <br>Mr Lee Choong Yong Mervyn <br>Ms Jazreel Tan Qian Yee<br>
 |17|	Scouts	|Mdm Hartini Binte Kassim<br>Mdm Nazeera  Binte Sulaimi <br>Ms Cynthia Ang Xin Wei <br>Mr Ang Wee Jin

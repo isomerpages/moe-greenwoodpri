@@ -21,13 +21,13 @@ SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi)
 | No | CCA | Teacher In Charge |
 | -------- | -------- | -------- |
 |1|	Rope Skipping|	Ms Sujatha Pillai<br>Mrs Frances Loh<br>Ms Chua Keng Fang<br>Mdm Siti Noraisha Bte Sanusi <br>
-|2	|Basketball	|Mdm Tham Yoke Kuan Joyce <br>Mdm Sakinah<br>Mr David Tan <br>Mr Daniel Ng Jun De
+|2	|Basketball	|Mdm Tham Yoke Kuan Joyce <br>Mr David Tan <br>Mdm Sakinah <br>Mr Daniel Ng Jun De
 |3|Contact Rugby (Boys)|	Mr Teo Peng Koon <br>Mr Mohamed Sha'Ban <br>Mr Afiq Kosnan <br>Mdm Wan Norzilah 
 |4|Athletics (Track &amp; Field)	|Mr Mohamed Noor B Ibrahim<br>Ms Nur'ain Bte Rahim <br>Ms Teo Shi Hui <br>Mr Marcus Lim / Mdm Liu Yan
 |5|Badminton| Mr Noah Ong <br>Mr Mohamed Mahathir Bin Kusnong<br>Ms Bak Ing Shen<br>Ms Noor Shazarratul Aini <br>Ms Farah Fauder
 |6	|Chinese Dance	|Mdm Lim Poh Ling <br>Mdm Huang Yanling <br>Mdm Teo Hui Lee Celeste<br>Mdm Woo Wai Yin
 |7	|Malay Dance|	Mdm Najiyyah Bte Mohamad Said<br>Mdm Zakiah <br>Ms Nur Adilah Bte Khamsani <br>Mdm Siti Fadiah Bte Ramdan
-|8	|Indian Dance	|Mdm Sagaymarie d/o Savarimuthu  <br>Mdm Junainah Bte Mohamed Yusoff  <br>Mdm Sriranjni d/o Chuparmaniam 
+|8	|Indian Dance	|Mdm Sriranjni d/o Chuparmaniam <br>Mdm Sagaymarie d/o Savarimuthu  <br>Mdm Junainah Bte Mohamed Yusoff 
 |9	|Choir	|Mdm Toh Su Wei Jacqueline <br>Mdm Ng Lay Ling Rebecca <br>Mdm Joceiyn Wong <br>Ms Tan Yueh Zhen Clara
 |10	| Angklung<br>(Ensemble Angklung/ Kulintang)	|Mdm Elizabeth Chew Sau Leng <br>Mdm Rohaiyah <br>Mdm Tan Yan San <br>Zheng Kejun
 |11|String Ensemble<br>(Ensemble String) |Mdm Siti Sarah Bte Mohamad Saleh<br>Ms Sarah Nur Shahirah  <br>Ms Shen Yan<br>Ms Lim Jie Ning Clare <br>Mdm Noraini Bte Nanyan

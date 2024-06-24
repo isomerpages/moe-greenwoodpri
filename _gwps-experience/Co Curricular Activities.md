@@ -12,9 +12,9 @@ In Greenwood, we offer a range of CCAs in Physical Sports, Visual &amp; Performi
 <img src="/images/cca.png" style="width:75%">
 
 <strong><center>Greenwood Primary School<br>
-CCA Teachers in Charge 2023<br>
+CCA Teachers in Charge 2024<br>
 SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi)
-<br>AESTHETICS CCA - HOD AESTHETICS (Mrs Jennifer Teo)</center></strong>
+<br>AESTHETICS CCA - HOD AESTHETICS (Mrs Jennifer Teo)<br>- SH Music (Mrs Sabrina Tan)</center></strong>
 
 
 

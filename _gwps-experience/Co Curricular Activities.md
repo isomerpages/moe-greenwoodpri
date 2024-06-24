@@ -29,7 +29,7 @@ SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi)
 |7	|Malay Dance|	Mdm Najiyyah Bte Mohamad Said<br>Mdm Zakiah <br>Ms Nur Adilah Bte Khamsani <br>Mdm Siti Fadiah Bte Ramdan
 |8	|Indian Dance	|Mdm Sriranjni d/o Chuparmaniam <br>Mdm Sagaymarie d/o Savarimuthu  <br>Mdm Junainah Bte Mohamed Yusoff 
 |9	|Choir	|Mdm Toh Su Wei Jacqueline <br>Mdm Ng Lay Ling Rebecca <br>Mdm Joceiyn Wong <br>Ms Tan Yueh Zhen Clara
-|10	| Angklung<br>(Ensemble Angklung/ Kulintang)	|Mdm Elizabeth Chew Sau Leng <br>Mdm Rohaiyah <br>Mdm Tan Yan San <br>Zheng Kejun
+|10	| Angklung<br>(Ensemble Angklung/ Kulintang)	|Mdm Elizabeth Chew Sau Leng <br>Mdm Rohaiyah <br>Mdm Tan Yan San <br>Mdm Zheng Kejun
 |11|String Ensemble<br>(Ensemble String) |Mdm Siti Sarah Bte Mohamad Saleh<br>Ms Sarah Nur Shahirah  <br>Ms Shen Yan<br>Ms Lim Jie Ning Clare <br>Mdm Noraini Bte Nanyan
 |12	|Chinese Drums|	Mrs Sarah Tan <br> Mr Tan Teck Lee<br>Mdm Banun Bte Mohamed<br>Miss Chow Yee Sun
 |13	|Art Club<br>(Art &amp; Craft Club)|	Ms Dong Yinong <br>Ms Nur Rahayu<br>Mdm Azizah<br>Mdm Marsita
@@ -37,6 +37,5 @@ SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi)
 |15|	Environmental Science |	Mdm Nur Sussilawati Md Hasshim<br>Mdm Wong Li Peng <br>Ms Jasmine Lim Ching Mei <br>Mdm Siti Alifah Bte Mod Talib 
 |16	|Infocomm Technology<br>(Media Production) |Mrs Tracy Lee <br>Mdm Wong Kah Hwei Angie <br>Mr Lee Choong Yong Mervyn <br>Ms Jazreel Tan Qian Yee<br>
 |17|	Scouts	|Mdm Hartini Binte Kassim<br>Mdm Nazeera  Binte Sulaimi <br>Ms Cynthia Ang Xin Wei <br>Mr Ang Wee Jin
- ||SDR	|Mdm Teh Sui Ching Lesley <br>Mdm Noorazima Banu <br>Mdm Maizathul Akmar <br>Mdm Azreenah Binte Kamit <br>Mdm Ong Mee Lin
  
  <img src="/images/Small%20logo/gwps%20children%20(4).png" style="width:25%;float:right">

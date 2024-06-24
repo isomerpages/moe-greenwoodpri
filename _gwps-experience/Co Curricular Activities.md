@@ -35,9 +35,8 @@ SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi)
 |13	|Art Club|	Ms Dong Yinong <br>Ms Nur Rahayu<br>Mdm Azizah<br>Mdm Marsita
 |14	|English Language, Drama and Debating<br>(BLISS)|	Mr Md Rasyid  <br> Mdm K Radha <br> Mdm Serene Poh <br>Mdm Rosnani Bte Mohd Hussein
 |15|	Environmental Science |	Mdm Nur Sussilawati Md Hasshim<br>Mdm Wong Li Peng <br>Ms Jasmine Lim Ching Mei <br>Mdm Siti Alifah Bte Mod Talib 
-|16	|Infocomm Technology (Media Production) |	Mr Lee Choong Yong Mervyn <br>Mdm Siti Noraisha Bte Sanusi<br>Ms Jazreel Tan Qian Yee<br>Mrs Tracy Lee
-|17|	Scouts	|Mr Ang Wee Jin<br>Mdm Hartini Binte Kassim<br>Ms Nur'ain Bte Rahim<br>Ms Noor Shazarratul Aini <br>Ms Cynthia Ang Xin Wei
-|18	|Brownies	|Mdm Wan Norzilah<br>Mdm Nazeera  Binte Sulaimi
- ||SDR	|Mdm Teh Sui Ching Lesley <br>Mdm Noorazima Banu <br>Mdm Azreenah Binte Kamit <br>Mdm Nuraini Bte Abdul Hamid <br>Mdm Ong Mee Lin
+|16	|Infocomm Technology (Media Production) |Mrs Tracy Lee <br>Mdm Wong Kah Hwei Angie <br>Mr Lee Choong Yong Mervyn <br>Ms Jazreel Tan Qian Yee<br>
+|17|	Scouts	|Mdm Hartini Binte Kassim<br>Mdm Nazeera  Binte Sulaimi <br>Ms Cynthia Ang Xin Wei <br>Mr Ang Wee Jin
+ ||SDR	|Mdm Teh Sui Ching Lesley <br>Mdm Noorazima Banu <br>Mdm Maizathul Akmar <br>Mdm Azreenah Binte Kamit <br>Mdm Ong Mee Lin
  
  <img src="/images/Small%20logo/gwps%20children%20(4).png" style="width:25%;float:right">

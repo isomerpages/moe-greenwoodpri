@@ -551,7 +551,7 @@ variant: tiptap
 <p>Lead Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Soo Cheng</p>
+<p>Miss Tan Soo Cheng</p>
 </td>
 </tr>
 </tbody>

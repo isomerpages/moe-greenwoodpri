@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /gwps-family/departments/character-and-citizenship-education/
+permalink: /gwps-experiences/holistic-curriculum/character-and-citizenship-education/
 description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown

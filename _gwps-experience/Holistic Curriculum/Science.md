@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /gwps-family/departments/science/
+permalink: /gwps-experiences/holistic-curriculum/science/
 description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown

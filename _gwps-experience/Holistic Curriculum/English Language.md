@@ -1,6 +1,6 @@
 ---
 title: English Language
-permalink: /gwps-family/departments/english-language/
+permalink: /gwps-experiences/holistic-curriculum/english-language/
 description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown

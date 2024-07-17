@@ -1,6 +1,6 @@
 ---
 title: Information and Communications Technology
-permalink: /gwps-family/departments/information-and-communications-technology/
+permalink: /gwps-experiences/holistic-curriculum/information-and-communications-technology/
 description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown

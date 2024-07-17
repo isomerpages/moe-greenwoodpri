@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /gwps-family/departments/mathematics/
+permalink: /gwps-experiences/holistic-curriculum/mathematics/
 description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown

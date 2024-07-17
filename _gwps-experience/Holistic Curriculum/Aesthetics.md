@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /gwps-family/departments/aesthetics/
+permalink: /gwps-experiences/holistic-curriculum/aesthetics/
 description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown

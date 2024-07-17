@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Languages
-permalink: /gwps-family/departments/mother-tongue-languages/
+permalink: /gwps-experiences/holistic-curriculum/mother-tongue-languages/
 description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown

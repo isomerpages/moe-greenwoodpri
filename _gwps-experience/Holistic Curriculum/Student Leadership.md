@@ -63,4 +63,5 @@ By Year 3 (P6), the training shifts towards inspiring and mentoring others, cons
 
 **Student Leaders in Training**
 
-![](/images/Picture6.jpg)![](/images/Picture9.png)![](/images/Picture8.jpg)
+![](/images/Screenshot_2024_07_18_115754.png)
+![](/images/Screenshot_2024_07_18_115923.png)

@@ -1,8 +1,7 @@
 ---
 title: Student Management
-permalink: /gwps-experiences/holistic-curriculum/student-management/
+permalink: /gwps-experiences/student-management/
 description: ""
-third_nav_title: Holistic Curriculum
 variant: markdown
 ---
 <h3><strong><center>Vision</center></strong></h3>

@@ -7,11 +7,11 @@ third_nav_title: Holistic Curriculum
 ---
 <center><h3><strong>Student Leadership</strong></h3></center>
 
-<strong></strong><center><strong><h4>Overview</h4></strong></center>
+<h4><strong>Overview</strong></h4>
 
 Student leadership plays a pivotal role in fostering the holistic development of students.&nbsp; Our student leadership curriculum is aligned to our school’s mission of nurturing individuals to become lifelong learners and responsible citizens through a well-rounded education, as well as the school’s vision of Motivated Learners, Critical Thinkers, and Leaders of Character. In Greenwood Primary, we envision our student leaders to &nbsp;exemplify our WEGR2O values in their thought and action.
 
-<center><h4>The LEADership Way</h4></center>
+<h4><strong>The LEADership Way</strong></h4>
 
 Our student leadership’s philosophy L.E.A.D (**Lead** with **Empathy**, **Awareness**, and **Determination**: **The LEADership Way**) is anchored based on the following key beliefs that
 
@@ -22,7 +22,7 @@ Our students can accomplish the following in alignment with the student leadersh
 
 ![](/images/Picture2.png)
 
-<h4><strong></strong><center><strong>Student Leadership Framework</strong></center></h4>
+<h4><strong>Student Leadership Framework</strong></h4>
 
 The school has established a leadership structure designed to enhance our student leaders' competencies across four key dimensions: Leaders of Self, Leaders of Others, Leaders of School and Mentors of Others.
 

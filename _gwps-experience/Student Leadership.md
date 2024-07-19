@@ -25,7 +25,7 @@ Our students can accomplish the following in alignment with the student leadersh
 
 The school has established a leadership structure designed to enhance our student leaders' competencies across four key dimensions: Leaders of Self, Leaders of Others, Leaders of School and Mentors of Others.
 
-![](/images/Framework.png)
+![](/images/Framework__1_.png)
 
 <strong>Level 1: Leaders of Self</strong>
 

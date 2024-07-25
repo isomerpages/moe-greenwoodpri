@@ -504,7 +504,7 @@ variant: tiptap
 <br>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Mohan/Satwant Kaur D/o Bhagwan Singh</p>
+<p>Mrs Mohan - Satwant Kaur D/o Bhagwan Singh</p>
 </td>
 </tr>
 <tr>
@@ -937,10 +937,10 @@ variant: tiptap
 <p>Ms Dai Anna</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Music)</p>
+<p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Daphne Ng Pei Pei</p>
+<p>Mr Lim Kwang Seng, Jimmy</p>
 </td>
 </tr>
 <tr>
@@ -1052,7 +1052,7 @@ variant: tiptap
 <p>Teacher (English/Mathematics/Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Halima Bte Mohamed Yahuff</p>
+<p>Ms Zarina Bte Mohamed Isa</p>
 </td>
 </tr>
 <tr>
@@ -1066,20 +1066,6 @@ variant: tiptap
 <p>Teacher (English/Mathematics/Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zarina Bte Mohamed Isa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hathijath Bte Abdul Majeed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (English/Mathematics/Science)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Nicholas Darren Jajatnath</p>
 </td>
 </tr>
@@ -1088,7 +1074,7 @@ variant: tiptap
 <p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarina Khatoon d/o Mohd Ashraf</p>
+<p>Mdm Hathijath Bte Abdul Majeed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/ Maths/ PE)</p>
@@ -1102,7 +1088,7 @@ variant: tiptap
 <p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rokiah Bte Abdul Rahim</p>
+<p>Mdm Zarina Khatoon d/o Mohd Ashraf</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/Mathematics)</p>
@@ -1113,10 +1099,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Mathematics)</p>
+<p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nigel Tan</p>
+<p>Mdm Rokiah Bte Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Chinese Language/CCE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Music)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lim Jie Ning Clare</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (PE)</p>
@@ -1127,16 +1127,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language/CCE)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Yan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Music)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Jie Ning Clare</p>
+<p></p>
 </td>
 </tr>
 </tbody>

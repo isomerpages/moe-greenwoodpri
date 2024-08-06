@@ -894,7 +894,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Noraini Bte Nanyan</p>
 <p>Mrs Koh - Zhuo Caiwei</p>
-<p>Mr Marcus Lim Jun Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Harmony</p>

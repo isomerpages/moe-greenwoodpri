@@ -1118,10 +1118,10 @@ variant: tiptap
 <p>Ms Lim Jie Ning Clare</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (PE)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Farah Amirah Frauder</p>
+<p></p>
 </td>
 </tr>
 <tr>

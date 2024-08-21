@@ -4,66 +4,144 @@ permalink: /soar/
 variant: markdown
 description: ""
 ---
-<center><h3><strong>Stretching One’s Abilities &amp; Readiness</strong></h3></center><strong>
-<p>SOAR is undergirded by the strong belief of a holistic education and every
-child matters. Besides providing additional support to our lower progressing
-students, we believe that it is important to understand the needs of our
-higher progressing students to support their holistic growth.</p>
-<h4><strong></strong><center><strong>Our Aim</strong></center></h4>
-<p>To provide a structure to stretch our students’ thinking and maximise
-their potential in learning throughout their six years of education here.</p>
-<p></p>
-<h4><strong><center>Our Objectives</center></strong></h4>
+<center><h3><strong>Stretching One’s Abilities &amp; Readiness</strong></h3></center>
+<center><h3><strong>(SOAR)</strong></h3></center>
+<center><h5><strong>“Don’t just fly, Soar!”</strong></h5></center>
+<h4><strong>Rationale:</strong></h4>
+<p>In Greenwood Primary School, our vision is to develop students into motivated
+learners, critical thinkers and leaders of character. We recognise the
+diversity of our student profiles and we focus on developing their thinking
+skills by providing them with opportunities to stretch themselves. In 2022,
+we have established a project team – SOAR – to provide a framework to challenge
+our students’ thinking and optimise their potential in learning throughout
+their six years of education here.</p>
+<h4><strong>Philosophy:</strong></h4>
+<p>The school adopts Renzulli's Enrichment Triad Model to guide the planning
+of the SOAR programme. This model aims to foster the creative productivity
+of young people by exposing them to various topics, areas of interest,
+and fields of study, and by training them to apply advanced content, process
+skills, and methods to their self-selected areas of interest. SOAR seeks
+to expose students to various topics, guide them through their areas of
+interest, and further develop their talents. Enrichment programmes in both
+academic and non-academic subjects are planned in a three-type approach
+to challenge students appropriately and nurture their passions and enthusiasm.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SOAR/soar1_1.png">
+</div>
+<p>Type 1 programmes expose students to a wide variety of disciplines, topics,
+occupations, hobbies, persons, places, and events that spark their curiosity
+and interest.</p>
+<p>Type 2 programmes and pedagogies/strategies use materials and methods
+that promote the development of thinking and feeling processes, such as
+critical thinking, creative thinking, and problem-solving.</p>
+<p>Type 3 programmes cater to a small group of selected students (High Ability
+Learners) who have demonstrated high levels of interest and ability in
+a specific area, and provide them with opportunities to pursue their passion
+and develop their talents.</p>
+<p><strong>Our Implementation:</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programmes</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Type 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>These activities are designed by the school and incorporated into the
+curriculum. They include:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Identify the learning needs and profiles of HP students.</p>
+<p>Designing lessons beyond the curriculum to stretch students</p>
 </li>
 <li>
-<p>Draw out a framework which defines how HP students are developed holistically
-in GWPS.</p>
+<p>Inviting external speakers to share their experiences at assemblies</p>
 </li>
 <li>
-<p>Design or adapt programmes or pedagogies that stretch HP students.</p>
-</li>
-<li>
-<p>Provide avenues to maximise HP students’ potential.</p>
+<p>Organizing learning journeys and museum visits to expose students to different
+aspects of culture and society</p>
 </li>
 </ul>
-<h4><strong><center>Framework</center></strong></h4>
-<p>We adopt the Renzulli’s Enrichment Triad Model to guide the planning of
-SOAR programme. The Enrichment Triad Model was designed to encourage the
-creative productivity of young people by exposing them to various topics,
-areas of interest, and fields of study, and to further train them to apply
-advanced content, process-training skills, and methodology training to
-self-selected areas of interest. SOAR seeks to expose students to various
-topics, guide students through their areas of interest and to further develop
-them in their talented areas. Enrichment programmes in the academic and
-non-academic subjects are planned in a 3-Type approach for students to
-be adequately challenged so that passions are nurtured and enthusiasms
-are sustained.</p>
-<p>In Greenwood Primary School, the teachers followed a three-typed approach
-in the planning of programmes to meet the learning needs of our HP students.
-In Type 1, we plan programmes to expose students to a wide variety of disciplines,
-topics, occupations, hobbies, persons, places, and events that would not
-ordinarily be covered in the regular curriculum. (eg. inviting external
-speakers at assemblies, learning journey and museum visits etc)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Type 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>These programmes allow students to apply their knowledge and skills to
+real-world problems or issues. They include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Project Work, which develops students' thinking, communication and collaboration
+skills</p>
+</li>
+<li>
+<p><strong>B</strong>ilingual <strong>L</strong>iterature apprec<strong>I</strong>ation <strong>S</strong>tudent <strong>S</strong>eries<strong> (BLISS)</strong>
+</p>
+</li>
+<li>
+<p><strong>W</strong>e are T<strong>H</strong>inking,&nbsp;<strong>I</strong>nventive
+and&nbsp;<strong>Z</strong>ealous KId<strong>Z (WHIZZ)</strong>&nbsp;who
+serve the community. It promotes physical and mental well-being through
+sports and outdoor education</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Type 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>These programmes cater to students with specific talents or interests
+in various domains. They include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>E2K (Enrichment 2000), which challenges students with high ability in
+Mathematics and Science to solve complex and novel problems</p>
+</li>
+<li>
+<p>STEM in the Woods, which exposes students to Science, Technology, Engineering
+and Mathematics (STEM) concepts and applications through hands-on activities
+and experiments</p>
+</li>
+<li>
+<p>Think Tank, which nurtures students' critical thinking and analytical
+skills through discussions and debates on current affairs and global issues</p>
+</li>
+<li>
+<p>Creative Writing Programme, which enhances students' writing skills and
+creativity through various genres and forms of expression</p>
+</li>
+<li>
+<p>Wits and Words, which trains students for national debate competitions
+and fosters their confidence and eloquence in public speaking</p>
+</li>
+<li>
+<p>Literature Circle, which cultivates students' appreciation and analysis
+of literary texts and themes</p>
+</li>
+<li>
+<p>Journalism at Republic Polytechnic, which introduces students to the basics
+of journalism and media production in collaboration with Republic Polytechnic</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p>In Type 2, we plan programmes and pedagogies/strategies adopted that consists
-of materials and methods designed to promote the development of thinking
-and feeling processes. (eg. BLISS (ALP) and WHIZZ (LLP) programme etc)
-The programmes in Type 2 are helmed by the various departments, BLISS and
-Project Work Team.</p>
-<p>In Type 3, we plan programmes to develop a small group of selected students
-(HP) to maximise their learning potential. (eg. E2K, STEM in the Woods,
-Think Tank etc)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SOAR/SOAR.png">
-</div>
-<h4><strong><center>Approach</center></strong></h4>
-<p>Identifying “higher progressing” (HP) students helps teachers to meet
-their learning needs. The key principles to be considered during the identification
-of higher progressing students are to have different measures and to be
-flexible and continuous (Richert, 1991).</p>
-<p></p>
-<p></p>
-<p></p></strong>

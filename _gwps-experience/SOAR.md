@@ -17,8 +17,7 @@ description: ""
 <p>In Greenwood Primary School, our vision is to develop students into motivated
 learners, critical thinkers and leaders of character. We recognise the
 diversity of our student profiles and we focus on developing their thinking
-skills by providing them with opportunities to stretch themselves. In 2022,
-we have established a project team – SOAR – to provide a framework to challenge
+skills by providing them with opportunities to stretch themselves. Since 2022, we have implemented the SOAR Programme to address the diverse needs and abilities of our students. This includes a framework to challenge
 our students’ thinking and optimise their potential in learning throughout
 their six years of education here.</p>
 <h4><strong>Philosophy:</strong></h4>

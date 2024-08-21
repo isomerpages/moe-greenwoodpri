@@ -57,7 +57,7 @@ Project Work Team.</p>
 (HP) to maximise their learning potential. (eg. E2K, STEM in the Woods,
 Think Tank etc)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SOAR/SOAR.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SOAR/SOAR.png">
 </div>
 <h4>Approach</h4>
 <p>Identifying “higher progressing” (HP) students helps teachers to meet

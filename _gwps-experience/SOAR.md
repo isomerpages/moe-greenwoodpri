@@ -47,9 +47,7 @@ In Type 1, we plan programmes to expose students to a wide variety of discipline
 topics, occupations, hobbies, persons, places, and events that would not
 ordinarily be covered in the regular curriculum. (eg. inviting external
 speakers at assemblies, learning journey and museum visits etc)</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SOAR/soar1.png">
-</div>
+<p></p>
 <p>In Type 2, we plan programmes and pedagogies/strategies adopted that consists
 of materials and methods designed to promote the development of thinking
 and feeling processes. (eg. BLISS (ALP) and WHIZZ (LLP) programme etc)
@@ -58,7 +56,9 @@ Project Work Team.</p>
 <p>In Type 3, we plan programmes to develop a small group of selected students
 (HP) to maximise their learning potential. (eg. E2K, STEM in the Woods,
 Think Tank etc)</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SOAR/SOAR.png">
+</div>
 <h4>Approach</h4>
 <p>Identifying “higher progressing” (HP) students helps teachers to meet
 their learning needs. The key principles to be considered during the identification

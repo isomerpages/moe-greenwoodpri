@@ -44,8 +44,8 @@ critical thinking, creative thinking, and problem-solving.</p>
 Learners) who have demonstrated high levels of interest and ability in
 a specific area, and provide them with opportunities to pursue their passion
 and develop their talents.</p>
-<p><strong>Our Implementation:</strong>
-</p>
+<h4><strong>Our Implementation:</strong>
+</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

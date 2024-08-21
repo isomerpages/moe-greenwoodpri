@@ -47,8 +47,9 @@ In Type 1, we plan programmes to expose students to a wide variety of discipline
 topics, occupations, hobbies, persons, places, and events that would not
 ordinarily be covered in the regular curriculum. (eg. inviting external
 speakers at assemblies, learning journey and museum visits etc)</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SOAR/soar1.png">
+</div>
 <p>In Type 2, we plan programmes and pedagogies/strategies adopted that consists
 of materials and methods designed to promote the development of thinking
 and feeling processes. (eg. BLISS (ALP) and WHIZZ (LLP) programme etc)

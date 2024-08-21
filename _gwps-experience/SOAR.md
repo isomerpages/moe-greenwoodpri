@@ -24,9 +24,8 @@ to expose students to various topics, guide them through their areas of
 interest, and further develop their talents. Enrichment programmes in both
 academic and non-academic subjects are planned in a three-type approach
 to challenge students appropriately and nurture their passions and enthusiasm.</p>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SOAR/SOAR.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SOAR/soar1_1.png">
 </div>
 <p>Type 1 programmes expose students to a wide variety of disciplines, topics,
 occupations, hobbies, persons, places, and events that spark their curiosity

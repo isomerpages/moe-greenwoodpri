@@ -65,5 +65,4 @@ their learning needs. The key principles to be considered during the identificat
 of higher progressing students are to have different measures and to be
 flexible and continuous (Richert, 1991).</p>
 <p></p>
-<p></p>
 <p></p></strong>

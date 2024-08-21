@@ -4,9 +4,15 @@ permalink: /soar/
 variant: markdown
 description: ""
 ---
-<center><h3><strong>Stretching One’s Abilities &amp; Readiness</strong></h3></center>
-<center><h3><strong>(SOAR)</strong></h3></center>
-<center><h5><strong>“Don’t just fly, Soar!”</strong></h5></center>
+<div style="text-align: center; line-height: 1;">
+  <h3><strong>Stretching One’s Abilities &amp; Readiness</strong></h3>
+</div>
+<div style="text-align: center; line-height: 1;">
+  <h3><strong>(SOAR)</strong></h3>
+</div>
+<div style="text-align: center; line-height: 1;">
+  <h5><strong>“Don’t just fly, Soar!”</strong></h5>
+</div>
 <h4><strong>Rationale:</strong></h4>
 <p>In Greenwood Primary School, our vision is to develop students into motivated
 learners, critical thinkers and leaders of character. We recognise the
@@ -26,7 +32,7 @@ interest, and further develop their talents. Enrichment programmes in both
 academic and non-academic subjects are planned in a three-type approach
 to challenge students appropriately and nurture their passions and enthusiasm.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SOAR/soar1_1.png">
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/SOAR/soar1_1.png">
 </div>
 <p>Type 1 programmes expose students to a wide variety of disciplines, topics,
 occupations, hobbies, persons, places, and events that spark their curiosity
@@ -38,8 +44,8 @@ critical thinking, creative thinking, and problem-solving.</p>
 Learners) who have demonstrated high levels of interest and ability in
 a specific area, and provide them with opportunities to pursue their passion
 and develop their talents.</p>
-<p><strong>Our Implementation:</strong>
-</p>
+<h4><strong>Our Implementation:</strong>
+</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

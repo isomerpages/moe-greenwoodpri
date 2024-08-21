@@ -4,16 +4,16 @@ permalink: /soar/
 variant: markdown
 description: ""
 ---
-<h3>Stretching One’s Abilities &amp; Readiness</h3>
+<center><h3><strong>Stretching One’s Abilities &amp; Readiness</strong></h3></center><strong>
 <p>SOAR is undergirded by the strong belief of a holistic education and every
 child matters. Besides providing additional support to our lower progressing
 students, we believe that it is important to understand the needs of our
 higher progressing students to support their holistic growth.</p>
-<h4>Our Aim</h4>
+<h4><strong></strong><center><strong>Our Aim</strong></center></h4>
 <p>To provide a structure to stretch our students’ thinking and maximise
 their potential in learning throughout their six years of education here.</p>
 <p></p>
-<h4>Our Objectives</h4>
+<h4><strong><center>Our Objectives</center></strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Identify the learning needs and profiles of HP students.</p>
@@ -29,7 +29,7 @@ in GWPS.</p>
 <p>Provide avenues to maximise HP students’ potential.</p>
 </li>
 </ul>
-<h4>Framework</h4>
+<h4><strong><center>Framework</center></strong></h4>
 <p>We adopt the Renzulli’s Enrichment Triad Model to guide the planning of
 SOAR programme. The Enrichment Triad Model was designed to encourage the
 creative productivity of young people by exposing them to various topics,
@@ -59,11 +59,11 @@ Think Tank etc)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SOAR/SOAR.png">
 </div>
-<h4>Approach</h4>
+<h4><strong><center>Approach</center></strong></h4>
 <p>Identifying “higher progressing” (HP) students helps teachers to meet
 their learning needs. The key principles to be considered during the identification
 of higher progressing students are to have different measures and to be
 flexible and continuous (Richert, 1991).</p>
 <p></p>
 <p></p>
-<p></p>
+<p></p></strong>

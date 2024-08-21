@@ -4,7 +4,7 @@ permalink: /soar/
 variant: markdown
 description: ""
 ---
-<center><h3><strong>Stretching One’s Abilities &amp; Readiness</strong></h3></center><strong>
+<center><h3><strong>Stretching One’s Abilities &amp; Readiness</strong></h3></center>
 <p>SOAR is undergirded by the strong belief of a holistic education and every
 child matters. Besides providing additional support to our lower progressing
 students, we believe that it is important to understand the needs of our
@@ -65,4 +65,4 @@ their learning needs. The key principles to be considered during the identificat
 of higher progressing students are to have different measures and to be
 flexible and continuous (Richert, 1991).</p>
 <p></p>
-<p></p></strong>
+<p></p>

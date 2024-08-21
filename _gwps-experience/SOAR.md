@@ -4,9 +4,15 @@ permalink: /soar/
 variant: markdown
 description: ""
 ---
-<center><h3><strong>Stretching One’s Abilities &amp; Readiness</strong></h3></center>
-<center><h3><strong>(SOAR)</strong></h3></center>
-<center><h5><strong>“Don’t just fly, Soar!”</strong></h5></center>
+<center style="line-height: 1;">
+  <h3><strong>Stretching One’s Abilities &amp; Readiness</strong></h3>
+</center>
+<center style="line-height: 1;">
+  <h3><strong>(SOAR)</strong></h3>
+</center>
+<center style="line-height: 1;">
+  <h5><strong>“Don’t just fly, Soar!”</strong></h5>
+</center>
 <h4><strong>Rationale:</strong></h4>
 <p>In Greenwood Primary School, our vision is to develop students into motivated
 learners, critical thinkers and leaders of character. We recognise the

@@ -153,6 +153,6 @@ of journalism and media production in collaboration with Republic Polytechnic</p
 <img style="width: 80%" height="auto" width="80%" alt="" src="/images/SOAR/soar_E2K.png">
 <img style="width: 80%" height="auto" width="80%" alt="" src="/images/SOAR/soar_stem.png">
 <img style="width: 80%" height="auto" width="80%" alt="" src="/images/SOAR/soar_earth.png">
-<img style="width: 80%" height="auto" width="80%" alt="" src="/images/SOAR/soar_newmaker.png">
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/SOAR/soar_newmaker1.png">
 <img style="width: 60%" height="auto" width="80%" alt="" src="/images/SOAR/soar_debate.png">
 <p></p></div>

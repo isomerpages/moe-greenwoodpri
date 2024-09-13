@@ -18,4 +18,3 @@ Our Instagram is active at&nbsp;[https://www.instagram.com/Greenwood.GWPS/](http
 [**Greenwood Primary Official Facebook**]
 
 Our Facebook is active at&nbsp;[https://www.facebook.com/Greenwood.GWPS](https://www.facebook.com/Greenwood.GWPS)
-

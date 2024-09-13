@@ -4,7 +4,7 @@ permalink: /Announcements/
 description: ""
 variant: markdown
 ---
-Booklist for 2024 classes can be found [here](https://www.greenwoodpri.moe.edu.sg/gwps-partners/parents/permalink/).
+Booklist for 2024 classes can be found [here](https://www.greenwoodpri.moe.edu.sg/gwps-partners/parents/booklist-2024/).
 
 
 

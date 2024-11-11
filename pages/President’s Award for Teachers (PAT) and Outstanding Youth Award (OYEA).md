@@ -13,11 +13,11 @@ students to realise their potential? We would like to invite you to submit
 your nominations!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAT2025.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PAT2025.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OYEA.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/OYEA.png">
 </div>
 <p>Nominate deserving teacher(s) for these prestigious awards by scanning
 the QR code or clicking on the URL below.</p>

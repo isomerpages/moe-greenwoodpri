@@ -70,6 +70,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-staff-travel-declaration" rel="noopener nofollow" target="_blank">Travel Declarations</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">Visitor Registration</a>
 </p>
 </td>

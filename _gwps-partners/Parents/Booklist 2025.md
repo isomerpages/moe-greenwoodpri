@@ -11,5 +11,5 @@ third_nav_title: Parents
 [P4 Booklist](/files/Booklist%202025/P4_2025.pdf)<br>
 [P5 Booklist](/files/Booklist%202025/P5_2025.pdf)<br>
 [P5 Booklist Foundation Subjects](/files/Booklist%202025/P5_Foundation_2025.pdf)<br>
-[P6 Booklist](/files/Booklist%202024/P6_2025.pdf)<br>
+[P6 Booklist](/files/Booklist%202025/P6_2025.pdf)<br>
 [P6 Booklist Foundation Subjects](/files/Booklist%202025/P6_Foundation_2025.pdf)

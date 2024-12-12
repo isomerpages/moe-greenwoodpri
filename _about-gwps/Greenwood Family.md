@@ -956,10 +956,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language)</p>
@@ -970,10 +970,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
+<p>Teacher (English/Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Bin Ismail</p>
+<p>Miss Jamiah Binte Abdullah</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language)</p>
@@ -1074,7 +1075,7 @@ variant: tiptap
 <p>Mdm Hathijath Bte Abdul Majeed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/ Maths/ PE)</p>
+<p>Teacher (English/ Maths/ Science/ PE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
@@ -1102,10 +1103,10 @@ variant: tiptap
 <p>Mdm Rokiah Bte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Malay Language and Character and Citizenship Education (CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Azra Zulaikha Binte Razali</p>
 </td>
 </tr>
 <tr>
@@ -1116,18 +1117,34 @@ variant: tiptap
 <p>Mdm Ong Karen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Xue Bing</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Low Yixian Joanne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Malay Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Shamsiah Binte Md Shariff</p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (English/Maths/ Science/Uplift Programme)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Pang Li Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

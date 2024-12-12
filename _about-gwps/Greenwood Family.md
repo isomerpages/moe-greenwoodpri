@@ -1119,10 +1119,10 @@ variant: tiptap
 <p>Ms Pang Li Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Zheng Kejun</p>
 </td>
 </tr>
 </tbody>

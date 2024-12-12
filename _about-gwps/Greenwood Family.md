@@ -138,16 +138,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Science</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Li Qin Fang</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head/Upper Primary</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ling Sook Leng Michelle</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -158,10 +158,10 @@ variant: tiptap
 <p>Ms Lim Ching Mei Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Kim Noi Adrienne</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -194,10 +194,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Chinese Language</p>
+<p>Subject Head/Partnerships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chow Yee Sun</p>
+<p>Ms Nur/ain Bte Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Character and Citizenship Education</p>
@@ -454,10 +454,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
+<p>Senior School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Karen</p>
+<p>Ms Yvonne Chai Yu Ning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SENO)</p>
@@ -959,10 +959,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sujatha Pillai</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language)</p>
@@ -1105,18 +1105,18 @@ variant: tiptap
 <p>Mdm Rokiah Bte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language/CCE)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Yan</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Music)</p>
+<p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Jie Ning Clare</p>
+<p>Mdm Ong Karen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

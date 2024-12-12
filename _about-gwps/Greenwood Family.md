@@ -166,10 +166,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Partnerships</p>
+<p>HOD/Info-Comm Technology and Media Resource Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur/ain Bte Rahim</p>
+<p>Mdm Chu Yee Leen (Zhou Yanling)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Character and Citizenship Education</p>
@@ -180,10 +180,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Info-Comm Technology and Media Resource Library</p>
+<p>Subject Head/Info-Comm Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chu Yee Leen (Zhou Yanling)</p>
+<p>Mr Lee Choong Yong Mervyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Well-Being</p>
@@ -194,10 +194,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Info-Comm Technology</p>
+<p>HOD/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Choong Yong Mervyn</p>
+<p>Mdm Soh Xinxiang Jennifer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Partnerships</p>
@@ -208,10 +208,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Aesthetics</p>
+<p>Subject Head/Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Xinxiang Jennifer</p>
+<p>Mrs Sabrina Tan / Wong Choon Yen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Physical Education, CCA and Student Management</p>
@@ -222,10 +222,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Music</p>
+<p>Level Head/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sabrina Tan / Wong Choon Yen</p>
+<p>Ms Lim Ching Mei Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Management</p>
@@ -236,10 +236,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head/Science</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Ching Mei Jasmine</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Leadership (Covering)</p>

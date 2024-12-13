@@ -564,7 +564,7 @@ variant: tiptap
 <p>3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chong Pei Pei (Zeng Peipei)</p>
+<p>Mdm Chong Pei Pei (Zeng Peipei) Paige</p>
 <p>Mrs Jennifer Teo - Soh Xin Xiang</p>
 </td>
 </tr>

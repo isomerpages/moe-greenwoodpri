@@ -1063,10 +1063,10 @@ variant: tiptap
 <p>Mdm Zarina Khatoon d/o Mohd Ashraf</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Mathematics)</p>
+<p>Teacher (English/Maths/ Science/Uplift Programme)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jayaraman Saravanan Shakaana</p>
+<p>Ms Pang Li Yee</p>
 </td>
 </tr>
 <tr>
@@ -1115,16 +1115,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Maths/ Science/Uplift Programme)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pang Li Yee</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zheng Kejun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

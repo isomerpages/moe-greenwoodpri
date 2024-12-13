@@ -1092,7 +1092,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Xue Bing</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -1107,7 +1106,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Shamsiah Binte Md Shariff</p>
-<p></p>
 </td>
 </tr>
 <tr>

@@ -719,7 +719,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Azreenah Bte Kamit</p>
-<p>Mr Mohamed Mahathir Bin Kusnong</p>
+<p>Mdm Maisarah Bte Zulkifly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Integrity</p>
@@ -783,7 +783,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan - Elizabeth Chew Sau Leng</p>
-<p>Mdm Maisarah Bte Zulkifly</p>
+<p>Mr Mohamed Mahathir Bin Kusnong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Responsibility</p>

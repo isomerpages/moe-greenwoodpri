@@ -589,8 +589,8 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur'ain Bte Rahim</p>
-<p>Mdm Tan Yueh Zhen Clara</p>
+<p>Mdm Sharon Teo - Chee Wei Leng</p>
+<p>Mdm Siti Alifah Bte Mod Talib</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Responsibility</p>

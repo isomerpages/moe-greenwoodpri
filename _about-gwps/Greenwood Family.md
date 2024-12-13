@@ -630,7 +630,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Koh - Zhuo Caiwei</p>
-<p>Ms Jamiah</p>
+<p>Ms Jamiah Bte Abdullah</p>
 <p></p>
 </td>
 </tr>

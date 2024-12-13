@@ -477,7 +477,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Satwant Kaur D/o Bhagwan Singh</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -631,7 +630,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Koh - Zhuo Caiwei</p>
 <p>Ms Jamiah Bte Abdullah</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -801,7 +799,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Noraisha Bte Sanusi</p>
 <p>Mr Tsen Hon Leong</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Resilience</p>

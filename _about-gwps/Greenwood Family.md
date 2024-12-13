@@ -840,7 +840,7 @@ variant: tiptap
 <p>6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Serence Poh</p>
+<p>Mdm Serene Poh</p>
 <p>Mdm Siti Fadiah Bte Ramdan</p>
 </td>
 </tr>

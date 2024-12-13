@@ -809,6 +809,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Min Min Linda</p>
 <p>Ms Lee Sok Ee</p>
+<p>Ms Elina Abdullah Look</p>
 </td>
 </tr>
 <tr>
@@ -839,7 +840,7 @@ variant: tiptap
 <p>6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Serene Poh</p>
+<p>Mdm Serence Poh</p>
 <p>Mdm Siti Fadiah Bte Ramdan</p>
 </td>
 </tr>

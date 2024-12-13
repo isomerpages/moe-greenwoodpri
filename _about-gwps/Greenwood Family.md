@@ -564,7 +564,7 @@ variant: tiptap
 <p>3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chong Pei Pei (Zeng Peipei)</p>
+<p>Mdm Chong Pei Pei (Zeng Peipei) Paige</p>
 <p>Mrs Jennifer Teo - Soh Xin Xiang</p>
 </td>
 </tr>
@@ -582,6 +582,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Nazeera Bte Sulaimi</p>
 <p>Mdm Tham Yoke Kuan Joyce</p>
+<p>Mdm Azra Zulaikha Bte Razali</p>
 </td>
 </tr>
 <tr>
@@ -589,8 +590,8 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur'ain Bte Rahim</p>
-<p>Mdm Tan Yueh Zhen Clara</p>
+<p>Mdm Sharon Teo - Chee Wei Leng</p>
+<p>Mdm Siti Alifah Bte Mod Talib</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Responsibility</p>
@@ -629,7 +630,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Koh - Zhuo Caiwei</p>
-<p>Ms Jamiah</p>
+<p>Ms Jamiah Bte Abdullah</p>
 <p></p>
 </td>
 </tr>
@@ -719,7 +720,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Azreenah Bte Kamit</p>
-<p>Mr Mohamed Mahathir Bin Kusnong</p>
+<p>Mdm Maisarah Bte Zulkifly</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Integrity</p>
@@ -783,7 +784,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan - Elizabeth Chew Sau Leng</p>
-<p>Mdm Maisarah Bte Zulkifly</p>
+<p>Mr Mohamed Mahathir Bin Kusnong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Responsibility</p>
@@ -798,7 +799,7 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nor Aishah Bte Sa'ad</p>
+<p>Mdm Siti Noraisha Bte Sanusi</p>
 <p>Mr Tsen Hon Leong</p>
 <p></p>
 </td>
@@ -808,6 +809,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Min Min Linda</p>
 <p>Ms Lee Sok Ee</p>
+<p>Ms Elina Abdullah Look</p>
 </td>
 </tr>
 <tr>
@@ -1061,10 +1063,10 @@ variant: tiptap
 <p>Mdm Zarina Khatoon d/o Mohd Ashraf</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Mathematics)</p>
+<p>Teacher (English/Maths/ Science/Uplift Programme)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jayaraman Saravanan Shakaana</p>
+<p>Ms Pang Li Yee</p>
 </td>
 </tr>
 <tr>
@@ -1113,16 +1115,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Maths/ Science/Uplift Programme)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pang Li Yee</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zheng Kejun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

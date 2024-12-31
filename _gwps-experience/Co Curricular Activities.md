@@ -238,8 +238,7 @@ Debating</p>
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Infocomm Technology (Media</p>
-<p>Production)</p>
+<p>Infocomm Technology (Media Production)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tho Cheng Ping, Tracy

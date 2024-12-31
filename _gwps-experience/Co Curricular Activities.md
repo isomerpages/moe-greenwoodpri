@@ -194,8 +194,8 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Club</p>
-<p>(Art &amp; Craft Club)</p>
+<p>Art Club
+<br>(Art &amp; Craft Club)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Jazreel Tan Qian Yee

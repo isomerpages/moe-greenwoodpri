@@ -15,8 +15,11 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <img style="width:75%" height="auto" width="100%" src="/images/cca.png">
 </div>
 <p></p>
-<p><strong>Greenwood Primary School<br>CCA Teachers in Charge 2025<br>SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi) <br>AESTHETICS CCA - HOD AESTHETICS (Mrs Jennifer Teo)<br>AESTHETICS CCA (instrument) - SH Music (Mrs Sabrina Tan)</strong>
-</p>
+<strong><center>Greenwood Primary School
+<br>CCA Teachers in Charge 2025
+<br>SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi)
+	<br>AESTHETICS CCA - HOD AESTHETICS (Mrs Jennifer Teo)<br>AESTHETICS CCA (instrument) - SH Music (Mrs Sabrina Tan)</center></strong>
+<p></p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -41,17 +44,17 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basketball</p>
-<p>Boys &amp; Girls</p>
+<p>Basketball
+<br>Boys &amp; Girls</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tham Yoke Kuan, Joyce
 <br>Mr David Tan
-<br>Mrs Wee May Joan, Frances</p>
-<p>Mdm Maisarah Binte Zulkifly</p>
-<p>Mdm Shen Yan
-<br>Mdm Chua Keng Fang</p>
-<p>Mr Daniel Ng</p>
+<br>Mrs Wee May Joan, Frances
+<br>Mdm Maisarah Binte Zulkifly
+<br>Mdm Shen Yan
+<br>Mdm Chua Keng Fang
+<br>Mr Daniel Ng</p>
 </td>
 </tr>
 <tr>
@@ -59,14 +62,14 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Contact Rugby</p>
-<p>(Boys)</p>
+<p>Contact Rugby
+<br>(Boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Sha'Ban</p>
-<p>Mdm Wan Norzilah</p>
-<p>Mr Afiq Kosnan</p>
-<p>Ms Aishah Binte Sa'ad</p>
+<p>Mr Mohamed Sha'Ban
+<br>Mdm Wan Norzilah
+<br>Mr Afiq Kosnan
+<br>Ms Aishah Binte Sa'ad</p>
 </td>
 </tr>
 <tr>

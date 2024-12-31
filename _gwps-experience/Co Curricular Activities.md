@@ -83,8 +83,8 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p>Mdm Wong Li Peng
 <br>Mr Teo Peng Koon
 <br>Mdm Tan Ailing
-<br>Miss Lim Fang Ping</p>
-<p>Ms Nur'ain</p>
+<br>Miss Lim Fang Ping
+<br>Ms Nur'ain</p>
 </td>
 </tr>
 <tr>
@@ -97,9 +97,9 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Noah Ong
 <br>Mr Mohamed Mahathir Bin Kusnong
-<br>Ms Noor Shazarratul Aini</p>
-<p>Miss Syazwani</p>
-<p>Ms Low Pei Qi</p>
+<br>Ms Noor Shazarratul Aini
+<br>Miss Syazwani
+<br>Ms Low Pei Qi</p>
 </td>
 </tr>
 <tr>
@@ -112,8 +112,8 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Lim Poh Ling
 <br>Mdm Huang Yanling
-<br>Mdm Woo Wai Yin</p>
-<p>Mdm Teo Hui Lee Celeste</p>
+<br>Mdm Woo Wai Yin
+<br>Mdm Teo Hui Lee Celeste</p>
 </td>
 </tr>
 <tr>
@@ -126,8 +126,8 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Zakiah
 <br>Ms Nur Adilah Bte Khamsani
-<br>Mdm Najiyyah Bte Mohamad Said</p>
-<p>Mdm Siti Fadiah Bte Ramdan</p>
+<br>Mdm Najiyyah Bte Mohamad Said
+<br>Mdm Siti Fadiah Bte Ramdan</p>
 </td>
 </tr>
 <tr>
@@ -138,8 +138,8 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p>Indian Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sriranjni d/o Chuparmaniam</p>
-<p>Mdm Siti Alifah Bte Mod Talib
+<p>Mdm Sriranjni d/o Chuparmaniam
+<br>Mdm Siti Alifah Bte Mod Talib
 <br>Mdm Sagaymarie d/o Savarimuthu
 <br>Mdm Junainah Bte Mohamed Yusoff</p>
 </td>
@@ -170,8 +170,8 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p>Mdm Elizabeth Chew Sau Leng
 <br>Mdm Rohaiyah
 <br>Mdm Banun Bte Mohamed
-<br>Mr Tan Teck Lee</p>
-<p>Mdm Tan Yan San</p>
+<br>Mr Tan Teck Lee
+<br>Mdm Tan Yan San</p>
 </td>
 </tr>
 <tr>
@@ -198,10 +198,10 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p>(Art &amp; Craft Club)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jazreel Tan Qian Yee</p>
-<p>Ms Nur Rahayu Binte Mohammad Noor</p>
-<p>Mdm Li Liu</p>
-<p>Mdm Azizah Binte Mohamed Yusoff</p>
+<p>Ms Jazreel Tan Qian Yee
+<br>Ms Nur Rahayu Binte Mohammad Noor
+<br>Mdm Li Liu
+<br>Mdm Azizah Binte Mohamed Yusoff</p>
 </td>
 </tr>
 <tr>
@@ -209,14 +209,14 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English Language, Drama and</p>
-<p>Debating</p>
+<p>English Language, Drama and
+Debating</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm K Radha</p>
-<p>Mdm Rosnani</p>
-<p>Mdm Chong Pei Pei, Paige</p>
-<p>Ms Azra Zulaikha Binte Razali</p>
+<p>Mdm K Radha
+<br>Mdm Rosnani
+<br>Mdm Chong Pei Pei, Paige
+<br>Ms Azra Zulaikha Binte Razali</p>
 </td>
 </tr>
 <tr>
@@ -227,10 +227,10 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p>Environmental Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Sussilawati Md Hasshim</p>
-<p>Ms Teo Shi Hui</p>
-<p>Ms Tan Yueh Zhen Clara</p>
-<p>Mdm Serene Poh</p>
+<p>Mdm Nur Sussilawati Md Hasshim
+<br>Ms Teo Shi Hui
+<br>Ms Tan Yueh Zhen Clara
+<br>Mdm Serene Poh</p>
 </td>
 </tr>
 <tr>
@@ -242,10 +242,10 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p>Production)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tho Cheng Ping, Tracy</p>
-<p>Mdm Wong Kah Hwei, Angie</p>
-<p>Ms Bak Ing Shien</p>
-<p>Mr Lee Choong Yong, Mervyn</p>
+<p>Mrs Tho Cheng Ping, Tracy
+<br>Mdm Wong Kah Hwei, Angie
+<br>Ms Bak Ing Shien
+<br>Mr Lee Choong Yong, Mervyn</p>
 </td>
 </tr>
 <tr>
@@ -256,12 +256,12 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p>Scouts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Wee Jin</p>
-<p>Mdm Nazeera Binte Sulaimi</p>
-<p>Ms Cynthia Ang Xin Wei</p>
-<p>Mr Tsen Hon Leong</p>
-<p>Ms Jamiah Binte Abdullah</p>
-<p>Mdm Siti Noraisha Bte Sanusi</p>
+<p>Mr Ang Wee Jin
+<br>Mdm Nazeera Binte Sulaimi
+<br>Ms Cynthia Ang Xin Wei
+<br>Mr Tsen Hon Leong
+<br>Ms Jamiah Binte Abdullah
+<br>Mdm Siti Noraisha Bte Sanusi</p>
 </td>
 </tr>
 <tr>

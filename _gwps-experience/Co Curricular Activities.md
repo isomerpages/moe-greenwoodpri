@@ -15,7 +15,7 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <img style="width:75%" height="auto" width="100%" src="/images/cca.png">
 </div>
 <p></p>
-<p><strong>Greenwood Primary School<br>CCA Teachers in Charge 2025<br>SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi) <br>AESTHETICS CCA - HOD AESTHETICS (Mrs Jennifer Teo)<br>AESTHETICS CCA(instrument) - SH Music (Mrs Sabrina Tan)</strong>
+<p><strong>Greenwood Primary School<br>CCA Teachers in Charge 2025<br>SPORTS, UG and Clubs CCA - HOD PE (Mr Ardi) <br>AESTHETICS CCA - HOD AESTHETICS (Mrs Jennifer Teo)<br>AESTHETICS CCA (instrument) - SH Music (Mrs Sabrina Tan)</strong>
 </p>
 <p></p>
 <table style="minWidth: 75px">

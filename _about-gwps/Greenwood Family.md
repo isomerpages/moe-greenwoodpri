@@ -1116,18 +1116,18 @@ variant: tiptap
 <p>Ms Nor Aishah Binte Sa'ad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elicia Goh Lay Peng</p>
+<p>Mr Ong Jun Wen, Clarence</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Chinese Language/CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Phan Wei En</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

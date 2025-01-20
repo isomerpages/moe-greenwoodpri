@@ -40,7 +40,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC MobileQ</a>
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
 </p>
 </td>
 </tr>

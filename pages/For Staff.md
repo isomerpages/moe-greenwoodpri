@@ -34,13 +34,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="/files/Request_Form___MPS.pdf" rel="noopener noreferrer nofollow" target="_blank">MPS Quota Increase Form</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://rbs.avero-tech.com/login.html" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System (RBS)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC Mobile</a>
+<p><a href="https://scmobile.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SC MobileQ</a>
 </p>
 </td>
 </tr>

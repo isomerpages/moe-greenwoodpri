@@ -222,7 +222,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head/Science</p>
+<p>HOD/Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Ching Mei Jasmine</p>

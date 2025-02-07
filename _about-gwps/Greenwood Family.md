@@ -426,7 +426,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yvonne Chai Yu Ning</p>

@@ -16,6 +16,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-staff-leave" rel="noopener nofollow" target="_blank">Application for UPA and Full-Pay Unrecorded Leave</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/fpqns" rel="noopener noreferrer nofollow" target="_blank">Finance and Procurement Questions</a>
 </p>
 </td>

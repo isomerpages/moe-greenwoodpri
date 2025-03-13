@@ -26,18 +26,26 @@ school.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Advisor</p>
+<p>Vice Principal Admin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr Tan Kar Wee (Vice Principal Admin)</p>
+<p>&nbsp;Mr Tan Kar Wee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>KP in charge</p>
+<p>HOD Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms Nur’ain Rahim (SH Partnerships)</p>
+<p>Ms Lee Sok Ee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH Partnerships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Ms Nur’Ain Rahim</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +53,7 @@ school.</p>
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Halimatussa’adiah</p>
+<p>&nbsp;Mdm Rynn Rahmat</p>
 </td>
 </tr>
 <tr>
@@ -53,68 +61,76 @@ school.</p>
 <p>Vice Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Rynn Rahmat</p>
+<p>&nbsp;Mdm Halimatussa’adiah</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Raimi Bin Mohamed Juhari</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Bhakti Tamhane</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 PSG Representative</p>
+<p>Mdm Gunasundari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Camalie Quek Chia Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2 PSG Representative</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Mr Keith Goh Han Wee</p>
+<p>Mdm Camalie Quek</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P3 PSG Representative</p>
+<p>Mdm Sylvia Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Vidya Chia</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4 PSG Representative</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Sylvia Wong Siew Yoke</p>
+<p>Mr Keith Goh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P5 PSG Representative</p>
+<p>Mdm Vidya Chia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Gunasundari</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P5 PSG Representative</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Mr Raimi Md Juhari</p>
+<p>Mdm Vivian Low Hui Hui</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P6 PSG Representative</p>
+<p>Mdm Novanti Kumalasari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Bhakti Tamhane</p>
+<p>Mdm Erica Yew</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Adelene Yeoh Siew Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Noraisyah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nadiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Boo Kok Chuon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Karishma</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,6 +138,7 @@ school.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>We welcome you to be a part of us! Join us in our school events and play
 a significant role in your child’s development by helping to create an
 interesting and engaging environment for your child to learn! We also welcome

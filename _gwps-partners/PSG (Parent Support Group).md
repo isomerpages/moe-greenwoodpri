@@ -61,16 +61,10 @@ school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Mdm Halimatussa’adiah</p>
+<p></p>
+<p></p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Raimi Bin Mohamed Juhari</p>

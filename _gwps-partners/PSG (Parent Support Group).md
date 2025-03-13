@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpeg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1.jpeg">
 </div>
 <p>Our PSG is known as&nbsp;BRIDGE. The colourful bridge is used as a metaphor
 to show the meaningful link between the school and parents, working towards
@@ -128,10 +128,7 @@ interesting and engaging environment for your child to learn! We also welcome
 parents to join us to network and bond together to form a support group
 for one another so that you will never have to walk alone in this parenting
 journey.</p>
-<h5><strong>Scan the QR code below to to be part of us</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width:30%" height="auto" width="100%" src="/images/PSG.jpeg">
-</div>
+<h5><strong>Scan the QR code below to to be part of us</strong></h5><a class="isomer-image-wrapper" href="https://form.gov.sg/60012cf5cc5a0d0012bae418"><img style="width:30%" height="auto" width="100%" src="/images/PSG.jpeg"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.jpg">

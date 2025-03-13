@@ -17,7 +17,6 @@ into lifelong learners and responsible citizens through a well-rounded
 education. We provide the voice of our parents as we communicate with the
 school.</p>
 <h4><strong>Parents Support Group EXCO</strong></h4>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

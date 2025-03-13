@@ -25,7 +25,8 @@ school.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Principal Admin</p>
+<p><strong>Vice Principal Admin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Mr Tan Kar Wee</p>
@@ -33,7 +34,8 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD Innovation</p>
+<p><strong>HOD Innovation</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Sok Ee</p>
@@ -41,7 +43,8 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH Partnerships</p>
+<p><strong>SH Partnerships</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Ms Nur’Ain Rahim</p>
@@ -49,7 +52,8 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson</p>
+<p><strong>Chairperson</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Mdm Rynn Rahmat</p>
@@ -57,7 +61,8 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice Chairperson</p>
+<p><strong>Vice Chairperson</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Mdm Halimatussa’adiah</p>

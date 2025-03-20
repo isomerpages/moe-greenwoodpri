@@ -1088,24 +1088,10 @@ variant: tiptap
 <p>Mdm Ong Karen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Shamsiah Binte Md Shariff</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Yixian Joanne</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Zheng Kejun</p>
+<p>Mr Ong Jun Wen, Clarence</p>
 </td>
 </tr>
 <tr>
@@ -1119,7 +1105,7 @@ variant: tiptap
 <p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Jun Wen, Clarence</p>
+<p>Ms Low Yixian Joanne</p>
 </td>
 </tr>
 <tr>
@@ -1128,6 +1114,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Phan Wei En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

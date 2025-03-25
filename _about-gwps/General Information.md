@@ -134,7 +134,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Big Heart Student Care @ Greenwood Primary School
-<br><strong>Tel: 9022 0773 <br>e-mail: greenwood@shgstudentcare.com.sg</strong>
+<br><strong>Tel: 91509974 <br>e-mail: greenwood@shgstudentcare.com.sg</strong>
 </p>
 </td>
 </tr>

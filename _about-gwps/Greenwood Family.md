@@ -166,7 +166,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Info-Comm Technology and Media Resource Library</p>
+<p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chu Yee Leen (Zhou Yanling)</p>
@@ -180,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Info-Comm Technology</p>
+<p>HOD/ICT (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Choong Yong Mervyn</p>

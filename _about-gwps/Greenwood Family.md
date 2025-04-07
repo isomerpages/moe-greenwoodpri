@@ -1074,10 +1074,10 @@ variant: tiptap
 <p>Mdm Rokiah Bte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Malay Language and Character and Citizenship Education (CCE)</p>
+<p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azra Zulaikha Binte Razali</p>
+<p>Ms Nor Aishah Binte Sa'ad</p>
 </td>
 </tr>
 <tr>
@@ -1096,10 +1096,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p>Teacher (Chinese Language/CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nor Aishah Binte Sa'ad</p>
+<p>Miss Phan Wei En</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Physical Education)</p>
@@ -1110,10 +1110,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language/CCE)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Phan Wei En</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

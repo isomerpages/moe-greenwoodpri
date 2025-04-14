@@ -1096,16 +1096,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Yixian Joanne</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language/CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Phan Wei En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Low Yixian Joanne</p>
 </td>
 </tr>
 <tr>

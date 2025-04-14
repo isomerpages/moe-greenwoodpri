@@ -708,7 +708,7 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jasmine Yeo - Lim Ching Mei</p>
+<p>Ms Jasmine Lim</p>
 <p>Mr Afiq Kosnan Bin Kosnan Siran</p>
 </td>
 </tr>
@@ -863,7 +863,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Yeo - Toh Su Wei Jacqueline</p>
-<p>Miss Syazwani Binti Hasrol</p>
+<p>Ms Syazwani Binti Hasrol</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1096,16 +1096,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Yixian Joanne</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language/CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Phan Wei En</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Low Yixian Joanne</p>
 </td>
 </tr>
 <tr>

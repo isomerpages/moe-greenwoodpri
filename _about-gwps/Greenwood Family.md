@@ -708,7 +708,7 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine</p>
+<p>Ms Jasmine Lim</p>
 <p>Mr Afiq Kosnan Bin Kosnan Siran</p>
 </td>
 </tr>

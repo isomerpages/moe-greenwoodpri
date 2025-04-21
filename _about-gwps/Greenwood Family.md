@@ -278,7 +278,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Josephine Huang Kexin</p>
+<p>Mdm Wong Ai Nyuk Irene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -289,30 +289,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong Ai Nyuk Irene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Adjunct Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Eng Hock</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Adjunct ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Desmond Kung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
+<p>Adjunct Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jamilah Bte Ahmad</p>
+<p>Mr Lim Eng Hock</p>
 </td>
 </tr>
 <tr>
@@ -326,7 +312,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Cheng Siong</p>
+<p>Mdm Jamilah Bte Ahmad</p>
 </td>
 </tr>
 <tr>
@@ -340,7 +326,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Silvapakiam D/o Muran</p>
+<p>Mr Tan Cheng Siong</p>
 </td>
 </tr>
 <tr>
@@ -354,7 +340,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fareeth Begam</p>
+<p>Mdm Silvapakiam D/o Muran</p>
 </td>
 </tr>
 <tr>
@@ -363,6 +349,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sim Saw Ping Jasline</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Fareeth Begam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>

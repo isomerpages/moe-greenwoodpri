@@ -956,10 +956,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Mathematics)</p>
+<p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yeo / Toh Su Wei Jacqueline</p>
+<p>Ms Low Yixian Joanne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language)</p>
@@ -1096,16 +1096,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Low Yixian Joanne</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language/CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Phan Wei En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

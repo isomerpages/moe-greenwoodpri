@@ -590,7 +590,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sharon Teo - Chee Wei Leng</p>
-<p>Mdm Siti Alifah Bte Mod Talib</p>
+<p>Mdm Siti Alifah Bte Mod Talib
+<br>
+<br>Miss Jamiah Binte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Responsibility</p>
@@ -941,11 +943,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Mathematics)</p>
+<p>Teacher (Chinese Language/CCE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jamiah Binte Abdullah</p>
-<p></p>
+<p>Miss Phan Wei En</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language)</p>

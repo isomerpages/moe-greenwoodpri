@@ -82,16 +82,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/English Language</p>
+<p>HOD/English Language &amp; Media Resource Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eilina Abdullah Look</p>
+<p>Ms Eilina Look</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Teo</p>
+<p>Mrs Sharon Teo - Chee Wei Leng</p>
 </td>
 </tr>
 <tr>
@@ -197,13 +197,13 @@ variant: tiptap
 <p>HOD/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Xinxiang Jennifer</p>
+<p>Mrs Jennifer Teo - Soh Xinxiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Partnerships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur'Ain Bte Rahim</p>
+<p>Ms Nur'ain Bte Rahim</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ variant: tiptap
 <p>Subject Head/Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sabrina Tan / Wong Choon Yen</p>
+<p>Mrs Sabrina Tan - Wong Choon Yen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Physical Education, CCA and Student Management</p>
@@ -225,7 +225,7 @@ variant: tiptap
 <p>HOD/Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Ching Mei Jasmine</p>
+<p>Ms Jasmine Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Management</p>

@@ -161,7 +161,7 @@ variant: tiptap
 <p>HOD/Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Ng Jun Wei</p>
+<p>Mr Ng Jun Wei Daniel</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +189,7 @@ variant: tiptap
 <p>Subject Head/Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yan San</p>
+<p>Mrs Koh - Tan Yan San</p>
 </td>
 </tr>
 <tr>

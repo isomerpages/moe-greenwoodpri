@@ -292,7 +292,7 @@ variant: tiptap
 <p>Adjunct ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Kung</p>
+<p>Mr Kung Eng Chai Desmond</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Adjunct Operations Manager</p>
@@ -306,7 +306,7 @@ variant: tiptap
 <p>Adjunct ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Nurhizam</p>
+<p>Mr Ahmad Nurhizam Bin Azli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -348,7 +348,7 @@ variant: tiptap
 <p>Adjunct Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Saw Ping Jasline</p>
+<p>Mdm Sim Saw Ping Jasline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>

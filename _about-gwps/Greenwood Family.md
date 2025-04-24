@@ -472,20 +472,19 @@ variant: tiptap
 <p>Mdm Banun Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>(Mathematics)</p>
+<p>Lead Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Satwant Kaur D/o Bhagwan Singh</p>
+<p>Miss Tan Soo Cheng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>(English Language)</p>
+<p>Senior Teacher</p>
+<p>(Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosnani Bte Mohd Hussein</p>
+<p>Mrs Joceiyn Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
@@ -513,17 +512,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>(Science)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joceiyn Wong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (Mathematics)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Soo Cheng</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1103,10 +1101,11 @@ variant: tiptap
 <p>Miss Phan Wei En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Satwant Kaur D/o Bhagwan Singh</p>
 </td>
 </tr>
 <tr>

@@ -484,7 +484,7 @@ variant: tiptap
 <p>(Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joceiyn Wong</p>
+<p>Mrs Wong - Beh Ying Ping Joceiyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
@@ -500,7 +500,7 @@ variant: tiptap
 <br>(Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Frances Loh</p>
+<p>Mrs Loh - Wee May Joan Frances</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher

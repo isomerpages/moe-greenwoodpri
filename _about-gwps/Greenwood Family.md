@@ -480,8 +480,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher</p>
-<p>(Science)</p>
+<p>Senior Teacher (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Wong - Beh Ying Ping Joceiyn</p>

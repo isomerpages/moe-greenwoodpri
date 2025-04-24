@@ -82,16 +82,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/English Language</p>
+<p>HOD/English Language &amp; Media Resource Library</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eilina Abdullah Look</p>
+<p>Ms Eilina Look</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head/Lower Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sharon Teo</p>
+<p>Mrs Sharon Teo - Chee Wei Leng</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@ variant: tiptap
 <p>HOD/Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Ng Jun Wei</p>
+<p>Mr Ng Jun Wei Daniel</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +189,7 @@ variant: tiptap
 <p>Subject Head/Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yan San</p>
+<p>Mrs Koh - Tan Yan San</p>
 </td>
 </tr>
 <tr>
@@ -197,13 +197,13 @@ variant: tiptap
 <p>HOD/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Soh Xinxiang Jennifer</p>
+<p>Mrs Jennifer Teo - Soh Xinxiang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Partnerships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur'Ain Bte Rahim</p>
+<p>Ms Nur'ain Bte Rahim</p>
 </td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ variant: tiptap
 <p>Subject Head/Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sabrina Tan / Wong Choon Yen</p>
+<p>Mrs Sabrina Tan - Wong Choon Yen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Physical Education, CCA and Student Management</p>
@@ -225,7 +225,7 @@ variant: tiptap
 <p>HOD/Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Ching Mei Jasmine</p>
+<p>Ms Jasmine Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Management</p>
@@ -292,7 +292,7 @@ variant: tiptap
 <p>Adjunct ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Desmond Kung</p>
+<p>Mr Kung Eng Chai Desmond</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Adjunct Operations Manager</p>
@@ -306,7 +306,7 @@ variant: tiptap
 <p>Adjunct ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Nurhizam</p>
+<p>Mr Ahmad Nurhizam Bin Azli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -348,7 +348,7 @@ variant: tiptap
 <p>Adjunct Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Saw Ping Jasline</p>
+<p>Mdm Sim Saw Ping Jasline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -472,20 +472,19 @@ variant: tiptap
 <p>Mdm Banun Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>(Mathematics)</p>
+<p>Lead Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Satwant Kaur D/o Bhagwan Singh</p>
+<p>Miss Tan Soo Cheng</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>(English Language)</p>
+<p>Senior Teacher</p>
+<p>(Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosnani Bte Mohd Hussein</p>
+<p>Mrs Wong - Beh Ying Ping Joceiyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
@@ -501,7 +500,7 @@ variant: tiptap
 <br>(Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Frances Loh</p>
+<p>Mrs Loh - Wee May Joan Frances</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
@@ -513,17 +512,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>(Science)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Joceiyn Wong</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher (Mathematics)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Tan Soo Cheng</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1103,10 +1101,11 @@ variant: tiptap
 <p>Miss Phan Wei En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
+<p>(Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Satwant Kaur D/o Bhagwan Singh</p>
 </td>
 </tr>
 <tr>

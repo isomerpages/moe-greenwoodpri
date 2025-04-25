@@ -1010,27 +1010,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Art)</p>
+<p>Teacher (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Azizah Binte Nor Mohamed</p>
+<p>Ms Angela Tang Yee Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Mathematics/Science)</p>
+<p>Teacher (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zarina Bte Mohamed Isa</p>
+<p>Ms Dai Anna</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Mathematics)</p>
+<p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Syafiqah Binte Haji Shaik Maideen</p>
+<p>Mr Muhammad Bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Mathematics/Science)</p>
+<p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nicholas Darren Jajatnath</p>

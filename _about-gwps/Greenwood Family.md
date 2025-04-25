@@ -1033,63 +1033,49 @@ variant: tiptap
 <p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nicholas Darren Jajatnath</p>
+<p>Mr Lim Kwang Seng, Jimmy</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hathijath Bte Abdul Majeed</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/ Maths/ Science/ PE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English/ Maths/ Science/ PE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Darren Jagatnath</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p>Teacher (English/Maths/Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarina Khatoon d/o Mohd Ashraf</p>
+<p>Ms Zarina Binte Mohamed Isa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Maths/ Science/Uplift Programme)</p>
+<p>Teacher (English/Maths/ Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Regina Koh Wei Shan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>UPLIFT Programme Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Pang Li Yee</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rokiah Bte Abdul Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nor Aishah Binte Sa'ad</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Karen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Jun Wen, Clarence</p>
+<p></p>
 </td>
 </tr>
 <tr>

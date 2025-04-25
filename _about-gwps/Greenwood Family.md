@@ -926,30 +926,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
+<p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Bin Ismail</p>
+<p>Ms Nor Aisah Binte Sa'ad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English/Art)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Azizah Bte Nor Mohamed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Bee Ting, Cindy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Leo Dan Dan</p>
 </td>
 </tr>
 <tr>

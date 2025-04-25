@@ -999,7 +999,7 @@ variant: tiptap
 <p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Bee Ting, Cindy</p>
+<p>Ms Ng Bee Ting, Cindy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Tamil Language)</p>

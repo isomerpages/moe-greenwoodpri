@@ -946,49 +946,7 @@ variant: tiptap
 <p>Ms Tan Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Bee Ting, Cindy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Low Yixian Joanne</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Ai Ling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher (Tamil Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jesu</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Mosman Ismahil</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher (Malay Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Maisarah Bte Zulkifly</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nora Othman-Tooch</p>
@@ -996,16 +954,58 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Malay Language)</p>
+<p>Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zaiton Binte Muslim</p>
+<p>Mr Mosman Ismahil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Music)</p>
+<p>Teacher (English/Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Tang Yee Yee</p>
+<p>Mdm Syafiqah Binte Haji Shaik Maideen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics/Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Poh Hwee Khim -Mrs Dorothy Toh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hathijath Bte Abdul Majeed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elicia Goh Lay Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rokiah Bte Abdul Rahim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ng Bee Ting, Cindy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Tamil Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Jesu - Nalpon Jeyamarie Jean</p>
 </td>
 </tr>
 <tr>

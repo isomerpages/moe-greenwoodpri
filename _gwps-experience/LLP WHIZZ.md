@@ -4,7 +4,7 @@ permalink: /gwps-experiences/llp-whizz/
 description: ""
 variant: tiptap
 ---
-<center><h3><strong>Learning for Life Programme (LLP)</strong></h3>
+<h3><strong>Learning for Life Programme (LLP)</strong></h3>
 <p>WHIZZ –&nbsp;<strong>W</strong>e are T<strong>H</strong>inking,&nbsp;<strong>I</strong>nventive
 and&nbsp;<strong>Z</strong>ealous KId<strong>Z</strong>&nbsp;who serve
 the community.</p>
@@ -32,7 +32,7 @@ develop our students with some core values and give them the moral compass
 to be rooted to Singapore. We believe that early exposure to thinking dispositions
 and values-based inquiry would groom our students to be lifelong learners
 and prepare them for greater goals in their lives to serve the future of
-Singapore.</p></center>
+Singapore.</p>
 <p><strong>Outcomes:</strong>
 </p>
 <p>Students are</p>
@@ -81,16 +81,16 @@ in developing our students into Critical Thinkers and Leaders of Character.</p>
 our school values using the CIW Reflection. Thereafter, teachers will provide
 their input and feedback to support our students’ character development.</p>
 <p><strong>Project Work (PW)</strong>
-<br>The school's WHIZZ programme is enacted through the PW programme. This
-initiative embodies the school's vision of fostering critical thinkers
-through an innovative curriculum. The school collaborates with Republic
-Polytechnic to review and enhance this curriculum, ensuring students receive
-robust education centred on design thinking and innovation. Two weeks within
-the school calendar are designated for Project Work (PW), during which
-students apply design thinking to solve real-life community-related problems.
-They transfer, apply, and integrate skills and knowledge from different
-subjects to create experiments, conduct research, or invent solutions.
-Below are the different components of the school’s Project Work:</p>
+<br>At Greenwood Primary School, Project Work (PW) is a cornerstone of our
+WHIZZ Programme and a key driver in cultivating critical thinkers and leaders
+of character. The school collaborated with Republic Polytechnic in 2024
+to review and enhance the PW curriculum. Anchored in Design Thinking and
+aligned with MOE’s Emerging 21st Century Competencies (E21CC), our PW curriculum
+engages students in authentic, real-world challenges — preparing them to
+be Curious, Confident, and Collaborative problem solvers in a dynamic global
+landscape.</p>
+<p><strong>Key Components of PW @ Greenwood:</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Curriculum based on Design Thinking Principles:</strong>
@@ -102,25 +102,198 @@ thinking. Students learn to approach problems creatively, empathise with
 others, and develop solutions collaboratively.</p>
 </li>
 <li>
-<p>By applying design thinking, students acquire essential 21st-century competencies,
-including critical, adaptive, and inventive thinking.</p>
+<p>Our Project Work uses the Design Thinking process, guiding students through:
+<br>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Stage</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Discover</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Understand user needs through interviews and observations.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Define</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Describe the persona of the users.</p>
+<p>Re-frame the problem using “How Might We” based on insights gathered.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Develop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Brainstorm and explore possible solutions.</p>
+<p>Develop tangible products or campaigns to address user needs (prototyping).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Deliver</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gather feedback to improve and iterate ideas.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
 </li>
 </ul>
 </li>
 <li>
-<p><strong>Values in Action (VIA) Projects:</strong>
+<p><strong>3Cs Competencies Framework </strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students engage in real-life tasks through VIA projects, which integrate
-with Project Work (PW).</p>
+<p>The 3Cs Competencies — Curiosity, Confidence, and Collaboration —are aligned
+with the Ministry of Education’s E21CC, that Greenwood nurtures in all
+students to prepare for an ever-evolving world.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Competency</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Description</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Curiosity</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Critical, Adaptive and Inventive Thinking (CAIT)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrate a sense of interest and wonder about the world</p>
+</li>
+<li>
+<p>Engage in reflective thinking and reframing problems using ‘How Might
+We’ to continuously discover, create and refine ideas</p>
+</li>
+</ul>
+<p>Communication, Collaboration and Information Skills (CCI)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Develop a sense of purpose and seek new information and perspectives</p>
+</li>
+<li>
+<p>Ask insightful questions that deepen understanding and challenge assumptions</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Confidence</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CAIT</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Navigate ambiguity and uncertainty with resilience, using evidence-based
+strategies to make decisions</p>
+</li>
+</ul>
+<p>CCI</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Select and organise information that are of relevance to the task while
+acknowledging sources of information</p>
+</li>
+<li>
+<p>Convey information clearly, accurately and respectfully</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Collaboration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCI</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Listen actively while appreciating and responding to different perspectives
+with kindness, sensitivity and empathy</p>
+</li>
+<li>
+<p>Work harmoniously with others and build on the ideas of others to contribute
+to a shared plan to achieve shared goals and build positive relationships</p>
+</li>
+</ul>
+<p>Civic, Global, and Cross-Cultural Literacy (CGC)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Show awareness and acceptance of diverse cultural heritage and customs</p>
+</li>
+<li>
+<p>Foster a sense of belonging to the wider community and the will to act
+through engagement in school and community programmes, to contribute to
+their home, community and nation</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Values in Action (VIA) Integration</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students can apply the Design Thinking framework to understand community
+needs and modify the PW projects to engage community partners such as preschools
+and active ageing centres to contribute meaningfully.</p>
 </li>
 <li>
 <p>These projects focus on three areas: Awareness, Action, and Advocacy,
-all aimed at improving community well-being.</p>
-</li>
-<li>
-<p>Students acquire Civic Literacy</p>
+empowering students to acquire civic literacy and contribute meaningfully.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW1.png">
+</div>
+<p></p>
 </li>
 </ul>
 </li>
@@ -129,46 +302,50 @@ all aimed at improving community well-being.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Primary 1 and 2 students raise awareness on relevant issues. For instance,
-they use food journaling to document family memories, contributing to the
-national archival collection, Singapore <a href="https://www.singaporememories.gov.sg/Highlight/HighlightCollections?HighlightId=1" rel="noopener noreferrer nofollow" target="_blank">Makan</a>,
+<p>Primary 1 and 2 students use food journaling to document family memories.
+In 2024, we contributed to the national archival collection, <a href="https://www.singaporememories.gov.sg/Highlight/HighlightCollections?HighlightId=1" rel="noopener nofollow" target="_blank">Singapore Makan</a>,
 in collaboration with the National Library Board Contemporary Collecting</p>
 </li>
 <li>
-<p>Primary 3 students reimagine and design school spaces to enhance the learning
-environment.</p>
+<p>Primary 3 students design games or toys for family members and friends
+to teach a concept through a fun way.</p>
 </li>
 <li>
-<p>Primary 4 students take action by designing games or toys for competitions
-and the annual Celebrating OWLETS event, promoting social entrepreneurship.</p>
+<p>Primary 4 students raise awareness among seniors and preschool students
+in our neighborhood about how they can contribute to making Singapore a
+Zero Waste Nation.</p>
 </li>
 <li>
-<p>Primary 5 students increase awareness of health benefits, such as eating
-mushrooms, through partnerships with organisations like Golden Cap Farm,
-while serving other partners such as the Day Centres for Seniors and the
-Preschools in our neighbourhood.</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong>Celebrating Owlets - Project Showcase</strong>
+<p>Primary 5 students work on an entrepreneurship-themed project where they
+identify problems faced by real stakeholders, such as local brand Pupsik
+and school canteen vendors, and design innovative solutions. They interviewed
+the stakeholders to better understand their needs, and eventually created
+prototypes like informative marketing campaigns, creative packaging, or
+interactive tools to support them by boosting sales or overcoming their
+challenges.
+<br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students have opportunities to present their final project outcomes to
-their peers and teachers in class.</p>
-</li>
-<li>
-<p>The culmination of these efforts is showcased at the school’s annual Celebrating
-Owlets event, where completed projects are displayed in booths.</p>
-</li>
-<li>
-<p>Through this platform, students acquire essential 21st-century competencies
-such as Communication, Collaboration and Information Skills.</p>
 </li>
 </ul>
+</li>
+<li>
+<p><strong>Celebrating OWLETS - Project Showcase</strong>
+<br>• Students proudly showcase their completed projects to peers, teachers,
+and the community.</p>
+<p>• Through this platform, students demonstrate their creativity, problem-solving
+skills, and teamwork. We celebrate students’ growth, innovation, and the
+power of collaborative learning</p>
+<p></p>
 </li>
 </ol>
+<p><strong>Overview of Project Work @ Greenwood Primary School</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW_diagram.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW2.png">
+</div>
 <p>Greenwood Primary School’s WHIZZ programme exemplifies its commitment
 to nurturing Critical Thinkers and Leaders of Character who actively contribute
 to their community. Through the Project Work and CIW, students learn about
@@ -178,18 +355,25 @@ The positive contributions our students make will help them become Critical
 Thinkers and Leaders of Character, forming a future generation that will
 contribute significantly to society.</p>
 <p></p>
+<p>Greenwood Primary School’s WHIZZ programme exemplifies its commitment
+to nurturing Critical Thinkers and Leaders of Character who actively contribute
+to their community. Through Project Work and CIW, students learn about
+design thinking and apply that to real-life projects. Hence, they develop
+students with 21st-century competencies to make a positive impact. The
+positive contributions our students make will help them become Critical
+Thinkers and Leaders of Character, forming a future-ready generation that
+will contribute significantly to society.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW01.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW3.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW02.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW4.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 80%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW03.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW5.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW04.png">
-</div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:33%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(3).png">
 </div>

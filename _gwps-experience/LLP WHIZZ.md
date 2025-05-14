@@ -81,14 +81,14 @@ in developing our students into Critical Thinkers and Leaders of Character.</p>
 our school values using the CIW Reflection. Thereafter, teachers will provide
 their input and feedback to support our students’ character development.</p>
 <p><strong>Project Work (PW)</strong>
-<br>At Greenwood Primary School, Project Work (PW) is a cornerstone of our
-WHIZZ Programme and a key driver in cultivating critical thinkers and leaders
-of character. The school collaborated with Republic Polytechnic in 2024
-to review and enhance the PW curriculum. Anchored in Design Thinking and
-aligned with MOE’s Emerging 21st Century Competencies (E21CC), our PW curriculum
-engages students in authentic, real-world challenges — preparing them to
-be Curious, Confident, and Collaborative problem solvers in a dynamic global
-landscape.</p>
+<br>At Greenwood Primary School, <strong>Project Work (PW)</strong> is a cornerstone
+of our WHIZZ Programme and a key driver in cultivating critical thinkers
+and leaders of character. The school collaborated with Republic Polytechnic
+in 2024 to review and enhance the PW curriculum. Anchored in Design Thinking
+and aligned with MOE’s Emerging 21st Century Competencies (E21CC), our
+PW curriculum engages students in authentic, real-world challenges — preparing
+them to be Curious, Confident, and Collaborative problem solvers in a dynamic
+global landscape.</p>
 <p><strong>Key Components of PW @ Greenwood:</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -102,178 +102,30 @@ thinking. Students learn to approach problems creatively, empathise with
 others, and develop solutions collaboratively.</p>
 </li>
 <li>
-<p>Our Project Work uses the Design Thinking process, guiding students through:
+<p>Our Project Work uses the <strong>Design Thinking process</strong>, guiding
+students through:
 <br>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Stage</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Description</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Discover</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Understand user needs through interviews and observations.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Define</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Describe the persona of the users.</p>
-<p>Re-frame the problem using “How Might We” based on insights gathered.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Develop</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Brainstorm and explore possible solutions.</p>
-<p>Develop tangible products or campaigns to address user needs (prototyping).</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Deliver</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gather feedback to improve and iterate ideas.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW_Table_1.png">
+</div>
+<p></p>
 </li>
 </ul>
 </li>
 <li>
-<p><strong>3Cs Competencies Framework </strong>
+<p><strong>3Cs Competencies Framework</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The 3Cs Competencies — Curiosity, Confidence, and Collaboration —are aligned
 with the Ministry of Education’s E21CC, that Greenwood nurtures in all
 students to prepare for an ever-evolving world.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Competency</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Description</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Curiosity</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Critical, Adaptive and Inventive Thinking (CAIT)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Demonstrate a sense of interest and wonder about the world</p>
-</li>
-<li>
-<p>Engage in reflective thinking and reframing problems using ‘How Might
-We’ to continuously discover, create and refine ideas</p>
-</li>
-</ul>
-<p>Communication, Collaboration and Information Skills (CCI)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Develop a sense of purpose and seek new information and perspectives</p>
-</li>
-<li>
-<p>Ask insightful questions that deepen understanding and challenge assumptions</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Confidence</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CAIT</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Navigate ambiguity and uncertainty with resilience, using evidence-based
-strategies to make decisions</p>
-</li>
-</ul>
-<p>CCI</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Select and organise information that are of relevance to the task while
-acknowledging sources of information</p>
-</li>
-<li>
-<p>Convey information clearly, accurately and respectfully</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Collaboration</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CCI</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Listen actively while appreciating and responding to different perspectives
-with kindness, sensitivity and empathy</p>
-</li>
-<li>
-<p>Work harmoniously with others and build on the ideas of others to contribute
-to a shared plan to achieve shared goals and build positive relationships</p>
-</li>
-</ul>
-<p>Civic, Global, and Cross-Cultural Literacy (CGC)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Show awareness and acceptance of diverse cultural heritage and customs</p>
-</li>
-<li>
-<p>Foster a sense of belonging to the wider community and the will to act
-through engagement in school and community programmes, to contribute to
-their home, community and nation</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW_Table_2.png">
+</div>
+<p></p>
 </li>
 </ul>
 </li>
@@ -287,7 +139,7 @@ needs and modify the PW projects to engage community partners such as preschools
 and active ageing centres to contribute meaningfully.</p>
 </li>
 <li>
-<p>These projects focus on three areas: Awareness, Action, and Advocacy,
+<p>These projects focus on three areas: <strong>Awareness</strong>, <strong>Action</strong>, <strong>and Advocacy</strong>,
 empowering students to acquire civic literacy and contribute meaningfully.</p>
 <p></p>
 <div class="isomer-image-wrapper">

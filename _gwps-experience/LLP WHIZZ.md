@@ -11,6 +11,7 @@ the community.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/whizz-min.jpeg">
 </div>
+<center>
 <h4><strong>Rationale:</strong></h4>
 <p>Globalisation, changing demographics and technological advancements are
 some of the key driving forces in a fast-changing world. To enable our
@@ -33,6 +34,7 @@ to be rooted to Singapore. We believe that early exposure to thinking dispositio
 and values-based inquiry would groom our students to be lifelong learners
 and prepare them for greater goals in their lives to serve the future of
 Singapore.</p>
+	</center>
 <p><strong>Outcomes:</strong>
 </p>
 <p>Students are</p>

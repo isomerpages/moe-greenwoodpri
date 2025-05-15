@@ -182,14 +182,16 @@ challenges.
 </li>
 <li>
 <p><strong>Celebrating OWLETS - Project Showcase</strong>
-<br>• Students proudly showcase their completed projects to peers, teachers,
-and the community.</p>
-<p>• Through this platform, students demonstrate their creativity, problem-solving
-skills, and teamwork. We celebrate students’ growth, innovation, and the
-power of collaborative learning</p>
-<p></p>
+	</p><ul data-tight="true" class="tight">
+<li>
+Students proudly showcase their completed projects to peers, teachers,
+and the community.<p></p>
 </li>
-</ol>
+<li> Through this platform, students demonstrate their creativity, problem-solving
+skills, and teamwork. We celebrate students’ growth, innovation, and the
+power of collaborative learning<p></p>
+</li>
+</ul></li></ol>
 <p><strong>Overview of Project Work @ Greenwood Primary School</strong>
 </p>
 <div class="isomer-image-wrapper">

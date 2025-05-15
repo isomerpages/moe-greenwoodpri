@@ -4,7 +4,8 @@ permalink: /gwps-experiences/llp-whizz/
 description: ""
 variant: markdown
 ---
-<center><h3><strong>Learning for Life Programme (LLP)</strong></h3>
+<center>
+<h3><strong>Learning for Life Programme (LLP)</strong></h3>
 <p>WHIZZ –&nbsp;<strong>W</strong>e are T<strong>H</strong>inking,&nbsp;<strong>I</strong>nventive
 and&nbsp;<strong>Z</strong>ealous KId<strong>Z</strong>&nbsp;who serve
 the community.</p>
@@ -32,7 +33,8 @@ develop our students with some core values and give them the moral compass
 to be rooted to Singapore. We believe that early exposure to thinking dispositions
 and values-based inquiry would groom our students to be lifelong learners
 and prepare them for greater goals in their lives to serve the future of
-Singapore.</p></center>
+Singapore.</p>
+	</center>
 <p><strong>Outcomes:</strong>
 </p>
 <p>Students are</p>
@@ -182,23 +184,29 @@ challenges.
 </li>
 <li>
 <p><strong>Celebrating OWLETS - Project Showcase</strong>
-	</p><ul data-tight="true" class="tight">
+</p>
+<ul data-tight="true" class="tight">
 <li>
-Students proudly showcase their completed projects to peers, teachers,
-and the community.<p></p>
+<p>Students proudly showcase their completed projects to peers, teachers,
+and the community.</p>
+<p></p>
 </li>
-<li> Through this platform, students demonstrate their creativity, problem-solving
+<li>
+<p>Through this platform, students demonstrate their creativity, problem-solving
 skills, and teamwork. We celebrate students’ growth, innovation, and the
-power of collaborative learning<p></p>
+power of collaborative learning</p>
+<p></p>
 </li>
-</ul></li></ol>
+</ul>
+</li>
+</ol>
 <p><strong>Overview of Project Work @ Greenwood Primary School</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW_diagram.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/PW2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/pw2.png">
 </div>
 <p>Greenwood Primary School’s WHIZZ programme exemplifies its commitment
 to nurturing Critical Thinkers and Leaders of Character who actively contribute

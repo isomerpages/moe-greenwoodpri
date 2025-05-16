@@ -208,14 +208,6 @@ power of collaborative learning</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/pw2.png">
 </div>
-<p>Greenwood Primary School’s WHIZZ programme exemplifies its commitment
-to nurturing Critical Thinkers and Leaders of Character who actively contribute
-to their community. Through the Project Work and CIW, students learn about
-design thinking and apply that to real-life projects. Hence, they develop
-students develop 21st-century competencies and make a positive impact.
-The positive contributions our students make will help them become Critical
-Thinkers and Leaders of Character, forming a future generation that will
-contribute significantly to society.</p>
 <p></p>
 <p>Greenwood Primary School’s WHIZZ programme exemplifies its commitment
 to nurturing Critical Thinkers and Leaders of Character who actively contribute

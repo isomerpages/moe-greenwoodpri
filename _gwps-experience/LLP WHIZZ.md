@@ -208,7 +208,6 @@ power of collaborative learning</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/LLP WHIZZ/pw2.png">
 </div>
-<p></p>
 <p>Greenwood Primary School’s WHIZZ programme exemplifies its commitment
 to nurturing Critical Thinkers and Leaders of Character who actively contribute
 to their community. Through Project Work and CIW, students learn about

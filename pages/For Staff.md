@@ -22,6 +22,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-time-off" rel="noopener nofollow" target="_blank">Application for Time-off</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/fpqns" rel="noopener noreferrer nofollow" target="_blank">Finance and Procurement Questions</a>
 </p>
 </td>
@@ -35,6 +41,12 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/gwps-announcements" rel="noopener noreferrer nofollow" target="_blank">Morning Announcement Link</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-staff-travel-declaration" rel="noopener nofollow" target="_blank">Overseas Travel Approval</a>
 </p>
 </td>
 </tr>
@@ -76,13 +88,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-staff-travel-declaration" rel="noopener nofollow" target="_blank">Travel Declarations</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">Visitor Registration</a>
+<p><a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">Visitor Registration System</a>
 </p>
 </td>
 </tr>
@@ -101,6 +107,12 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>MOE LINKS</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener nofollow" target="_blank">HR Online</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

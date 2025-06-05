@@ -22,6 +22,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-time-off" rel="noopener nofollow" target="_blank">Application for Time-off</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/fpqns" rel="noopener noreferrer nofollow" target="_blank">Finance and Procurement Questions</a>
 </p>
 </td>
@@ -77,12 +83,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/gwps-admin-ops" rel="noopener noreferrer nofollow" target="_blank">Templates and Documents</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-time-off" rel="noopener nofollow" target="_blank">Time-off Application</a>
 </p>
 </td>
 </tr>

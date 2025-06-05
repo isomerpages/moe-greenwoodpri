@@ -104,6 +104,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg/hronline/Pages/Home.aspx" rel="noopener nofollow" target="_blank">HR Online</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.hrp.gov.sg/hrp/#/" rel="noopener noreferrer nofollow" target="_blank">HR &amp; Payroll (HRP) Portal</a>
 </p>
 </td>

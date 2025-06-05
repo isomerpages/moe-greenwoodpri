@@ -40,6 +40,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-staff-travel-declaration" rel="noopener nofollow" target="_blank">Overseas Travel Approval</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://rbs.avero-tech.com/login.html" rel="noopener noreferrer nofollow" target="_blank">Resource Booking System (RBS)</a>
 </p>
 </td>
@@ -76,13 +82,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-staff-travel-declaration" rel="noopener nofollow" target="_blank">Travel Declarations</a>
+<p><a href="https://go.gov.sg/gwps-time-off" rel="noopener nofollow" target="_blank">Time-off Application</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">Visitor Registration</a>
+<p><a href="https://go.gov.sg/gwps-vrs" rel="noopener noreferrer nofollow" target="_blank">Visitor Registration System</a>
 </p>
 </td>
 </tr>

@@ -28,7 +28,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fpqns" rel="noopener noreferrer nofollow" target="_blank">Finance and Procurement Questions</a>
+<p><a href="https://go.gov.sg/ask-the-sat" rel="noopener noreferrer nofollow" target="_blank">Ask the SAT your finance, operations, admin questions!</a>
 </p>
 </td>
 </tr>

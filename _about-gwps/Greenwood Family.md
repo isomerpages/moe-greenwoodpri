@@ -1059,7 +1059,7 @@ variant: tiptap
 <p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/ Maths/ Science/ PE)</p>
+<p>Teacher (English/ Maths/ Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nicholas Darren Jagatnath</p>

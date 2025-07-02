@@ -44,15 +44,16 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kumar Palaiyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal (Admin)</p>
+<p>(Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Kar Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -954,10 +955,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English Language)</p>
+<p>Teacher ()</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mosman Ismahil</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/Mathematics)</p>

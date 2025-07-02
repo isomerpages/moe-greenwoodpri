@@ -214,10 +214,10 @@ variant: tiptap
 <p>Mrs Sabrina Tan - Wong Choon Yen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Physical Education, CCA and Student Management</p>
+<p>Subject Head/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ardi Bin Ramli</p>
+<p>Mr Daniel Ng Jun De</p>
 </td>
 </tr>
 <tr>
@@ -228,10 +228,10 @@ variant: tiptap
 <p>Ms Jasmine Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Student Management</p>
+<p>Subject Head/Student Leadership (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Ng Jun De</p>
+<p>Mdm Serene Poh</p>
 </td>
 </tr>
 <tr>
@@ -242,10 +242,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Student Leadership (Covering)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Serene Poh</p>
+<p></p>
 </td>
 </tr>
 </tbody>

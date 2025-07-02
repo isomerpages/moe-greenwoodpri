@@ -526,8 +526,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-<p>(English)</p>
+<p>Lead Teacher
+<br>(English)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Chai Hok</p>

@@ -674,7 +674,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sarah Tan - Leong Yoke Lin</p>
-<p>Mr Ardi Bin Ramli</p>
 <p>Miss Phan Wei En</p>
 </td>
 </tr>

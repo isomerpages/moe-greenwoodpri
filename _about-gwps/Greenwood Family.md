@@ -243,10 +243,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head/PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Alfiyan Bin Harith</p>
 </td>
 </tr>
 </tbody>
@@ -944,6 +944,7 @@ variant: tiptap
 <p>Teacher ()</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

@@ -43,8 +43,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-<p>(Admin)</p>
+<p>Vice-Principal
+<br>(Admin)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Kar Wee</p>

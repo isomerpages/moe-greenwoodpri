@@ -603,8 +603,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sharon Teo - Chee Wei Leng</p>
-<p>Mdm Siti Alifah Bte Mod Talib
-<br>Miss Jamiah Binte Abdullah</p>
+<p>Mdm Siti Alifah Bte Mod Talib</p>
+<p>Miss Jamiah Binte Abdullah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Responsibility</p>

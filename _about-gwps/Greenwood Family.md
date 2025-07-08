@@ -99,7 +99,7 @@ variant: tiptap
 <p>Level Head/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noraini Bte Nanyan</p>
+<p>Mdm Noraini Binte Nanyan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head/Lower Primary</p>
@@ -577,6 +577,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Chong Pei Pei Paige</p>
 <p>Mrs Jennifer Teo - Soh Xin Xiang</p>
+<p>Mr Clarence Ong</p>
 </td>
 </tr>
 <tr>
@@ -593,6 +594,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Nazeera Bte Sulaimi</p>
 <p>Mdm Tham Yoke Kuan Joyce</p>
+<p>Mdm Noraini Binte Nanyan</p>
 </td>
 </tr>
 <tr>
@@ -625,6 +627,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Teck Lee</p>
+<p>Mdm Syazana Binte Ruslaine</p>
 <p>Mrs Sabrina Tan - Wong Choon Yun</p>
 </td>
 </tr>
@@ -642,6 +645,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Koh - Zhuo Caiwei</p>
 <p>Mdm Azra Zulaikha Binte Razali</p>
+<p>Mdm Satwant Kaur D/o Bhagwan Singh</p>
 </td>
 </tr>
 <tr>
@@ -820,6 +824,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Goh Min Min Linda</p>
 <p>Ms Lee Sok Ee</p>
+<p>Ms Eilina Look</p>
+<p>Mr Alfiyan Bin Harith</p>
 </td>
 </tr>
 <tr>
@@ -852,6 +858,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Serene Poh</p>
 <p>Mdm Siti Fadiah Bte Ramdan</p>
+<p>Mdm Sriranjni D/o Chuparmaniam</p>
 </td>
 </tr>
 <tr>
@@ -926,10 +933,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Satwant Kaur D/o Bhagwan Singh</p>
+<p>Ms Tan Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (LSM)</p>
@@ -940,10 +947,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language)</p>
+<p>Teacher (Mathematics/Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ai Ling</p>
+<p>Mdm Poh Hwee Khim -Mrs Dorothy Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/Art)</p>
@@ -954,10 +961,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics/Science)</p>
+<p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Poh Hwee Khim -Mrs Dorothy Toh</p>
+<p>Ms Elicia Goh Lay Pang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English Language)</p>
@@ -968,30 +975,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Elicia Goh Lay Pang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (English/Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Syafiqah Binte Haji Shaik Maideen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ng Bee Ting, Cindy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p>Teacher (English/Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hathijath Bte Abdul Majeed</p>
+<p>Mdm Syafiqah Binte Haji Shaik Maideen</p>
 </td>
 </tr>
 <tr>
@@ -1005,7 +998,7 @@ variant: tiptap
 <p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rokiah Bte Abdul Rahim</p>
+<p>Mdm Hathijath Bte Abdul Majeed</p>
 </td>
 </tr>
 <tr>
@@ -1016,10 +1009,10 @@ variant: tiptap
 <p>Mr Muhammad Bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Tamil Language)</p>
+<p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jesu - Nalpon Jeyamarie Jean</p>
+<p>Mdm Rokiah Bte Abdul Rahim</p>
 </td>
 </tr>
 <tr>
@@ -1030,24 +1023,10 @@ variant: tiptap
 <p>Mr Lim Kwang Seng, Jimmy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Music)</p>
+<p>Teacher (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Dai Anna</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Jun Wen, Clarence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Music)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Syazana Binte Ruslaine</p>
+<p>Mrs Jesu - Nalpon Jeyamarie Jean</p>
 </td>
 </tr>
 <tr>
@@ -1058,10 +1037,10 @@ variant: tiptap
 <p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/ Maths/ Science)</p>
+<p>Teacher (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Nicholas Darren Jagatnath</p>
+<p>Ms Dai Anna</p>
 </td>
 </tr>
 <tr>
@@ -1070,6 +1049,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zarina Binte Abu Bakar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English/ Maths/ Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Darren Jagatnath</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Siew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UPLIFT Programme Mentor</p>

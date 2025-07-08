@@ -577,6 +577,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Chong Pei Pei Paige</p>
 <p>Mrs Jennifer Teo - Soh Xin Xiang</p>
+<p>Mr Clarence Ong</p>
 </td>
 </tr>
 <tr>

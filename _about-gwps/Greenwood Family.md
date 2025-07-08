@@ -645,6 +645,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Koh - Zhuo Caiwei</p>
 <p>Mdm Azra Zulaikha Binte Razali</p>
+<p>Mdm Satwant Kaur D/o Bhagwan Singh</p>
 </td>
 </tr>
 <tr>

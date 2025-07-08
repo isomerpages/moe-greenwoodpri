@@ -1039,10 +1039,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
+<p>Teacher (English/ Maths/ Science/ PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Jun Wen, Clarence</p>
+<p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Music)</p>
@@ -1053,10 +1053,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/ Maths/ Science/ PE)</p>
+<p>Teacher (Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
+<p>Mdm Zarina Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/ Maths/ Science)</p>
@@ -1067,10 +1067,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Malay)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarina Binte Abu Bakar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UPLIFT Programme Mentor</p>

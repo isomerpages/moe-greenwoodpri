@@ -99,7 +99,7 @@ variant: tiptap
 <p>Level Head/English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noraini Bte Nanyan</p>
+<p>Mdm Noraini Binte Nanyan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head/Lower Primary</p>

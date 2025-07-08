@@ -1059,10 +1059,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ng Siew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UPLIFT Programme Mentor</p>

@@ -236,16 +236,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Subject Head/PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alfiyan Bin Harith</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -275,7 +275,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Manager</p>
+<p>Administrative Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Ai Nyuk Irene</p>
@@ -289,7 +289,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Executive</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Annie Chong</p>
@@ -526,7 +526,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher
-<br>(English)</p>
+<br>(English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Chai Hok</p>

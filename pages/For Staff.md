@@ -128,6 +128,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg/moeprocurement/Pages/iCart.aspx" rel="noopener nofollow" target="_blank">MOE Procurement - iCart</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>
 </p>
 </td>

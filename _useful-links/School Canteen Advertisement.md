@@ -1,7 +1,7 @@
 ---
 title: School Canteen Advertisement
 permalink: /school-canteen-advertisement/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p>Greenwood Primary School has 1 canteen stall vacancy for Muslim Western
@@ -42,7 +42,7 @@ and food served within the school compound.</p>
 </li>
 </ol>
 <p>&nbsp;<strong><u>Application Procedure:</u></strong>
-<br>Interested applicants are to complete the <strong>attached application form</strong> and
+<br>Interested applicants are to complete the <strong><a href="/files/School Bus Advertisement/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">attached application form</a></strong> and
 submit it to the <strong>school’s General Office by Monday, 25 July 2025</strong>,
 along with the following supporting documents:</p>
 <ul data-tight="true" class="tight">

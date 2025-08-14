@@ -43,7 +43,7 @@ and food served within the school compound.</p>
 </ol>
 <p>&nbsp;<strong><u>Application Procedure:</u></strong>
 <br>Interested applicants are to complete the <strong><a href="/files/School Bus Advertisement/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">attached application form</a></strong> and
-submit it to the <strong>school’s General Office by Monday, 25 July 2025</strong>,
+submit it to the <strong>school’s General Office by Monday, 1 September 2025</strong>,
 along with the following supporting documents:</p>
 <ul data-tight="true" class="tight">
 <li>

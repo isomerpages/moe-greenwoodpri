@@ -4,8 +4,8 @@ permalink: /school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<p>Greenwood Primary School has 1 canteen stall vacancy for Muslim Western
-Food stall, with operations to commence from 1 August 2025.
+<p>Greenwood Primary School has 1 canteen stall vacancy for <strong>Muslim Western Food/Snacks stall</strong>,
+with operations to commence in 2025.
 <br>Our school is located at <a href="https://www.onemap.gov.sg/?lat=1.4398996&amp;lng=103.8047256" rel="noopener nofollow" target="_blank">11 Woodlands Drive 62 Singapore 737942</a>.&nbsp;</p>
 <p><strong><u>Stall Requirements:</u></strong>
 </p>
@@ -43,7 +43,7 @@ and food served within the school compound.</p>
 </ol>
 <p>&nbsp;<strong><u>Application Procedure:</u></strong>
 <br>Interested applicants are to complete the <strong><a href="/files/School Bus Advertisement/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">attached application form</a></strong> and
-submit it to the <strong>school’s General Office by Monday, 1 September 2025</strong>,
+submit it to the <strong>school’s General Office by Monday, 01 October 2025</strong>,
 along with the following supporting documents:</p>
 <ul data-tight="true" class="tight">
 <li>

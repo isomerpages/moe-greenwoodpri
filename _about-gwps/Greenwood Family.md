@@ -1064,10 +1064,10 @@ variant: tiptap
 <p>Mdm Ng Siew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (English/Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Joshua Tan Xueyao</p>
 </td>
 </tr>
 <tr>

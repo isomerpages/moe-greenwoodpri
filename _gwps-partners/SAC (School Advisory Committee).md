@@ -30,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Honorary Treasurer</p>
+<p>Honorary Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Tricilia Chua</p>

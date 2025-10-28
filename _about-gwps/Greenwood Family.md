@@ -345,10 +345,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adjunct ICT Manager</p>
+<p>Adjunct ICT Associate</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kung Eng Chai Desmond</p>
+<p>Mr Ahmad Nurhizam Bin Azli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -359,10 +359,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Adjunct ICT Associate</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Nurhizam Bin Azli</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>

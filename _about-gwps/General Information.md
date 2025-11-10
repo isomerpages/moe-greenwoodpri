@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reporting Time</p>
+<p>Reporting Time for students</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>7.30 am</p>
@@ -52,10 +52,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gate 1</p>
+<p>Gate 1
+<br>(Main entrance)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Opened during school hours</p>
+<p><em>Opened during school hours</em>
+</p>
+<p></p>
+<p><em>(Note that vehicles </em><strong><em><u>will not </u></em></strong><em>be allowed to enter school from 1.15pm to 1.40pm to facilitate school dismissal.)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -75,6 +80,7 @@ variant: tiptap
 <p><strong>Monday to Friday</strong>
 <br>7.00 am – 7.30 am
 <br>1.30 pm – 2.00 pm</p>
+<p></p>
 </td>
 </tr>
 </tbody>

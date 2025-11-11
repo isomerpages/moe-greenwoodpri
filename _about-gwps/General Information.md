@@ -83,6 +83,15 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<blockquote>
+<p>SPECIAL NOTE FOR CYCLISTS:</p>
+</blockquote>
+<p>For students, staff, and public safety, we remind all cyclists to <strong>dismount from their bicycles and push them when travelling along the covered linkway outside the school Gate 1, 2, and 3 </strong>along
+Woodlands Drive 62.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">

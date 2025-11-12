@@ -211,7 +211,7 @@ variant: tiptap
 <p>Subject Head/Music</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sabrina Tan - Wong Choon Yen</p>
+<p>Mrs Sabrina Tan - Wong Choon Yun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Management</p>

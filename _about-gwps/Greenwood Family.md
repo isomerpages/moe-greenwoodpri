@@ -590,9 +590,8 @@ variant: tiptap
 <p>3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Pei Pei Paige</p>
-<p>Mrs Jennifer Teo - Soh Xin Xiang</p>
-<p>Mr Clarence Ong</p>
+<p>Ms Teo Shi Hui
+<br>Mr Teo Peng Koon (Zhang Bingkun)</p>
 </td>
 </tr>
 <tr>
@@ -607,9 +606,8 @@ variant: tiptap
 <p>4 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazeera Bte Sulaimi</p>
-<p>Mdm Tham Yoke Kuan Joyce</p>
-<p>Mdm Noraini Binte Nanyan</p>
+<p>Mdm Siti Noraisha Bte Sanusi
+<br>Mr Mohamed Mahathir Bin Kusnong</p>
 </td>
 </tr>
 <tr>
@@ -624,8 +622,8 @@ variant: tiptap
 <p>4 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Wee Jin</p>
-<p>Miss Tan Soo Cheng</p>
+<p>Ms K Radha
+<br>Ms Nur Rahayu Bte Mohammad Noor</p>
 </td>
 </tr>
 <tr>
@@ -640,8 +638,8 @@ variant: tiptap
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Teck Lee</p>
-<p>Mrs Sabrina Tan - Wong Choon Yun</p>
+<p>Mdm Sarah Nur Shahirah Binte Fazal
+<br>Mrs Koh - Tan Yan San</p>
 </td>
 </tr>
 <tr>
@@ -657,9 +655,8 @@ variant: tiptap
 <p>4 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh - Zhuo Caiwei</p>
-<p>Mdm Azra Zulaikha Binte Razali</p>
-<p>Mdm Satwant Kaur D/o Bhagwan Singh</p>
+<p>Mr David Tan Sez Wee
+<br>Mdm Tham Yoke Kuan Joyce</p>
 </td>
 </tr>
 <tr>
@@ -676,8 +673,8 @@ variant: tiptap
 <p>4 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Wan Norzilah Bte Mohd Shafian</p>
-<p>Mr Teo Peng Koon (Zhang Bingkun)</p>
+<p>Mrs Yeo - Toh Su Wei Jacqueline
+<br>Ms Syazwani Binti Hasrol</p>
 </td>
 </tr>
 <tr>
@@ -692,8 +689,9 @@ variant: tiptap
 <p>4 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sarah Tan - Leong Yoke Lin</p>
-<p>Miss Phan Wei En</p>
+<p>Ms Chong Pei Pei, Paige
+<br>Mrs Jennifer Teo - Soh Xin Xiang
+<br>Mr Ong Jun Wen Clarence</p>
 </td>
 </tr>
 <tr>
@@ -708,8 +706,8 @@ variant: tiptap
 <p>5 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Loh - Wee May Joan Frances</p>
-<p>Mr Mohamed Sha'ban B Mohd Rapiai</p>
+<p>Mdm Serene Poh
+<br>Mr Shahril Bin Mohamed Jalani</p>
 </td>
 </tr>
 <tr>
@@ -724,9 +722,8 @@ variant: tiptap
 <p>5 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Sussilawati Md Hasshim</p>
-<p>Mr Yii Chu Sing Michael</p>
-<p>Ms Low Yixian Joanne</p>
+<p>Mr Alfiyan Bin Harith
+<br>Mdm Chu Yee Leen</p>
 </td>
 </tr>
 <tr>
@@ -741,9 +738,8 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Lim</p>
-<p>Mr Afiq Kosnan Bin Kosnan Siran</p>
-<p>Ms Chua Keng Fang</p>
+<p>Mdm Siti Fadiah Bte Ramdan
+<br>Mdm Bong Suan Choo Joyce</p>
 </td>
 </tr>
 <tr>
@@ -758,8 +754,9 @@ variant: tiptap
 <p>5 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Luzheng, Noah</p>
-<p>Mdm Siti Sarah Bte Mohamad Saleh</p>
+<p>Mr Lee Choong Yong Mervyn
+<br>Mdm Goh Min Min Linda
+<br>Mrs Tracy Lee - Tho Cheng Ping</p>
 </td>
 </tr>
 <tr>
@@ -775,8 +772,9 @@ variant: tiptap
 <p>5 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh - Lim Poh Ling Pauline</p>
-<p>Ms Nur Adilah Bte Khamsani</p>
+<p>Mr Mohammad Rasyid B Razin P V Vincent
+<br>Miss Tan Soo Cheng
+<br>Mdm Sriranjni D/o Chuparmaniam</p>
 </td>
 </tr>
 <tr>
@@ -791,8 +789,10 @@ variant: tiptap
 <p>5 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Jun Wei Daniel</p>
-<p>Ms Bak Ing Shien</p>
+<p>Mdm Nooryanti Bte Mohamed Mohideen
+<br>Ms Lee Sok Ee
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -807,8 +807,8 @@ variant: tiptap
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Rasyid B Razin P V Vincent</p>
-<p>Mrs Koh - Tan Yan San</p>
+<p>Mrs Loh - Wee May Joan Frances
+<br>Mr Mohamed Sha'ban B Mohd Rapiai</p>
 </td>
 </tr>
 <tr>
@@ -823,8 +823,8 @@ variant: tiptap
 <p>6 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tracy Lee - Tho Cheng Ping</p>
-<p>Mr Lee Choong Yong Mervyn</p>
+<p>Ms Nur Sussilawati Md Hasshim
+<br>Mr Yii Chu Sing Michael</p>
 </td>
 </tr>
 <tr>
@@ -832,17 +832,15 @@ variant: tiptap
 <p>3 Responsibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms K Radha</p>
-<p>Ms Nur Rahayu Bte Mohammad Noor</p>
+<p>Mdm Siti Rohaiyah Bte Mohamed Tumpang
+<br>Mrs Sabrina Tan - Wong Choon Yun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Min Min Linda</p>
-<p>Ms Lee Sok Ee</p>
-<p>Ms Eilina Look</p>
-<p>Mr Alfiyan Bin Harith</p>
+<p>Ms Jasmine Lim
+<br>Mdm Noraini Binte Nanyan</p>
 </td>
 </tr>
 <tr>
@@ -850,32 +848,35 @@ variant: tiptap
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarah Nur Shahirah Binte Fazal</p>
-<p>Mdm Li Liu</p>
+<p>Mdm Tan Yueh Zhen Clara
+<br>Mdm Satwant Kaur D/o Bhagwan Singh
+<br>Mdm Nazeera Bte Sulaimi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Teo Shi Hui</p>
-<p>Miss Lim Fang Ping</p>
+<p>Mr Ong Luzheng, Noah
+<br>Mdm Siti Sarah Bte Mohamad Saleh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Integrity</p>
+<p>qq
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr David Tan Sez Wee</p>
-<p>Mdm Shen Yan</p>
+<p>Miss Phan Wei En
+<br>Mrs Koh - Zhuo Caiwei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Serene Poh</p>
-<p>Mdm Siti Fadiah Bte Ramdan</p>
-<p>Mdm Sriranjni D/o Chuparmaniam</p>
+<p>Mrs Koh - Lim Poh Ling Pauline
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -883,15 +884,15 @@ variant: tiptap
 <p>3 Care</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Yeo - Toh Su Wei Jacqueline</p>
-<p>Ms Syazwani Binti Hasrol</p>
+<p>Mrs Sarah Tan - Leong Yoke Lin
+<br>Mdm Noor Shazarratul Aini Bte Abd Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Rohaiyah Bte Mohamed Tumpang</p>
-<p>Mdm Chu Yee Leen</p>
+<p>Mr Ng Jun Wei Daniel
+<br>Ms Bak Ing Shien</p>
 </td>
 </tr>
 <tr>

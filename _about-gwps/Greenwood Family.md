@@ -82,10 +82,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/English Language &amp; Media Resource Library</p>
+<p>HOD/English Language (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eilina Look</p>
+<p>Mdm Noraini Bte Nanyan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head/Lower Primary</p>
@@ -96,10 +96,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head/English Language</p>
+<p>HOD/Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noraini Binte Nanyan</p>
+<p>Mr Yii Chu Sing Michael</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head/Lower Primary</p>
@@ -110,10 +110,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Mathematics</p>
+<p>Level Head/Mathematics (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yii Chu Sing Michael</p>
+<p>Mr Ong Luzheng, Noah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head/Middle Primary</p>
@@ -124,10 +124,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Level Head/Mathematics</p>
+<p>HOD/Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Pei Qi</p>
+<p>Mdm Goh Min Min Linda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head/Middle Primary</p>
@@ -138,30 +138,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Goh Min Min Linda</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Innovation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Lee Sok Ee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head/Malay and Tamil Languages</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Junainah Bte Mohamed Yusoff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Character and Citizenship Education</p>
+<p>Year Head/Upper Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Jun Wei Daniel</p>
+<p>Mr Shahril Bin Mohamed Jalani</p>
 </td>
 </tr>
 <tr>
@@ -172,10 +158,10 @@ variant: tiptap
 <p>Mdm Chu Yee Leen (Zhou Yanling)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Character and Citizenship Education</p>
+<p>HOD/Innovation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Fadiah Bte Ramdan</p>
+<p>Ms Lee Sok Ee</p>
 </td>
 </tr>
 <tr>
@@ -186,10 +172,24 @@ variant: tiptap
 <p>Mr Lee Choong Yong Mervyn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Student Well-Being</p>
+<p>HOD/Character and Citizenship Education</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Koh - Tan Yan San</p>
+<p>Mr Ng Jun Wei Daniel</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head/ICT (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Zakiah Binte Samani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Fadiah Bte Ramdan</p>
 </td>
 </tr>
 <tr>
@@ -200,10 +200,10 @@ variant: tiptap
 <p>Mrs Jennifer Teo - Soh Xinxiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Partnerships</p>
+<p>Subject Head/Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur'ain Bte Rahim</p>
+<p>Mrs Koh - Tan Yan San</p>
 </td>
 </tr>
 <tr>
@@ -214,10 +214,10 @@ variant: tiptap
 <p>Mrs Sabrina Tan - Wong Choon Yun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Student Management</p>
+<p>Subject Head/Partnerships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Ng Jun De</p>
+<p>Ms Nur'ain Bte Rahim</p>
 </td>
 </tr>
 <tr>
@@ -228,10 +228,10 @@ variant: tiptap
 <p>Ms Jasmine Lim Ching Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Student Leadership</p>
+<p>Subject Head/Student Management (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Serene Poh</p>
+<p>Mr Afiq Kosnan Bin Kosnan Siran</p>
 </td>
 </tr>
 <tr>
@@ -242,10 +242,10 @@ variant: tiptap
 <p>Mr Alfiyan Bin Harith</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head/Student Leadership</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Serene Poh</p>
 </td>
 </tr>
 </tbody>

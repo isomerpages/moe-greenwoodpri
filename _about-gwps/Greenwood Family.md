@@ -541,16 +541,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher (Lower Primary Learners)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Alifah Bte Mod Talib</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -1012,20 +1012,6 @@ variant: tiptap
 <p>Ms Angela Tang Yee Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rokiah Bte Abdul Rahim</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Bin Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Teacher (Tamil Language)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1037,21 +1023,7 @@ variant: tiptap
 <p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kwang Seng, Jimmy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Music)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Dai Anna</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher (English/ Maths/ Science/ PE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
+<p>Mr Muhammad Bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/ Maths/ Science)</p>
@@ -1062,10 +1034,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Malay)</p>
+<p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zarina Binte Abu Bakar</p>
+<p>Mr Lim Kwang Seng, Jimmy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UPLIFT Programme Mentor</p>
@@ -1076,10 +1048,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p>Teacher (English/ Maths/ Science/ PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Siew Cheng</p>
+<p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/Social Studies)</p>
@@ -1090,16 +1062,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zarina Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ng Siew Cheng</p>
 </td>
 </tr>
 <tr>

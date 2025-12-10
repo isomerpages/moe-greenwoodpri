@@ -862,7 +862,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>qq
+<p>3 Integrity
 <br>
 </p>
 </td>

@@ -429,7 +429,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Priscilla Shin</p>
+<p>Ms Priscilla Shin Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SENO)</p>
@@ -983,7 +983,7 @@ variant: tiptap
 <p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elicia Goh Lay Pang</p>
+<p>Ms Elicia Goh Lay Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/Mathematics)</p>
@@ -1074,6 +1074,34 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Siew Cheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (English/ Maths/ Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Zarina Binte Mohamed Isa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Yixian Joanne</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Adrine Goh Pei Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Hazlinda Binte Mohamed Lahir</p>
 </td>
 </tr>
 <tr>

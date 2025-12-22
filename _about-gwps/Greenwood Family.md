@@ -49,7 +49,7 @@ variant: tiptap
 <p>Mr Tan Kar Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal 2</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamad Faisal Bin Jamain</p>
@@ -632,7 +632,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teo Hui Lee Celeste
-<br>Mdm Nur Sakinah Bte Mohd Salim</p>
+<br>Mdm Nur Sakinah Bte Mohd Salim
+<br>Mdm Siti Alifah Bte Mod Talib</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Resilience</p>
@@ -875,6 +876,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Koh - Lim Poh Ling Pauline
+<br>Ms Nur Adilah Bte Khamsani
 <br>
 </p>
 </td>

@@ -317,20 +317,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Siti Halija Bte Norazmi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Cheng Siong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Adjunct Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">

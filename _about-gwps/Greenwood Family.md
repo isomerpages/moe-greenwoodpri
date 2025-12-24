@@ -484,7 +484,7 @@ variant: tiptap
 <br>(English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nooryanti</p>
+<p>Mdm Nooryanti Bte Mohamed Mohideen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher

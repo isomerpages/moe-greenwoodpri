@@ -1011,27 +1011,13 @@ variant: tiptap
 <p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Bin Ismail</p>
+<p>Mr Lim Kwang Seng, Jimmy</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Teacher (English/ Maths/ Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Nicholas Darren Jagatnath</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kwang Seng, Jimmy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>UPLIFT Programme Mentor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pang Li Yee</p>
+<p>Mr Muhammad Bin Ismail</p>
 </td>
 </tr>
 <tr>
@@ -1042,10 +1028,10 @@ variant: tiptap
 <p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Social Studies)</p>
+<p>UPLIFT Programme Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Tan Xueyao</p>
+<p>Ms Pang Li Yee</p>
 </td>
 </tr>
 <tr>
@@ -1056,10 +1042,10 @@ variant: tiptap
 <p>Mdm Zarina Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p>Teacher (English/Social Studies)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Siew Cheng</p>
+<p>Mr Joshua Tan Xueyao</p>
 </td>
 </tr>
 <tr>
@@ -1073,7 +1059,7 @@ variant: tiptap
 <p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Low Yixian Joanne</p>
+<p>Mdm Ng Siew Cheng</p>
 </td>
 </tr>
 <tr>
@@ -1082,6 +1068,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Adrine Goh Pei Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Low Yixian Joanne</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Mathematics)</p>

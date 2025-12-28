@@ -248,6 +248,20 @@ variant: tiptap
 <p>Mdm Serene Poh</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head/Science (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr David Tan Sez Wee</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>EXECUTIVE AND ADMINISTRATION STAFF</strong></h4>
@@ -275,7 +289,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Manager</p>
+<p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Wong Ai Nyuk Irene</p>
@@ -289,7 +303,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
+<p>Administration Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Annie Chong</p>
@@ -503,7 +517,7 @@ variant: tiptap
 <p>Mr Tan Chai Hok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (Science)</p>
+<p>Senior Teacher (Special Education Needs)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Wong - Beh Ying Ping Joceiyn</p>
@@ -677,7 +691,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chong Pei Pei, Paige
-<br>Mrs Jennifer Teo - Soh Xin Xiang
+<br>Mrs Jennifer Teo - Soh Xinxiang
 <br>Mr Ong Jun Wen Clarence</p>
 </td>
 </tr>
@@ -826,7 +840,7 @@ variant: tiptap
 <p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Lim
+<p>Ms Jasmine Lim Ching Mei
 <br>Mdm Noraini Binte Nanyan</p>
 </td>
 </tr>
@@ -927,7 +941,7 @@ variant: tiptap
 <p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Leo Dan Dan</p>
+<p>Ms Tan Ai Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Mathematics)</p>
@@ -938,10 +952,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language)</p>
+<p>Teacher (Mathematics/Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ai Ling</p>
+<p>Mdm Poh Hwee Khim - Mrs Dorothy Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/Art)</p>
@@ -952,10 +966,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics/Science)</p>
+<p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Poh Hwee Khim -Mrs Dorothy Toh</p>
+<p>Ms Elicia Goh Lay Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English Language)</p>
@@ -966,10 +980,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p>Teacher (Chinese Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Elicia Goh Lay Peng</p>
+<p>Ms Ng Bee Ting, Cindy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (English/Mathematics)</p>
@@ -980,10 +994,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language)</p>
+<p>Teacher (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Bee Ting, Cindy</p>
+<p>Ms Angela Tang Yee Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Mathematics)</p>
@@ -994,10 +1008,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Music)</p>
+<p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Tang Yee Yee</p>
+<p>Mr Lim Kwang Seng, Jimmy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Tamil Language)</p>
@@ -1008,10 +1022,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
+<p>Teacher (English/ Maths/ Science/ PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kwang Seng, Jimmy</p>
+<p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Physical Education)</p>
@@ -1022,30 +1036,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/ Maths/ Science/ PE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>UPLIFT Programme Mentor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pang Li Yee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher (Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zarina Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/Social Studies)</p>
+<p>UPLIFT Programme Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Joshua Tan Xueyao</p>
+<p>Ms Pang Li Yee</p>
 </td>
 </tr>
 <tr>

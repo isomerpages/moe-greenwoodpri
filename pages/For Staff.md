@@ -28,7 +28,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://pair.gov.sg/share/asst/assistant_aa0bbbda-b873-4554-8af3-eac6816623e9" rel="noopener noreferrer nofollow" target="_blank">Pairchat Bot on Safety</a>
+<p><a href="https://go.gov.sg/gwps-staff-travel-declaration" rel="noopener nofollow" target="_blank">Overseas Travel Approval</a>
 </p>
 </td>
 </tr>
@@ -45,24 +45,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/gwps-announcements" rel="noopener noreferrer nofollow" target="_blank">Morning Announcement Booking Link</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-staff-travel-declaration" rel="noopener nofollow" target="_blank">Overseas Travel Approval</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1TmPgRZevU0_ks4JE-aMIvw1tYx3fDmxx?usp=drive_link" rel="noopener nofollow" target="_blank">Procurement Forms and Resources</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1zeIDPArzn3Fbz_PdgpaY5LT_SVmMgV9Y?usp=drive_link" rel="noopener nofollow" target="_blank">Safety and Security Resources</a>
 </p>
 </td>
 </tr>
@@ -98,6 +80,24 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>GWPS USEFUL LINKS</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://pair.gov.sg/share/asst/assistant_aa0bbbda-b873-4554-8af3-eac6816623e9" rel="noopener noreferrer nofollow" target="_blank">Pairchat Bot on Safety</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1TmPgRZevU0_ks4JE-aMIvw1tYx3fDmxx?usp=drive_link" rel="noopener nofollow" target="_blank">Procurement Forms and Resources</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/drive/folders/1zeIDPArzn3Fbz_PdgpaY5LT_SVmMgV9Y?usp=drive_link" rel="noopener nofollow" target="_blank">Safety and Security Resources</a>
 </p>
 </td>
 </tr>

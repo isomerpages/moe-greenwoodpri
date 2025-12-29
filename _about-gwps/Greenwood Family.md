@@ -256,7 +256,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head/Science (Covering)</p>
+<p>Level Head/Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr David Tan Sez Wee</p>
@@ -303,7 +303,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Administration Executive</p>
+<p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Annie Chong</p>

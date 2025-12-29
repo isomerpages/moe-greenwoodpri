@@ -236,10 +236,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head/PE</p>
+<p>Subject Head/Project Work</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Alfiyan Bin Harith</p>
+<p>Mr Mohammad Rasyid B Razin P V Vincent</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Leadership</p>
@@ -250,16 +250,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head/PE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Alfiyan Bin Harith</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head/Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr David Tan Sez Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -452,6 +466,20 @@ variant: tiptap
 <p>Miss Liu Yu Fei</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>LEAD AND SENIOR TEACHERS</strong>&nbsp;</h4>
@@ -551,6 +579,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Alifah Bte Mod Talib</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

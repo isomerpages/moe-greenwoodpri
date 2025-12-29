@@ -7,5 +7,4 @@ variant: markdown
 ### **School Bus Service**
 
 School Bus Operator and Bus Fare:<br>
-*To be updated. Please check back again soon!* <br>
-[Details - School Bus Operator from 1 Jan 2024 to 31 Dec 2026](/files/School%20Bus/details%20of%20school%20bus%20operator%20from%201%20jan%202024%20to%2031%20dec%202025.pdf)
+[Details - School Bus Operator from 1 Jan 2024 to 31 Dec 2026](/files/School%20Bus/details_of_school_bus_operator_from_1_jan_2024_to_31_dec_2026.pdf)

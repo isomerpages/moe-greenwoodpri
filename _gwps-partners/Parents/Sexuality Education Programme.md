@@ -21,7 +21,7 @@ on sexuality issues.</p>
 <p></p>
 </li>
 <li>
-<p>The Goals of Sexuality Education are:
+<p>The <strong>Goals</strong> of Sexuality Education are:
 <br>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.
 <br>(b) Guide students to make wise, informed and responsible decisions on
@@ -32,7 +32,7 @@ that are premised on the family as the basic unit of society.</p>
 <p></p>
 </li>
 <li>
-<p>The Key Messages of Sexuality Education are:
+<p>The <strong>Key Messages</strong> of Sexuality Education are:
 <br>(a) Love and respect yourself as you love and respect others;
 <br>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);
@@ -46,7 +46,7 @@ ones.</p>
 more information on MOE Sexuality Education.</p>
 </li>
 </ol>
-<h4><strong>OVERVIEW OF GREENWOOD PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
+<h4><strong>OVERVIEW OF GREENWOOD PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h4>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -87,13 +87,13 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<h4><strong>2025 SEXUALITY EDUCATION LESSONS IN CCE</strong></h4>
+<h4><strong>2026 SEXUALITY EDUCATION LESSONS IN CCE</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_2025_SexEd.png">
+<img style="width: 100%" height="auto" width="100%" alt="P5 2026 SexEd" src="/images/P5_2026_SexEd.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_2025_SexEd.png">
+<img style="width: 100%" height="auto" width="100%" alt="P6 2026 SexEd" src="/images/P6_2026_SexEd.png">
 </div>
 <p></p>
 <p><strong>INFORMATION FOR PARENTS</strong>
@@ -107,8 +107,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="/files/GY_Opt_out_form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 28/01/2025.</p>
+to parents at the start of the year and is also available <a href="/files/Opt_out_form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+The completed opt-out form is to be submitted by 16/01/2026.</p>
 <p></p>
 </li>
 <li>

@@ -34,7 +34,8 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bus Booking Form (coming soon)</p>
+<p><a href="https://go.gov.sg/gwps-bus" rel="noopener nofollow" target="_blank">Ad-hoc Bus Booking Request</a>
+</p>
 </td>
 </tr>
 <tr>

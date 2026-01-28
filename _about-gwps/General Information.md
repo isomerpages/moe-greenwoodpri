@@ -57,7 +57,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Arrival</strong>: Not opened for walk-ins due to ongoing constructions.
-Vehicles can continue to enter via Gate 1.</p>
+Vehicles can continue to enter.</p>
 <p></p>
 <p><strong>Dismissal</strong>: Opened from 1.30 pm to 1.40 pm for students
 to walk out. Vehicles will <strong>NOT </strong>be allowed to enter from

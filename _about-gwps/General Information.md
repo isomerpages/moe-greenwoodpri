@@ -86,9 +86,14 @@ allowed to enter from 3.45 pm to 4.10 pm.</p>
 <br>7.00 am – 7.30 am
 <br>1.30 pm – 2.00 pm</p>
 <p></p>
-<p><strong>Tuesdays and Fridays </strong>
-</p>
-<p>4.00 pm - 4.30 pm</p>
+<p><strong>Tuesdays (CCA dismissal)</strong>
+<br>4.00 pm - 4.20pm
+<br>5.30 pm - 5.50pm</p>
+<p></p>
+<p><strong>Fridays (CCA dismissal)</strong>
+<br>3.00 pm - 3.20 pm
+<br>4.00 pm - 4.20 pm
+<br>5.30 pm - 5.50 pm</p>
 </td>
 </tr>
 <tr>

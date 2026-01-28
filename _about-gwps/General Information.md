@@ -56,11 +56,16 @@ variant: tiptap
 <br>(Main entrance)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Opened during school hours</em>
-</p>
+<p><strong>Arrival</strong>: Not opened for walk-ins due to ongoing constructions.
+Vehicles can continue to enter via Gate 1.</p>
 <p></p>
-<p><em>(Note that vehicles </em><strong><em><u>will not </u></em></strong><em>be allowed to enter school from 1.15pm to 1.40pm to facilitate school dismissal.)</em>
-</p>
+<p><strong>Dismissal</strong>: Opened from 1.30 pm to 1.40 pm for students
+to walk out. Vehicles will <strong>NOT </strong>be allowed to enter from
+1.15 pm to 1.40 pm.</p>
+<p></p>
+<p><strong>Dismissal (CCA)</strong>: Opened from 4.00 pm to 4.10 pm on Tuesdays
+and Fridays for students to walk out. Vehicles will <strong>NOT </strong>be
+allowed to enter from 3.45 pm to 4.10 pm.</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +74,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Monday to Friday</strong>
-<br>7.00 am – 7.30 am</p>
+<br>6.30 am - 5.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -81,6 +86,14 @@ variant: tiptap
 <br>7.00 am – 7.30 am
 <br>1.30 pm – 2.00 pm</p>
 <p></p>
+<p><strong>Tuesdays (CCA dismissal)</strong>
+<br>4.00 pm - 4.20pm
+<br>5.30 pm - 5.50pm</p>
+<p></p>
+<p><strong>Fridays (CCA dismissal)</strong>
+<br>3.00 pm - 3.20 pm
+<br>4.00 pm - 4.20 pm
+<br>5.30 pm - 5.50 pm</p>
 </td>
 </tr>
 <tr>

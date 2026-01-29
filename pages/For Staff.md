@@ -75,6 +75,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-sm-report" rel="noopener nofollow" target="_blank">Discipline Incident Report</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -98,7 +104,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/drive/folders/1zeIDPArzn3Fbz_PdgpaY5LT_SVmMgV9Y?usp=drive_link" rel="noopener nofollow" target="_blank">Safety and Security Resources</a>
+<p><a href="https://drive.google.com/drive/folders/1zeIDPArzn3Fbz_PdgpaY5LT_SVmMgV9Y?usp=drive_link" rel="noopener nofollow" target="_blank">Safety and Security Resources (including Casualty Report Template)</a>
 </p>
 </td>
 </tr>

@@ -45,6 +45,13 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/gwps-staff-claim" rel="noopener nofollow" target="_blank">Staff Claim Purchase Request</a>
+<br>(to be submitted before making any purchases you wish to pay for on your
+own first)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/gwps-announcements" rel="noopener noreferrer nofollow" target="_blank">Morning Announcement Booking Link</a>
 </p>
 </td>

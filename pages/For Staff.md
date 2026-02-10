@@ -45,7 +45,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-staff-claim" rel="noopener nofollow" target="_blank">Staff Claim Purchase Request</a>
+<p><a href="https://go.gov.sg/gwps-staff-claim" rel="noopener nofollow" target="_blank">Staff Claim Purchase Approval Form</a>
 <br>(to be submitted before making any purchases you wish to pay for on your
 own first)</p>
 </td>

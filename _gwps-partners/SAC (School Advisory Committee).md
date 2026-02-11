@@ -30,6 +30,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Allan Lim Yee Chian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Honorary Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,14 +50,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abuthahir Abdul Gafoor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Allan Lim Yee Chian</p>
 </td>
 </tr>
 <tr>

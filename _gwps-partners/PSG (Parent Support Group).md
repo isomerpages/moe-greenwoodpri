@@ -7,15 +7,18 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/1.jpeg">
 </div>
-<p>Our PSG is known as&nbsp;BRIDGE. The colourful bridge is used as a metaphor
-to show the meaningful link between the school and parents, working towards
-the well-being of all Greenwood students.</p>
-<p>As parent volunteers and members of the PSG, we work hand in hand with
-the school to develop our students into Motivated Learners, Critical Thinkers
-and Leaders of Character. We play an active role to nurture our students
-into lifelong learners and responsible citizens through a well-rounded
-education. We provide the voice of our parents as we communicate with the
-school.</p>
+<p>Our Parent Support Group (PSG) is known as <strong>BRIDGE</strong>. Just
+like a colourful bridge connecting two sides, BRIDGE represents the meaningful
+partnership between home and school — united in our shared commitment to
+the well-being and holistic growth of every Greenwood student.</p>
+<p>As parent volunteers and PSG members, we work hand in hand with the school
+to nurture our children into <strong>Motivated Learners, Critical Thinkers and Leaders of Character</strong>.
+Together, we support a well-rounded education that develops not only academic
+excellence, but also strong values, resilience and a love for lifelong
+learning in our students.</p>
+<p>BRIDGE also serves as a valued platform for parent voices. Through open
+and constructive communication, we strengthen mutual understanding and
+collaboration between parents and the school community.</p>
 <h4><strong>Parents Support Group EXCO</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -29,7 +32,7 @@ school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mr Tan Kar Wee</p>
+<p>Mr Mohamad Faisal Bin Jamain</p>
 </td>
 </tr>
 <tr>
@@ -65,22 +68,21 @@ school.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Mdm Halimatussa’adiah</p>
-<p></p>
-<p></p>
+<p>&nbsp;Mdm Nadiah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice Chairperson</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Novanti Kumalasari</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Raimi Bin Mohamed Juhari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Bhakti Tamhane</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Gunasundari</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Camalie Quek</p>
@@ -104,7 +106,7 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Novanti Kumalasari</p>
+<p>Mdm Adelene Yeoh Siew Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Erica Yew</p>
@@ -112,7 +114,7 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Adelene Yeoh Siew Lee</p>
+<p>Mdm Karishma</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Noraisyah</p>
@@ -120,15 +122,23 @@ school.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nadiah</p>
+<p>Mdm Naquiah Binti Ridzuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Boo Kok Chuon</p>
+<p>Mdm Halimatussa’adiah</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Karishma</p>
+<p>Mdm Khoo Mei Shan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yeong Xiao Hong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -137,13 +147,34 @@ school.</p>
 </tbody>
 </table>
 <p></p>
-<p>We welcome you to be a part of us! Join us in our school events and play
-a significant role in your child’s development by helping to create an
-interesting and engaging environment for your child to learn! We also welcome
-parents to join us to network and bond together to form a support group
-for one another so that you will never have to walk alone in this parenting
-journey.</p>
-<h5><strong>Scan the QR code below to to be part of us</strong></h5><a class="isomer-image-wrapper" href="https://form.gov.sg/60012cf5cc5a0d0012bae418"><img style="width:30%" height="auto" width="100%" src="/images/PSG.jpeg"></a>
+<p>We warmly invite you to join our PSG and become an active partner in our
+school community. Your involvement makes a meaningful difference in our
+students' learning journeys and school-wide activities.</p>
+<p></p>
+<p><strong>What to Expect as a PSG Member:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Active Contribution: Opportunities to volunteer for school events and
+student programmes</p>
+</li>
+<li>
+<p>Flexible Volunteering: Support the school based on your specific skills
+and availability</p>
+</li>
+<li>
+<p>Community Building: Connect with fellow parents in the PSG and school
+staff to foster a supportive learning environment</p>
+</li>
+</ul>
+<p></p>
+<p>If you are keen to actively volunteer and support our school initiatives,
+please register using the link: <a href="https://form.gov.sg/698a743f2a0e763957d3f1c6" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/698a743f2a0e763957d3f1c6</a>
+</p>
+<p></p>
+<p>Upon registration, you will be added to the relevant WhatsApp coordination
+groups. These groups are managed by our PSG Executive Committee (EXCO)
+members for the purpose of volunteer coordination and event updates.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.jpg">

@@ -16,19 +16,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-staff-leave" rel="noopener nofollow" target="_blank">Application for UPA and Full-Pay Unrecorded Leave</a>
+<p><a href="https://form.gov.sg/699e6598c023d2714b221f25" rel="noopener nofollow" target="_blank">Application for SL Approval for UPA and Full-Pay Unrecorded Leave</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-time-off" rel="noopener nofollow" target="_blank">Application for Time-off</a>
+<p><a href="https://form.gov.sg/699e6fc447e8c3dca5f21361" rel="noopener nofollow" target="_blank">Application for SL Approval for Time-off</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-staff-travel-declaration" rel="noopener nofollow" target="_blank">Overseas Travel Approval</a>
+<p><a href="https://form.gov.sg/699e6a0ae580ebbad60487a8" rel="noopener nofollow" target="_blank">Application for SL Approval for Overseas Travel</a>
 </p>
 </td>
 </tr>

@@ -18,6 +18,7 @@ Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <p></p>
 <strong><center>
 Greenwood Primary School
+<br>CCA Teachers In Charge 2026
 <br>CCA HOD (Mrs Soh Xinxiang, Jennifer)  
 <br>AESTHETICS CCA (INSTRUMENT) -  SH Music (Mrs Wong Choon Yun, Sabrina) 
 <br>SPORTS, UG  CCA - SH PE (Mr Alfiyan Bin Harith)

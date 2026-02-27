@@ -16,7 +16,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/699e6598c023d2714b221f25" rel="noopener nofollow" target="_blank">Application for SL Approval for UPA and Full-Pay Unrecorded Leave</a>
+<p><a href="https://go.gov.sg/gwps-staff-leave" rel="noopener nofollow" target="_blank">Application for SL Approval for UPA and Full-Pay Unrecorded Leave</a>
 </p>
 </td>
 </tr>

@@ -12,7 +12,8 @@ and the 21st&nbsp;century competencies.</p>
 <p>In Greenwood, we offer a range of CCAs in Physical Sports, Visual &amp;
 Performing Arts, Uniformed Groups and Clubs &amp; Societies.</p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/cca.png">
+<img style="width:100%" height="auto" width="100%" src="/images/cca1_2026.png">
+<img style="width:100%" height="auto" width="100%" src="/images/cca2_2026.png">
 </div>
 <p></p>
 <strong><center>

@@ -1140,10 +1140,24 @@ variant: tiptap
 <p>Mr Ang Wee Jin</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Teacher (PE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Alicia Tan Kai Yun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (PE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Escano Elijah Paul Obusan</p>
 </td>
 </tr>
 </tbody>

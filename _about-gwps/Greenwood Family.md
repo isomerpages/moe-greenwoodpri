@@ -454,10 +454,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Special Educational Needs Officer (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Zahidah Binte Omar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SENO)</p>
@@ -1036,10 +1036,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Music)</p>
+<p>Teacher (Physical Education)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela Tang Yee Yee</p>
+<p>Mr Lim Kwang Seng, Jimmy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Mathematics)</p>
@@ -1050,10 +1050,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
+<p>Teacher (English/ Maths/ Science/ PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Kwang Seng, Jimmy</p>
+<p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Tamil Language)</p>
@@ -1064,10 +1064,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English/ Maths/ Science/ PE)</p>
+<p>Teacher (Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Safiuddin Bin Mohamed Sabri</p>
+<p>Mdm Zarina Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Physical Education)</p>
@@ -1078,30 +1078,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Malay)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Zarina Binte Abu Bakar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>UPLIFT Programme Mentor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Pang Li Yee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher (English/ Maths/ Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zarina Binte Mohamed Isa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (Mathematics)</p>
+<p>UPLIFT Programme Mentor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Siew Cheng</p>
+<p>Ms Pang Li Yee</p>
 </td>
 </tr>
 <tr>
@@ -1115,15 +1101,29 @@ variant: tiptap
 <p>Teacher (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Ng Siew Cheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Music)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Vanessa Yip Yee Sing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Low Yixian Joanne</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Junaidah Binti Aman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Mathematics)</p>
@@ -1134,10 +1134,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ang Wee Jin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

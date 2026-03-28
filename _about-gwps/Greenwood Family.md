@@ -373,10 +373,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Adjunct Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Charlotte Lee Choon Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>

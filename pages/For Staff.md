@@ -105,6 +105,12 @@ own first)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://docs.google.com/spreadsheets/d/1oC03xqbbHxXMoH84HJpK_KvbswzKLeWyqvXVgRHJivQ/edit?gid=1106960752#gid=1106960752" rel="noopener nofollow" target="_blank">GWPS Weekly Messaging Alignment (Assembly &amp; Cohort Connect)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://pair.gov.sg/share/asst/assistant_aa0bbbda-b873-4554-8af3-eac6816623e9" rel="noopener noreferrer nofollow" target="_blank">Pairchat Bot on Safety</a>
 </p>
 </td>

@@ -454,10 +454,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (SENO)</p>
+<p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Zahidah Binte Omar</p>
+<p>Ms Trishia Ng Yeok Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SENO)</p>
@@ -474,10 +474,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Special Educational Needs Officer (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Zahidah Binte Omar</p>
 </td>
 </tr>
 </tbody>

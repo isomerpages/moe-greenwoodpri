@@ -1162,7 +1162,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Science)</p>
+<p>Teacher (Mathematics/Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Wee Jin</p>

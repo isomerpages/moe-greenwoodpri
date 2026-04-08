@@ -55,6 +55,20 @@ variant: tiptap
 <p>Mr Mohamad Faisal Bin Jamain</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>SCHOOL EXECUTIVE COMMITTEE MEMBERS</strong></h4>
@@ -478,6 +492,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zahidah Binte Omar</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -1148,16 +1176,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Rosnani Binte Mohamed Hussein</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Escano Elijah Paul Obusan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

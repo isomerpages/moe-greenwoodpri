@@ -1137,7 +1137,7 @@ variant: tiptap
 <p>Teacher (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Vanessa Yip Yee Sing</p>
+<p>Ms Angela Tang Yee Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Mathematics)</p>
@@ -1148,10 +1148,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Malay)</p>
+<p>Teacher (Music)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Junaidah Binti Aman</p>
+<p>Miss Vanessa Yip Yee Sing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (Mathematics)</p>
@@ -1162,10 +1162,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rosnani Binte Mohamed Hussein</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Teacher (Mathematics/Science)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ang Wee Jin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Malay)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Junaidah Binti Aman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (PE)</p>
@@ -1176,10 +1190,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (English Language)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rosnani Binte Mohamed Hussein</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (PE)</p>

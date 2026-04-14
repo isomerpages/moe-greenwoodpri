@@ -150,8 +150,8 @@ Greenwood Primary School
 <td rowspan="1" colspan="1">
 <p>Mdm Toh Su Wei Jacqueline
 <br>Mrs Wong - Beh Ying Ping, Joceiyn 
-<br>Miss Vanessa Yip Yee Sing
-<br>Mdm Ng Lay Ling, Rebecca</p>
+<br>Mdm Ng Lay Ling, Rebecca
+<br>Miss Vanessa Yip Yee Sing</p>
 </td>
 </tr>
 <tr>

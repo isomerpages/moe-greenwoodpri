@@ -53,7 +53,7 @@ Greenwood Primary School
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tham Yoke Kuan, Joyce
-<br>Mr Tan Teck Lee 
+<br>Ms Chua Keng Fang
 <br>Mdm Shen Yan
 <br>Mdm Siti Rohaiyah Bte Mohamed Tumpang
 <br>Mdm Tan Ailing
@@ -70,7 +70,7 @@ Greenwood Primary School
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Sha'Ban B Mohd Rapiai
-<br>Ms Chua Keng Fang 
+<br>Mr Tan Teck Lee 
 <br>Mr Escano Elijah Paul Obusan</p>
 </td>
 </tr>
@@ -150,7 +150,7 @@ Greenwood Primary School
 <td rowspan="1" colspan="1">
 <p>Mdm Toh Su Wei Jacqueline
 <br>Mrs Wong - Beh Ying Ping, Joceiyn 
-<br>Mdm Leo Dan Dan
+<br>Miss Vanessa Yip Yee Sing
 <br>Mdm Ng Lay Ling, Rebecca</p>
 </td>
 </tr>
@@ -165,6 +165,7 @@ Greenwood Primary School
 <td rowspan="1" colspan="1">
 <p>Mdm Elizabeth Chew Sau Leng
 <br>Mdm Nur Sussilawati Md Hasshim 
+<br>Mdm Leo Dan Dan
 <br>Mdm Banun Bte Mohamed</p>
 </td>
 </tr>
@@ -250,7 +251,8 @@ Debating</p>
 <p>Mdm Wan Norzilah Bte Md Shafian
 <br>Mr Teo Peng Koon (Zhang Bingkun)
 <br>Ms Phan Wei En 
-<br>Ms Cynthia Ang Xin Wei</p>
+<br>Ms Cynthia Ang Xin Wei
+<br>Mr Ang Wee Jin</p>
 </td>
 </tr>
 <tr>

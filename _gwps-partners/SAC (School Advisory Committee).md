@@ -73,6 +73,14 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Ms Jennifer Bao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Tan Hong Ju, Erek</p>
 </td>
 </tr>

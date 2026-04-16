@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Untitled.gif
+      background: /images/gifmakeradobe.gif
       key_highlights:
         - title: Announcements
           description: Click here for the lastest announcements!

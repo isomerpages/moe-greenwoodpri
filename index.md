@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgifcom-gif-maker (2).gif
+      background: /images/Untitled.gif
       key_highlights:
         - title: Announcements
           description: Click here for the lastest announcements!
@@ -15,4 +15,5 @@ sections:
         - title: WHAT'S HAPPENING
           description: On Our Social Media
           url: /EVENTS
+      variant: center
 ---

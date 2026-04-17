@@ -15,4 +15,5 @@ sections:
         - title: WHAT'S HAPPENING
           description: On Our Social Media
           url: /EVENTS
+      variant: center
 ---

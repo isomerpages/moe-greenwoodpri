@@ -1176,10 +1176,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher (Malay)</p>
+<p>Teacher (Math)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Junaidah Binti Aman</p>
+<p>Mdm Chua Lena</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (PE)</p>
@@ -1190,10 +1190,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Teacher (Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Lena</p>
+<p>Mdm Asmidah Binte Mohd Jailani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (PE)</p>

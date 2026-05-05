@@ -52,12 +52,6 @@ own first)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/gwps-announcements" rel="noopener noreferrer nofollow" target="_blank">Morning Announcement Booking Link</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/gwps-socialmediapost" rel="noopener noreferrer nofollow" target="_blank">Social Media Post Clearance</a>
 </p>
 </td>
@@ -159,7 +153,7 @@ own first)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/moe.edu.sg/guidetoe-pedagogy/e-pedagogy_1" rel="noopener nofollow" target="_blank">e-Pedagogy Guide </a>
+<p><a href="https://sites.google.com/moe.edu.sg/guidetoe-pedagogy/e-pedagogy_1" rel="noopener nofollow" target="_blank">e-Pedagogy Guide</a>
 </p>
 </td>
 </tr>

@@ -208,7 +208,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/Aesthetics</p>
+<p>HOD/Aesthetics and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Jennifer Teo - Soh Xinxiang</p>

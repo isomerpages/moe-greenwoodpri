@@ -284,10 +284,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Level Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chua Keng Fang</p>
 </td>
 </tr>
 </tbody>

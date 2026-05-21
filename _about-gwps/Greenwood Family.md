@@ -895,7 +895,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Sussilawati Md Hasshim
-<br>Mr Yii Chu Sing Michael</p>
+<br>Mr Yii Chu Sing Michael
+<br>Ms Chua Keng Fang</p>
 </td>
 </tr>
 <tr>

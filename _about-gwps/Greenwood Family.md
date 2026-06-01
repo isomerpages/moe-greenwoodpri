@@ -457,7 +457,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Priscilla Shin Hui</p>
+<p>Ms Trishia Ng Yeok Teng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SENO)</p>
@@ -468,10 +468,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Special Educational Needs Officer (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Trishia Ng Yeok Teng</p>
+<p>Mdm Zahidah Binte Omar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SENO)</p>
@@ -488,10 +488,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (SENO)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zahidah Binte Omar</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1097,20 +1097,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zarina Binte Abu Bakar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (Physical Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Bin Ismail</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher (English/ Maths/ Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Zarina Binte Mohamed Isa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>UPLIFT Programme Mentor</p>

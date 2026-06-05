@@ -2,8 +2,8 @@ collections:
   gwps-achievements:
     output: true
     order:
-      - 2026.md
       - Media Coverage.md
+      - 2026.md
       - 2025.md
       - 2024.md
       - 2023.md

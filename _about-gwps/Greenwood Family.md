@@ -242,7 +242,7 @@ variant: tiptap
 <p>Ms Jasmine Lim Ching Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Student Management (Covering)</p>
+<p>Subject Head/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Afiq Kosnan Bin Kosnan Siran</p>
@@ -288,6 +288,20 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chua Keng Fang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -345,6 +359,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Adjunct Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Charlotte Lee Choon Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jamilah Bte Ahmad</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -354,7 +382,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jamilah Bte Ahmad</p>
+<p>Mdm Silvapakiam D/o Muran</p>
 </td>
 </tr>
 <tr>
@@ -368,7 +396,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Silvapakiam D/o Muran</p>
+<p>Mdm Fareeth Begam</p>
 </td>
 </tr>
 <tr>
@@ -377,20 +405,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ahmad Nurhizam Bin Azli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Fareeth Begam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Adjunct Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Charlotte Lee Choon Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -446,7 +460,7 @@ variant: tiptap
 <p>Mr Victor Lucas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Special Educational Needs Officer (SSENO)</p>
+<p>Lead Special Educational Needs Officer (LSENO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ang Man Ling</p>
@@ -454,10 +468,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Special Educational Needs Officer (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Trishia Ng Yeok Teng</p>
+<p>Miss Liu Yu Fei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SENO)</p>
@@ -468,30 +482,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zahidah Binte Omar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (SENO)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Liu Yu Fei</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -810,7 +810,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Fadiah Bte Ramdan
-<br>Mdm Bong Suan Choo Joyce</p>
+<br>Mdm Bong Suan Choo Joyce
+<br>Ms Nur'ain Bte Rahim</p>
 </td>
 </tr>
 <tr>
@@ -826,7 +827,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Choong Yong Mervyn
-<br>Mdm Goh Min Min Linda
 <br>Mrs Tracy Lee - Tho Cheng Ping</p>
 </td>
 </tr>
@@ -862,8 +862,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Nooryanti Bte Mohamed Mohideen
 <br>Ms Lee Sok Ee
-<br>
-</p>
+<br>Mdm Goh Min Min Linda</p>
 </td>
 </tr>
 <tr>
@@ -1177,16 +1176,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher (Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Soffian Bin Senin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Escano Elijah Paul Obusan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teacher (Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mu Xue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Naomi Jenitha D/O Nagulan James</p>
 </td>
 </tr>
 <tr>

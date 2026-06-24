@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ezgifcom-gif-maker (2).gif
+      background: /images/Untitled___June_24__2026_at_09_50_43__2_.gif
       key_highlights:
         - title: Announcements
           description: Click here for the lastest announcements!

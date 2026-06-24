@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/gwps_2026gifbanner.gif
+      background: /images/gwps_2026gifbanner_v2.gif
       key_highlights:
         - title: Announcements
           description: Click here for the lastest announcements!

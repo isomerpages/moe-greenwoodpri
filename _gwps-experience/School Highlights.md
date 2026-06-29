@@ -37,7 +37,6 @@ description: ""
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>

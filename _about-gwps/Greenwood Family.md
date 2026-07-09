@@ -662,6 +662,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Teo Shi Hui
 <br>Mr Teo Peng Koon (Zhang Bingkun)</p>
+<p>Mdm Nazeera Bte Sulaimi</p>
 </td>
 </tr>
 <tr>
@@ -779,6 +780,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Serene Poh
 <br>Mr Shahril Bin Mohamed Jalani</p>
+<p>Miss Alicia Tan Kai Yun</p>
 </td>
 </tr>
 <tr>
@@ -795,6 +797,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Alfiyan Bin Harith
 <br>Mdm Chu Yee Leen</p>
+<p>Mdm Mu Xue</p>
+<p>Mr Escano Elijah Paul Obusan</p>
 </td>
 </tr>
 <tr>
@@ -803,7 +807,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sharon Teo - Chee Wei Leng
-<br>Mdm Shen Yan</p>
+<br>Mdm Shen Yan
+<br>Miss Vanessa Yip Yee Sing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Resilience</p>
@@ -854,7 +859,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Wong - Beh Ying Ping Joceiyn
-<br>Mdm Huang Yanling</p>
+<br>Mdm Huang Yanling
+<br>Miss Naomi Jenitha D/O Nagulan James</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5 Harmony</p>
@@ -863,6 +869,7 @@ variant: tiptap
 <p>Mdm Nooryanti Bte Mohamed Mohideen
 <br>Ms Lee Sok Ee
 <br>Mdm Goh Min Min Linda</p>
+<p>Mr Tan Chai Hok</p>
 </td>
 </tr>
 <tr>
@@ -879,6 +886,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Loh - Wee May Joan Frances
 <br>Mr Mohamed Sha'ban B Mohd Rapiai</p>
+<p>Miss Wang Yuhui</p>
 </td>
 </tr>
 <tr>
@@ -920,8 +928,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Yueh Zhen Clara
-<br>Mdm Satwant Kaur D/o Bhagwan Singh
-<br>Mdm Nazeera Bte Sulaimi</p>
+<br>Mdm Satwant Kaur D/o Bhagwan Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6 Integrity</p>
@@ -1168,38 +1175,10 @@ variant: tiptap
 <p>Mdm Asmidah Binte Mohd Jailani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher (PE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Alicia Tan Kai Yun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teacher (Malay)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Soffian Bin Senin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (PE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Escano Elijah Paul Obusan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher (Chinese Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Mu Xue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Naomi Jenitha D/O Nagulan James</p>
 </td>
 </tr>
 <tr>

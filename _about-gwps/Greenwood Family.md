@@ -661,8 +661,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Teo Shi Hui
-<br>Mr Teo Peng Koon (Zhang Bingkun)</p>
-<p>Mdm Nazeera Bte Sulaimi</p>
+<br>Mr Teo Peng Koon (Zhang Bingkun)
+<br>Mdm Nazeera Bte Sulaimi</p>
 </td>
 </tr>
 <tr>
@@ -779,8 +779,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Serene Poh
-<br>Mr Shahril Bin Mohamed Jalani</p>
-<p>Miss Alicia Tan Kai Yun</p>
+<br>Mr Shahril Bin Mohamed Jalani
+<br>Miss Alicia Tan Kai Yun</p>
 </td>
 </tr>
 <tr>
@@ -796,9 +796,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Alfiyan Bin Harith
-<br>Mdm Chu Yee Leen</p>
-<p>Mdm Mu Xue</p>
-<p>Mr Escano Elijah Paul Obusan</p>
+<br>Mdm Chu Yee Leen
+<br>Mdm Mu Xue
+<br>Mr Escano Elijah Paul Obusan</p>
 </td>
 </tr>
 <tr>
@@ -868,8 +868,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Nooryanti Bte Mohamed Mohideen
 <br>Ms Lee Sok Ee
-<br>Mdm Goh Min Min Linda</p>
-<p>Mr Tan Chai Hok</p>
+<br>Mdm Goh Min Min Linda
+<br>Mr Tan Chai Hok</p>
 </td>
 </tr>
 <tr>
@@ -885,8 +885,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Loh - Wee May Joan Frances
-<br>Mr Mohamed Sha'ban B Mohd Rapiai</p>
-<p>Miss Wang Yuhui</p>
+<br>Mr Mohamed Sha'ban B Mohd Rapiai
+<br>Miss Wang Yuhui</p>
 </td>
 </tr>
 <tr>

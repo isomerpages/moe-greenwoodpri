@@ -99,6 +99,7 @@ platforms for them to display their artworks at three different levels:
 the classroom, the school, and the community. This initiative helps students
 understand how artworks can serve as vessels for their expressions and
 beliefs.&nbsp;</p>
+![](/images/Picture3.jpg)
 <p>&nbsp;</p>
 <p><strong>Museum Based Learning Journey &amp; Assembly Programme</strong>&nbsp;
 <br>The Museum Based Learning (MBL) Journey extends students’ appreciation

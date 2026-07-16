@@ -72,8 +72,8 @@ for students to express themselves creatively through the arts, fostering
 a sense of pride and confidence.&nbsp;</p>
 <p>&nbsp;</p>
 ![](/images/Picture1.jpg)
-<p>Performances: P2 Violin Programme, P3 Angklung &amp; Kulintang Programme,
-SYF Youth Station (Original Songs), Musical talents from all levels.&nbsp;</p>
+<br>Performances: P2 Violin Programme, P3 Angklung &amp; Kulintang Programme,
+SYF Youth Station (Original Songs), Musical talents from all levels.&nbsp;<p></p>
 <p>&nbsp;</p>
 <p><strong>Aesthetics Fest</strong>&nbsp;
 <br>The Aesthetics Fest is designed to enhance cultural appreciation among
@@ -90,6 +90,7 @@ dances.&nbsp;</p>
 <p>P2 Jazz&nbsp;</p>
 <p>P3 Ethnic Fusion&nbsp;</p>
 <p>P4 Hip Hop&nbsp;</p>
+![](/images/Picture2.jpg)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong> Art Trail &amp; Exhibition</strong>&nbsp;

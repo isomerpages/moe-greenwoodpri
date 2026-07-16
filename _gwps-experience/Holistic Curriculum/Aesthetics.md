@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
+<center>
 <h2><strong>Vision</strong>&nbsp;</h2>
 <p>Every child has talents in ARTS&nbsp;</p>
 <h2><strong>Mission</strong>&nbsp;</h2>
@@ -14,6 +15,7 @@ ARTS Environment &nbsp;</p>
 <p>Exposure – Experience - Excursion&nbsp;</p>
 <p><strong>3 Focus Areas</strong>&nbsp;</p>
 <p>Appreciate - Acquire – Articulate&nbsp;</p>
+</center>
 <p><strong>A Continuous and Progressive Art and Music Curriculum</strong>&nbsp;
 <br>Greenwood Primary School has designed a rich art and music curriculum
 to support the holistic development of every student. Our curriculum is
@@ -69,6 +71,7 @@ their talents and appreciate the talents of others. It is an opportunity
 for students to express themselves creatively through the arts, fostering
 a sense of pride and confidence.&nbsp;</p>
 <p>&nbsp;</p>
+![](/images/Picture1.jpg)
 <p>Performances: P2 Violin Programme, P3 Angklung &amp; Kulintang Programme,
 SYF Youth Station (Original Songs), Musical talents from all levels.&nbsp;</p>
 <p>&nbsp;</p>

@@ -6,8 +6,9 @@ description: ""
 ---
 <h3><strong>Nurturing Young Learners@ Greenwood Primary School</strong></h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_07_17_150717.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_1.png">
 </div>
 <p><strong>A Warm Welcome from Day One</strong>
 </p>
@@ -24,4 +25,9 @@ of the way.</p>
 <p>At the end of Term 1, we celebrate every child's growth through <strong>Celebrating My Milestones</strong> —
 because we believe in recognising effort, resilience and progress, not
 just grades.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_2.png">
+</div>
 <p></p>

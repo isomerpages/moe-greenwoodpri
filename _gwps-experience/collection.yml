@@ -2,7 +2,6 @@ collections:
   gwps-experience:
     output: true
     order:
-      - Our Lower Primary Journey.md
       - School Highlights.md
       - Holistic Curriculum/.keep
       - Holistic Curriculum/English Language.md
@@ -21,6 +20,7 @@ collections:
       - SOAR.md
       - Student Leadership.md
       - Green in the Woods.md
+      - Our Lower Primary Journey.md
       - Project DELIGHT.md
       - Student Management.md
       - UPLIFT.md

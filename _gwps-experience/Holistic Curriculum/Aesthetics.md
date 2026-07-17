@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Holistic Curriculum
 variant: markdown
 ---
-<h3><strong>Vision</strong>&nbsp;</h3>
+<center><h3><strong>Vision</strong>&nbsp;</h3>
 <p>Every child has talents in ARTS&nbsp;</p>
 <h3><strong>Mission</strong>&nbsp;</h3>
 <p>LOVE – Learn and explore ARTS through Opportunities provided in a Vibrant
@@ -14,6 +14,7 @@ ARTS Environment &nbsp;</p>
 <p>Exposure – Experience - Excursion&nbsp;</p>
 <h3><strong>3 Focus Areas</strong>&nbsp;</h3>
 <p>Appreciate - Acquire – Articulate&nbsp;</p>
+</center>
 <p><strong>A Continuous and Progressive Art and Music Curriculum</strong>&nbsp;
 <br>Greenwood Primary School has designed a rich art and music curriculum
 to support the holistic development of every student. Our curriculum is
@@ -63,8 +64,10 @@ a sense of pride and confidence.&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
+<center>
 <p>Performances: P2 Violin Programme, P3 Angklung &amp; Kulintang Programme,
 SYF Youth Station (Original Songs), Musical talents from all levels.&nbsp;</p>
+</center>
 <p><strong>Aesthetics Fest</strong>&nbsp;
 <br>The Aesthetics Fest is designed to enhance cultural appreciation among
 students, helping them understand and experience the diversity of cultural
@@ -75,11 +78,13 @@ for the rich tapestry of global cultures and artistic traditions by encouraging
 artistic exploration through a curated programme of visual art, music and
 dances.&nbsp;</p>
 <p></p>
+<center>
 <p><strong>Dance Workshops&nbsp;</strong>&nbsp;
 <br>P1 Creative Movement&nbsp;
 <br>P2 Jazz&nbsp;
 <br>P3 Ethnic Fusion&nbsp;
 <br>P4 Hip Hop&nbsp;</p>
+</center>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>

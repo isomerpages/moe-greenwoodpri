@@ -133,3 +133,7 @@ and social skills.&nbsp;
 </div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width:25%;float:right" height="auto" width="100%" src="/images/Small%20logo/gwps%20children%20(4).png">
+</div>
+<p></p>

@@ -65,8 +65,6 @@ a sense of pride and confidence.&nbsp;
 </div>
 <p>Performances: P2 Violin Programme, P3 Angklung &amp; Kulintang Programme,
 SYF Youth Station (Original Songs), Musical talents from all levels.&nbsp;</p>
-<p></p>
-<p></p>
 <p><strong>Aesthetics Fest</strong>&nbsp;
 <br>The Aesthetics Fest is designed to enhance cultural appreciation among
 students, helping them understand and experience the diversity of cultural
@@ -77,8 +75,8 @@ for the rich tapestry of global cultures and artistic traditions by encouraging
 artistic exploration through a curated programme of visual art, music and
 dances.&nbsp;</p>
 <p></p>
-<p><strong>Dance Workshops&nbsp;</strong>&nbsp;</p>
-<p>P1 Creative Movement&nbsp;
+<p><strong>Dance Workshops&nbsp;</strong>&nbsp;
+<br>P1 Creative Movement&nbsp;
 <br>P2 Jazz&nbsp;
 <br>P3 Ethnic Fusion&nbsp;
 <br>P4 Hip Hop&nbsp;</p>

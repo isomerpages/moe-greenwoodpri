@@ -6,14 +6,14 @@ third_nav_title: Holistic Curriculum
 variant: markdown
 ---
 <center><h3><strong>Vision</strong>&nbsp;</h3>
-<p>Every child has talents in ARTS&nbsp;</p>
+Every child has talents in ARTS&nbsp;
 <h3><strong>Mission</strong>&nbsp;</h3>
-<p>LOVE – Learn and explore ARTS through Opportunities provided in a Vibrant
-ARTS Environment &nbsp;</p>
+LOVE – Learn and explore ARTS through Opportunities provided in a Vibrant
+ARTS Environment &nbsp;
 <h3><strong>Approach</strong>&nbsp;</h3>
-<p>Exposure – Experience - Excursion&nbsp;</p>
+Exposure – Experience - Excursion&nbsp;
 <h3><strong>3 Focus Areas</strong>&nbsp;</h3>
-<p>Appreciate - Acquire – Articulate&nbsp;</p>
+Appreciate - Acquire – Articulate&nbsp;
 </center>
 <p><strong>A Continuous and Progressive Art and Music Curriculum</strong>&nbsp;
 <br>Greenwood Primary School has designed a rich art and music curriculum
@@ -54,8 +54,8 @@ incorporating:&nbsp;</p>
 events, integrating a real-world context into the learning process.&nbsp;</p>
 <p><strong>Key Programmes</strong>&nbsp;</p>
 <p>&nbsp;
-<br><strong>Aesthetics Week - Shining Stars</strong>&nbsp;</p>
-<p>The Shining Stars programme provides students with a platform to showcase
+<br></p><p><strong>Aesthetics Week - Shining Stars</strong>
+<br>The Shining Stars programme provides students with a platform to showcase
 their talents and appreciate the talents of others. It is an opportunity
 for students to express themselves creatively through the arts, fostering
 a sense of pride and confidence.&nbsp;

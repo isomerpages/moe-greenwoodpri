@@ -52,7 +52,7 @@ incorporating:&nbsp;</p>
 </ul>
 <p>Units are thoughtfully linked with major national celebrations and school
 events, integrating a real-world context into the learning process.&nbsp;</p>
-<p><strong>Key Programmes</strong>&nbsp;</p>
+<center><p><strong></strong></p><h3><strong>Key Programmes</strong></h3>&nbsp;<p></p></center>
 <p>&nbsp;
 <br></p><p><strong>Aesthetics Week - Shining Stars</strong>
 <br>The Shining Stars programme provides students with a platform to showcase

@@ -25,10 +25,8 @@ of the way.</p>
 <p>At the end of Term 1, we celebrate every child's growth through <strong>Celebrating My Milestones</strong> —
 because we believe in recognising effort, resilience and progress, not
 just grades.</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_2b.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_3b.png">
@@ -60,6 +58,6 @@ journeys and adventures.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_8b.png">
 </div>
 <p></p>

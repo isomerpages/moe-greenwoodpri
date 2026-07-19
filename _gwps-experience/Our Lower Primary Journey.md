@@ -42,22 +42,12 @@ just grades.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_6.png">
 </div>
-<p><strong>Wonder in the Woods</strong>
-</p>
-<p>Our lower primary library is designed with the 6 to 9 year old in mind,
-featuring three purposeful spaces — a Reading Space with age-appropriate
-books across genres, a Collaborative Space for interdisciplinary activities
-and Maker Space projects during recess, and a Self-expression Space with
-a stage for storytelling, Show-and-Tell and dramatisation.</p>
-<p>Beyond serving as a space for exploration and the quenching of curiosity,
-the library also stands as a haven for contemplation. It provides visitors
-with an opportunity to pause, reflect, and glean insights from their exploratory
-journeys and adventures.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_7c.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_07_19_203616.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_8b.png">
 </div>
+<p></p>
 <p></p>

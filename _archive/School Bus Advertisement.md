@@ -2,6 +2,7 @@
 title: School Bus Advertisement
 permalink: /useful-links/bus-advert/
 description: ""
+variant: markdown
 ---
 <font size="6" color="blue"> School Bus Advertisement </font>
 

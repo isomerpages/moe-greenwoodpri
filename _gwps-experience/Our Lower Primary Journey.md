@@ -38,10 +38,10 @@ just grades.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_5.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OLPJ_6b.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_07_19_203616.png">
 </div>

@@ -28,7 +28,7 @@ collaboration between parents and the school community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal Admin</strong>
+<p><strong>Vice Principal</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">

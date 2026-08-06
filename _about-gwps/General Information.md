@@ -130,8 +130,8 @@ Woodlands Drive 62.</p>
 <h5>School Uniform - Chop Kong Chong</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sales through School Bookshop or directly from the vendor online at
-<a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/gwps/" rel="noopener noreferrer nofollow" target="_blank">this link</a>or the address below:
+<p>Sales through School Bookshop or directly from the vendor online at this
+<a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/gwps/" rel="noopener noreferrer nofollow" target="_blank">link</a>or the address below:
 <br><strong>604 Sembawang Rd, #02-13, Sembawang Shopping Centre, <br>Singapore 758459 <br>Tel: 67531489</strong>
 </p>
 </td>

@@ -138,6 +138,14 @@ Woodlands Drive 62.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<h5>School Name tags</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p>You can purchase the name tags at this <a href="Morning Zam, can you include one more line: You can purchase the name tags through this link: https://www.euniforms.com.sg/nametag/product/name-tags-greenwood-primary-school-set-of-6/" rel="noopener nofollow" target="_blank">link</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <h5>Bookshop - Pacific Bookstores</h5>
 </td>
 <td rowspan="1" colspan="1">

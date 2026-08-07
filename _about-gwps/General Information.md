@@ -130,10 +130,18 @@ Woodlands Drive 62.</p>
 <h5>School Uniform - Chop Kong Chong</h5>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sales through School Bookshop or directly from the vendor online at
-<a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/gwps/" rel="noopener noreferrer nofollow" target="_blank">this link</a>or the address below:
+<p>Sales through School Bookshop or directly from the vendor online at this
+<a href="https://www.euniforms.com.sg/shop/product-category/primary-schools/gwps/" rel="noopener noreferrer nofollow" target="_blank">link</a>or the address below:
 <br><strong>604 Sembawang Rd, #02-13, Sembawang Shopping Centre, <br>Singapore 758459 <br>Tel: 67531489</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5>School Name tags</h5>
+</td>
+<td rowspan="1" colspan="1">
+<p>You can purchase the name tags at this <a href="Morning Zam, can you include one more line: You can purchase the name tags through this link: https://www.euniforms.com.sg/nametag/product/name-tags-greenwood-primary-school-set-of-6/" rel="noopener nofollow" target="_blank">link</a>.</p>
 </td>
 </tr>
 <tr>

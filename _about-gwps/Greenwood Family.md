@@ -278,10 +278,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Subject Head (Chinese Language) - Covering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Bak Ing Shien</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Manager</p>

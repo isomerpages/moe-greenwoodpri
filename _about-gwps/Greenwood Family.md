@@ -566,11 +566,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher
-<br>(English Language)</p>
+<p>Senior Teacher
+<br>(Malay Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Chai Hok</p>
+<p>Mdm Najiyyah Bte Mohamed Said</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher (Special Education Needs)</p>
@@ -581,11 +581,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher
-<br>(Malay Language)</p>
+<p>Lead Teacher
+<br>(English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Najiyyah Bte Mohamed Said</p>
+<p>Mr Tan Chai Hok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher
@@ -779,8 +779,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Serene Poh
-<br>Mr Shahril Bin Mohamed Jalani
-<br>Miss Alicia Tan Kai Yun</p>
+<br>Mr Shahril Bin Mohamed Jalani</p>
 </td>
 </tr>
 <tr>
@@ -797,8 +796,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Alfiyan Bin Harith
 <br>Mdm Chu Yee Leen
-<br>Mdm Mu Xue
-<br>Mr Escano Elijah Paul Obusan</p>
+<br>Mdm Mu Xue</p>
 </td>
 </tr>
 <tr>
@@ -868,8 +866,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Nooryanti Bte Mohamed Mohideen
 <br>Ms Lee Sok Ee
-<br>Mdm Goh Min Min Linda
-<br>Mr Tan Chai Hok</p>
+<br>Mdm Goh Min Min Linda</p>
 </td>
 </tr>
 <tr>
